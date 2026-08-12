@@ -30,10 +30,10 @@ A set of living build guides for two players (a husband and his wife) in The Eld
 
 ### Wife
 - CP ~1250
-- **One-bar builds only.** This is a hard constraint, not a preference to optimize away.
+- **One-bar builds only.** This is a hard constraint, not a preference to optimize away. *One sanctioned exception exists:* a deliberately-simple two-bar Bow Warden (bow front / ice staff back), added by explicit request 2026-08-12 — see `one-bar-builds/warden-bow-two-bar.md`. It's the only two-bar build for her; don't generalize it to her other sheets, and don't "correct" it back to one-bar.
 - **Does not scribe.** Never put a scribed grimoire (Wield Soul, Ulfsild's Contingency, Banner Bearer) in her bars without a non-scribed alternative called out inline.
 - **Likes pets and staves.** Her Sorcerer is the pet/heavy-attack build for this reason.
-- Characters: pure-class Dragonknight (converted from subclassed → pure for Class Mastery), pet Sorcerer, Arcanist
+- Characters: pure-class Dragonknight (converted from subclassed → pure for Class Mastery), pet Sorcerer, Arcanist, and a two-bar Bow Warden (the sanctioned exception above)
 - Her builds are a **separate design problem** from the husband's. Don't copy his CP pages to her sheets — notably, he runs Soul of Flame so sustain CP stars are wasted on him, while she has no sustain skill and genuinely needs them.
 
 ## Document conventions
