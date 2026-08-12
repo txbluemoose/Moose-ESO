@@ -46,6 +46,7 @@ Follow these when editing or adding guides.
 4. **Skill line passives get their own section** above CP. Rule of thumb stated in each: buy every passive in every line you have a skill slotted from.
 5. **Flag confidence.** If something wasn't verified against a current source, say so in the text. Guides carry a source line at the bottom with the revision date.
 6. Cheat sheets (wife) are shorter and more prescriptive than guides (husband). Guides include fallback ladders and situational swaps; cheat sheets give one answer.
+7. **Adding a page = update the home page too.** Every new guide must be linked from `docs/index.md` (the landing page) *and* the `mkdocs.yml` nav. CI enforces the home-page link (`scripts/check_index_links.py`) — the build fails if any docs page isn't on the home page, so it can't silently go stale.
 
 ## Verification rules
 
