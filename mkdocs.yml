@@ -33,10 +33,22 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - abbr
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path:
+        - .
+      auto_append:
+        - includes/abbreviations.md
   - toc:
       permalink: true
+
+extra_css:
+  - assets/extra.css
+
+extra_javascript:
+  - assets/responsive-tables.js
 
 nav:
   - Home: index.md
@@ -52,3 +64,4 @@ nav:
   - Notes:
       - Farming: notes/farming.md
       - Patch Watch: notes/patch-watch.md
+  - Glossary: glossary.md
