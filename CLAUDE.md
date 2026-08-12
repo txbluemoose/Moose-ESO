@@ -80,10 +80,10 @@ These were all gotten wrong in the original session. They are the highest-value 
 ## Open items
 
 - [ ] The husband's DK stamina issue unresolved — awaiting his stamina recovery stat and whether he's weaving
-- [ ] Wife's DK sheet: add Pyrebrand to the upgrade path (Infinite Archive drops it, and it's a DK class set so it's as good on her as on him; IA is two-player so they can farm together)
+- [x] Wife's DK sheet: Pyrebrand added to the upgrade path (verified vs ESO-Hub/ArzyeL, U50) — done 2026-08-12
 - [ ] PvP sections in all three of the husband's guides are **directional, not verified** — written from general knowledge with a pointer to Alcast. Rewrite against current Alcast/ArzyeL U50 lists when it matters.
 - [ ] Warden and Sorc trials sections deliberately point to live group builds rather than guessing rotations
-- [ ] Arcanist cheat sheet predates Class Mastery — the two Arcanist mastery picks need verifying
+- [x] Arcanist Class Mastery picks locked in — Unbound Potential + Erudite's Rigor (verified vs ESO-Hub/Alcast, U50) — done 2026-08-12
 - [ ] Possible future guides: Nightblade, Templar, Necromancer (one full + one cheat sheet per session is the sustainable pace)
 - [ ] Considered and rejected: a thieving-optimized loadout doc (Night's Silence + Legerdemain passives + green CP). Revisit if he asks.
 

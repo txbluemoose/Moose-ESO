@@ -36,20 +36,20 @@
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy** — Light for the magicka damage passives, one Medium and one Heavy to trigger all three tiers of **Undaunted Mettle** (max stats per weight worn).
 
-| Slot | Weight | Set | Source |
-|---|---|---|---|
-| Head | Medium | Slimecraw | vet Wayrest Sewers I |
-| Shoulders | Light | Noble Duelist's Silks | Blessed Crucible |
-| Chest | Heavy | Sergeant's Mail | Wayrest Sewers |
-| Hands | Light | Noble Duelist's Silks | |
-| Belt | Light | Noble Duelist's Silks | |
-| Legs | Light | Noble Duelist's Silks | |
-| Boots | Light | Noble Duelist's Silks | |
-| Necklace + Ring 1 | — | Sergeant's Mail | Wayrest Sewers |
-| Ring 2 | — | **Oakensoul Ring** (mythic) | Antiquities (High Isle leads) |
-| Lightning Staff | — | Sergeant's Mail — Precise, **Shock enchant** | Wayrest Sewers |
+| Slot | Weight | Trait | Enchant | Set | Source |
+|---|---|---|---|---|---|
+| Head | Medium | Divines | Magicka | Slimecraw | vet Wayrest Sewers I |
+| Shoulders | Light | Divines | Magicka | Noble Duelist's Silks | Blessed Crucible |
+| Chest | Heavy | Divines | Magicka | Sergeant's Mail | Wayrest Sewers |
+| Hands | Light | Divines | Magicka | Noble Duelist's Silks | |
+| Belt | Light | Divines | Magicka | Noble Duelist's Silks | |
+| Legs | Light | Divines | Magicka | Noble Duelist's Silks | |
+| Boots | Light | Divines | Magicka | Noble Duelist's Silks | |
+| Necklace + Ring 1 | — | Bloodthirsty | Spell Damage | Sergeant's Mail | Wayrest Sewers |
+| Ring 2 | — | — (mythic) | — | **Oakensoul Ring** | Antiquities (High Isle leads) |
+| Lightning Staff | — | Precise | Shock | Sergeant's Mail | Wayrest Sewers |
 
-*Traits: Divines armor (Training while leveling), Bloodthirsty jewelry, Magicka glyphs.*
+*Use Training traits while leveling, then Divines. Oakensoul is a mythic — no trait/enchant. In-game tooltips override — confirm on your bar.*
 
 Oakensoul grants a pile of major buffs permanently in exchange for locking her to one bar — which she wasn't using anyway. It's THE one-bar mythic.
 
