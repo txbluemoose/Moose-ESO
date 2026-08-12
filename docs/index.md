@@ -1,0 +1,34 @@
+# ESO Build Guides
+
+Living build guides for two playstyles in **The Elder Scrolls Online** — currently **Update 50**.
+
+Two ways to play, two sets of guides:
+
+- **Full builds** — complete two-bar guides with fallback gear ladders, situational swaps, and CP roadmaps to 1800.
+- **One-bar builds** — prescriptive cheat sheets: one bar, five buttons, one answer.
+
+## The one rule
+
+> **"Kick ass and not die."** Survivability is weighted above raw DPS in every build here — layered healing, Ring of the Pale Order, morphs that heal. A 2–5% parse difference is noise.
+
+## Full builds
+
+- [Magicka Dragonknight](full-builds/magicka-dragonknight.md) — the main
+- [Stamina Warden](full-builds/stamina-warden.md) — bow-viable
+- [Magicka Sorcerer](full-builds/magicka-sorcerer.md) — staff-viable
+
+## One-bar builds
+
+- [Dragonknight](one-bar-builds/one-bar-dragonknight.md) — breathe fire, don't die
+- [Pet Sorcerer](one-bar-builds/one-bar-sorcerer.md) — lightning staff + pets + heavy attacks
+- [Arcanist](one-bar-builds/one-bar-arcanist.md) — beam everything
+
+## Reference
+
+- [Companions](shared/companions.md) — all eight, verified bars and gear
+- [Farming](notes/farming.md) — gathering, chests, troves, surveys
+- [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands
+
+---
+
+*In-game tooltips override every guide here. Skill names are current as of Update 50.*

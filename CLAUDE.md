@@ -52,7 +52,7 @@ Follow these when editing or adding guides.
 **Do not write skill names from memory.** The U49/U50 Dragonknight rework renamed and relocated a large number of abilities, and pre-rework names are still all over the web. Verify against a current source or have the player check in-game.
 
 **Trusted sources, by use:**
-- **Hyperioxes** (hyperioxes.com) — solo PvE. Builds are tested by actually soloing vet hard-mode dungeons and include sim comparisons for gear/skill alternatives. Primary source for everything in `husband/` and `wife/`.
+- **Hyperioxes** (hyperioxes.com) — solo PvE. Builds are tested by actually soloing vet hard-mode dungeons and include sim comparisons for gear/skill alternatives. Primary source for everything in `docs/full-builds/` and `docs/one-bar-builds/`.
 - **ArzyeL** (arzyelbuilds.com) — companions (verified June 2026) and PvP.
 - **Alcast** (alcasthq.com) — PvP and set/skill lookup. Broader but shallower per build.
 - **UESP / ESO Hub** — glyph, set, and item mechanics.
