@@ -118,7 +118,7 @@ Craft and wear **Telvanni Efficiency** (5-piece crafted set) — **you** wear it
 
 | What you're doing | Companion | Why |
 |---|---|---|
-| Jason's DK / Warden / Sorc solo hard content | **Isobel (Tank)** | best aggro holder in the game; Penetrating Strikes buffs your weaving |
+| Husband's DK / Warden / Sorc solo hard content | **Isobel (Tank)** | best aggro holder in the game; Penetrating Strikes buffs your weaving |
 | Solo content where you want Major Breach free | **Zerith-Var (Tank)** | Sepulchral Chill = free penetration, frees a bar slot |
 | Infinite Archive | **Azandar (Tank)** | Major + Minor Vulnerability = everything dies faster |
 | Chest / trove / survey farming | **Azandar** | Inquisitiveness finds extra maps, surveys, recipes |

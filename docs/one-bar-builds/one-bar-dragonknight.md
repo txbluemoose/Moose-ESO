@@ -40,7 +40,7 @@
 
 ## Gear
 
-### Starter Setup — 100% craftable/buyable (Jason can make all of this)
+### Starter Setup — 100% craftable/buyable (her husband can make all of this)
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy.** Light gives the magicka damage passives (Concentration = penetration, Prodigy = crit); the single Medium and Heavy exist to trigger **Undaunted Mettle**, which gives max health/magicka/stamina for each weight worn. All three weights beats an extra light piece.
 
@@ -170,7 +170,7 @@ Never slot a star that duplicates what the build already does. Her skills heal h
 ---
 
 ## Duo Notes
-- Her Engulfing channel loves a distraction — Jason's build naturally draws aggro with higher damage, so she can channel freely
+- Her Engulfing channel loves a distraction — her husband's build naturally draws aggro with higher damage, so she can channel freely
 - Both builds drop Standard of Might zones in group fights = stacked damage reduction; don't overlap them, chain them
 - If she wants MORE survivability later: Pale Order ring + Burning Embers swap = her own unkillable mode
 
@@ -186,6 +186,6 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Alternative — Sharp-as-Night, built Healer:** all **Light / Soothing**, Quickened jewelry + healing staff. Bar: Petals of the Hunter → Mystic Fortress → Fungal Forage → Rejuvenation → Snow Squall, Ult Gore. Best healer companion in the game, plus Minor Vulnerability from Infest.
 
-**Duo tip:** if Jason is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
+**Duo tip:** if her husband is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
 
 Full details for all eight companions: see `shared/companions.md`.

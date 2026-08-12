@@ -33,7 +33,7 @@ Pure class on U50 = pick 2 Class Mastery passives. This build predates the syste
 
 ## Gear
 
-### Crafted starter (all craftable — Jason's crafting station covers it)
+### Crafted starter (all craftable — her husband's crafting station covers it)
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina damage passives (Dexterity, Agility), one Light and one Heavy to trigger all three tiers of **Undaunted Mettle**.
 
@@ -155,6 +155,6 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Alternative — Sharp-as-Night, built Healer:** all **Light / Soothing**, Quickened jewelry + healing staff. Bar: Petals of the Hunter → Mystic Fortress → Fungal Forage → Rejuvenation → Snow Squall, Ult Gore. Best healer companion in the game, plus Minor Vulnerability from Infest.
 
-**Duo tip:** if Jason is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
+**Duo tip:** if her husband is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
 
 Full details for all eight companions: see `shared/companions.md`.
