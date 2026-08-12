@@ -1,0 +1,22 @@
+/* On narrower screens (tablet portrait, split view, phones), tighten table
+   cell padding and trim the font a touch so wide tables — the gear tables —
+   fit with little or no sideways scroll. The grid stays intact; wide desktop
+   is unchanged. If a table is still too wide it simply scrolls, as before. */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset table:not([class]) {
+    font-size: 0.62rem;
+    line-height: 1.35;
+  }
+  .md-typeset table:not([class]) th,
+  .md-typeset table:not([class]) td {
+    padding: 0.4em 0.55em;
+  }
+}
+
+/* Phones: shave a little more horizontal padding. */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset table:not([class]) th,
+  .md-typeset table:not([class]) td {
+    padding: 0.35em 0.4em;
+  }
+}

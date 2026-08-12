@@ -44,6 +44,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_css:
+  - assets/extra.css
+
 nav:
   - Home: index.md
   - Full Builds:
