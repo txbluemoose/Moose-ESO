@@ -81,7 +81,7 @@ These were all gotten wrong in the original session. They are the highest-value 
 
 - [ ] The husband's DK stamina issue unresolved — awaiting his stamina recovery stat and whether he's weaving
 - [x] Wife's DK sheet: Pyrebrand added to the upgrade path (verified vs ESO-Hub/ArzyeL, U50) — done 2026-08-12
-- [ ] PvP sections in all three of the husband's guides are **directional, not verified** — written from general knowledge with a pointer to Alcast. Rewrite against current Alcast/ArzyeL U50 lists when it matters.
+- [x] PvP sections in all three full-build guides rewritten and verified against Alcast U50 builds (Mag DK "Blaze", Stam Warden "Assault", Mag Sorc PvP) — done 2026-08-12. Note: they still carry a "metas rotate seasonally" caveat, which is correct, not a hedge.
 - [ ] Warden and Sorc trials sections deliberately point to live group builds rather than guessing rotations
 - [x] Arcanist Class Mastery picks locked in — Unbound Potential + Erudite's Rigor (verified vs ESO-Hub/Alcast, U50) — done 2026-08-12
 - [ ] Possible future guides: Nightblade, Templar, Necromancer (one full + one cheat sheet per session is the sustainable pace)

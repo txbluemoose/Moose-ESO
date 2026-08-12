@@ -63,21 +63,21 @@
 
 **Armor weight: 6 Medium / 1 Light** overland — Medium's Dexterity and Agility passives are the stamina build's damage core. **Instanced: 4 Medium / 3 Light**, trading some of that for Light Armor's Concentration penetration.
 
-| Slot | Weight | Set | Notes |
-|---|---|---|---|
-| Head | Medium | Slimecraw (Divines, Stamina) | or Iceheart / Zaan / Grundwulf / Stone Husk / The Blind (same 1pc bonus) |
-| Shoulders | Medium | Sul-Xan's Torment | |
-| Chest | Medium | Aerie's Cry | Warden class set — Infinite Archive |
-| Hands | Medium | Aerie's Cry | |
-| Belt | **Light** | Aerie's Cry | the one light piece overland |
-| Legs | Medium | Aerie's Cry | |
-| Boots | Medium | Aerie's Cry | |
-| Necklace + Ring 1 | — | Sul-Xan's Torment (Bloodthirsty, Physical Harm) | Rockgrove |
-| Ring 2 | — | **Ring of the Pale Order** | the unkillable button |
-| Front bar | — | Sul-Xan daggers (Charged; Poison + Shock enchants) — or Sul-Xan **Bow** | your call |
-| Back bar | — | Crushing Wall Ice Staff (Infused, Weapon Dmg enchant) | vMA |
+| Slot | Weight | Trait | Enchant | Set | Notes |
+|---|---|---|---|---|---|
+| Head | Medium | Divines | Stamina | Slimecraw | or Iceheart / Zaan / Grundwulf / Stone Husk / The Blind (same 1pc bonus) |
+| Shoulders | Medium | Divines | Stamina | Sul-Xan's Torment | |
+| Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive |
+| Hands | Medium | Divines | Stamina | Aerie's Cry | |
+| Belt | **Light** | Divines | Stamina | Aerie's Cry | the one light piece overland |
+| Legs | Medium | Divines | Stamina | Aerie's Cry | |
+| Boots | Medium | Divines | Stamina | Aerie's Cry | |
+| Necklace + Ring 1 | — | Bloodthirsty | Physical Harm | Sul-Xan's Torment | Rockgrove |
+| Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | the unkillable button |
+| Front bar | — | Charged | Poison + Shock | Sul-Xan daggers (or **Bow**) | your call |
+| Back bar | — | Infused | Weapon Damage | Crushing Wall Ice Staff | vMA |
 
-*All armor Divines, Stamina glyphs. For instanced content, shift Hands + Boots (or any two Medium slots) to Light for the 4/3 split.*
+*For instanced content, shift Hands + Boots (or any two Medium slots) to Light for the 4/3 split. In-game tooltips override — confirm on your bar.*
 
 **Note:** no Heavy piece here, so you forgo the third Undaunted Mettle tier — the Medium passives outweigh it on this build. If you'd rather have Mettle's full bonus, swap one Medium piece to Heavy (Reinforced) for a small survivability gain.
 
@@ -102,11 +102,19 @@ Solo build works fine in normal/vet 4-mans as-is. For optimized group DPS:
 
 ---
 
-## 4. PvP — directional
+## 4. PvP (Cyrodiil & Battlegrounds)
 
-Warden PvP staples translate well from this kit: Deep Fissure burst timing, Shimmering Shield (projectile-heavy Cyrodiil is its natural habitat), Bull Netch purge, Arctic Blast as an instant self-heal + stun morph value, Northern Storm as a brawler ult. Polar Wind (Winter's Embrace) becomes your burst heal — max-health scaling, PvP gold. Build direction: heavier armor, ~30k health, impen traits, Health/tri-stat enchants. PvP set metas rotate per patch — check a maintained U50 Warden PvP build (Alcast/ArzyeL) for current sets rather than trusting a static list.
+Warden PvP staples translate well from this kit. Verified against Alcast's U50 **Stamina Warden "Assault"** build; season metas rotate, so confirm current pieces before investing.
+
+**What carries over:** Deep Fissure burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Bull Netch purge, Arctic Blast as an instant self-heal + stun morph, Northern Storm as a brawler ult. **Polar Wind** (Winter's Embrace) becomes your burst heal — max-health scaling, PvP gold.
+
+**Setup:** **Heavy armor**, ~30k health, **Impen** traits, Health/tri-stat enchants — high burst and mobility while staying tanky.
+
+**Sets (Alcast "Assault"):** **Clever Alchemist** + **New Moon Acolyte** — both dump a huge amount of Weapon Damage, which scales your damage *and* your heals — plus **Balorgh** (monster set, ultimate-scaling burst). Note: ArzyeL's current Stam Warden PvP is a *subclassing* build, so it's **not for you** — subclassing disables Class Mastery. Alcast's Assault is the pure-class-compatible reference.
 
 **PvP CP:** Blue — Ironclad + Duelist's Rebuff in for Deadly Aim + Fighting Finesse. Red — Boundless Vitality, Fortified, Bastion (Shimmering Shield + Bastion is a real combo), Pain's Refuge.
+
+*Sources: [Alcast U50 Stam Warden "Assault" PvP build](https://alcasthq.com/eso-stamina-warden-pvp-build/) (+ [ArzyeL Stam Warden PvP](https://arzyelbuilds.com/eso-stamina-warden-pvp-build/), a subclassing variant). Season metas rotate — the live pages and in-game tooltips override.*
 
 ---
 

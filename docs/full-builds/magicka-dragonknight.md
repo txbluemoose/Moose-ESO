@@ -4,7 +4,7 @@
 **Character:** Magicka Dragonknight, pure class (no subclass), Class Mastery active
 **Philosophy:** Kick ass and don't die. Damage that heals you, layered mitigation, sustain trivialized by Soul of Flame.
 
-> **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes solo MagDK build (soloed vet HM Fang Lair / Scalecaller Peak). The Trials section is the same author's group "Breath DK" adapted — verify bars in-game. The PvP section is directional; check Alcast's U50 "Blaze" DK PvP build for a maintained version.
+> **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes solo MagDK build (soloed vet HM Fang Lair / Scalecaller Peak). The Trials section is the same author's group "Breath DK" adapted — verify bars in-game. The PvP section is verified against Alcast's U50 Mag DK "Blaze" build — but PvP set metas rotate every season, so confirm the current pieces in-game before spending gold.
 
 ---
 
@@ -63,21 +63,21 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy.** Light pieces give Concentration (penetration) and Prodigy (crit) — the biggest passive damage gains for a magicka build. The single Medium and single Heavy exist to trigger **Undaunted Mettle**, which grants max health/magicka/stamina for *each* armor weight worn — having all three beats an extra light piece. Survivability variant: 4 Light / 2 Medium / 1 Heavy, Reinforced trait on the heavy piece.
 
-| Slot | Weight | Overland | Instanced (dungeons/arenas) |
-|---|---|---|---|
-| Head | Medium | Slimecraw (Divines, Magicka) | Valkyn Skoria (Divines, Magicka) |
-| Shoulders | Light | Pyrebrand | Pyrebrand |
-| Chest | Heavy | Sul-Xan's Torment | Sul-Xan's Torment |
-| Hands | Light | Pyrebrand | Pyrebrand |
-| Belt | Light | Pyrebrand | Pyrebrand |
-| Legs | Light | Pyrebrand | Pyrebrand |
-| Boots | Light | Pyrebrand | Pyrebrand |
-| Necklace + Ring 1 | — | Sul-Xan's Torment (Bloodthirsty, Magical Harm) | same |
-| Ring 2 | — | **Ring of the Pale Order** | **Ring of the Pale Order** |
-| Front bar | — | Sul-Xan weapon(s) — Charged, Poison enchant | same |
-| Back bar | — | Crushing Wall Inferno Staff (Infused, Weapon Dmg enchant) | Crushing Wall **Ice** Staff |
+| Slot | Weight | Trait | Enchant | Overland | Instanced (dungeons/arenas) |
+|---|---|---|---|---|---|
+| Head | Medium | Divines | Magicka | Slimecraw | Valkyn Skoria |
+| Shoulders | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
+| Chest | Heavy | Divines | Magicka | Sul-Xan's Torment | Sul-Xan's Torment |
+| Hands | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
+| Belt | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
+| Legs | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
+| Boots | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
+| Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment | same |
+| Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | **Ring of the Pale Order** |
+| Front bar | — | Charged | Poison | Sul-Xan weapon(s) | same |
+| Back bar | — | Infused | Weapon Damage | Crushing Wall Inferno Staff | Crushing Wall **Ice** Staff |
 
-*All armor Divines trait, Magicka glyphs. Chest is the natural Heavy slot (biggest armor value from the weight) but any single slot works — put Heavy wherever your set pieces land.*
+*Chest is the natural Heavy slot (biggest armor value from the weight) but any single slot works — put Heavy wherever your set pieces land. In-game tooltips override — confirm on your bar.*
 
 **Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Valkyn Skoria = vet City of Ash II. Crushing Wall = Maelstrom Arena staff.
 
@@ -119,20 +119,23 @@ Rotation concept: keep DoTs and buffs rolling exactly like solo, but your filler
 
 ---
 
-## 3. PvP (Cyrodiil & Battlegrounds) — directional
+## 3. PvP (Cyrodiil & Battlegrounds)
 
-DK came out of the U49/U50 rework strong (community consensus: among the best PvP classes right now). Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
+DK came out of the U49/U50 rework strong — community consensus puts it among the best PvP classes right now. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health. Verified against Alcast's U50 **Mag DK "Blaze"** build; PvP set metas rotate every season, so confirm current pieces on the live page before spending gold.
 
 **What carries over:** Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve.
 
 **What changes:**
-- **Green Dragon Blood** (Draconic) becomes your burst heal — the U50 morph heals off max health per tick, which is exactly what a PvP DK wants
-- **Petrify** (Earthen Heart) got reworked into a snare-then-stun — your setup CC before a whip combo
+- **Green Dragon Blood** (Draconic) becomes your burst heal — the U50 morph heals off max health per tick, exactly what a PvP DK wants
+- **Petrify** (Earthen Heart) got reworked into a snare-then-stun — set up CC before a whip combo
 - **Protect the Brood / Fleetstep Wings** — projectile eating and snare removal, both PvP gold
-- Heavy armor or 5-1-1, ~30k+ health, Health/tri-stat enchants, impen trait on armor
-- Sets: PvP set meta shifts every patch — build around a proc-or-stat damage set + a survival set (Rallying Cry-style) + a 1pc/mythic. Check Alcast's **"Blaze"** U50 DK PvP build (alcasthq.com) for the current best-in-slot list rather than trusting a static guide.
+- Heavier armor or 5-1-1, ~30k+ health, **Impen** trait on all armor, Health/tri-stat enchants
 
-**PvP CP slottables:** Blue — Deadly Aim OUT, take Ironclad + Duelist's Rebuff (or Untamed Aggression) alongside Master-at-Arms/Wrathful Strikes. Red — Boundless Vitality, Fortified, Pain's Refuge, Bastion.
+**Sets (Alcast "Blaze" U50 framework):** a **damage set on the front bar** (your **Deadly Strike** is a legitimate stat option you already own) + **Rallying Cry** on the back bar (huge Weapon/Spell Damage + the PvP survival staple) + a **monster set** (**Balorgh** for ultimate-scaling burst, **Magma Incarnate** for sustain) + a **survival mythic** — **Gaze of Sithis** for a max-tank light-armor / no-block setup, or **Torc of Tonal Constancy** for no-proc sustain campaigns.
+
+**PvP CP slottables:** Blue — Deadly Aim OUT; take Ironclad + Duelist's Rebuff (or Untamed Aggression) alongside Master-at-Arms / Wrathful Strikes. Red — Boundless Vitality, Fortified, Pain's Refuge, Bastion.
+
+*Source: [Alcast U50 Mag DK "Blaze" PvP build](https://alcasthq.com/eso-magicka-dragonknight-burst-build-pvp/). Season metas rotate — the live page and in-game tooltips override.*
 
 ---
 
@@ -185,7 +188,7 @@ Order doesn't matter for combat. Priority: **Steed's Blessing** (slot always) �
 
 ---
 
-*Sources: Hyperioxes U50 Magicka Dragonknight Solo Build (verified June 2026), Hyperioxes Breath DK DPS Build, U49/U50 official patch note summaries. PvP section directional — cross-check Alcast Blaze U50. Skill names current as of Update 50; ZOS renames things every class refresh, so trust your in-game tooltips over any guide.*
+*Sources: Hyperioxes U50 Magicka Dragonknight Solo Build (verified June 2026), Hyperioxes Breath DK DPS Build, U49/U50 official patch note summaries. PvP section verified vs Alcast Mag DK "Blaze" U50 (set metas rotate seasonally — confirm current pieces). Skill names current as of Update 50; ZOS renames things every class refresh, so trust your in-game tooltips over any guide.*
 
 ---
 

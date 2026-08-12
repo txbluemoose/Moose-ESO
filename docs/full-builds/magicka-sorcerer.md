@@ -53,21 +53,21 @@
 
 **Armor weight: 4 Light / 3 Medium** overland — the Medium pieces add crit and stamina recovery (useful since blocking/rolling drains stamina on a magicka build). **Instanced: 6 Light / 1 Medium**, maximizing Concentration penetration once a group or better play reduces your defensive needs.
 
-| Slot | Weight | Set | Notes |
-|---|---|---|---|
-| Head | Medium | Slimecraw (Divines, Magicka) | you own it — Valkyn Skoria (Light) replaces it instanced |
-| Shoulders | Light | Beacon of Oblivion | Sorc class set — Infinite Archive |
-| Chest | Medium | Sul-Xan's Torment | Rockgrove |
-| Hands | Light | Beacon of Oblivion | |
-| Belt | Light | Beacon of Oblivion | |
-| Legs | Medium | Beacon of Oblivion | |
-| Boots | Light | Beacon of Oblivion | |
-| Necklace + Ring 1 | — | Sul-Xan's Torment (Bloodthirsty, Magical Harm) | |
-| Ring 2 | — | **Ring of the Pale Order** | |
-| Front bar | — | Sul-Xan daggers (Charged; Poison + Flame enchants) — or Lightning Staff | |
-| Back bar | — | Crushing Wall Lightning Staff (Infused, Weapon Dmg) | vMA |
+| Slot | Weight | Trait | Enchant | Set | Notes |
+|---|---|---|---|---|---|
+| Head | Medium | Divines | Magicka | Slimecraw | you own it — Valkyn Skoria (Light) replaces it instanced |
+| Shoulders | Light | Divines | Magicka | Beacon of Oblivion | Sorc class set — Infinite Archive |
+| Chest | Medium | Divines | Magicka | Sul-Xan's Torment | Rockgrove |
+| Hands | Light | Divines | Magicka | Beacon of Oblivion | |
+| Belt | Light | Divines | Magicka | Beacon of Oblivion | |
+| Legs | Medium | Divines | Magicka | Beacon of Oblivion | |
+| Boots | Light | Divines | Magicka | Beacon of Oblivion | |
+| Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment | |
+| Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | |
+| Front bar | — | Charged | Poison + Flame | Sul-Xan daggers (or Lightning Staff) | |
+| Back bar | — | Infused | Weapon Damage | Crushing Wall Lightning Staff | vMA |
 
-*All armor Divines, Magicka glyphs. For instanced, shift Chest and Legs to Light and use the Light Valkyn Skoria helm for the 6/1 split.*
+*For instanced, shift Chest and Legs to Light and use the Light Valkyn Skoria helm for the 6/1 split. In-game tooltips override — confirm on your bar.*
 
 **Note:** no Heavy piece, so no third Undaunted Mettle tier — as with the Warden, the weight-specific passives are worth more here. Add one Heavy (Reinforced) piece if you want Mettle's full bonus plus armor.
 
@@ -92,11 +92,19 @@ Works as-is in normal/vet 4-mans. For optimized group play: drop Pale Order for 
 
 ---
 
-## 4. PvP — directional
+## 4. PvP (Cyrodiil & Battlegrounds)
 
-MagSorc is a PvP classic: Crystal Frags burst timing, Hardened Ward shield stacking, Ball of Lightning/Streak mobility (Storm Calling's teleport line is the best escape tool in the game), Dark Magic's Rune Cage/stun tools, and pets optional. Your PvE kit's core (Frags proc fishing + Surge healing) translates directly. Build direction: ~30k health, impen traits, shield-stacking with Bastion CP. Set metas rotate — check a maintained U50 Sorc PvP build (Alcast/ArzyeL) before investing gold.
+MagSorc is a PvP classic and still top-tier. Verified against Alcast's U50 **Mag Sorc PvP** build; metas rotate seasonally, so confirm current pieces before investing gold.
+
+**What carries over:** Crystal Fragments burst timing (proc-fishing off your other casts), **Hardened Ward** shield stacking, **Streak / Ball of Lightning** mobility (Storm Calling's teleport line is the best escape in the game), Dark Magic's Rune Cage stun, and **Harness Magicka** (shield + magicka back when hit by spells). Your PvE core (Frags proc-fishing + Critical Surge healing) translates directly.
+
+**Setup:** **Light armor**, ~30k health, **Impen** traits, shield-stacking backed by **Bastion** CP.
+
+**Sets (Alcast U50):** **Crafty Alfiq** + **Bright-Throat's Boast** — two max-magicka / damage stat sets that fuel bigger shields and burst, both cheap overland farms — plus **Maw of the Infernal** (monster set). Lean tankier with a survival mythic (**Gaze of Sithis** or **Torc of Tonal Constancy**) if you want.
 
 **PvP CP:** Blue — Ironclad + Duelist's Rebuff in for Deadly Aim + Fighting Finesse. Red — Boundless Vitality, Fortified, **Bastion** (shields!), Pain's Refuge.
+
+*Source: [Alcast U50 Magicka Sorcerer PvP build](https://alcasthq.com/eso-magicka-sorcerer-pvp-build1/). Season metas rotate — the live page and in-game tooltips override.*
 
 ---
 
