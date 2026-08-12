@@ -29,7 +29,7 @@
 | 5. | 5. |
 | **Ult:** | **Ult:** |
 
-*Weapon note: [staff/bow viability vs baseline, with % if known — Jason prefers staves]*
+*Weapon note: [staff/bow viability vs baseline, with % if known — the husband prefers staves]*
 
 **What each does:** [one line per skill, focused on why it's slotted]
 

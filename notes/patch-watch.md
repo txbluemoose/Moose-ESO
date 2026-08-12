@@ -13,7 +13,7 @@ What to re-verify when an update lands. ZOS renames and relocates skills during 
 3. **Class Mastery changes.** Both players are pure class specifically for these passives. If the mastery options change, the pure-vs-subclass decision may flip.
 4. **Set changes.** Check Pale Order first — it's load-bearing for the whole design philosophy. Then class sets (Pyrebrand, Aerie's Cry, Beacon of Oblivion) and the crafted fallbacks.
 5. **CP tree changes.** Star names and costs shift occasionally. The spend-order tables assume current names.
-6. **New scribing grimoires or scripts.** Jason's flex slots are Ulfsild's Contingency and Traveling Knife; a new grimoire could beat them.
+6. **New scribing grimoires or scripts.** The husband's flex slots are Ulfsild's Contingency and Traveling Knife; a new grimoire could beat them.
 7. **Glyph/enchant rebalances.** Prismatic Onslaught was already nerfed once; Absorb glyph potencies have moved before.
 
 ## Sources to check, in order

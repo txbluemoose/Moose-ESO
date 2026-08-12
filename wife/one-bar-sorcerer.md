@@ -13,8 +13,8 @@
 2. **Daedric Prey** (morph of Daedric Curse, *Daedric Summoning*) — curse a target; **her pets deal +50% damage to it**
 3. **Crystal Weapon** (morph of Crystal Shard, *Dark Magic*) — makes her next heavy attacks hit harder + shreds armor
 4. **Summon Volatile Familiar** (morph of Summon Unstable Familiar, *Daedric Summoning*) — pet #1; press again for an AoE lightning pulse around him
-5. **Summon Twilight Matriarch** (morph of Summon Winged Twilight, *Daedric Summoning*) — pet #2; **press again to heal 2 targets — herself AND Jason**
-- **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the big lightning man; Daedric Prey boosts him too, and Jason can activate his synergy for Major Berserk
+5. **Summon Twilight Matriarch** (morph of Summon Winged Twilight, *Daedric Summoning*) — pet #2; **press again to heal 2 targets — herself AND her husband**
+- **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the big lightning man; Daedric Prey boosts him too, and her husband can activate his synergy for Major Berserk
 
 ### Class Mastery (pure class — pick 2)
 - **Font of Power** — the best damage option
@@ -53,7 +53,7 @@
 
 Oakensoul grants a pile of major buffs permanently in exchange for locking her to one bar — which she wasn't using anyway. It's THE one-bar mythic.
 
-### Crafted starter (until the dungeon gear drops — Jason makes all of it)
+### Crafted starter (until the dungeon gear drops — her husband makes all of it)
 Order's Wrath (chest/hands/belt/legs/boots) + Highland Sentinel (head/shoulders/jewelry ×3) + Assassin's Guile Lightning Staff (Precise, Shock). Parses 84.8k — already plenty for anything you two duo. Until she has Oakensoul, use Spell Power potions and park **Bound Aegis** (morph of Bound Armor, *Daedric Summoning*) on the unused back bar for its passives.
 
 **Mundus:** The Thief
@@ -140,7 +140,7 @@ Buy every passive in every line she uses; priorities if points are short (these 
 ---
 
 ## Notes
-- **The Matriarch heals Jason too** — her heal hits 2 targets, so she's secretly the duo's pocket healer
+- **The Matriarch heals her husband too** — her heal hits 2 targets, so she's secretly the duo's pocket healer
 - Pets persist between fights; only resummon if they die (big AoE fights sometimes eat them — just recast)
 - If a fight is really rough: Hardened Ward in Crystal Weapon's slot + Bastion CP = a shield thicker than most tanks' health bars
 - This is her third one-bar option alongside the DK (flamethrower) and Arcanist (beam) — this one is the laziest of the three by design, and honestly parses the highest of them anyway
@@ -158,6 +158,6 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Alternative — Sharp-as-Night, built Healer:** all **Light / Soothing**, Quickened jewelry + healing staff. Bar: Petals of the Hunter → Mystic Fortress → Fungal Forage → Rejuvenation → Snow Squall, Ult Gore. Best healer companion in the game, plus Minor Vulnerability from Infest.
 
-**Duo tip:** if Jason is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
+**Duo tip:** if her husband is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
 
 Full details for all eight companions: see `shared/companions.md`.

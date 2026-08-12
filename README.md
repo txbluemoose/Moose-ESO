@@ -1,6 +1,6 @@
 # ESO Build Guides
 
-Living build documents for Jason and his wife. Current game version: **Update 50**.
+Living build documents for a husband and his wife. Current game version: **Update 50**.
 
 ## Structure
 
@@ -8,7 +8,7 @@ Living build documents for Jason and his wife. Current game version: **Update 50
 .
 ├── CLAUDE.md                      # conventions, corrections log, player context — read first
 ├── README.md
-├── jason/
+├── husband/
 │   ├── magicka-dragonknight.md    # main — full guide, PvE/trials/PvP, CP 1200–1800
 │   ├── stamina-warden.md          # alt — bow-viable
 │   └── magicka-sorcerer.md        # alt — staff-viable (-1.2%)
@@ -27,7 +27,7 @@ Living build documents for Jason and his wife. Current game version: **Update 50
 
 ## Conventions at a glance
 
-- Full **guides** (Jason) include fallback gear ladders, situational swaps, and CP roadmaps to 1800
+- Full **guides** (husband) include fallback gear ladders, situational swaps, and CP roadmaps to 1800
 - **Cheat sheets** (wife) are one-answer prescriptive, one-bar only, no scribed skills without alternatives
 - Every skill lists base skill + skill line; every gear table lists per-slot armor weight
 - CP sections are numbered spend-order tables with `SLOT` marked
@@ -36,7 +36,7 @@ Living build documents for Jason and his wife. Current game version: **Update 50
 
 | Player | CP |
 |---|---|
-| Jason | ~1093 |
+| Husband | ~1093 |
 | Wife | ~1250 |
 
 Update these when they change — CP tables are written against them.

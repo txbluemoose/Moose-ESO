@@ -18,7 +18,7 @@ Non-combat loadout notes. Combat build barely matters here; CP and passives do t
 
 - **Night's Silence** (crafted) — removes the sneak movement-speed penalty. The core thief piece.
 - **Night Mother's Embrace** (crafted) — reduced detection radius and sneak cost
-- **Prowler's Talisman** (mythic) — 5% pickpocket, crouch-invisibility once per 45s. Jason owns it, partially shard-upgraded. Not for combat (competes with Pale Order).
+- **Prowler's Talisman** (mythic) — 5% pickpocket, crouch-invisibility once per 45s. The husband owns it, partially shard-upgraded. Not for combat (competes with Pale Order).
 - **Ring of the Wild Hunt** if owned — out-of-combat movement speed
 
 Medium armor is the stealth weight (sneak cost and stealth movement passives).
