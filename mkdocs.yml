@@ -1,10 +1,9 @@
 site_name: ESO Build Guides
 site_description: Living ESO build guides — full builds and one-bar builds (Update 50)
+site_url: https://txbluemoose.github.io/Moose-ESO/
 
 theme:
   name: material
-  icon:
-    logo: material/shield-sword
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
