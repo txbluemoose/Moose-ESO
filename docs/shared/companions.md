@@ -11,6 +11,24 @@ Craft and wear **Telvanni Efficiency** (5-piece crafted set) — **you** wear it
 
 **When to wear it:** solo delve/world boss clearing, farming runs, Infinite Archive, anything where the companion is doing real work. Swap back to your damage set when you're the one carrying.
 
+### Telvanni Efficiency — companion-carry loadout
+
+Keep this as a saved **Armory** loadout and swap to it for farming and companion-carried content. Telvanni Efficiency is the only fixed part (a 5-piece crafted set); everything else is a passenger's choice — lean survivability, because the companion is doing the fighting.
+
+| Slot | Weight | Trait | Enchant | Set |
+|---|---|---|---|---|
+| Chest | Heavy | Reinforced | Tri-Stat (Prismatic Defense) | **Telvanni Efficiency** |
+| Legs | Heavy | Divines | Tri-Stat | **Telvanni Efficiency** |
+| Hands | Medium | Divines | Tri-Stat | **Telvanni Efficiency** |
+| Belt | Light | Divines | Tri-Stat | **Telvanni Efficiency** |
+| Boots | Medium | Divines | Tri-Stat | **Telvanni Efficiency** |
+| Head | — | Divines | Tri-Stat | monster helm or 1pc (your call) |
+| Shoulders | — | Divines | Tri-Stat | pairs with the helm |
+| Necklace + 2 Rings | — | Healthy / Bloodthirsty | Prismatic Recovery | flexible — a recovery or survival set |
+| Weapons | — | Defending / Infused | Absorb / Crushing | flexible |
+
+*Telvanni Efficiency is weight-agnostic (crafted), so spread its 5 pieces across Heavy/Medium/Light to trigger all three **Undaunted Mettle** tiers for extra max stats. Traits/enchants above are survivability defaults — none are load-bearing; adjust to taste. In-game tooltips override.*
+
 **How companions work:** they cast skills top-to-bottom in bar order as each comes off cooldown, then reset. So **bar order = priority order**. Skills level by use — leave them slotted.
 
 **Gear notes:** companions use their own Companion Gear (not player sets), max quality Epic (gold only from events), and it only drops while a companion is summoned. It's tradable, so buy what you're missing from guild traders — it's cheap.
