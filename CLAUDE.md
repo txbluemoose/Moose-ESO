@@ -85,7 +85,7 @@ These were all gotten wrong in the original session. They are the highest-value 
 - [x] PvP sections in all three full-build guides rewritten and verified against Alcast U50 builds (Mag DK "Blaze", Stam Warden "Assault", Mag Sorc PvP) — done 2026-08-12. Note: they still carry a "metas rotate seasonally" caveat, which is correct, not a hedge.
 - [ ] Warden and Sorc trials sections deliberately point to live group builds rather than guessing rotations
 - [x] Arcanist Class Mastery picks locked in — Unbound Potential + Erudite's Rigor (verified vs ESO-Hub/Alcast, U50) — done 2026-08-12
-- [x] Werewolf guide added for both players (shared cross-class guide — Berserker morph for him, Pack Leader for her) — done 2026-08-12. NOTE: the werewolf line was reworked in U50; skills are flagged "confirm morphs in-game," and the 5th form-bar slot is intentionally left to the live Hyperioxes build rather than guessed. Don't "fix" that flag — it's correct caution, not laziness.
+- [x] Werewolf guides added for both players — split into two: `full-builds/werewolf.md` (Werewolf Berserker, him) and `one-bar-builds/werewolf.md` (Pack Leader, her) — done 2026-08-12. NOTE: the werewolf line was reworked in U50; skills are flagged "confirm morphs in-game," and the 5th form-bar slot is intentionally left to the live Hyperioxes build rather than guessed. Don't "fix" that flag — it's correct caution, not laziness.
 - [ ] Possible future guides: Nightblade, Templar, Necromancer (one full + one cheat sheet per session is the sustainable pace)
 - [ ] Considered and rejected: a thieving-optimized loadout doc (Night's Silence + Legerdemain passives + green CP). Revisit if he asks.
 

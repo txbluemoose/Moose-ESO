@@ -16,6 +16,7 @@ Two ways to play, two sets of guides:
 - [Magicka Dragonknight](full-builds/magicka-dragonknight.md) — the main
 - [Stamina Warden](full-builds/stamina-warden.md) — bow-viable
 - [Magicka Sorcerer](full-builds/magicka-sorcerer.md) — staff-viable
+- [Werewolf](full-builds/werewolf.md) — Werewolf Berserker, solo/group DPS
 
 ## One-bar builds
 
@@ -23,10 +24,7 @@ Two ways to play, two sets of guides:
 - [Pet Sorcerer](one-bar-builds/one-bar-sorcerer.md) — lightning staff + pets + heavy attacks
 - [Arcanist](one-bar-builds/one-bar-arcanist.md) — beam everything
 - [Bow Warden (2-bar)](one-bar-builds/warden-bow-two-bar.md) — ranged, easy bars *(the one two-bar exception)*
-
-## For both of you
-
-- [Werewolf](werewolf.md) — one transformation, two setups: full (him) and easy (her)
+- [Werewolf](one-bar-builds/werewolf.md) — Pack Leader; the wolves fight for her
 
 ## Reference
 
