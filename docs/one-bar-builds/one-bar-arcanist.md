@@ -16,8 +16,12 @@
 5. **Cruxweaver Armor** (morph of Fatewoven Armor, *Soldier of Apocrypha*) — Major Resolve + Minor Breach on attackers + Crux when hit
 - **Ult: The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — can be fired **while beaming** without interrupting the channel
 
-### Class Mastery
-Pure class on U50 = pick 2 Class Mastery passives. This build predates the system, so check the current Stamina Arcanist U50 page (hyperioxes.com/eso/arcanist-builds) or in-game tooltips for the two recommended Arcanist masteries before locking in.
+### Class Mastery (pure class — pick 2)
+- **Unbound Potential** — upgrades **Fated Fortune** to add +30% damage done for its duration. This build lives and dies by Fated Fortune crits, so it's the single biggest damage pick.
+- **Erudite's Rigor** — applies **Minor Cowardice** to attackers (they hit you softer) and **Major Vitality** to you (every heal lands harder — Flail's heal-on-hit, Fatecarver, Pale Order). Pure "don't die" glue.
+- *Max-damage swap:* trade Erudite's Rigor → **Abyssal Emergence** (your Languid Eye ult instantly refills 3 Crux + grants 666 Weapon/Spell Damage for 15s) when a fight isn't threatening.
+
+*Masteries verified vs ESO-Hub / Alcast Class Mastery lists (U50). In-game tooltips override — confirm the exact numbers on your bar.*
 
 ### Tanky swap (extremely hard fights)
 **Ulfsild's Contingency** (scribed: Bleed / Gladiator's Tenacity / Force) replaces Inspired Scholarship — 8% damage reduction + Minor Force. *No scribing? Revealing Flare (Alliance War > Support, rank 7).*
@@ -37,19 +41,19 @@ Pure class on U50 = pick 2 Class Mastery passives. This build predates the syste
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina damage passives (Dexterity, Agility), one Light and one Heavy to trigger all three tiers of **Undaunted Mettle**.
 
-| Slot | Weight | Set |
-|---|---|---|
-| Head | Medium | Claw of the Forest Wraith |
-| Shoulders | Medium | Claw of the Forest Wraith |
-| Chest | Heavy (Reinforced) | Order's Wrath |
-| Hands | Medium | Order's Wrath |
-| Belt | **Light** | Order's Wrath |
-| Legs | Medium | Order's Wrath |
-| Boots | Medium | Order's Wrath |
-| Necklace + 2 Rings | — | Claw of the Forest Wraith |
-| Weapons | — | Assassin's Guile pair (or Bow) — Nirnhoned/Charged, Absorb Stamina enchant |
+| Slot | Weight | Trait | Enchant | Set |
+|---|---|---|---|---|
+| Head | Medium | Divines | Stamina | Claw of the Forest Wraith |
+| Shoulders | Medium | Divines | Stamina | Claw of the Forest Wraith |
+| Chest | Heavy | Reinforced | Stamina | Order's Wrath |
+| Hands | Medium | Divines | Stamina | Order's Wrath |
+| Belt | **Light** | Divines | Stamina | Order's Wrath |
+| Legs | Medium | Divines | Stamina | Order's Wrath |
+| Boots | Medium | Divines | Stamina | Order's Wrath |
+| Necklace + 2 Rings | — | Bloodthirsty | Weapon Damage | Claw of the Forest Wraith |
+| Weapons | — | Nirnhoned / Charged | Absorb Stamina | Assassin's Guile pair (or Bow) |
 
-*Traits: Divines armor (except the Reinforced chest), Bloodthirsty jewelry, Stamina glyphs.*
+*Reinforced trait on the chest, Divines on the rest; jewelry runs Weapon Damage glyphs. In-game tooltips override — confirm on your bar.*
 
 ### Endgame version
 Ansuul's Torment (5 body, Sanity's Edge) + Deadly Strike (shoulders/jewelry/weapons — cheap on traders!) + Slimecraw head + **Ring of the Pale Order**. Bow works: same set, Sharpened (instanced) or Precise (overland), Absorb Stamina enchant.

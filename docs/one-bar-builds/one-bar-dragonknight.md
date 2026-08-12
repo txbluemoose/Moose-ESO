@@ -44,25 +44,26 @@
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy.** Light gives the magicka damage passives (Concentration = penetration, Prodigy = crit); the single Medium and Heavy exist to trigger **Undaunted Mettle**, which gives max health/magicka/stamina for each weight worn. All three weights beats an extra light piece.
 
-| Slot | Weight | Set | Notes |
-|---|---|---|---|
-| Head | Medium | Highland Sentinel | overland set (Galen) — cheap from guild traders |
-| Shoulders | Light | Order's Wrath | crafted |
-| Chest | Heavy | Tide-Born Wildstalker | crafted (Gold Road) |
-| Hands | Light | Tide-Born Wildstalker | |
-| Belt | Light | Tide-Born Wildstalker | |
-| Legs | Light | Tide-Born Wildstalker | |
-| Boots | Light | Tide-Born Wildstalker | |
-| Necklace + Ring 2 | — | Order's Wrath | crafted |
-| Ring 1 | — | Highland Sentinel | |
-| Lightning Staff | — | Order's Wrath | counts as 2 pieces, completing that 5 |
+| Slot | Weight | Trait | Enchant | Set | Source / Notes |
+|---|---|---|---|---|---|
+| Head | Medium | Divines | Magicka | Highland Sentinel | overland set (Galen) — cheap from guild traders |
+| Shoulders | Light | Divines | Magicka | Order's Wrath | crafted |
+| Chest | Heavy | Divines | Magicka | Tide-Born Wildstalker | crafted (Gold Road) |
+| Hands | Light | Divines | Magicka | Tide-Born Wildstalker | |
+| Belt | Light | Divines | Magicka | Tide-Born Wildstalker | |
+| Legs | Light | Divines | Magicka | Tide-Born Wildstalker | |
+| Boots | Light | Divines | Magicka | Tide-Born Wildstalker | |
+| Necklace + Ring 2 | — | Bloodthirsty | Spell Damage | Order's Wrath | crafted |
+| Ring 1 | — | Bloodthirsty | Spell Damage | Highland Sentinel | |
+| Lightning Staff | — | Precise | Shock | Order's Wrath | counts as 2 pieces, completing that 5 |
 
-*Traits: Divines on all armor, Bloodthirsty jewelry. Magicka glyphs on armor, Spell Damage on jewelry.*
+*Staff trait/enchant mirror the Sorc lightning-staff setup (Precise / Shock). In-game tooltips override — confirm on your bar.*
 
 ### Upgrade path (when she feels like earning them)
 1. **Slimecraw helm** — vet Wayrest Sewers I (or undaunted chest luck)
 2. **Deadly Strike** weapons/jewelry — Cyrodiil town quests / guild traders (cheap!)
 3. **Ring of the Pale Order** — Antiquities; turns damage into constant self-healing, the true "can't die" item
+4. **Pyrebrand** (5-piece body, DK class set) — drops in the **Infinite Archive**. Its 5-piece makes her light attacks proc a Flame DoT that feeds **Wildfire Embers**, then her fully-charged heavy attacks spend those stacks for a burst of Flame Damage (up to +200% to enemies under 33% health). It's built around the exact Wildfire Embers mastery this bar already runs, so it's a strong damage upgrade for the body slot in place of Tide-Born Wildstalker — keep Pale Order in the ring slot either way. IA is two-player, so she and her husband can farm it together. *(Set bonuses verified vs ESO-Hub / ArzyeL, U50 — in-game tooltip wins.)*
 
 **Mundus:** The Thief
 **Attributes:** 64 Magicka (shift some to Health if she's getting one-shot)
