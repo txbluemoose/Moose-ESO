@@ -71,14 +71,63 @@ Werewolf can't bar-swap, so it's **one loadout**: armor + jewelry + equipped wea
 **Food:** Max Health + Stamina (Orzorga's Smoked Bear Haunch)
 **Race:** whatever the character already is — the spread is ~5%
 
-## Champion Points
+## Champion Points — Spend Order (1200 → 1800)
 
-**🔵 Blue (Warfare) — slot:** **Master-at-Arms** · **Backstabber** (Ferocious Roar sets enemies Off Balance) · **Deadly Aim** · **Wrathful Strikes**
-*Hard content: slot **Reaving Blows** — it turns the Claw Fury channel into a lifedrain (stacks with Pale Order). Buy the Staving Death mitigation cluster (Hardy / Elemental Aegis / Preparation).*
+At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else is passive once purchased.
 
-**🔴 Red (Fitness) — slot:** **Boundless Vitality** · **Fortified** · **Rejuvenation** · **Bloody Renewal** (stamina on kills — you kill a lot as a wolf).
+### 🔵 BLUE (Warfare)
 
-**🟢 Green (Craft):** Steed's Blessing → Treasure Hunter → taste.
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage |
+| 2 | **Backstabber** | **SLOT** (50) | +damage vs Off Balance — Ferocious Roar sets enemies Off Balance |
+| 3 | **Deadly Aim** | **SLOT** (50) | +single-target damage |
+| 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
+| 5 | Precision | buy max (20) | crit chance |
+| 6 | Piercing | buy max (20) | armor penetration |
+| 7 | Eldritch Insight | buy max (20) | max magicka |
+| 8 | Tireless Discipline | buy max (20) | max stamina |
+| 9 | Blessed | buy max (20) | your heals hit harder |
+| 10 | Quick Recovery | buy max (20) | healing received |
+| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 12 | Elemental Aegis | buy max | −elemental damage |
+| 13 | Preparation | buy max | −damage, always on |
+| 14 | **Reaving Blows** | buy (50), swap option | turns the Claw Fury channel into a lifedrain (stacks with Pale Order) |
+| 15 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
+| 16 | Enduring Resolve | buy (50), swap option | −DoT damage for DoT-heavy fights |
+
+*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800.*
+
+### 🔴 RED (Fitness)
+
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Boundless Vitality** | **SLOT** (50) | max health |
+| 2 | **Fortified** | **SLOT** (50) | armor |
+| 3 | **Rejuvenation** | **SLOT** (50) | resource recovery |
+| 4 | **Bloody Renewal** | **SLOT** (50) | stamina on kills — you kill a lot as a wolf |
+| 5 | Hero's Vigor | buy max | max health |
+| 6 | Tumbling | buy max | cheaper dodge rolls |
+| 7 | Defiance | buy max | mitigation |
+| 8 | Mystic Tenacity | buy max | less stun/fear time |
+| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 10 | Bracing Anchor | buy (50), swap option | block-heavy fights |
+| 11 | Celerity | buy (50), swap option | movement-heavy fights |
+| 12 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+| 13 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight demands it |
+
+*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800.*
+
+### 🟢 GREEN (Craft)
+
+| # | Star | Action |
+|---|---|---|
+| 1 | **Steed's Blessing** | **SLOT** (50) — out-of-combat speed |
+| 2 | Treasure Hunter | buy (needs ~35 connector points) — better chest loot |
+| 3 | Gilded Fingers | buy — more gold |
+| 4 | Liquid Efficiency | buy — potions sometimes not consumed |
+| 5 | Meticulous Disassembly | buy — better refining |
+| 6 | Anything else | taste — nothing here affects combat |
 
 ## How to play
 

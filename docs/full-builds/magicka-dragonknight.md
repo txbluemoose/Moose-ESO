@@ -139,40 +139,63 @@ DK came out of the U49/U50 rework strong — community consensus puts it among t
 
 ---
 
-## 4. CHAMPION POINT ROADMAP — 1200 / 1400 / 1600 / 1800
+## 4. Champion Points — Spend Order (1200 → 1800)
 
-You get roughly **total ÷ 3 per tree**: 400 → 467 → 533 → 600 points per color. Full completion of everything that matters lands around 2,400 total, so 1800 has nearly everything. Slottables cost 50 each; base passives are cheap (mostly 20s); connector stars take minimum spend to open paths.
+At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — individual star costs vary, so trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else works passively once purchased.
 
-### BLUE (Warfare)
+### 🔵 BLUE (Warfare)
 
-**Slotted at all levels (PvE):** Master-at-Arms • Deadly Aim • Fighting Finesse • Wrathful Strikes
-*(Yes, Wrathful Strikes over Thaumaturge — post-rework DK damage is majority direct damage, and Wildfire Embers doesn't scale with Thaumaturge anyway.)*
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — most of your kit |
+| 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage |
+| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits |
+| 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything — over Thaumaturge, since post-rework DK is majority direct damage and Wildfire Embers doesn't scale with Thaumaturge |
+| 5 | Precision | buy max (20) | crit chance |
+| 6 | Piercing | buy max (20) | armor penetration |
+| 7 | Eldritch Insight | buy max (20) | max magicka |
+| 8 | Tireless Discipline | buy max (20) | max stamina |
+| 9 | Blessed | buy max (20) | your heals hit harder |
+| 10 | Quick Recovery | buy max (20) | healing received |
+| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 12 | Elemental Aegis | buy max | −elemental damage |
+| 13 | Preparation | buy max | −damage, always on |
+| 14 | **Reaving Blows** | buy (50), swap option | heals off direct damage; stacks with Pale Order for absurd solo healing |
+| 15 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
+| 16 | Enduring Resolve / Unassailable / Duelist's Rebuff | buy (50), swap options | DoT / AoE / single-target mitigation for specific fights |
 
-| Milestone (~pts/tree) | What you should have filled |
-|---|---|
-| **1200 (400)** | All 4 slottables maxed (200) • base passives maxed: Precision, Piercing, Eldritch Insight, Tireless Discipline, Blessed, Quick Recovery (~120) • path into Staving Death and start Hardy / Elemental Aegis / Preparation |
-| **1400 (467)** | Staving Death defense passives maxed (Hardy, Elemental Aegis, Preparation — ~10% less non-player damage among them) • unlock Reaving Blows as a swap option (heals off direct damage — stacks with Pale Order for absurd solo healing) |
-| **1600 (533)** | Unlock the mitigation slottables for swapping: Ironclad, Duelist's Rebuff, Enduring Resolve, Unassailable • unlock Thaumaturge and Biting Aura for future meta shifts |
-| **1800 (600)** | Essentially everything relevant in Warfare owned; you now swap slottables per fight with zero regrinding |
+*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 come online by 1600–1800, when you swap slottables per fight with zero regrinding.*
 
-**Fight-specific blue swaps:** dying to a boss → replace Wrathful Strikes + Fighting Finesse with two mitigation stars matched to the damage type (Ironclad = direct, Enduring Resolve = DoTs, Unassailable = AoE, Duelist's Rebuff = single target). Need healing → Reaving Blows in.
+### 🔴 RED (Fitness)
 
-### RED (Fitness)
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Boundless Vitality** | **SLOT** (50) | max health |
+| 2 | **Fortified** | **SLOT** (50) | armor |
+| 3 | **Celerity** | **SLOT** (50) | movement speed (Soul of Flame already solved sustain, so utility here) |
+| 4 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
+| 5 | Hero's Vigor | buy max | max health |
+| 6 | Tumbling | buy max | cheaper dodge rolls |
+| 7 | Defiance | buy max | mitigation |
+| 8 | Mystic Tenacity | buy max | less stun/fear time |
+| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 10 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
+| 11 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights |
+| 12 | Rejuvenation / Siphoning Spells | buy (50), swap options | recovery if a fight out-drains Soul of Flame |
+| 13 | Pain's Refuge + Bastion | buy (50), swap options | the PvP defensive pair |
 
-**Slotted (Solo PvE):** Boundless Vitality • Fortified • Celerity • Expert Evasion
-*(Celerity/Expert Evasion over sustain stars because Soul of Flame already solved sustain. Swap Expert Evasion → Bracing Anchor in block-heavy fights, → Bloody Renewal in add-heavy fights.)*
-**Slotted (PvP):** Boundless Vitality • Fortified • Pain's Refuge • Bastion
+*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps you fill toward 1800. PvP slot: Boundless Vitality • Fortified • Pain's Refuge • Bastion.*
 
-| Milestone | What you should have filled |
-|---|---|
-| **1200 (400)** | 4 slottables maxed (200) • Hero's Vigor, Tumbling, Defiance, Mystic Tenacity passives • path stars (Sprinter/Hasty) at minimum spend |
-| **1400 (467)** | Rejuvenation, Bloody Renewal, Siphoning Spells, Bracing Anchor unlocked as swap options • remaining base passives topped up |
-| **1600 (533)** | Sub-constellation defensive passives (Walking Fortress cluster) filled |
-| **1800 (600)** | Tree effectively complete |
+### 🟢 GREEN (Craft)
 
-### GREEN (Craft)
-
-Order doesn't matter for combat. Priority: **Steed's Blessing** (slot always) → Treasure Hunter (needs ~35 pts of pathing) → Gilded Fingers → Liquid Efficiency → Meticulous Disassembly → whatever amuses you. By 1400 you'll have everything you actually use.
+| # | Star | Action |
+|---|---|---|
+| 1 | **Steed's Blessing** | **SLOT** (50) — out-of-combat speed |
+| 2 | Treasure Hunter | buy (needs ~35 connector points) — better chest loot |
+| 3 | Gilded Fingers | buy — more gold |
+| 4 | Liquid Efficiency | buy — potions sometimes not consumed |
+| 5 | Meticulous Disassembly | buy — better refining |
+| 6 | Anything else | taste — nothing here affects combat |
 
 ---
 

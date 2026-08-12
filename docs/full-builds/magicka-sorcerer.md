@@ -108,33 +108,63 @@ MagSorc is a PvP classic and still top-tier. Verified against Alcast's U50 **Mag
 
 ---
 
-## 5. CP ROADMAP — 1200 / 1400 / 1600 / 1800 (~400/467/533/600 per tree)
+## 5. Champion Points — Spend Order (1200 → 1800)
 
-### Blue (Warfare)
-**Slottables:** Master-at-Arms • Deadly Aim • Fighting Finesse • Wrathful Strikes
-*(Over 60% of this build's damage is direct AND single-target — the sim confirms MaA and Deadly Aim are the top two.)*
+At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else is passive once purchased.
 
-| Milestone | Filled |
-|---|---|
-| 1200 | 4 slottables + base passives (Precision, Piercing, Eldritch Insight, Tireless Discipline, Blessed, Quick Recovery) |
-| 1400 | Staving Death passives (Hardy, Elemental Aegis, Preparation) + Reaving Blows unlocked as the HPS swap |
-| 1600 | Mitigation slottables: Ironclad, Duelist's Rebuff, Enduring Resolve, Unassailable |
-| 1800 | Tree complete |
+### 🔵 BLUE (Warfare)
 
-**Hard fight rule (same as your other characters):** Wrathful Strikes + Fighting Finesse → 2 mitigation stars matched to the damage type.
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — over 60% of this build's damage |
+| 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage (the sim's #2) |
+| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits |
+| 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
+| 5 | Precision | buy max (20) | crit chance |
+| 6 | Piercing | buy max (20) | armor penetration |
+| 7 | Eldritch Insight | buy max (20) | max magicka |
+| 8 | Tireless Discipline | buy max (20) | max stamina |
+| 9 | Blessed | buy max (20) | your heals hit harder |
+| 10 | Quick Recovery | buy max (20) | healing received |
+| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 12 | Elemental Aegis | buy max | −elemental damage |
+| 13 | Preparation | buy max | −damage, always on |
+| 14 | **Reaving Blows** | buy (50), swap option | heals off direct damage — the HPS swap |
+| 15 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
+| 16 | Enduring Resolve / Unassailable / Duelist's Rebuff | buy (50), swap options | DoT / AoE / single-target mitigation for specific fights |
 
-### Red (Fitness)
-**Slottables:** Boundless Vitality • Siphoning Spells • Rejuvenation • Fortified
-Swaps: Bracing Anchor (block-heavy), Celerity (movement-heavy), Bloody Renewal (add-heavy stamina)
+*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800.*
 
-| Milestone | Filled |
-|---|---|
-| 1200 | slottables + Hero's Vigor, Tumbling, Defiance, Mystic Tenacity |
-| 1400 | Celerity, Bracing Anchor, Bloody Renewal, Pain's Refuge unlocked |
-| 1600–1800 | remaining passives; complete |
+### 🔴 RED (Fitness)
 
-### Green (Craft)
-Steed's Blessing slotted → Treasure Hunter → the rest per taste. Identical across all your characters — green is account-wide philosophy, not build-specific.
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Boundless Vitality** | **SLOT** (50) | max health |
+| 2 | **Siphoning Spells** | **SLOT** (50) | magicka back on kills |
+| 3 | **Rejuvenation** | **SLOT** (50) | resource recovery |
+| 4 | **Fortified** | **SLOT** (50) | armor |
+| 5 | Hero's Vigor | buy max | max health |
+| 6 | Tumbling | buy max | cheaper dodge rolls |
+| 7 | Defiance | buy max | mitigation |
+| 8 | Mystic Tenacity | buy max | less stun/fear time |
+| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 10 | Bracing Anchor | buy (50), swap option | block-heavy fights |
+| 11 | Celerity | buy (50), swap option | movement-heavy fights |
+| 12 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy stamina |
+| 13 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+
+*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800. PvP: slot Bastion for the shields.*
+
+### 🟢 GREEN (Craft)
+
+| # | Star | Action |
+|---|---|---|
+| 1 | **Steed's Blessing** | **SLOT** (50) — out-of-combat speed |
+| 2 | Treasure Hunter | buy (needs ~35 connector points) — better chest loot |
+| 3 | Gilded Fingers | buy — more gold |
+| 4 | Liquid Efficiency | buy — potions sometimes not consumed |
+| 5 | Meticulous Disassembly | buy — better refining |
+| 6 | Anything else | taste — nothing here affects combat |
 
 ---
 

@@ -64,11 +64,63 @@ Werewolf can't bar-swap, so it's **one loadout**.
 **Attributes:** 64 Stamina (shift to Health if getting one-shot)
 **Race:** whatever she is — the spread is ~5%
 
-## Champion Points
+## Champion Points — Spend Order to 1600
 
-**🔵 Blue (Warfare) — slot:** **Master-at-Arms** · **Backstabber** · **Deadly Aim** · **Wrathful Strikes**. *(Swap in **Reaving Blows** on hard fights — the Claw Fury channel becomes a lifedrain with Pale Order.)*
-**🔴 Red (Fitness) — slot:** **Boundless Vitality** · **Fortified** · **Rejuvenation** · **Bloody Renewal**.
-**🟢 Green (Craft):** Steed's Blessing → Treasure Hunter → taste.
+At CP 1250 she has ~417 points per color; ~533 at 1600. Follow each table **top to bottom**. **SLOT** = one of her 4 active slots per tree; everything else is passive once bought.
+
+### 🔵 BLUE (Warfare)
+
+| # | Star | Action | What it does for her |
+|---|---|---|---|
+| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage |
+| 2 | **Backstabber** | **SLOT** (50) | +damage vs Off Balance — Ferocious Roar sets enemies Off Balance |
+| 3 | **Deadly Aim** | **SLOT** (50) | +single-target damage |
+| 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
+| 5 | Precision | buy max (20) | crit chance |
+| 6 | Piercing | buy max (20) | armor penetration |
+| 7 | Eldritch Insight | buy max (20) | max magicka |
+| 8 | Tireless Discipline | buy max (20) | max stamina |
+| 9 | Blessed | buy max (20) | her heals hit harder |
+| 10 | Quick Recovery | buy max (20) | healing received |
+| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 12 | Elemental Aegis | buy max | −elemental damage |
+| 13 | Preparation | buy max | −damage, always on |
+| 14 | **Reaving Blows** | buy (50), swap option | turns the Claw Fury channel into a lifedrain (stacks with Pale Order) |
+| 15 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
+| 16 | Enduring Resolve | buy (50), swap option | −DoT damage for DoT-heavy fights |
+
+*Items 1–13 ≈ her 1250 budget; 14–16 take her to 1600.*
+
+### 🔴 RED (Fitness)
+
+| # | Star | Action | What it does for her |
+|---|---|---|---|
+| 1 | **Boundless Vitality** | **SLOT** (50) | max health |
+| 2 | **Fortified** | **SLOT** (50) | armor |
+| 3 | **Rejuvenation** | **SLOT** (50) | resource recovery |
+| 4 | **Bloody Renewal** | **SLOT** (50) | stamina on kills |
+| 5 | Hero's Vigor | buy max | max health |
+| 6 | Tumbling | buy max | cheaper dodge rolls |
+| 7 | Defiance | buy max | mitigation |
+| 8 | Mystic Tenacity | buy max | less stun/fear time |
+| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 10 | Bracing Anchor | buy (50), swap option | block-heavy fights |
+| 11 | Celerity | buy (50), swap option | movement-heavy fights |
+| 12 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+| 13 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight demands it |
+
+*Items 1–9 ≈ her 1250 budget; 10–13 fill her out to 1600.*
+
+### 🟢 GREEN (Craft)
+
+| # | Star | Action |
+|---|---|---|
+| 1 | **Steed's Blessing** | **SLOT** (50) — out-of-combat speed |
+| 2 | Treasure Hunter | buy (needs ~35 connector points) — better chest loot |
+| 3 | Gilded Fingers | buy — more gold |
+| 4 | Liquid Efficiency | buy — potions sometimes not consumed |
+| 5 | Meticulous Disassembly | buy — better refining |
+| 6 | Anything else | taste — nothing here affects combat |
 
 ## Turning each other into werewolves
 
