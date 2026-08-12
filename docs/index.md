@@ -22,12 +22,18 @@ Two ways to play, two sets of guides:
 - [Dragonknight](one-bar-builds/one-bar-dragonknight.md) — breathe fire, don't die
 - [Pet Sorcerer](one-bar-builds/one-bar-sorcerer.md) — lightning staff + pets + heavy attacks
 - [Arcanist](one-bar-builds/one-bar-arcanist.md) — beam everything
+- [Bow Warden (2-bar)](one-bar-builds/warden-bow-two-bar.md) — ranged, easy bars *(the one two-bar exception)*
+
+## For both of you
+
+- [Werewolf](werewolf.md) — one transformation, two setups: full (him) and easy (her)
 
 ## Reference
 
 - [Companions](shared/companions.md) — all eight, verified bars and gear
 - [Farming](notes/farming.md) — gathering, chests, troves, surveys
 - [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands
+- [Glossary](glossary.md) — plain-language definitions for the jargon
 
 ---
 
