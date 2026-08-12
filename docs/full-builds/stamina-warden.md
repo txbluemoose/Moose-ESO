@@ -118,33 +118,63 @@ Warden PvP staples translate well from this kit. Verified against Alcast's U50 *
 
 ---
 
-## 5. CP ROADMAP — 1200 / 1400 / 1600 / 1800 (~400/467/533/600 per tree)
+## 5. Champion Points — Spend Order (1200 → 1800)
 
-### Blue (Warfare)
-**Slottables (Overland):** Master-at-Arms • Deadly Aim • Fighting Finesse • Wrathful Strikes
-**Instanced swap:** Wrathful Strikes → **Force of Nature** (660 pen per status effect, up to 3300 — this build stacks status effects constantly, so it caps fast)
+At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else is passive once purchased.
 
-| Milestone | Filled |
-|---|---|
-| 1200 | 4 slottables + base passives (Precision, Piercing, Eldritch Insight, Tireless Discipline, Blessed, Quick Recovery) |
-| 1400 | Force of Nature unlocked + Staving Death passives (Hardy, Elemental Aegis, Preparation) + Reaving Blows swap option |
-| 1600 | Mitigation slottables unlocked: Ironclad, Duelist's Rebuff, Enduring Resolve, Unassailable |
-| 1800 | Tree complete — full fight-by-fight flexibility |
+### 🔵 BLUE (Warfare)
 
-**Hard fight rule:** replace Wrathful Strikes + Fighting Finesse with 2 mitigation stars matched to the boss's damage type.
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage |
+| 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage |
+| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits |
+| 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
+| 5 | Precision | buy max (20) | crit chance |
+| 6 | Piercing | buy max (20) | armor penetration |
+| 7 | Eldritch Insight | buy max (20) | max magicka |
+| 8 | Tireless Discipline | buy max (20) | max stamina |
+| 9 | Blessed | buy max (20) | your heals hit harder |
+| 10 | Quick Recovery | buy max (20) | healing received |
+| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 12 | Elemental Aegis | buy max | −elemental damage |
+| 13 | Preparation | buy max | −damage, always on |
+| 14 | **Force of Nature** | buy (50), instanced swap | 660 penetration per status effect (up to 3300) — this build stacks status effects constantly, so it caps fast; swap in for Wrathful Strikes in groups/instanced |
+| 15 | **Reaving Blows** | buy (50), swap option | heals off direct damage |
+| 16 | Ironclad / Duelist's Rebuff / Enduring Resolve / Unassailable | buy (50), swap options | direct / single-target / DoT / AoE mitigation for specific fights |
 
-### Red (Fitness)
-**Slottables:** Boundless Vitality • Bloody Renewal (1500 stam on kills) • Rejuvenation • Fortified
-Swaps: Bracing Anchor (block-heavy), Celerity (movement-heavy), Siphoning Spells + Bloody Renewal (add-heavy magicka sustain)
+*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800.*
 
-| Milestone | Filled |
-|---|---|
-| 1200 | slottables + Hero's Vigor, Tumbling, Defiance, Mystic Tenacity |
-| 1400 | Celerity, Bracing Anchor, Siphoning Spells unlocked |
-| 1600–1800 | remaining passives; tree complete |
+### 🔴 RED (Fitness)
 
-### Green (Craft)
-Steed's Blessing slotted, then Treasure Hunter → Gilded Fingers → Liquid Efficiency → taste.
+| # | Star | Action | What it does for you |
+|---|---|---|---|
+| 1 | **Boundless Vitality** | **SLOT** (50) | max health |
+| 2 | **Bloody Renewal** | **SLOT** (50) | 1500 stamina on kills |
+| 3 | **Rejuvenation** | **SLOT** (50) | resource recovery |
+| 4 | **Fortified** | **SLOT** (50) | armor |
+| 5 | Hero's Vigor | buy max | max health |
+| 6 | Tumbling | buy max | cheaper dodge rolls |
+| 7 | Defiance | buy max | mitigation |
+| 8 | Mystic Tenacity | buy max | less stun/fear time |
+| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 10 | Celerity | buy (50), swap option | movement-heavy fights |
+| 11 | Bracing Anchor | buy (50), swap option | block-heavy fights |
+| 12 | Siphoning Spells | buy (50), swap option | magicka sustain in add-heavy fights |
+| 13 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+
+*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800.*
+
+### 🟢 GREEN (Craft)
+
+| # | Star | Action |
+|---|---|---|
+| 1 | **Steed's Blessing** | **SLOT** (50) — out-of-combat speed |
+| 2 | Treasure Hunter | buy (needs ~35 connector points) — better chest loot |
+| 3 | Gilded Fingers | buy — more gold |
+| 4 | Liquid Efficiency | buy — potions sometimes not consumed |
+| 5 | Meticulous Disassembly | buy — better refining |
+| 6 | Anything else | taste — nothing here affects combat |
 
 ---
 
