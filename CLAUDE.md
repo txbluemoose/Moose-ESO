@@ -21,7 +21,7 @@ A set of living build guides for two players (a husband and his wife) in The Eld
 - CP ~1093 and climbing (was 1039 earlier; check before writing CP tables)
 - Main: **Magicka Dragonknight**, pure class (uses Class Mastery, no subclassing)
 - Alts in progress: Stamina Warden, Magicka Sorcerer
-- **Prefers two staves** over dual wield. Staff is ~1–3% behind daggers depending on class; he's accepted that trade for ranged uptime. Don't keep re-pitching dual wield.
+- **Prefers two staves** over dual wield. Staff is ~1–3% behind daggers depending on class; he's accepted that trade for ranged uptime. Don't keep re-pitching dual wield. *(A dual-wield "no two staves" variant was added to the magDK guide 2026-08-12 by his explicit request — daggers front + medium armor, ~identical parse, a bit tankier. That's his call, documented as an option; the two-staff setup stays the default and this is not license to re-pitch daggers elsewhere.)*
 - Two-bar rotations are fine. Long priority lists are a barrier — structure rotations as sweeps, not 12-step lists.
 - Has scribing (Gold Road), Armory Assistant addon, all eight companions at max rapport
 - Owns: Pale Order, Order's Wrath, Deadly Strike, Slimecraw, Prowler's Talisman (partially upgraded)

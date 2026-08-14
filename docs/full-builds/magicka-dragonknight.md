@@ -3,6 +3,7 @@
 
 **Character:** Magicka Dragonknight, pure class (no subclass), Class Mastery active
 **Philosophy:** Kick ass and don't die. Damage that heals you, layered mitigation, sustain trivialized by Soul of Flame.
+**Weapon note:** the main build runs two staves (your ranged preference). Don't want two staves? A **dual-wield (melee) variant** — same skills, daggers front, ~identical damage, a bit tankier — is at the end of the Solo PvE section.
 
 > **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes solo MagDK build (soloed vet HM Fang Lair / Scalecaller Peak). The Trials section is the same author's group "Breath DK" adapted — verify bars in-game. The PvP section is verified against Alcast's U50 Mag DK "Blaze" build — but PvP set metas rotate every season, so confirm the current pieces in-game before spending gold.
 
@@ -89,6 +90,32 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for the nastiest fights (only −5% damage!)
 **Food:** Bewitched Sugar Skulls. **Potions:** Armor potions (Bugloss + Mountain Flower + Mudcrab Chitin) — Soul of Flame covers all sustain.
 **Race note:** Nord is the author's pick for vet HM soloing (~5–7% mitigation); Dark Elf/High Elf/Khajiit are +3.5% damage if you'd rather kick more ass than not die.
+
+### Dual-Wield variant — "no two staves"
+
+Don't want to run two staves? Here's the same build with a **dual-dagger front bar** (melee). It parses about the same (~71.6k): daggers are ~2.3% ahead of an inferno-staff front, and this variant runs **Medium armor**, which trades roughly that much back for survivability. **Net: essentially identical damage, a little tankier — the real change is melee instead of ranged.**
+
+**Only two things change from the main solo build above. Everything else — the five front-bar skills, the whole back bar, the rotation, Class Mastery, CP, race/mundus/food — is identical.**
+
+**1. Front bar → dual daggers** (same skills: Molten Whip, Searing Claw, Disintegrating Dragonfire, Soul of Flame, Ulfsild's). Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** — that off-hand Absorb Stamina directly helps your one known sustain gap.
+
+**2. Armor → Medium** (1 Light / 6 Medium) for the tankier profile:
+
+| Slot | Weight | Trait | Enchant | Set |
+|---|---|---|---|---|
+| Head | Light | Divines | Magicka | Valkyn Skoria (Slimecraw overland) |
+| Shoulders | Medium | Divines | Magicka | Pyrebrand |
+| Chest | Medium | Divines | Magicka | Sul-Xan's Torment |
+| Hands | Medium | Divines | Magicka | Pyrebrand |
+| Belt | Medium | Divines | Magicka | Pyrebrand |
+| Legs | Medium | Divines | Magicka | Pyrebrand |
+| Feet | Medium | Divines | Magicka | Pyrebrand |
+| Necklace + Ring 1 | — | Bloodthirsty | Increase Magical Harm | Sul-Xan's Torment |
+| Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
+| Front (2 daggers) | — | Charged | Poison + Absorb Stamina | Sul-Xan's Torment |
+| Back bar | — | Infused | Weapon Damage | Crushing Wall **ice staff** |
+
+*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs). "No two staves" here = daggers front, one ice staff back; a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. A Light-armor version of this does ~2% more damage but is squishier — Medium is the pick for hard content. Overland: swap Valkyn Skoria → Slimecraw and the ice staff → inferno.*
 
 ---
 
