@@ -13,9 +13,13 @@ Two ways to play, two sets of guides:
 
 ## Full builds
 
-- [Magicka Dragonknight](full-builds/magicka-dragonknight.md) — the main
-- [Stamina Warden](full-builds/stamina-warden.md) — bow-viable
-- [Magicka Sorcerer](full-builds/magicka-sorcerer.md) — staff-viable
+- **Magicka Dragonknight** — the main · [Melee](full-builds/magicka-dragonknight.md) · [Ranged (Two Staves)](full-builds/magicka-dragonknight-ranged.md)
+- **Stamina Warden** · [Melee](full-builds/stamina-warden.md) · [Bow](full-builds/stamina-warden-bow.md)
+- **Magicka Sorcerer** · [Melee](full-builds/magicka-sorcerer.md) · [Ranged (Two Staves)](full-builds/magicka-sorcerer-ranged.md)
+- [Arcanist](full-builds/arcanist.md) — Stamina, melee Fatecarver beam
+- [Nightblade](full-builds/nightblade.md) — Stamina, melee, self-heal engine
+- [Templar](full-builds/templar.md) — Stamina, melee Jabs, best-in-class healing
+- [Necromancer](full-builds/necromancer.md) — Magicka, corpse-explosion engine
 - [Werewolf](full-builds/werewolf.md) — Werewolf Berserker, solo/group DPS
 
 ## One-bar builds
@@ -23,12 +27,16 @@ Two ways to play, two sets of guides:
 - [Dragonknight](one-bar-builds/one-bar-dragonknight.md) — breathe fire, don't die
 - [Pet Sorcerer](one-bar-builds/one-bar-sorcerer.md) — lightning staff + pets + heavy attacks
 - [Arcanist](one-bar-builds/one-bar-arcanist.md) — beam everything
+- [Nightblade](one-bar-builds/one-bar-nightblade.md) — Swallow Soul forever, heals baked in
+- [Templar](one-bar-builds/one-bar-templar.md) — Jabs heals her; the most forgiving bar
+- [Necromancer](one-bar-builds/one-bar-necromancer.md) — a ghost, a skeleton, and corpse blasts
 - [Bow Warden (2-bar)](one-bar-builds/warden-bow-two-bar.md) — ranged, easy bars *(the one two-bar exception)*
 - [Werewolf](one-bar-builds/werewolf.md) — Pack Leader; the wolves fight for her
 
 ## Reference
 
 - [Companions](shared/companions.md) — all eight, verified bars and gear
+- [Race & Class Pairings](shared/races.md) — best race per class, and class per race (the smallest dial)
 - [Farming](notes/farming.md) — gathering, chests, troves, surveys
 - [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands
 - [Glossary](glossary.md) — plain-language definitions for the jargon

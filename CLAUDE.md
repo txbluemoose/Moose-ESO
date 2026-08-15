@@ -21,7 +21,7 @@ A set of living build guides for two players (a husband and his wife) in The Eld
 - CP ~1093 and climbing (was 1039 earlier; check before writing CP tables)
 - Main: **Magicka Dragonknight**, pure class (uses Class Mastery, no subclassing)
 - Alts in progress: Stamina Warden, Magicka Sorcerer
-- **Prefers two staves** over dual wield. Staff is ~1–3% behind daggers depending on class; he's accepted that trade for ranged uptime. Don't keep re-pitching dual wield. *(A dual-wield "no two staves" variant was added to the magDK guide 2026-08-12 by his explicit request — daggers front + medium armor, ~identical parse, a bit tankier. That's his call, documented as an option; the two-staff setup stays the default and this is not license to re-pitch daggers elsewhere.)*
+- **Plays melee — up close, all content, survivability first.** Dual daggers / medium armor is the household default for his characters; staff or bow is the *ranged option*, not the default. Each melee full-build guide has a separate ranged/bow sibling for when he wants range (Mag DK → Ranged, Mag Sorc → Ranged, Stam Warden → Bow). *(This reverses an earlier note that had him "preferring two staves." Determined 2026-08-15 via an explicit playstyle pass — he normally plays up close — and the Full Builds were restructured to melee-main + ranged-variant to match. Don't re-pitch two staves as the default; it's the documented alternative now, not the baseline.)*
 - Two-bar rotations are fine. Long priority lists are a barrier — structure rotations as sweeps, not 12-step lists.
 - Has scribing (Gold Road), Armory Assistant addon, all eight companions at max rapport
 - Owns: Pale Order, Order's Wrath, Deadly Strike, Slimecraw, Prowler's Talisman (partially upgraded)
@@ -86,7 +86,7 @@ These were all gotten wrong in the original session. They are the highest-value 
 - [ ] Warden and Sorc trials sections deliberately point to live group builds rather than guessing rotations
 - [x] Arcanist Class Mastery picks locked in — Unbound Potential + Erudite's Rigor (verified vs ESO-Hub/Alcast, U50) — done 2026-08-12
 - [x] Werewolf guides added for both players — split into two: `full-builds/werewolf.md` (Werewolf Berserker, him) and `one-bar-builds/werewolf.md` (Pack Leader, her) — done 2026-08-12. NOTE: the werewolf line was reworked in U50; skills are flagged "confirm morphs in-game," and the 5th form-bar slot is intentionally left to the live Hyperioxes build rather than guessed. Don't "fix" that flag — it's correct caution, not laziness.
-- [ ] Possible future guides: Nightblade, Templar, Necromancer (one full + one cheat sheet per session is the sustainable pace)
+- [x] Nightblade, Templar, Necromancer added (husband full + wife one-bar for each) plus a husband full Arcanist — done 2026-08-15. **All seven classes are now covered for both players.** Specs: NB Stam melee (his) / Mag staff one-bar (hers); Templar Stam Jabs melee w/ Mag Sweep alt (his) / Mag Sweep one-bar (hers); Necro Mag Corpseburster (his, Stam sibling noted) / Mag staff pets one-bar (hers); Arcanist Stam melee full (his). A handful of morphs carry "confirm in-game" flags where sources couldn't be fully pinned.
 - [ ] Considered and rejected: a thieving-optimized loadout doc (Night's Silence + Legerdemain passives + green CP). Revisit if he asks.
 
 ## Things that have come up and been settled
