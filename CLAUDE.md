@@ -86,7 +86,7 @@ These were all gotten wrong in the original session. They are the highest-value 
 - [ ] Warden and Sorc trials sections deliberately point to live group builds rather than guessing rotations
 - [x] Arcanist Class Mastery picks locked in — Unbound Potential + Erudite's Rigor (verified vs ESO-Hub/Alcast, U50) — done 2026-08-12
 - [x] Werewolf guides added for both players — split into two: `full-builds/werewolf.md` (Werewolf Berserker, him) and `one-bar-builds/werewolf.md` (Pack Leader, her) — done 2026-08-12. NOTE: the werewolf line was reworked in U50; skills are flagged "confirm morphs in-game," and the 5th form-bar slot is intentionally left to the live Hyperioxes build rather than guessed. Don't "fix" that flag — it's correct caution, not laziness.
-- [ ] Possible future guides: Nightblade, Templar, Necromancer (one full + one cheat sheet per session is the sustainable pace)
+- [x] Nightblade, Templar, Necromancer added (husband full + wife one-bar for each) plus a husband full Arcanist — done 2026-08-15. **All seven classes are now covered for both players.** Specs: NB Stam melee (his) / Mag staff one-bar (hers); Templar Stam Jabs melee w/ Mag Sweep alt (his) / Mag Sweep one-bar (hers); Necro Mag Corpseburster (his, Stam sibling noted) / Mag staff pets one-bar (hers); Arcanist Stam melee full (his). A handful of morphs carry "confirm in-game" flags where sources couldn't be fully pinned.
 - [ ] Considered and rejected: a thieving-optimized loadout doc (Night's Silence + Legerdemain passives + green CP). Revisit if he asks.
 
 ## Things that have come up and been settled
