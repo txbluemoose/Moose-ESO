@@ -26,7 +26,8 @@ Two ways to play, two sets of guides:
 
 - [Dragonknight](one-bar-builds/one-bar-dragonknight.md) — breathe fire, don't die
 - [Pet Sorcerer](one-bar-builds/one-bar-sorcerer.md) — lightning staff + pets + heavy attacks
-- [Arcanist](one-bar-builds/one-bar-arcanist.md) — beam everything
+- [Arcanist — Stamina](one-bar-builds/one-bar-arcanist.md) — beam everything, daggers
+- [Arcanist — Magicka](one-bar-builds/one-bar-arcanist-magicka.md) — beam everything, staff
 - [Nightblade](one-bar-builds/one-bar-nightblade.md) — Swallow Soul forever, heals baked in
 - [Templar](one-bar-builds/one-bar-templar.md) — Jabs heals her; the most forgiving bar
 - [Necromancer](one-bar-builds/one-bar-necromancer.md) — a ghost, a skeleton, and corpse blasts
