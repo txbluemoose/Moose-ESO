@@ -36,6 +36,7 @@ Two ways to play, two sets of guides:
 ## Reference
 
 - [Companions](shared/companions.md) — all eight, verified bars and gear
+- [Race & Class Pairings](shared/races.md) — best race per class, and class per race (the smallest dial)
 - [Farming](notes/farming.md) — gathering, chests, troves, surveys
 - [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands
 - [Glossary](glossary.md) — plain-language definitions for the jargon
