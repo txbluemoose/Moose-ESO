@@ -67,7 +67,9 @@ nav:
   - One-Bar Builds:
       - Dragonknight: one-bar-builds/one-bar-dragonknight.md
       - Pet Sorcerer: one-bar-builds/one-bar-sorcerer.md
-      - Arcanist: one-bar-builds/one-bar-arcanist.md
+      - Arcanist:
+          - Stamina (daggers): one-bar-builds/one-bar-arcanist.md
+          - Magicka (staff): one-bar-builds/one-bar-arcanist-magicka.md
       - Nightblade: one-bar-builds/one-bar-nightblade.md
       - Templar: one-bar-builds/one-bar-templar.md
       - Necromancer: one-bar-builds/one-bar-necromancer.md
