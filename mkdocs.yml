@@ -60,11 +60,17 @@ nav:
           - Melee: full-builds/magicka-sorcerer.md
           - Ranged (Two Staves): full-builds/magicka-sorcerer-ranged.md
       - Arcanist: full-builds/arcanist.md
+      - Nightblade: full-builds/nightblade.md
+      - Templar: full-builds/templar.md
+      - Necromancer: full-builds/necromancer.md
       - Werewolf: full-builds/werewolf.md
   - One-Bar Builds:
       - Dragonknight: one-bar-builds/one-bar-dragonknight.md
       - Pet Sorcerer: one-bar-builds/one-bar-sorcerer.md
       - Arcanist: one-bar-builds/one-bar-arcanist.md
+      - Nightblade: one-bar-builds/one-bar-nightblade.md
+      - Templar: one-bar-builds/one-bar-templar.md
+      - Necromancer: one-bar-builds/one-bar-necromancer.md
       - Bow Warden (2-bar): one-bar-builds/warden-bow-two-bar.md
       - Werewolf: one-bar-builds/werewolf.md
   - Companions: shared/companions.md
