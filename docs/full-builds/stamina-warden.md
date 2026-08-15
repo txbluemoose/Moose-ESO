@@ -4,6 +4,7 @@
 **Character:** Stamina Warden, pure class (no subclass), Class Mastery active
 **Verified against:** Hyperioxes U50 Stamina Warden Solo Build (June 2026) — soloed Veteran Dread Cellar, parses 72.8k
 **Philosophy:** Status-effect engine. Everything you cast procs Burning/Chilled/Concussed/Poisoned, and your Class Masteries convert those procs into raw damage and healing. Bull Netch constantly purges debuffs off you — some fights get dramatically easier just from that.
+**Weapon note:** this is the **melee** Stam Warden — dual daggers, up close. Want to fight at range with real bow skills instead? That's a dedicated guide → [Stamina Warden — Bow](stamina-warden-bow.md).
 
 ---
 
@@ -19,7 +20,7 @@
 
 ### Base Setup
 
-| Front Bar (Daggers / Bow*) | Back Bar (Ice Staff) |
+| Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
 | 1. Wield Soul (scribed: Bleed / Druid's Resurgence / Resolve) | 1. Lotus Blossom (morph of Lotus Flower, *Green Balance*) |
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
@@ -39,7 +40,7 @@
 - **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed every 7.5s, feeding Wild Adaptation stacks, plus Minor Vulnerability and Minor Maim via the procs
 - **Every Animal Companions skill slotted = +5% crit damage each** (Advanced Species passive) — that's why Wild Guardian just sits there
 
-*\*Weapons: Dual daggers are baseline. **Bow front bar is only −4.8%** and this build uses zero weapon-line front bar skills, so your bow Warden concept works with no skill changes at all. Lightning staff (−2.8%) and Inferno (−3.0%) also fine.*
+*\*Dual daggers are the default (best damage, up-close). Want to fight at range with real bow skills? That's a separate guide → [Stamina Warden — Bow](stamina-warden-bow.md), which leans into Poison Injection / Endless Hail / Cutting Dive. (A plain bow front bar on *this* build is only −4.8% and needs zero skill changes, since it runs no weapon-line front-bar skills. Lightning staff −2.8%, Inferno −3.0%.)*
 
 ### Situational swaps (drop Winter's Revenge first, then Arctic Blast)
 - **Resolving Vigor** (*Alliance War > Assault*) — burst-damage fights; replaces Soul Burst (both give Minor Resolve)
@@ -74,7 +75,7 @@
 | Boots | Medium | Divines | Stamina | Aerie's Cry | |
 | Necklace + Ring 1 | — | Bloodthirsty | Physical Harm | Sul-Xan's Torment | Rockgrove |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | the unkillable button |
-| Front bar | — | Charged | Poison + Shock | Sul-Xan daggers (or **Bow**) | your call |
+| Front bar | — | Charged | Poison + Shock | Sul-Xan daggers | melee default |
 | Back bar | — | Infused | Weapon Damage | Crushing Wall Ice Staff | vMA |
 
 *For instanced content, shift Hands + Boots (or any two Medium slots) to Light for the 4/3 split. In-game tooltips override — confirm on your bar.*

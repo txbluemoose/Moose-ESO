@@ -4,6 +4,7 @@
 **Character:** Magicka Sorcerer, pure class (no subclass), Class Mastery active
 **Verified against:** Hyperioxes U50 Magicka Sorcerer Solo Build, revised **July 8, 2026** (three days ago — this is as current as it gets). Soloed Veteran Bedlam Veil, parses 67.6k.
 **Philosophy:** A self-healing lightning engine. Critical Surge heals you every second you crit, Conservation of Energy makes Blood Magic proc every second, and Pale Order stacks on top of everything. Staying alive is rarely something you think about — Static Reverberation just melts things once they drop below half health.
+**Weapon note:** this is the **melee** Mag Sorc — dual daggers, up close. Prefer to stay at range? The **ranged (two staves)** variant is only −1.2% behind → [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md).
 
 ---
 
@@ -13,7 +14,7 @@
 |---|---|---|
 | Default (daggers) | **Static Reverberation** (chance-on-damage shock proc that scales with the target's missing health — huge in execute) | **Conservation of Energy** (Blood Magic works on every costed ability + refunds magicka AND stamina — your sustain engine) |
 | Need survivability | **Calculated Defense** replaces Static Reverberation (max-health shield on every cast) | Conservation of Energy |
-| Staff front bar | **Font of Power** replaces Conservation of Energy (see staff variant below) | Static Reverberation |
+| Staff front bar | **Font of Power** replaces Conservation of Energy (see the [Ranged guide](magicka-sorcerer-ranged.md)) | Static Reverberation |
 
 ---
 
@@ -30,7 +31,7 @@
 | 5. Ulfsild's Contingency (scribed: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (*Fighters Guild*) — Minor Force |
 | **Ult: Power Overload — parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** — the real ultimate; constant Concussion → Minor Vulnerability |
 
-*\*Your staff option: **Lightning Staff front bar is only −1.2%** — the best ranged weapon in the table. Swap Traveling Knife → Wield Soul (scribed), switch Conservation of Energy → Font of Power, and use Orzorga's Smoked Bear Haunch food. Bow is −2.9%, Inferno −3.1%. Given your two-staff preference, double lightning staves is a completely legitimate way to run this.*
+*\*Dual daggers are the default (best damage, up-close). Prefer to stay at range? A **lightning-staff front bar is only −1.2%** — the smallest weapon penalty of any of these builds — and the swaps that come with it (Wield Soul, Font of Power, Bear Haunch food) are spelled out in the separate [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md) guide. Bow is −2.9%, Inferno −3.1%.*
 
 ### Situational swaps (Liquid Lightning goes first unless noted)
 - **Resolving Vigor** (*Alliance War > Assault*) — burst-damage fights; replaces Ulfsild's (both give Minor Resolve)
@@ -64,7 +65,7 @@
 | Boots | Light | Divines | Magicka | Beacon of Oblivion | |
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment | |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | |
-| Front bar | — | Charged | Poison + Flame | Sul-Xan daggers (or Lightning Staff) | |
+| Front bar | — | Charged | Poison + Flame | Sul-Xan daggers | melee default |
 | Back bar | — | Infused | Weapon Damage | Crushing Wall Lightning Staff | vMA |
 
 *For instanced, shift Chest and Legs to Light and use the Light Valkyn Skoria helm for the 6/1 split. In-game tooltips override — confirm on your bar.*

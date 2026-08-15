@@ -3,7 +3,7 @@
 
 **Character:** Magicka Dragonknight, pure class (no subclass), Class Mastery active
 **Philosophy:** Kick ass and don't die. Damage that heals you, layered mitigation, sustain trivialized by Soul of Flame.
-**Weapon note:** the main build runs two staves (your ranged preference). Don't want two staves? A **dual-wield (melee) variant** — same skills, daggers front, ~identical damage, a bit tankier — is at the end of the Solo PvE section.
+**Weapon note:** the main build is **melee — dual daggers front bar, medium armor**. It's how you actually play: up close, all content, survivability first. Prefer to stay at range instead? The **ranged (two staves) variant** is a separate guide → [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).
 
 > **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes solo MagDK build (soloed vet HM Fang Lair / Scalecaller Peak). The Trials section is the same author's group "Breath DK" adapted — verify bars in-game. The PvP section is verified against Alcast's U50 Mag DK "Blaze" build — but PvP set metas rotate every season, so confirm the current pieces in-game before spending gold.
 
@@ -26,7 +26,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 ### Skills — Base Setup
 
-| Front Bar (Inferno Staff*) | Back Bar (Ice Staff) |
+| Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
 | 1. Molten Whip (morph of Lava Whip) | 1. Shatterspike Mantle (morph of Earthspike Mantle) |
 | 2. Searing Claw (morph of Searing Strike) | 2. Incinerate (morph of Inferno) |
@@ -35,7 +35,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 | 5. Ulfsild's Contingency (scribed: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons) |
 | **Ult:** Take Flight (morph of Dragon Leap) | **Ult:** Standard of Might |
 
-*\*Dual daggers are technically best; Inferno Staff front bar is only ~2.3% behind and fits your two-staff setup. Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle.*
+*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
 
 **Morph notes for your "don't die" goal:**
 - **Burning Embers** (other morph of Searing Claw) heals on cast and every DoT tick — swap it in over Searing Claw whenever you want more healing. Slightly less damage.
@@ -62,44 +62,7 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 
 ### Gear — Solo
 
-**Armor weight: 5 Light / 1 Medium / 1 Heavy.** Light pieces give Concentration (penetration) and Prodigy (crit) — the biggest passive damage gains for a magicka build. The single Medium and single Heavy exist to trigger **Undaunted Mettle**, which grants max health/magicka/stamina for *each* armor weight worn — having all three beats an extra light piece. Survivability variant: 4 Light / 2 Medium / 1 Heavy, Reinforced trait on the heavy piece.
-
-| Slot | Weight | Trait | Enchant | Overland | Instanced (dungeons/arenas) |
-|---|---|---|---|---|---|
-| Head | Medium | Divines | Magicka | Slimecraw | Valkyn Skoria |
-| Shoulders | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
-| Chest | Heavy | Divines | Magicka | Sul-Xan's Torment | Sul-Xan's Torment |
-| Hands | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
-| Belt | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
-| Legs | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
-| Boots | Light | Divines | Magicka | Pyrebrand | Pyrebrand |
-| Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment | same |
-| Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | **Ring of the Pale Order** |
-| Front bar | — | Charged | Poison | Sul-Xan weapon(s) | same |
-| Back bar | — | Infused | Weapon Damage | Crushing Wall Inferno Staff | Crushing Wall **Ice** Staff |
-
-*Chest is the natural Heavy slot (biggest armor value from the weight) but any single slot works — put Heavy wherever your set pieces land. In-game tooltips override — confirm on your bar.*
-
-**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Valkyn Skoria = vet City of Ash II. Crushing Wall = Maelstrom Arena staff.
-
-**Fallback ladder (you don't need trial gear):**
-- Body: Pyrebrand → Tzogvin's Warband (Frostvault, −4%) → **Order's Wrath (−4 to −6%, you own it)** → Tide-Born Wildstalker
-- Weapons/jewelry: Sul-Xan → Whorl of the Depths → Tzogvin's → Order's Wrath → **your Deadly Strike sits at −3.5 to −7% here — usable today, replace eventually**
-
-**Mundus:** The Thief (overland/light) → The Lover (instanced medium setup) → The Lady only for brutal content
-**Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for the nastiest fights (only −5% damage!)
-**Food:** Bewitched Sugar Skulls. **Potions:** Armor potions (Bugloss + Mountain Flower + Mudcrab Chitin) — Soul of Flame covers all sustain.
-**Race note:** Nord is the author's pick for vet HM soloing (~5–7% mitigation); Dark Elf/High Elf/Khajiit are +3.5% damage if you'd rather kick more ass than not die.
-
-### Dual-Wield variant — "no two staves"
-
-Don't want to run two staves? Here's the same build with a **dual-dagger front bar** (melee). It parses about the same (~71.6k): daggers are ~2.3% ahead of an inferno-staff front, and this variant runs **Medium armor**, which trades roughly that much back for survivability. **Net: essentially identical damage, a little tankier — the real change is melee instead of ranged.**
-
-**Only two things change from the main solo build above. Everything else — the five front-bar skills, the whole back bar, the rotation, Class Mastery, CP, race/mundus/food — is identical.**
-
-**1. Front bar → dual daggers** (same skills: Molten Whip, Searing Claw, Disintegrating Dragonfire, Soul of Flame, Ulfsild's). Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** — that off-hand Absorb Stamina directly helps your one known sustain gap.
-
-**2. Armor → Medium** (1 Light / 6 Medium) for the tankier profile:
+**Armor weight: 1 Light / 6 Medium.** Medium's Dexterity and Agility passives suit the dual-dagger melee setup, and the profile is a bit tankier than an all-light build — the pick for hard content. The single Light head still triggers a second **Undaunted Mettle** tier; swap one Medium piece to **Heavy (Reinforced)** if you'd rather have Mettle's third tier and more armor than a sliver of damage. A full-Light version of this does ~2% more damage but is squishier.
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
@@ -109,13 +72,28 @@ Don't want to run two staves? Here's the same build with a **dual-dagger front b
 | Hands | Medium | Divines | Magicka | Pyrebrand |
 | Belt | Medium | Divines | Magicka | Pyrebrand |
 | Legs | Medium | Divines | Magicka | Pyrebrand |
-| Feet | Medium | Divines | Magicka | Pyrebrand |
-| Necklace + Ring 1 | — | Bloodthirsty | Increase Magical Harm | Sul-Xan's Torment |
+| Boots | Medium | Divines | Magicka | Pyrebrand |
+| Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Front (2 daggers) | — | Charged | Poison + Absorb Stamina | Sul-Xan's Torment |
-| Back bar | — | Infused | Weapon Damage | Crushing Wall **ice staff** |
+| Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff |
 
-*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs). "No two staves" here = daggers front, one ice staff back; a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. A Light-armor version of this does ~2% more damage but is squishier — Medium is the pick for hard content. Overland: swap Valkyn Skoria → Slimecraw and the ice staff → inferno.*
+*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs); a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. Overland: swap Valkyn Skoria → Slimecraw and the ice staff → inferno. In-game tooltips override — confirm on your bar.*
+
+**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Valkyn Skoria = vet City of Ash II. Crushing Wall = Maelstrom Arena staff.
+
+**Fallback ladder (you don't need trial gear):**
+- Body: Pyrebrand → Tzogvin's Warband (Frostvault, −4%) → **Order's Wrath (−4 to −6%, you own it)** → Tide-Born Wildstalker
+- Weapons/jewelry: Sul-Xan → Whorl of the Depths → Tzogvin's → Order's Wrath → **your Deadly Strike sits at −3.5 to −7% here — usable today, replace eventually**
+
+**Mundus:** The Thief default → The Lover for the medium setup → The Lady only for brutal content
+**Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for the nastiest fights (only −5% damage!)
+**Food:** Bewitched Sugar Skulls. **Potions:** Armor potions (Bugloss + Mountain Flower + Mudcrab Chitin) — Soul of Flame covers all sustain.
+**Race note:** Nord is the author's pick for vet HM soloing (~5–7% mitigation); Dark Elf/High Elf/Khajiit are +3.5% damage if you'd rather kick more ass than not die.
+
+### Prefer to stay at range? → the Ranged variant
+
+Everything above is the **melee** build. If you'd rather fight from range — inferno staff front bar, Light armor, only ~2.3% behind — it's a separate guide with its own gear table: **[Magicka Dragonknight — Ranged (Two Staves)](magicka-dragonknight-ranged.md)**. Skills, rotation, Class Mastery, and CP are identical; only the front-bar weapon and armor weight change.
 
 ---
 
