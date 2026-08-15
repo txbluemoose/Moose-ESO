@@ -16,6 +16,7 @@ Two ways to play, two sets of guides:
 - **Magicka Dragonknight** — the main · [Melee](full-builds/magicka-dragonknight.md) · [Ranged (Two Staves)](full-builds/magicka-dragonknight-ranged.md)
 - **Stamina Warden** · [Melee](full-builds/stamina-warden.md) · [Bow](full-builds/stamina-warden-bow.md)
 - **Magicka Sorcerer** · [Melee](full-builds/magicka-sorcerer.md) · [Ranged (Two Staves)](full-builds/magicka-sorcerer-ranged.md)
+- [Arcanist](full-builds/arcanist.md) — Stamina, melee Fatecarver beam
 - [Werewolf](full-builds/werewolf.md) — Werewolf Berserker, solo/group DPS
 
 ## One-bar builds
