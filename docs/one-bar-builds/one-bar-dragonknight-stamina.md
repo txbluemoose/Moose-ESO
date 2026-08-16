@@ -88,9 +88,11 @@ Buy every passive in a line she has a skill slotted from:
 
 ## Champion Points — Spend Order to CP 1600
 
-~417 points per color at CP 1250; ~533 at 1600. Follow each table **top to bottom**. **SLOT** = one of her 4 active slots; everything else is passive once bought.
+~417 points per color at CP 1250; ~533 at 1600. **Each table is in the order she actually unlocks it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time she gets to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets her reach them, and fill the passives as she paths through. Exact node adjacency shifts a little with which stars she picks, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Deadly Aim · Thaumaturge · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
@@ -115,17 +117,19 @@ Buy every passive in a line she has a skill slotted from:
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Rejuvenation · Expert Evasion — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
 | 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | recovery — she has no Soul of Flame carrying sustain, so this matters |
-| 4 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun time |
-| 9 | Sprinter + Hasty | minimum points | connectors only |
+| 4 | Hero's Vigor | buy max | max health |
+| 5 | Tumbling | buy max | cheaper dodge rolls |
+| 6 | Sprinter + Hasty | minimum points | connectors only |
+| 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun time |
 | 10 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights |
 | 11 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
 | 12 | Celerity | buy (50), swap option | movement fights |
@@ -133,6 +137,8 @@ Buy every passive in a line she has a skill slotted from:
 *1–9 ≈ the 1250 budget; 10–12 take her to 1600.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

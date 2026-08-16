@@ -146,9 +146,11 @@ DK came out of the U49/U50 rework strong — community consensus puts it among t
 
 ## 4. Champion Points — Spend Order (1200 → 1800)
 
-At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — individual star costs vary, so trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else works passively once purchased.
+At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the 4 active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Master-at-Arms · Deadly Aim · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
@@ -173,17 +175,19 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Celerity · Expert Evasion — Boundless Vitality and Fortified are central; Celerity and Expert Evasion sit deeper, so the connectors below come before them.
+
 | # | Star | Action | What it does for you |
 |---|---|---|---|
-| 1 | **Boundless Vitality** | **SLOT** (50) | max health |
-| 2 | **Fortified** | **SLOT** (50) | armor |
-| 3 | **Celerity** | **SLOT** (50) | movement speed (Soul of Flame already solved sustain, so utility here) |
-| 4 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun/fear time |
-| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 1 | **Boundless Vitality** | **SLOT** (50) | max health — central, take it first |
+| 2 | **Fortified** | **SLOT** (50) | armor — central |
+| 3 | Hero's Vigor | buy max | max health |
+| 4 | Tumbling | buy max | cheaper dodge rolls — also paths you outward |
+| 5 | Sprinter + Hasty | minimum points | connectors to reach the deeper stars below |
+| 6 | **Celerity** | **SLOT** (50) | movement speed (deeper star — reached via the connectors above; Soul of Flame already solved sustain, so utility here) |
+| 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls (deeper star) |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun/fear time (opens once Tumbling / Sprinter + Hasty are in) |
 | 10 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
 | 11 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights |
 | 12 | Rejuvenation / Siphoning Spells | buy (50), swap options | recovery if a fight out-drains Soul of Flame |
@@ -192,6 +196,8 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 *Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps you fill toward 1800. PvP slot: Boundless Vitality • Fortified • Pain's Refuge • Bastion.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

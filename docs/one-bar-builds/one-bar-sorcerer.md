@@ -83,9 +83,11 @@ Buy every passive in every line she uses; priorities if points are short (these 
 
 ## Champion Points — Spend Order to CP 1600
 
-~417 points per color at her 1250; ~533 at 1600. Follow each table **top to bottom**. **SLOT** = one of her 4 active slots; everything else is passive once bought.
+~417 points per color at her 1250; ~533 at 1600. **Each table is in the order she actually unlocks it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time she gets to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets her reach them, and fill the passives as she paths through. Exact node adjacency shifts a little with which stars she picks, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Weapons Expert · Backstabber · Deadly Aim · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
@@ -110,17 +112,19 @@ Buy every passive in every line she uses; priorities if points are short (these 
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Celerity · Bastion — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
 | 2 | **Fortified** | **SLOT** (50) | armor |
-| 3 | **Celerity** | **SLOT** (50) | movement speed — heavy attacks root her, speed between them matters |
-| 4 | **Bastion** | **SLOT** (50) | +15% shields — boosts Calculated Defense AND Hardened Ward |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun time |
-| 9 | Sprinter + Hasty | minimum points | connectors only |
+| 3 | Hero's Vigor | buy max | max health |
+| 4 | Tumbling | buy max | cheaper dodge rolls |
+| 5 | Sprinter + Hasty | minimum points | connectors only |
+| 6 | **Celerity** | **SLOT** (50) | movement speed — heavy attacks root her, speed between them matters |
+| 7 | **Bastion** | **SLOT** (50) | +15% shields — boosts Calculated Defense AND Hardened Ward |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun time |
 | 10 | Rejuvenation | buy (50), swap option | recovery (heavy attacks mostly cover sustain already) |
 | 11 | Bloody Renewal | buy (50), swap option | resources on kills — delve farming |
 | 12 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
@@ -129,6 +133,8 @@ Buy every passive in every line she uses; priorities if points are short (these 
 *1–9 ≈ her 1250 budget; 10–13 take her to 1600.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

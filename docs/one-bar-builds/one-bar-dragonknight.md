@@ -109,9 +109,11 @@ Comes back when she drops the subclass. Buy all four — these are DK's resource
 
 ## Champion Points — Spend Order to CP 1600
 
-At CP 1250 she has ~417 points per color; at 1600 she'll have ~533. Follow each table **top to bottom** — individual star costs vary slightly, so trust the order, not the math. Stars marked **SLOT** go in her 4 active slots; everything else works passively once purchased.
+At CP 1250 she has ~417 points per color; at 1600 she'll have ~533. **Each table is in the order she actually unlocks it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time she gets to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets her reach them, and fill the passives as she paths through. Exact node adjacency shifts a little with which stars she picks, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Master-at-Arms · Biting Aura · Wrathful Strikes · Fighting Finesse — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
@@ -136,17 +138,19 @@ At CP 1250 she has ~417 points per color; at 1600 she'll have ~533. Follow each 
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Rejuvenation · Siphoning Spells — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
 | 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | resource recovery (her build has no sustain skill — this stays) |
-| 4 | **Siphoning Spells** | **SLOT** (50) | magicka back on kills |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less time stunned/feared |
-| 9 | Sprinter + Hasty | minimum points | just connectors to reach deeper stars |
+| 4 | Hero's Vigor | buy max | max health |
+| 5 | Tumbling | buy max | cheaper dodge rolls |
+| 6 | Sprinter + Hasty | minimum points | just connectors to reach deeper stars |
+| 7 | **Siphoning Spells** | **SLOT** (50) | magicka back on kills |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less time stunned/feared |
 | 10 | Bloody Renewal | buy (50), swap option | resources on kills — swap for Siphoning Spells in delve/trash farming |
 | 11 | Celerity | buy (50), swap option | speed — movement-heavy fights |
 | 12 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty boss swap |
@@ -155,6 +159,8 @@ At CP 1250 she has ~417 points per color; at 1600 she'll have ~533. Follow each 
 *Items 1–9 ≈ her 1250 budget. Items 10–13 fill her out to 1600.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

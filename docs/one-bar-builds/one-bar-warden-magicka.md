@@ -96,9 +96,11 @@ Rule of thumb: **buy every passive in every line she has a skill slotted from.**
 
 ## Champion Points — Spend Order to CP 1600
 
-At CP 1250 she has ~417 points per color; ~533 at 1600. Follow each table **top to bottom**. **SLOT** = one of her 4 active slots per tree; everything else is passive once bought.
+At CP 1250 she has ~417 points per color; ~533 at 1600. **Each table is in the order she actually unlocks it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time she gets to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets her reach them, and fill the passives as she paths through. Exact node adjacency shifts a little with which stars she picks, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Master-at-Arms · Thaumaturge · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
@@ -123,17 +125,19 @@ At CP 1250 she has ~417 points per color; ~533 at 1600. Follow each table **top 
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Rejuvenation · Bloody Renewal — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health (also scales Polar Wind) |
 | 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | recovery — she has no sustain skill besides Blue Betty, so this earns its slot |
-| 4 | **Bloody Renewal** | **SLOT** (50) | resources on kills |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun/fear time |
-| 9 | Sprinter + Hasty | minimum points | connectors only |
+| 4 | Hero's Vigor | buy max | max health |
+| 5 | Tumbling | buy max | cheaper dodge rolls |
+| 6 | Sprinter + Hasty | minimum points | connectors only |
+| 7 | **Bloody Renewal** | **SLOT** (50) | resources on kills |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun/fear time |
 | 10 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight out-drains her |
 | 11 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
 | 12 | Celerity | buy (50), swap option | movement fights |
@@ -141,6 +145,8 @@ At CP 1250 she has ~417 points per color; ~533 at 1600. Follow each table **top 
 *1–9 ≈ the 1250 budget; 10–12 take her to 1600. She genuinely leans on the recovery stars — unlike her husband, she has no Soul-of-Flame-style free sustain, so don't cut Rejuvenation.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

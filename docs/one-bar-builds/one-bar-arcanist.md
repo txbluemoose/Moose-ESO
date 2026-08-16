@@ -85,9 +85,11 @@ Buy every passive in lines with a slotted skill; priorities if short:
 
 ## Champion Points — Spend Order to CP 1600
 
-~417 points per color at CP 1250; ~533 at 1600. Follow each table **top to bottom**. **SLOT** = one of the 4 active slots; everything else is passive once bought.
+~417 points per color at CP 1250; ~533 at 1600. **Each table is in the order she actually unlocks it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time she gets to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets her reach them, and fill the passives as she paths through. Exact node adjacency shifts a little with which stars she picks, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Biting Aura · Thaumaturge · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
@@ -112,17 +114,19 @@ Buy every passive in lines with a slotted skill; priorities if short:
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Rejuvenation · Bastion — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
-| 2 | **Bastion** | **SLOT** (50) | +15% shields — directly buffs the Fatecarver shield she lives inside |
+| 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | recovery |
-| 4 | **Fortified** | **SLOT** (50) | armor |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun time (stuns are this build's weakness) |
-| 9 | Sprinter + Hasty | minimum points | connectors only |
+| 4 | Hero's Vigor | buy max | max health |
+| 5 | Tumbling | buy max | cheaper dodge rolls |
+| 6 | Sprinter + Hasty | minimum points | connectors only |
+| 7 | **Bastion** | **SLOT** (50) | +15% shields — directly buffs the Fatecarver shield she lives inside |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun time (stuns are this build's weakness) |
 | 10 | Sustained by Suffering | buy (50), swap option | debuff-heavy fights (in for Rejuvenation) |
 | 11 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
 | 12 | Celerity | buy (50), swap option | movement fights |
@@ -131,6 +135,8 @@ Buy every passive in lines with a slotted skill; priorities if short:
 *1–9 ≈ the 1250 budget; 10–13 take her to 1600.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

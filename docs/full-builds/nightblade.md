@@ -149,9 +149,11 @@ Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exac
 
 ## 5. Champion Points — Spend Order (1200 → 1800)
 
-At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — star costs vary, so trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else works passively once purchased.
+At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Master-at-Arms · Deadly Aim · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
@@ -176,17 +178,19 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Rejuvenation · Expert Evasion — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for you |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
 | 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | recovery — kept slotted for *you specifically*: unlike your DK (Soul of Flame solved sustain), your history says keep a recovery star even though Leeching does the heavy lifting |
-| 4 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls — your melee panic button |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun/fear time |
-| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 4 | Hero's Vigor | buy max | max health |
+| 5 | Tumbling | buy max | cheaper dodge rolls |
+| 6 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls — your melee panic button |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun/fear time |
 | 10 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy farming |
 | 11 | Siphoning Spells | buy (50), swap option | extra magicka return if a fight out-drains Leeching |
 | 12 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
@@ -195,6 +199,8 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 *Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800. PvP slot: Boundless Vitality • Fortified • Pain's Refuge • Bastion.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|

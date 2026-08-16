@@ -134,11 +134,13 @@ Necromancer PvP wants burst, hard CC, and a bigger health pool than PvE. Your Co
 
 ## 5. Champion Points — Spend Order (1200 → 1800)
 
-At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — star costs vary, so trust the order, not the math. **SLOT** = one of your 4 active slots per tree; everything else works passively once bought.
+At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the 4 active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
 
 *Necromancer note: unlike your DK, this build is a genuine **half-DoT** kit (Detonating Siphon tether, Avid Boneyard, Deadly Cloak, Endless Hail), so **Thaumaturge earns its slot here** — don't copy the DK's "skip Thaumaturge" ruling.*
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Master-at-Arms · Thaumaturge · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
@@ -163,17 +165,19 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Celerity · Expert Evasion — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for you |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health (and Cycle Unending turns that health into damage) |
 | 2 | **Fortified** | **SLOT** (50) | armor |
-| 3 | **Celerity** | **SLOT** (50) | movement speed |
-| 4 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun/fear time |
-| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 3 | Hero's Vigor | buy max | max health |
+| 4 | Tumbling | buy max | cheaper dodge rolls |
+| 5 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 6 | **Celerity** | **SLOT** (50) | movement speed |
+| 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun/fear time |
 | 10 | Rejuvenation / Siphoning Spells | buy (50), swap options | recovery if a fight out-drains you — your realistic answer to the stamina gremlin here |
 | 11 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
 | 12 | Bloody Renewal | buy (50), swap option | stamina on kills — add-heavy fights, and another sustain lever |
@@ -182,6 +186,8 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 *Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps you fill toward 1800.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|
