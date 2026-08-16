@@ -12,7 +12,7 @@
 
 ## 0. Class Mastery (pick 2 — stay pure class)
 
-Subclassing disables the Class Mastery system entirely, and you'd lose both mastery passives — never propose it. You pick **2 of 5**.
+Subclassing disables the Class Mastery system entirely, and you'd lose both mastery passives — never propose it. You pick **2**.
 
 | Mode | Mastery 1 | Mastery 2 | Situational swap |
 |---|---|---|---|
@@ -90,7 +90,7 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 | Front (2 daggers) | — | Charged / Nirnhoned | Poison + Absorb Stamina | Deadly Strike |
 | Back bar (Two-Hander) | — | Infused | Weapon Damage | Maelstrom Greatsword (Merciless Charge) |
 
-*The split: **Deadly Strike** = 2 daggers + 2 jewelry + boots (5). It boosts **DoT, channel, and AoE damage by 15%** — and this build is almost entirely poison DoTs and bleeds (Venomous Claw, Noxious Breath, Stampede, Carve, Deadly Cloak), so Deadly Strike is near-BiS **and craftable, and you already own it**. **Order's Wrath** = 5 body (crit + crit damage, also craftable and owned). **Slimecraw** = 1pc monster helm. **Pale Order** = Ring 2, the mythic — a fixture, do not drop it in solo content. The back-bar **Maelstrom Greatsword** carries its own 2pc (Merciless Charge boosts Cleave/Carve) so it doesn't eat a body-set slot; until you farm it, craft the back-bar greatsword as Deadly Strike or Order's Wrath — you're running full 5+5 either way. In-game tooltips override.*
+*The split: **Deadly Strike** = 2 daggers + 2 jewelry + boots (5). It boosts **damage-over-time and channeled abilities by 15%** — and this build is almost entirely poison DoTs and bleeds (Venomous Claw, Noxious Breath, Stampede, Carve, Deadly Cloak), so Deadly Strike is near-BiS **and craftable, and you already own it**. **Order's Wrath** = 5 body (crit + crit damage, also craftable and owned). **Slimecraw** = 1pc monster helm. **Pale Order** = Ring 2, the mythic — a fixture, do not drop it in solo content. The back-bar **Maelstrom Greatsword** carries its own 2pc (Merciless Charge boosts Cleave/Carve) so it doesn't eat a body-set slot; until you farm it, craft the back-bar greatsword as Deadly Strike or Order's Wrath — you're running full 5+5 either way. In-game tooltips override.*
 
 **Fallback ladders (you don't need trial gear — the crafted setup clears everything):**
 - Body: Order's Wrath → Deadly Strike (double up if short) → Briarheart / Ancient Dragonguard (both stamina-friendly overland)

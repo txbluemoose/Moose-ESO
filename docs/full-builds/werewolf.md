@@ -22,7 +22,7 @@ When you transform you get a fixed 5-slot beast bar. Recommended slots:
 1. **Feral Pounce** (morph of Pounce, *Werewolf*) — gap-closer; restores 200 Stamina and builds **Fury** (which extends your time in form). Your engage.
 2. **Hircine's Rage** (morph of Hircine's Bounty, *Werewolf*) — your main self-heal (scales off max health), builds Fury, and while slotted passively grants Major Brutality/Sorcery + Minor Berserk.
 3. **Ferocious Roar** (morph of Roar, *Werewolf*) — fears nearby enemies (sets them Off Balance) + applies **Major Courage**, and gives a Feeding Frenzy synergy (+6% damage, Minor Force).
-4. **Claw Fury** (morph of Infectious Claws, *Werewolf* — U50 rework) — a **channeled** claw attack, ~5s cone; your main sustained damage. Being a channel, **Deadly Strike buffs it**, and with Pale Order + the Reaving Blows CP star it heals you as it ticks.
+4. **Claw Fury** (morph of Infectious Claws, *Werewolf* — U50 rework) — a **channeled** claw attack, ~5s cone; your main sustained damage. Being a channel, **Deadly Strike's 5-piece bonus buffs it — but note that the default gear table below runs Deadly at only 4 pieces (stat bonuses, no channel buff); use one of the gear footnote's 5-piece variants to actually turn that on.** With Pale Order + the Reaving Blows CP star it heals you as it ticks.
 5. **Fifth slot — confirm in-game.** The reworked line leaves one flex slot (a Pounce or Infectious Claws morph, or Piercing Howl). Slot whatever the live [Hyperioxes werewolf build](https://hyperioxes.com/eso/dps/werewolf-build) currently runs — the one piece worth checking on the bar rather than trusting a static list.
 
 **In-form ultimate:** re-pressing the transformation triggers **Fury Rampage** (your burst window — free ability costs, more damage).
@@ -48,7 +48,9 @@ Buy the Fighters Guild passives too (Slayer especially).
 
 ## Gear
 
-Werewolf can't bar-swap, so it's **one loadout**: armor + jewelry + equipped weapons' set bonuses all apply in form. Leans on **Deadly Strike** (buffs the Claw Fury channel and your bleeds), **Balorgh** (the classic werewolf monster set — it converts the huge ultimate you spend to transform into Weapon/Spell Damage + penetration), and **Ring of the Pale Order** (heals you from your own damage).
+Werewolf can't bar-swap, so it's **one loadout**: armor + jewelry + equipped weapons' set bonuses all apply in form. Runs **Deadly Strike** — but honestly: as tabled it's only **4 pieces** (2 weapons + 2 jewelry), which is stat set-bonuses only, *not* the 5-piece +15% channel/DoT buff for Claw Fury. To actually activate that, use one of the footnote variants (drop Balorgh to 1pc and add a Deadly body slot, or run the 5pc stam-trial-set option). Alongside it: **Balorgh** (the classic werewolf monster set — it converts the huge ultimate you spend to transform into Weapon/Spell Damage + penetration) and **Ring of the Pale Order** (heals you from your own damage).
+
+**Armor weight: 5 Medium / 1 Light (belt) / 1 Heavy (chest)** — the split triggers all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
@@ -65,6 +67,8 @@ Werewolf can't bar-swap, so it's **one loadout**: armor + jewelry + equipped wea
 | Weapons (2H or dual) | — | Nirnhoned / Charged | Weapon Damage / Poison | **Deadly Strike** |
 
 *Deadly Strike here is 2 weapons + 2 jewelry (4 pieces). For the full 5-piece, run Deadly Strike weapons + a 5-piece stam trial set (Aegis Caller / Sul-Xan) in place of Order's Wrath, or drop Balorgh to a 1-piece and add a Deadly Strike body slot. In-game tooltips override — confirm on the bar.*
+
+**Group content:** in grouped content with a healer, drop **Pale Order** for a damage ring (complete the 3rd Deadly Strike jewelry piece) — same as every other build in this repo.
 
 **Mundus:** The Thief (crit) → The Lover for penetration
 **Attributes:** 64 Stamina (shift to Health for the nastiest fights)
@@ -153,4 +157,4 @@ You catch Lycanthropy from a Werewolf world boss in **Bangkorai / Reaper's March
 
 ---
 
-*Sources: [Hyperioxes U50 Werewolf builds](https://hyperioxes.com/eso/dps/werewolf-build), [Alcast Werewolf Build (U50)](https://alcasthq.com/eso-werewolf-build-pve/), [ESO-Hub Werewolf guide](https://eso-hub.com/en/guides/becoming-a-werewolf). Line reworked in U50 — mechanics and morph choices are current, but confirm the exact form-bar morphs against the live builds and your in-game tooltips.*
+*Sources: [Hyperioxes U50 Werewolf builds](https://hyperioxes.com/eso/dps/werewolf-build), [Alcast Werewolf Build (U50)](https://alcasthq.com/eso-werewolf-build-pve/), [ESO-Hub Werewolf guide](https://eso-hub.com/en/guides/becoming-a-werewolf). Line reworked in U50 — mechanics and morph choices are current, but confirm the exact form-bar morphs against the live builds and your in-game tooltips. Revised 2026-08-16.*

@@ -37,6 +37,8 @@ Back bar: Bull Netch (from front) up, Lotus Blossom, Elemental Susceptibility, E
 
 Bow front, ice staff back. Leans on **Deadly Strike** (it buffs the bleeds/DoTs/channels this build is made of).
 
+**Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina damage passives; the single Light and Heavy pieces trigger all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
+
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
 | Head | Medium | Divines | Stamina | **Slimecraw** (monster 1pc) |
@@ -65,4 +67,4 @@ Bow front, ice staff back. Leans on **Deadly Strike** (it buffs the bleeds/DoTs/
 
 ---
 
-*Source: household Stamina Warden build + U50 bow-Warden skill lists (ArzyeL/Alcast), pure-class. In-game tooltips override.*
+*Source: household Stamina Warden build + U50 bow-Warden skill lists (ArzyeL/Alcast), pure-class. In-game tooltips override. Revised 2026-08-16.*

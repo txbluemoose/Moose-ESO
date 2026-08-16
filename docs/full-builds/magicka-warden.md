@@ -34,7 +34,7 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
 | 3. Fetcher Infection (morph of Swarm, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Blue Betty (morph of Betty Netch, *Animal Companions*) | 5. Enchanted Growth (morph of Nature's Grasp, *Green Balance*) |
+| 5. Blue Betty (morph of Betty Netch, *Animal Companions*) | 5. Enchanted Growth (morph of Fungal Growth, *Green Balance*) |
 | **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the Advanced Species crit-damage passive; you can summon the bear or leave it, but never spend ult on it* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, ramping +damage-done buff, and **Major Protection (−10% damage taken)** |
 
 **What each does:**
@@ -43,7 +43,7 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 - **Fetcher Infection** — a DoT that also applies **Minor Vulnerability** (+5% damage taken on the target), and every second cast hits 60% harder. Cheap, long, refresh on the blink.
 - **Polar Wind** — burst heal that **scales off your max Health**, not the target's — your panic button, and it gets stronger the tankier you build.
 - **Blue Betty** — magicka back over time (your sustain), **Major Sorcery** (spell damage), and every 5s it either purges a debuff off you or buffs your damage. This is why you don't need a sustain CP crutch.
-- **Ulfsild's Contingency** — scribed DoT that detonates on a delay; the Frost script keeps it on-theme. **No scribing?** Use **Fetcher Infection's sibling or Elemental Blockade uptime** — or slot **Deep Fissure** here and put **Screaming Cliff Racer** back — but the honest non-scribed answer is **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) for Major Resolve.
+- **Ulfsild's Contingency** — scribed DoT that detonates on a delay; the Frost script keeps it on-theme. **No scribing?** Slot **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) here instead — Major Resolve is a flat survivability gain and needs no scripts.
 - **Winter's Revenge** — ground DoT with an elevated status-proc chance; enormous when it's stacking Chilled procs (which feed Wild Adaptation).
 - **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed plus Major Breach and Minor Magickasteal. Its real job here is *feeding status effects* to Wild Adaptation and keeping Major Breach at near-100% uptime between Deep Fissure casts.
 - **Elemental Blockade** — ice ground DoT; with the ice staff it keeps everything Chilled (Minor Brittle via Glacial Presence passive).
@@ -77,15 +77,15 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 ## 2. GEAR
 
-**Armor weight: 1 Light / 6 Medium.** Medium's Dexterity and Agility passives suit the dual-dagger melee setup and the profile is tankier than all-Light — the right call for hard content. The single Light head still triggers a second **Undaunted Mettle** tier; swap one Medium piece to **Heavy (Reinforced)** if you'd rather have Mettle's third tier and more armor than a sliver of damage. On the **ranged staff variant**, flip to 5 Light / 1 Medium / 1 Heavy for the Light penetration/crit passives.
+**Armor weight: 1 Light / 6 Medium.** Medium's Dexterity and Agility passives suit the dual-dagger melee setup and the profile is tankier than all-Light — the right call for hard content. The single Light belt still triggers a second **Undaunted Mettle** tier; swap one Medium piece to **Heavy (Reinforced)** if you'd rather have Mettle's third tier and more armor than a sliver of damage. On the **ranged staff variant**, flip to 5 Light / 1 Medium / 1 Heavy for the Light penetration/crit passives.
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Light | Divines | Magicka | **Slimecraw** (1pc monster — Minor Berserk) |
+| Head | Medium | Divines | Magicka | **Slimecraw** (1pc monster — Minor Berserk) |
 | Shoulders | Medium | Divines | Magicka | Aerie's Cry |
 | Chest | Medium | Divines | Magicka | Sul-Xan's Torment |
 | Hands | Medium | Divines | Magicka | Aerie's Cry |
-| Belt | Medium | Divines | Magicka | Aerie's Cry |
+| Belt | **Light** | Divines | Magicka | Aerie's Cry |
 | Legs | Medium | Divines | Magicka | Aerie's Cry |
 | Boots | Medium | Divines | Magicka | Aerie's Cry |
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment |
@@ -130,6 +130,22 @@ Warden PvP translates well from this chassis. Verified directionally against **A
 **Sets (directional):** a Weapon/Spell-Damage-heavy survival frame — **Rallying Cry** back bar + a damage set you already own (**Deadly Strike** is a legitimate option), a monster set (**Balorgh** for ultimate-scaling burst), and a survival mythic. Note: builds that *subclass* are **not for you** — subclassing disables Class Mastery. Stick to pure-class-compatible references.
 
 *Source: [Alcast U50 Magicka Warden PvP](https://alcasthq.com/eso-magicka-warden-pvp-build/). Season metas rotate — the live page and in-game tooltips override.*
+
+---
+
+## Skill line passives — buy these with skill points
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if you're short:
+
+- **Animal Companions:** all — **Advanced Species** (+5% crit damage per slotted skill) is why five of your slots live here.
+- **Winter's Embrace:** all — Polar Wind, Winter's Revenge, and Northern Storm live here, and **Glacial Presence** feeds the Chilled/Brittle engine.
+- **Green Balance:** all — Enchanted Growth lives here.
+- **Dual Wield + Destruction Staff:** the flat-damage passives — both weapon lines are on your bars.
+- **Medium Armor:** all — the 6-Medium body is this build's chassis. **Light Armor:** Concentration (penetration), for the belt and the ranged staff variant.
+- **Undaunted:** Undaunted Mettle — HIGH.
+- **Fighters Guild:** Slayer — HIGH.
+- **Alchemy:** Medicinal Use (longer potion buffs).
+- **Racial:** all.
 
 ---
 

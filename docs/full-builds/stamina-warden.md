@@ -22,12 +22,12 @@
 
 | Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
-| 1. Wield Soul (scribed: Bleed / Druid's Resurgence / Resolve) | 1. Lotus Blossom (morph of Lotus Flower, *Green Balance*) |
+| 1. Wield Soul (scribed grimoire, *Soul Magic*; scripts: Bleed / Druid's Resurgence / Resolve) | 1. Lotus Blossom (morph of Lotus Flower, *Green Balance*) |
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
 | 3. Bull Netch (morph of Betty Netch, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Arctic Blast (morph of Arctic Wind, *Winter's Embrace*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Soul Burst (scribed: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed: Frost / Lingering Torment / Force) |
-| **Ult:** Wild Guardian (morph of Feral Guardian) — *slotted for the 5% crit damage passive only; never summon it, never spend ult on it* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage + damage done buff + **Major Protection (−10% damage taken)** |
+| 5. Soul Burst (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Force) |
+| **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the 5% crit damage passive only; never summon it, never spend ult on it* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage + damage done buff + **Major Protection (−10% damage taken)** |
 
 **What each does:**
 - **Wield Soul** — spammable that restores 600 Stam+Mag per cast AND provides Major Resolve. Sustain and armor from your spammable.
@@ -45,14 +45,19 @@
 ### Situational swaps (drop Winter's Revenge first, then Arctic Blast)
 - **Resolving Vigor** (*Alliance War > Assault*) — burst-damage fights; replaces Soul Burst (both give Minor Resolve)
 - **Living Trellis** (*Green Balance*) — spammable heal for sustained-pressure fights
-- **Shimmering Shield** (*Winter's Embrace*) — massive shield vs projectiles only; situational but absurd where it works
+- **Shimmering Shield** (morph of Crystallized Shield, *Winter's Embrace*) — massive shield vs projectiles only; situational but absurd where it works
 - **Silver Leash** (*Fighters Guild*) — chain/stack trash packs
 - **Ulfsild's with Gladiator's Tenacity script** — trades DoT for 8% damage reduction
 - **Revealing Flare** (*Alliance War > Support, rank 7*) — passive Major Protection for the hardest fights
 - **Precognition ult** (*Psijic Order*) — mandatory for a few solo-impossible stuns (Zaan etc.)
 
-### Rotation (priority list — recast whatever's expired, highest first)
-1. Lotus Blossom (refresh 1s early) → 2. Bull Netch (1s early) → 3. Elemental Susceptibility → 4. Elemental Blockade → 5. Deep Fissure → 6. Winter's Revenge → 7. Northern Storm when available → 8. Arctic Blast → 9. Ulfsild's (1s early) → 10. Soul Burst → 11. Wield Soul as filler
+### Rotation — a sweep, not a checklist
+Think of it as **"lay the ground, then live on the front bar."**
+
+1. **Back bar, top to bottom:** Lotus Blossom (refresh 1s early) → Bull Netch (1s early) → Elemental Susceptibility → Elemental Blockade → Winter's Revenge. Fire **Northern Storm** here when it's ready.
+2. **Swap to daggers.** Deep Fissure → Arctic Blast → Soul Burst → Ulfsild's (1s early).
+3. **Wield Soul as filler.** That's your spammable and light-attack weave.
+4. When the back-bar timers blink, swap back, re-sweep 1, swap forward. Repeat.
 
 **Pre-buff:** Lotus Blossom, Bull Netch, Arctic Blast, Soul Burst, Deep Fissure, Ulfsild's.
 
@@ -86,7 +91,7 @@
 - Body: Aerie's Cry → Aegis Caller (Unhallowed Grave, −3.9%) → Tide-Born Wildstalker (crafted, −5.5%) → Order's Wrath (crafted)
 - Weapons/jewelry: Sul-Xan → Whorl of the Depths → Aegis Caller → Symmetry of the Weald (West Weald overland) → Order's Wrath / Tide-Born (crafted, ~−5%)
 
-**Mundus:** The Thief default → The Lover with 6 Medium in instanced → The Lady for brutal content
+**Mundus:** The Thief default → The Lover for instanced content → The Lady for brutal content
 **Attributes:** 64 Stamina → 32/32 → 64 Health for the nastiest fights (only −4.7% damage)
 **Food:** Orzorga's Smoked Bear Haunch (Jewels of Misrule = budget). Full damage: Braised Rabbit + Tri-Stat/Heroism pots.
 **Potions:** Armor potions (Bugloss + Mountain Flower + Mudcrab Chitin) — 5,280 armor uptime
@@ -116,6 +121,22 @@ Warden PvP staples translate well from this kit. Verified against Alcast's U50 *
 **PvP CP:** Blue — Ironclad + Duelist's Rebuff in for Deadly Aim + Fighting Finesse. Red — Boundless Vitality, Fortified, Bastion (Shimmering Shield + Bastion is a real combo), Pain's Refuge.
 
 *Sources: [Alcast U50 Stam Warden "Assault" PvP build](https://alcasthq.com/eso-stamina-warden-pvp-build/) (+ [ArzyeL Stam Warden PvP](https://arzyelbuilds.com/eso-stamina-warden-pvp-build/), a subclassing variant). Season metas rotate — the live pages and in-game tooltips override.*
+
+---
+
+## Skill line passives — buy these with skill points
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if you're short:
+
+- **Animal Companions:** all — **Advanced Species** (+5% crit damage per slotted skill) is the whole reason Wild Guardian sits on the bar.
+- **Winter's Embrace:** all — Arctic Blast, Winter's Revenge, and Northern Storm live here.
+- **Green Balance:** all — Lotus Blossom lives here.
+- **Dual Wield + Destruction Staff:** the flat-damage passives — both weapon lines are on your bars.
+- **Medium Armor:** all — Dexterity and Agility are this build's damage core.
+- **Undaunted:** Undaunted Mettle — HIGH.
+- **Fighters Guild:** Slayer — HIGH.
+- **Alchemy:** Medicinal Use (longer potion buffs).
+- **Racial:** all.
 
 ---
 
@@ -193,7 +214,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 5. **Ring of the Pale Order** — Antiquities (if this is a new character; account-wide if collected)
 6. **Sul-Xan's Torment** — Rockgrove; until then crafted Tide-Born/Order's Wrath at ~−5%
 
-*Source: Hyperioxes U50 Stamina Warden Solo Build (verified, June 2026 revision). Skill names current as of U50 — trust in-game tooltips over any guide.*
+*Source: Hyperioxes U50 Stamina Warden Solo Build (verified, June 2026 revision). Skill names current as of U50 — trust in-game tooltips over any guide. Revised 2026-08-16.*
 
 ---
 

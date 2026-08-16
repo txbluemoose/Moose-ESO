@@ -28,14 +28,16 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 | Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
-| 1. Molten Whip (morph of Lava Whip) | 1. Shatterspike Mantle (morph of Earthspike Mantle) |
-| 2. Searing Claw (morph of Searing Strike) | 2. Incinerate (morph of Inferno) |
-| 3. Disintegrating Dragonfire (morph of Dragonfire Breath) | 3. Elemental Susceptibility (morph of Weakness to Elements) |
-| 4. Soul of Flame (morph of Core of Flame) | 4. Elemental Blockade (morph of Wall of Elements) |
-| 5. Ulfsild's Contingency (scribed: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons) |
-| **Ult:** Take Flight (morph of Dragon Leap) | **Ult:** Standard of Might |
+| 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) |
+| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Flames of Oblivion (morph of Inferno, *Ardent Flame*) ⚠️ |
+| 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
+| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
+| 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
+| **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
+
+*⚠️ Flames of Oblivion: earlier revisions of this guide listed "Incinerate" here — that's not one of Inferno's morphs (they're **Flames of Oblivion** and **Cauterize**, per ESO-Hub/UESP U50; Cauterize is the heal-leaning option if you want another "don't die" layer). Confirm the morph on your bar.*
 
 **Morph notes for your "don't die" goal:**
 - **Burning Embers** (other morph of Searing Claw) heals on cast and every DoT tick — swap it in over Searing Claw whenever you want more healing. Slightly less damage.
@@ -54,23 +56,26 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 **Fastest Alliance War leveling:** a few Battleground matches or an evening riding with a Cyrodiil group — even losses earn AP.
 
-### Rotation (priority list — just refresh whatever is highest on this list)
-1. Elemental Susceptibility → 2. Igneous Weapons → 3. Elemental Blockade → 4. Molten Whip at 3 Seething Fury stacks → 5. Take Flight → 6. Incinerate → 7. Shatterspike Mantle → 8. Searing Claw → 9. Disintegrating Dragonfire → 10. Ulfsild's → 11. Soul of Flame → 12. Molten Whip as filler
+### Rotation (priority sweep — two passes, not a checklist)
 
-**Pre-buff before pulls:** Shatterspike Mantle, Incinerate, Igneous Weapons, Ulfsild's.
+1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Flames of Oblivion → Shatterspike Mantle.
+2. **Live on the front bar:** whip at 3 Seething Fury stacks, keep Searing Claw / Disintegrating Dragonfire / Ulfsild's / Soul of Flame ticking, Take Flight when it's up, Molten Whip as filler.
+3. Back-bar timers blinking? Swap, re-sweep top to bottom, swap forward. That's the whole loop.
+
+**Pre-buff before pulls:** Shatterspike Mantle, Flames of Oblivion, Igneous Weapons, Ulfsild's.
 Standard of Might is your "survive this mechanic" ultimate (25% damage reduction inside it); Take Flight is your DPS ultimate.
 
 ### Gear — Solo
 
-**Armor weight: 1 Light / 6 Medium.** Medium's Dexterity and Agility passives suit the dual-dagger melee setup, and the profile is a bit tankier than an all-light build — the pick for hard content. The single Light head still triggers a second **Undaunted Mettle** tier; swap one Medium piece to **Heavy (Reinforced)** if you'd rather have Mettle's third tier and more armor than a sliver of damage. A full-Light version of this does ~2% more damage but is squishier.
+**Armor weight: 1 Light / 6 Medium.** Medium's Dexterity and Agility passives suit the dual-dagger melee setup, and the profile is a bit tankier than an all-light build — the pick for hard content. The single Light **belt** (the smallest-armor slot, so the cheapest place to give up Medium's armor) still triggers a second **Undaunted Mettle** tier; swap one Medium piece to **Heavy (Reinforced)** if you'd rather have Mettle's third tier and more armor than a sliver of damage. A full-Light version of this does ~2% more damage but is squishier.
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Light | Divines | Magicka | Valkyn Skoria (Slimecraw overland) |
+| Head | Medium | Divines | Magicka | Slimecraw (1pc — Minor Berserk) |
 | Shoulders | Medium | Divines | Magicka | Pyrebrand |
 | Chest | Medium | Divines | Magicka | Sul-Xan's Torment |
 | Hands | Medium | Divines | Magicka | Pyrebrand |
-| Belt | Medium | Divines | Magicka | Pyrebrand |
+| Belt | **Light** | Divines | Magicka | Pyrebrand |
 | Legs | Medium | Divines | Magicka | Pyrebrand |
 | Boots | Medium | Divines | Magicka | Pyrebrand |
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment |
@@ -78,9 +83,9 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 | Front (2 daggers) | — | Charged | Poison + Absorb Stamina | Sul-Xan's Torment |
 | Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff |
 
-*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs); a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. Overland: swap Valkyn Skoria → Slimecraw and the ice staff → inferno. In-game tooltips override — confirm on your bar.*
+*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs); a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. Overland: swap the ice staff → inferno. In-game tooltips override — confirm on your bar.*
 
-**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Valkyn Skoria = vet City of Ash II. Crushing Wall = Maelstrom Arena staff.
+**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Crushing Wall = Maelstrom Arena staff. *(1pc Slimecraw beats 1pc Valkyn Skoria here — with Pyrebrand on your shoulders, Valkyn's 2-piece can never fire, and Slimecraw's Minor Berserk out-damages Valkyn's bare 1pc stat line.)*
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Pyrebrand → Tzogvin's Warband (Frostvault, −4%) → **Order's Wrath (−4 to −6%, you own it)** → Tide-Born Wildstalker
@@ -114,7 +119,7 @@ Same character, different job: the group provides buffs, debuffs, and heals, so 
 | Front Bar | Back Bar |
 |---|---|
 | Molten Whip | Shatterspike Mantle |
-| Searing Claw | Incinerate |
+| Searing Claw | Flames of Oblivion |
 | Engulfing Dragonfire | Banner Bearer |
 | Soul of Flame | Elemental Blockade |
 | Camouflaged Hunter | Igneous Weapons |
@@ -215,14 +220,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 1. **Scribing unlocked** (Gold Road questline) → Ulfsild's Contingency + Banner Bearer
 2. **Pyrebrand** — run Infinite Archive; it's the DK class set (also your best body set in every PvE mode)
 3. **Crushing Wall staves** — vet Maelstrom Arena (Inferno + Ice)
-4. **Valkyn Skoria helm** — vet City of Ash II
+4. ~~Valkyn Skoria helm~~ — skip it: with Pyrebrand shoulders its 2pc can't fire, and 1pc Slimecraw (which you own) is strictly better
 5. **Sul-Xan's Torment** — Rockgrove trial (weapons/jewelry/chest); until then your Deadly Strike / Order's Wrath work at a ~4–7% penalty
 6. **Ansuul's Torment** — Sanity's Edge, for group content with interrupts
 7. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath
 
 ---
 
-*Sources: Hyperioxes U50 Magicka Dragonknight Solo Build (verified June 2026), Hyperioxes Breath DK DPS Build, U49/U50 official patch note summaries. PvP section verified vs Alcast Mag DK "Blaze" U50 (set metas rotate seasonally — confirm current pieces). Skill names current as of Update 50; ZOS renames things every class refresh, so trust your in-game tooltips over any guide.*
+*Sources: Hyperioxes U50 Magicka Dragonknight Solo Build (verified June 2026), Hyperioxes Breath DK DPS Build, U49/U50 official patch note summaries. PvP section verified vs Alcast Mag DK "Blaze" U50 (set metas rotate seasonally — confirm current pieces). Skill names current as of Update 50; ZOS renames things every class refresh, so trust your in-game tooltips over any guide. Revised 2026-08-16.*
 
 ---
 
