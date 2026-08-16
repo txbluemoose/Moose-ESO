@@ -50,7 +50,7 @@ Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slime
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Magicka | **Slimecraw** (1pc monster — Minor Berserk) |
+| Head | Medium | Divines | Magicka | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Light | Divines | Magicka | **Order's Wrath** |
 | Chest | **Heavy** | Reinforced | Magicka | **Order's Wrath** |
 | Hands | Light | Divines | Magicka | **Order's Wrath** |
@@ -62,7 +62,9 @@ Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slime
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Ice Staff | — | Infused | Spell Damage | **Deadly Strike** (a staff = 2 set pieces) |
 
-*Deadly Strike = the staff (2 pieces) + 2 jewelry + boots (5 total). Order's Wrath = 5 body. Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override — confirm on the bar.*
+*Deadly Strike = the staff (2 pieces) + 2 jewelry + boots (5 total). Order's Wrath = 5 body. Slimecraw 1pc (657 Critical Chance) + Pale Order mythic finish it. In-game tooltips override — confirm on the bar.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Its 657 Critical Chance is the default because she already owns it. See [Gear slot math](../shared/gear-math.md).*
 
 ### Crafted starter (her husband can make all of it)
 All **Order's Wrath** (7 pieces) with a crafted stat stick until Deadly Strike and Pale Order are farmed. Deadly Strike is cheap from guild traders (Cyrodiil set); Pale Order is from Antiquities.

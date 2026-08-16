@@ -52,7 +52,7 @@ Aim for this. It's cheap, mostly craftable/farmable, and leans on **Deadly Strik
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Stamina | **Slimecraw** (monster 1pc — Minor Berserk) |
+| Head | Medium | Divines | Stamina | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Medium | Divines | Stamina | **Order's Wrath** |
 | Chest | Heavy | Reinforced | Stamina | **Order's Wrath** |
 | Hands | Medium | Divines | Stamina | **Order's Wrath** |
@@ -66,6 +66,8 @@ Aim for this. It's cheap, mostly craftable/farmable, and leans on **Deadly Strik
 | Ice Staff (back) | — | Infused | Weapon Damage | **Deadly Strike** |
 
 *5× Order's Wrath (crafted) + 5× Deadly Strike (jewelry + both weapons + boots) + Slimecraw + Pale Order. The mixed Heavy/Light/Medium weights trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on the bar.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Its 657 Critical Chance is the default because she already owns it. See [Gear slot math](../shared/gear-math.md).*
 
 ### Craftable starter (her husband can make all the armor)
 All **Order's Wrath** (7 pieces) + a crafted stam set on jewelry/weapons (**Tide-Born Wildstalker** or **Briarheart**) until Deadly Strike and Pale Order are farmed. Deadly Strike is cheap from guild traders (Cyrodiil set); Pale Order is from Antiquities.

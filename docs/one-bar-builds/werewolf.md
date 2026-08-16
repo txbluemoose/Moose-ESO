@@ -50,7 +50,7 @@ Werewolf can't bar-swap, so it's **one loadout**.
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Stamina | **Slimecraw** (monster 1pc — Minor Berserk) |
+| Head | Medium | Divines | Stamina | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders → Legs (5 pieces) | mixed | Divines | Stamina | **Order's Wrath** (crafted) |
 | Boots | Medium | Divines | Stamina | **Deadly Strike** |
 | Necklace + Ring 1 | — | Bloodthirsty | Weapon Damage | **Deadly Strike** |
@@ -58,6 +58,8 @@ Werewolf can't bar-swap, so it's **one loadout**.
 | Weapons | — | Charged | Poison | **Deadly Strike** |
 
 *5× Order's Wrath (crafted — her husband makes it) + 5× Deadly Strike (jewelry + weapons + boots) + Slimecraw + Pale Order. Deadly Strike buffs the Claw Fury channel; Pale Order heals her from her own damage. She barely needs the optimal setup — Pack Leader's wolves + Major Protection carry overland and normal dungeons on their own. In-game tooltips override.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Its 657 Critical Chance is the default because she already owns it. Her Minor Berserk in wolf form comes from **Ferocious Roar**, not the helm. See [Gear slot math](../shared/gear-math.md).*
 
 **Mundus:** The Thief
 **Food:** any Max Health + Stamina dish (Orzorga's Smoked Bear Haunch)

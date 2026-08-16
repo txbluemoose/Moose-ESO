@@ -17,7 +17,7 @@ A *buff* helps you; a *debuff* weakens an enemy. "Major" is the strong version, 
 | **Major Resolve** | Boosts your armor |
 | **Major / Minor Protection** | Reduces the damage you take |
 | **Major Berserk** | Increases all your damage done |
-| **Minor Berserk** | +5% to all your damage done — Slimecraw's 1-piece bonus, which is why he's on every head slot |
+| **Minor Berserk** | +5% to all your damage done — Slimecraw grants it at **2 pieces, not 1**, and these builds only ever wear 1 monster piece (a mythic ring takes the other slot), so the real sources here are **Camouflaged Hunter** and the Werewolf's **Ferocious Roar** |
 | **Minor Force** | Increases your Critical Damage |
 | **Major Vitality** | Increases the healing you receive |
 | **Major Fortitude** | Increases your Health Recovery |
