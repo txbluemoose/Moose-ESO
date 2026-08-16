@@ -13,26 +13,29 @@ Two ways to play, two sets of guides:
 
 ## Full builds
 
-- **Magicka Dragonknight** — the main · [Melee](full-builds/magicka-dragonknight.md) · [Ranged (Two Staves)](full-builds/magicka-dragonknight-ranged.md)
-- **Stamina Warden** · [Melee](full-builds/stamina-warden.md) · [Bow](full-builds/stamina-warden-bow.md)
-- **Magicka Sorcerer** · [Melee](full-builds/magicka-sorcerer.md) · [Ranged (Two Staves)](full-builds/magicka-sorcerer-ranged.md)
-- [Arcanist](full-builds/arcanist.md) — Stamina, melee Fatecarver beam
-- [Nightblade](full-builds/nightblade.md) — Stamina, melee, self-heal engine
-- [Templar](full-builds/templar.md) — Stamina, melee Jabs, best-in-class healing
-- [Necromancer](full-builds/necromancer.md) — Magicka, corpse-explosion engine
-- [Werewolf](full-builds/werewolf.md) — Werewolf Berserker, solo/group DPS
+Every class, both stat pools (his main is the Magicka DK; melee is the household default, staff/bow the ranged option):
+
+- **Dragonknight** — [Magicka · Melee](full-builds/magicka-dragonknight.md) · [Magicka · Ranged](full-builds/magicka-dragonknight-ranged.md) · [Stamina](full-builds/stamina-dragonknight.md)
+- **Sorcerer** — [Magicka · Melee](full-builds/magicka-sorcerer.md) · [Magicka · Ranged](full-builds/magicka-sorcerer-ranged.md) · [Stamina](full-builds/stamina-sorcerer.md)
+- **Warden** — [Stamina · Melee](full-builds/stamina-warden.md) · [Stamina · Bow](full-builds/stamina-warden-bow.md) · [Magicka](full-builds/magicka-warden.md)
+- **Nightblade** — [Stamina](full-builds/nightblade.md) · [Magicka](full-builds/magicka-nightblade.md)
+- **Templar** — [Stamina](full-builds/templar.md) · [Magicka](full-builds/magicka-templar.md)
+- **Necromancer** — [Magicka](full-builds/necromancer.md) · [Stamina](full-builds/stamina-necromancer.md)
+- **Arcanist** — [Stamina](full-builds/arcanist.md) · [Magicka](full-builds/magicka-arcanist.md)
+- **Werewolf** — [Berserker](full-builds/werewolf.md) — solo/group DPS
 
 ## One-bar builds
 
-- [Dragonknight](one-bar-builds/one-bar-dragonknight.md) — breathe fire, don't die
-- [Pet Sorcerer](one-bar-builds/one-bar-sorcerer.md) — lightning staff + pets + heavy attacks
-- [Arcanist — Stamina](one-bar-builds/one-bar-arcanist.md) — beam everything, daggers
-- [Arcanist — Magicka](one-bar-builds/one-bar-arcanist-magicka.md) — beam everything, staff
-- [Nightblade](one-bar-builds/one-bar-nightblade.md) — Swallow Soul forever, heals baked in
-- [Templar](one-bar-builds/one-bar-templar.md) — Jabs heals her; the most forgiving bar
-- [Necromancer](one-bar-builds/one-bar-necromancer.md) — a ghost, a skeleton, and corpse blasts
-- [Bow Warden (2-bar)](one-bar-builds/warden-bow-two-bar.md) — ranged, easy bars *(the one two-bar exception)*
-- [Werewolf](one-bar-builds/werewolf.md) — Pack Leader; the wolves fight for her
+Every class, both stat pools (her stamina bars are built bow/ranged where the class allows — she stays off melee):
+
+- **Dragonknight** — [Magicka](one-bar-builds/one-bar-dragonknight.md) · [Stamina · Bow](one-bar-builds/one-bar-dragonknight-stamina.md)
+- **Sorcerer** — [Magicka · Pets](one-bar-builds/one-bar-sorcerer.md) · [Stamina · Bow](one-bar-builds/one-bar-sorcerer-stamina.md)
+- **Nightblade** — [Magicka](one-bar-builds/one-bar-nightblade.md) · [Stamina · Bow](one-bar-builds/one-bar-nightblade-stamina.md)
+- **Templar** — [Magicka](one-bar-builds/one-bar-templar.md) · [Stamina](one-bar-builds/one-bar-templar-stamina.md)
+- **Necromancer** — [Magicka](one-bar-builds/one-bar-necromancer.md) · [Stamina · Bow](one-bar-builds/one-bar-necromancer-stamina.md)
+- **Warden** — [Magicka](one-bar-builds/one-bar-warden-magicka.md) · [Stamina · Bow (2-bar)](one-bar-builds/warden-bow-two-bar.md)
+- **Arcanist** — [Stamina](one-bar-builds/one-bar-arcanist.md) · [Magicka](one-bar-builds/one-bar-arcanist-magicka.md)
+- **Werewolf** — [Pack Leader](one-bar-builds/werewolf.md) — the wolves fight for her
 
 ## Reference
 
