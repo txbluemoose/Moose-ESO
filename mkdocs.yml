@@ -50,30 +50,53 @@ extra_css:
 nav:
   - Home: index.md
   - Full Builds:
-      - Magicka Dragonknight:
-          - Melee: full-builds/magicka-dragonknight.md
-          - Ranged (Two Staves): full-builds/magicka-dragonknight-ranged.md
-      - Stamina Warden:
-          - Melee: full-builds/stamina-warden.md
-          - Bow: full-builds/stamina-warden-bow.md
-      - Magicka Sorcerer:
-          - Melee: full-builds/magicka-sorcerer.md
-          - Ranged (Two Staves): full-builds/magicka-sorcerer-ranged.md
-      - Arcanist: full-builds/arcanist.md
-      - Nightblade: full-builds/nightblade.md
-      - Templar: full-builds/templar.md
-      - Necromancer: full-builds/necromancer.md
+      - Dragonknight:
+          - Magicka — Melee: full-builds/magicka-dragonknight.md
+          - Magicka — Ranged (Two Staves): full-builds/magicka-dragonknight-ranged.md
+          - Stamina: full-builds/stamina-dragonknight.md
+      - Sorcerer:
+          - Magicka — Melee: full-builds/magicka-sorcerer.md
+          - Magicka — Ranged (Two Staves): full-builds/magicka-sorcerer-ranged.md
+          - Stamina: full-builds/stamina-sorcerer.md
+      - Warden:
+          - Stamina — Melee: full-builds/stamina-warden.md
+          - Stamina — Bow: full-builds/stamina-warden-bow.md
+          - Magicka: full-builds/magicka-warden.md
+      - Nightblade:
+          - Stamina: full-builds/nightblade.md
+          - Magicka: full-builds/magicka-nightblade.md
+      - Templar:
+          - Stamina: full-builds/templar.md
+          - Magicka: full-builds/magicka-templar.md
+      - Necromancer:
+          - Magicka: full-builds/necromancer.md
+          - Stamina: full-builds/stamina-necromancer.md
+      - Arcanist:
+          - Stamina: full-builds/arcanist.md
+          - Magicka: full-builds/magicka-arcanist.md
       - Werewolf: full-builds/werewolf.md
   - One-Bar Builds:
-      - Dragonknight: one-bar-builds/one-bar-dragonknight.md
-      - Pet Sorcerer: one-bar-builds/one-bar-sorcerer.md
+      - Dragonknight:
+          - Magicka: one-bar-builds/one-bar-dragonknight.md
+          - Stamina (Bow): one-bar-builds/one-bar-dragonknight-stamina.md
+      - Sorcerer:
+          - Magicka (Pets): one-bar-builds/one-bar-sorcerer.md
+          - Stamina (Bow): one-bar-builds/one-bar-sorcerer-stamina.md
+      - Nightblade:
+          - Magicka: one-bar-builds/one-bar-nightblade.md
+          - Stamina (Bow): one-bar-builds/one-bar-nightblade-stamina.md
+      - Templar:
+          - Magicka: one-bar-builds/one-bar-templar.md
+          - Stamina: one-bar-builds/one-bar-templar-stamina.md
+      - Necromancer:
+          - Magicka: one-bar-builds/one-bar-necromancer.md
+          - Stamina (Bow): one-bar-builds/one-bar-necromancer-stamina.md
+      - Warden:
+          - Magicka: one-bar-builds/one-bar-warden-magicka.md
+          - Stamina (Bow, 2-bar): one-bar-builds/warden-bow-two-bar.md
       - Arcanist:
           - Stamina (daggers): one-bar-builds/one-bar-arcanist.md
           - Magicka (staff): one-bar-builds/one-bar-arcanist-magicka.md
-      - Nightblade: one-bar-builds/one-bar-nightblade.md
-      - Templar: one-bar-builds/one-bar-templar.md
-      - Necromancer: one-bar-builds/one-bar-necromancer.md
-      - Bow Warden (2-bar): one-bar-builds/warden-bow-two-bar.md
       - Werewolf: one-bar-builds/werewolf.md
   - Companions: shared/companions.md
   - Race & Class: shared/races.md
