@@ -40,7 +40,7 @@
 
 ## Gear
 
-### Crafted starter — 100% craftable/buyable (her husband's station covers all of it)
+### Starter (craftable + cheap trader pieces)
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy.** Medium gives the stamina damage passives (Dexterity, Agility) and suits the up-close playstyle; the single Light **belt** and single Heavy **boots** exist only to trigger all three tiers of **Undaunted Mettle**, which grants max Health/Magicka/Stamina for each distinct weight worn — three weights beat a seventh medium piece.
 
@@ -57,7 +57,7 @@
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Front (2 daggers) | — | Charged / Nirnhoned | Poison + Absorb Stamina | Deadly Strike |
 
-*Both sets are **craftable and already owned by the household**, so she can build this at her husband's station today — no grind. **Deadly Strike** (boots + 2 jewelry + 2 daggers = 5) boosts channeled, DoT, and AoE damage ~15%, and Biting Jabs is a channel while Ritual / Solar Barrage are DoTs — it's built for this bar. **Order's Wrath** (5 body) is flat crit. In-game tooltips override — confirm on her bar.*
+*Both sets are within reach today — **Order's Wrath** is craftable at her husband's station, and **Deadly Strike** is cheap from guild traders (Cyrodiil set) — and she already owns it. No grind. **Deadly Strike** (boots + 2 jewelry + 2 daggers = 5) boosts channeled, DoT, and AoE damage ~15%, and Biting Jabs is a channel while Ritual / Solar Barrage are DoTs — it's built for this bar. **Order's Wrath** (5 body) is flat crit. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
 The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Ring of the Pale Order is a complete, self-crafted build. Only real upgrade path (much later, optional): a trial body set like Ansuul's Torment for a couple percent. **Keep Ring of the Pale Order in Ring 2 either way** — the household runs it for the constant self-heal. *(The one-bar mythic Oakensoul Ring parses higher because it hands a one-bar build all the group buffs, but you can't wear two mythic rings, and Pale Order's layered healing is the "don't die" pick here — so Oakensoul is the alternative she is deliberately not taking.)*
@@ -150,7 +150,7 @@ Rule of thumb at her CP: **buy every passive in every line she has a skill slott
 ---
 
 ## Notes
-- **This one is melee — her only melee cheat sheet by default** — because a bow Stamina Templar is genuinely weak: the whole class identity is the Jabs cone, and a ranged stam Templar throws that away for no real gain. The trade-off is fully covered by making her *stand in her own healing circle* while she jabs — so she gets the class's strength without the usual melee danger.
+- **This one is melee — her only class-skill melee cheat sheet (the Werewolf form bar is the other melee one)** — because a bow Stamina Templar is genuinely weak: the whole class identity is the Jabs cone, and a ranged stam Templar throws that away for no real gain. The trade-off is fully covered by making her *stand in her own healing circle* while she jabs — so she gets the class's strength without the usual melee danger.
 - **She heals from four things that don't all fail at once:** the Ritual of Retribution tile, the Bastion of Light heartbeat, Honor the Dead on demand, and Pale Order per hit. If any one of them is interrupted, the others carry her.
 - **No scribing anywhere** — every skill is a class or weapon skill, so there's nothing on this bar she can't cast.
 - **Want an execute?** Slot **Radiant Glory** (morph of Radiant Destruction, *Dawn's Wrath*) in place of Power of the Light or Solar Barrage below ~25% enemy HP — it deletes low targets and heals her ~15% of the damage. Left off the base bar to keep her buttons few.

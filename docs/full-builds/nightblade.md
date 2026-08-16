@@ -4,7 +4,7 @@
 **Character:** Stamina Nightblade, pure class (no subclass), Class Mastery active
 **Verified against:** the current U50 Hyperioxes Solo Stamina Nightblade build (soloed vet HM The Cauldron / vet Frostvault). Group and PvP sections are directional adaptations — verify bars in-game before a progression run.
 **Philosophy:** Kick ass and don't die. Nightblade has the deepest self-healing toolkit of any class — heal-on-attack (Leeching Strikes), heal-on-spammable (the spectral bow), heal-on-execute (Killer's Blade), heal-on-cast paths. Lean into every one of them. Damage that heals you is the whole point.
-**Weapon note:** the main build is **melee — dual daggers front bar, medium armor**. It's how you actually play: up close, all content, survivability first. The **bow is a back bar** you swap to for two seconds to lay DoTs, then swap back to the daggers where you live — same relationship the Mag DK guide has with its ice staff. This is not a "ranged Nightblade"; you fight in melee.
+**Weapon note:** the main build is **melee — dual daggers front bar, medium armor**. It's how you actually play: up close, all content, survivability first. The **bow is a back bar** you swap to for two seconds to lay DoTs, then swap back to the daggers where you live — same relationship the Mag DK guide has with its ice staff. This is not a "ranged Nightblade"; you fight in melee. The **magicka** sibling — Swallow Soul heal-spammable, staff-friendly — is a separate guide → [Magicka Nightblade](magicka-nightblade.md).
 
 > **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes Solo Stamina Nightblade build. Class Mastery names are verified against ESO-Hub / Alcast U50 lists. The Group section is a self-sufficiency-off adaptation — point to the live group build before raiding. The PvP section is directional (Alcast framework) — PvP set metas rotate every season, so confirm current pieces in-game before spending gold. **In-game tooltips beat this guide** — ZOS renames Nightblade abilities every refresh; trust your bar.
 
@@ -37,7 +37,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 | 1. **Surprise Attack** (morph of Veiled Strike, *Shadow*) | 1. **Endless Hail** (morph of Volley, *Bow*) |
 | 2. **Relentless Focus** (morph of Grim Focus, *Assassination*) | 2. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) |
 | 3. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) | 3. **Relentless Focus** (morph of Grim Focus, *Assassination*) |
-| 4. **Leeching Strikes** (morph of Siphoning Attacks, *Siphoning* — *confirm base skill name in-game*) | 4. **Dark Shade** (morph of Summon Shade, *Shadow*) |
+| 4. **Leeching Strikes** (morph of Siphoning Strikes, *Siphoning*) | 4. **Dark Shade** (morph of Summon Shade, *Shadow*) |
 | 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) |
 | **Ult:** Soul Harvest (morph of Death Stroke, *Assassination*) | **Ult:** Soul Tether (morph of Soul Shred, *Siphoning*) |
 
@@ -46,7 +46,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 **Why every one of these keeps you alive:**
 - **Relentless Focus** — light-attack weaving builds 5 stacks, then fires the Assassin's Scourge spectral bow, which **heals you when the target is in melee range** (it is — you're on daggers). It also grants **Minor Berserk** the whole time it's slotted, which is why it sits on *both* bars: never let the buff drop. This skill *rewards* the exact weaving discipline your DK was struggling with.
 - **Leeching Strikes** — heals you on every light/heavy attack and **returns both stamina and magicka**. This is the class-level fix for your chronic stamina shortfall (see below). Keep it up; it is not optional.
-- **Killer's Blade** — execute under 28% target health that **heals you when it kills**. Free layered heal on every trash mob.
+- **Killer's Blade** — execute under 25% target health that **heals you when it kills**. Free layered heal on every trash mob.
 - **Shadowy Disguise** — +15% damage for 10s, **Minor Protection** (−5% damage taken), and **Major Resolve** via the Shadow Barrier passive. Your burst-and-brace button.
 - **Dark Shade** — the shade applies **Minor Maim** to enemies near it (they hit softer) and adds free damage. Mitigation that also parses.
 - **Soul Tether** (back-bar ult) is your "survive this" button — AoE damage that **heals you** and stuns; Soul Harvest (front) is your DPS/execute ult with big ultimate return on kills.
@@ -71,7 +71,7 @@ Don't read this as a 12-step list — it's a **sweep**. Top to bottom, then back
 3. Back bar for two seconds → **Barbed Trap → Endless Hail → Dark Shade → Ulfsild's**, then swap back to daggers
 4. **Shadowy Disguise** for the burst/brace window
 5. **Surprise Attack** as your spammable filler
-6. **Killer's Blade** the moment anything drops under 28%
+6. **Killer's Blade** the moment anything drops under 25%
 7. **Soul Harvest** as your damage ultimate; **Soul Tether** when you need the heal-and-stun
 
 **Pre-buff before a pull:** Leeching Strikes, then Barbed Trap → Endless Hail → Dark Shade → Ulfsild's on the back bar, swap to daggers, open with Shadowy Disguise.
@@ -144,6 +144,23 @@ Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exac
 **Sets (Alcast framework, verify current meta):** a **proc or weapon-damage set** you own (**Deadly Strike** is a legitimate stat option already in your bags) + **Rallying Cry** back bar (the PvP survival staple) + a **monster set** (Balorgh for ultimate-scaling burst) + a **survival mythic** (Ring of the Pale Order still works, or a no-block tank mythic like Gaze of Sithis for a heavier setup).
 
 *Season metas rotate — the live Alcast page and your in-game tooltips override this section.*
+
+---
+
+## Skill Line Passives
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if points are short:
+
+- **Assassination:** all 4 — **Hemorrhage** (crit damage + group Minor Savagery) and **Master Assassin** are the stars; Executioner refunds resources on execute kills
+- **Shadow:** all 4 — **Shadow Barrier** (Major Resolve after leaving stealth/cloak) is free armor every Shadowy Disguise
+- **Siphoning:** all 4 — **Catalyst** (potion ult), **Magicka Flood**, and the heal boosts power the whole "damage that heals" plan
+- **Dual Wield:** all — the flat damage passives carry the front bar
+- **Bow:** all — the back bar's DoTs scale with them
+- **Medium Armor:** Dexterity + Agility — HIGH
+- **Undaunted:** Undaunted Mettle — HIGH
+- **Fighters Guild:** Slayer — HIGH
+- **Alchemy:** Medicinal Use — HIGH
+- **Racial:** all
 
 ---
 
@@ -236,4 +253,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** and wear it when the companion is carrying (halves their ability cooldowns); swap back to your damage set when you're the one doing the work.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

@@ -25,9 +25,9 @@ Cast these top-to-bottom at the start of a fight, then swap to the bow and leave
 ### Front bar (Bow) — where she lives
 1. **Cutting Dive** (morph of Dive, *Animal Companions*) — her spammable; a bleed that's her main filler button
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — a big poison DoT that hits **harder the lower the enemy's health** — her execute; reapply every ~10s
-3. **Endless Hail** (morph of Arrow Barrage, *Bow*) — a rain-of-arrows ground DoT; drop it on the pack and forget it
+3. **Endless Hail** (morph of Volley, *Bow*) — a rain-of-arrows ground DoT; drop it on the pack and forget it
 4. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — **her heal AND a stun** — heals off her max health, so it's the panic button. Press it when hurt; press it to peel a nasty add
-5. **Barbed Trap** (*Fighters Guild*) — a DoT that also gives Minor Force (+10% crit damage); lay it down before a pull
+5. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — a DoT that also gives Minor Force (+10% crit damage); lay it down before a pull
 - **Ult: Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — summon the bear and forget it; it fights on its own, and just being slotted grants **+5% crit damage per Animal Companions skill** she has (she has several)
 
 *Survivability swap: if she's getting hit too hard, replace Barbed Trap → **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) for Major Resolve (armor). Small damage loss, much tankier — on-brand for "don't die."*
@@ -178,4 +178,4 @@ Full details for all eight companions: see `../shared/companions.md`.
 
 ---
 
-*Source: adapted from the household's verified Stamina Warden guide + current U50 bow-Warden skill lists (ArzyeL/Alcast). This is a pure-class build — ArzyeL's bow Warden subclasses, which would disable Class Mastery. Verify skill names against in-game tooltips; they win over any guide.*
+*Source: adapted from the household's verified Stamina Warden guide + current U50 bow-Warden skill lists (ArzyeL/Alcast). This is a pure-class build — ArzyeL's bow Warden subclasses, which would disable Class Mastery. Verify skill names against in-game tooltips; they win over any guide. Revised 2026-08-16.*

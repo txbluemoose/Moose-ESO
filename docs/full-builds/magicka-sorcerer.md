@@ -201,4 +201,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** (5pc crafted) and wear it when the companion is doing real work — it halves their ability cooldowns. Swap back to your damage set when you're carrying.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

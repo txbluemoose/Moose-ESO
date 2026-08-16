@@ -215,7 +215,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Alternatives worth knowing:** **Zerith-Var (Tank)** applies Major Breach via Sepulchral Chill — free penetration that could free Noxious Breath for another slot. **Azandar (Tank)** brings Major and Minor Vulnerability, best-rated companion for Infinite Archive.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
 
 ---
 

@@ -3,7 +3,7 @@
 
 **Character:** Stamina Necromancer, pure class (no subclass)
 **Verified against:** the U50 Hyperioxes / Alcast Solo Stamina Necromancer, adapted to a one-bar bow setup, cross-checked against ESO-Hub skill pages. This is the **stamina / bow** sibling of her [Magicka Necromancer cheat sheet](one-bar-necromancer.md) — same corpse-and-ghost idea, played with a bow at range instead of a staff.
-**Playstyle:** She likes pets and hates melee, so this build keeps her at the back of the room while the Necromancer does the fighting for her. A skeleton, a skeletal archer, and a ghost are always out; the ghost eats 10% of every hit and heals her; she plinks with a bow and blows up corpses. Between the ghost and Pale Order, staying alive is nearly automatic — and nothing on the bar is melee.
+**Playstyle:** She likes pets and prefers to stay at range, so this build keeps her at the back of the room while the Necromancer does the fighting for her. A skeleton, a skeletal archer, and a ghost are always out; the ghost eats 10% of every hit and heals her; she plinks with a bow and blows up corpses. Between the ghost and Pale Order, staying alive is nearly automatic — and nothing on the bar is melee.
 
 ---
 
@@ -41,7 +41,9 @@
 
 ## Gear
 
-### Crafted starter (all craftable — her husband's station covers it)
+### Starter (craftable + cheap trader pieces)
+
+Order's Wrath comes off her husband's crafting station; Deadly Strike is cheap from guild traders (Cyrodiil set); Slimecraw and Pale Order she already owns.
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina and weapon-damage passives a bow user wants, plus one Light and one Heavy so all three tiers of **Undaunted Mettle** fire (Mettle grants max Health / Magicka / Stamina for each *distinct* weight worn, so a 5/1/1 split triggers everything).
 
@@ -58,7 +60,7 @@
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Bow | — | Infused | Weapon Damage | Deadly Strike (a bow = 2 set pieces) |
 
-*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoTs and channels** 15% — and Poison Injection, the Siphon tether, and Blastbones are exactly that, so it's near-BiS and craftable. Order's Wrath (5 body) is pure crit. In-game tooltips override — confirm on her bar.*
+*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoTs and channels** 15% — and Poison Injection, the Siphon tether, and Blastbones are exactly that, so it's near-BiS and cheap from guild traders (Cyrodiil set). Order's Wrath (5 body) is pure crit. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
 Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive) — now every corpse she blows up detonates for bonus Disease damage around the target, and it scales up for each of her three Grave Lord skills. Keep **Deadly Strike** on bow/jewelry/boots, **Slimecraw** head, **Ring of the Pale Order**. That's the full endgame setup with nothing scribed.
@@ -154,7 +156,7 @@ Buy every passive in every line she has a skill slotted from:
 - **She never has to melee.** Everything here is a bow, a summon, or a corpse blowing up at range — it suits her exactly the way the pet Sorcerer does.
 - **Nothing on this bar is scribed** — she never has to hunt down a non-scribed substitute.
 - The corpse loop is the only thing to learn: throw Blastbones, eat the corpse with Siphon, plink Poison Injection. If corpses ever run dry, the Archer and Blastbones both leave one when they die.
-- Pestilent Colossus is both her burst *and* a survival tool — the stun buys her breathing room in a bad pull.
+- Pestilent Colossus is her burst button, not a stun — if she wants a panic-button stun, swap the ult to Glacial Colossus (same base skill); its final smash stuns and buys her breathing room in a bad pull.
 - Pairs perfectly with either DK tank or a tank companion: they hold the hits, she raises pets and deletes the room from the back.
 
 *Source: Hyperioxes / Alcast U50 Solo Stamina Necromancer, adapted to one-bar bow; skill morphs cross-checked against ESO-Hub and Alcast U50. Corpseburster is a set (Infinite Archive), not a skill. Verify Class Mastery numbers and any renamed Necromancer skills against U50 in-game tooltips. Revised 2026-08-16.*

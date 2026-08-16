@@ -33,7 +33,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 | Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
 | 1. Ricochet Skull (morph of Flame Skull, *Grave Lord*) | 1. Spirit Guardian (morph of Spirit Mender, *Living Death*) |
-| 2. Blighted Blastbones (morph of Blastbones, *Grave Lord*) | 2. Resistant Flesh (morph of Render Flesh, *Living Death*) |
+| 2. Blighted Blastbones (morph of Sacrificial Bones, *Grave Lord*) | 2. Resistant Flesh (morph of Render Flesh, *Living Death*) |
 | 3. Detonating Siphon (morph of Shocking Siphon, *Grave Lord*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Avid Boneyard (morph of Boneyard, *Grave Lord*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
 | 5. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — the flex slot; see the swaps below for non-scribed options ⚠️ confirm vs the live build in-game |
@@ -240,4 +240,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** (5pc crafted) and wear it in a dedicated Armory loadout when the companion is doing real work — it halves their ability cooldowns. Swap back to Corpseburster when you're carrying.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

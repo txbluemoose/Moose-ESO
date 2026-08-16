@@ -33,7 +33,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 | Front Bar (Dual Daggers*) | Back Bar (Bow) |
 |---|---|
 | 1. Venom Skull (morph of Flame Skull, *Grave Lord*) | 1. Spirit Guardian (morph of Spirit Mender, *Living Death*) |
-| 2. Stalking Blastbones (morph of Blastbones, *Grave Lord*) | 2. Resistant Flesh (morph of Render Flesh, *Living Death*) |
+| 2. Blighted Blastbones (morph of Sacrificial Bones, *Grave Lord*) | 2. Resistant Flesh (morph of Render Flesh, *Living Death*) |
 | 3. Detonating Siphon (morph of Shocking Siphon, *Grave Lord*) | 3. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) |
 | 4. Avid Boneyard (morph of Boneyard, *Grave Lord*) | 4. Endless Hail (morph of Volley, *Bow*) |
 | 5. Deadly Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — the flex slot; see the swaps below for non-scribed options ⚠️ confirm vs the live build in-game |
@@ -44,7 +44,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 **What each does (and why it's here for your "don't die" goal):**
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
 - **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It lives on the back bar next to Spirit Guardian — bar-swap and press it the instant your health dips.
-- **Stalking Blastbones** — your skeleton. Charges the target, explodes for big single-target damage, applies **Major Defile** (cuts their healing), and **leaves a corpse** — the fuel for everything else. Recast it on every cooldown; it's a pseudo-spammable as much as a summon.
+- **Blighted Blastbones** — your skeleton (the stamina-cost morph; the old "Stalking" morph no longer exists post-U41). Charges the target, explodes for big single-target disease damage, applies **Major Defile** (cuts their healing), and **leaves a corpse** — the fuel for everything else. Recast it on every cooldown; it's a pseudo-spammable as much as a summon.
 - **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery/Prophecy** (crit), and the corpse **explodes when the tether ends**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
 - **Avid Boneyard** — AoE ground DoT that consumes a corpse for +30% damage, applies Minor Vulnerability, and spawns the **Grave Robber synergy you can activate yourself** for a chunk of damage *and* a heal. This is the Necromancer heal source that magicka gets from its ice-staff utility — on stamina it lives right here, so keep it slotted.
 - **Venom Skull** — your cheap Poison spammable and a corpse generator (every third cast makes a corpse). It's the weakest single button in U50, but its job here is corpse fuel and filler, not raw parse.
@@ -62,7 +62,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 - **Precognition ult** (*Psijic Order guild line, Summerset*) — mandatory for the handful of solo-impossible stuns
 
 ### Rotation (priority sweep — just refresh whatever is highest on this list)
-1. **Spirit Guardian** (never let the ghost drop) → 2. **Skeletal Archer** (keep the pet up for pen + sustain) → 3. **Endless Hail** (back bar) → 4. **Stalking Blastbones** (makes a corpse) → 5. **Detonating Siphon** (eats the corpse — your big hit) → 6. **Avid Boneyard** (eats a corpse, grab the Grave Robber synergy) → 7. **Deadly Cloak** → 8. **Pestilent Colossus** when it's up → 9. **Venom Skull** as filler between everything → **Resistant Flesh the instant your health dips.**
+1. **Spirit Guardian** (never let the ghost drop) → 2. **Skeletal Archer** (keep the pet up for pen + sustain) → 3. **Endless Hail** (back bar) → 4. **Blighted Blastbones** (makes a corpse) → 5. **Detonating Siphon** (eats the corpse — your big hit) → 6. **Avid Boneyard** (eats a corpse, grab the Grave Robber synergy) → 7. **Deadly Cloak** → 8. **Pestilent Colossus** when it's up → 9. **Venom Skull** as filler between everything → **Resistant Flesh the instant your health dips.**
 
 The whole thing is a sweep, not a script: keep a corpse on the ground, keep the ghost up, and alternate "make a corpse (Blastbones/Skull) → eat a corpse (Siphon/Boneyard)." Pale Order + Spirit Guardian + the Grave Robber synergy mean you're being healed from three independent sources while you do it.
 
@@ -88,9 +88,9 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 | Front (2 daggers) | — | Nirnhoned / Charged | Poison + Absorb Stamina | Deadly Strike |
 | Back bar (Bow) | — | Infused | Weapon Damage | Perfected Maelstrom Bow (vMA) — its bonus boosts your bow DoT *(confirm the exact line in-game)* |
 
-*Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (Minor Berserk); Corpseburster is the 5pc corpse-explosion engine. **Deadly Strike is the household weapon/jewelry pick here on purpose** — it boosts DoTs and channels 15%, and half your kit (Detonating Siphon tether, Avid Boneyard, Deadly Cloak, Endless Hail) *is* DoTs, so it punches well above its weight on a Necromancer specifically. It's also owned and craftable, so this is buildable today.*
+*Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (Minor Berserk); Corpseburster is the 5pc corpse-explosion engine. **Deadly Strike is the household weapon/jewelry pick here on purpose** — it boosts DoTs and channels 15%, and half your kit (Detonating Siphon tether, Avid Boneyard, Deadly Cloak, Endless Hail) *is* DoTs, so it punches well above its weight on a Necromancer specifically. It's also already owned (cheap from guild traders — it's a Cyrodiil set, not craftable), so this is buildable today.*
 
-**Where it comes from:** Corpseburster = Infinite Archive. Deadly Strike = craftable (you own it). Slimecraw = overland (you own it). Perfected Maelstrom Bow = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the instanced-content upgrade over Slimecraw when you want a proc'ing monster set.
+**Where it comes from:** Corpseburster = Infinite Archive. Deadly Strike = guild traders / Cyrodiil vendors (you own it). Slimecraw = overland (you own it). Perfected Maelstrom Bow = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the instanced-content upgrade over Slimecraw when you want a proc'ing monster set.
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Ansuul's Torment / Tzogvin's Warband (trial/dungeon options — see the live source before farming a trial)
@@ -125,7 +125,7 @@ Same character, different job: the group brings the heals, buffs, and debuffs, s
 
 Necromancer PvP wants burst, hard CC, and a bigger health pool than PvE. Your Colossus is a genuine teamfight ultimate (AoE stun + Major Vulnerability), and Spirit Guardian's 10% transfer is quietly excellent under focus fire.
 
-**What carries over:** Spirit Guardian mitigation, Resistant Flesh burst heal, Stalking Blastbones' Major Defile (huge against enemy healers), Colossus for the stun.
+**What carries over:** Spirit Guardian mitigation, Resistant Flesh burst heal, Blighted Blastbones' Major Defile (huge against enemy healers), Colossus for the burst (take the **Glacial** morph if you want its stun — Pestilent doesn't stun).
 **What changes:** heavier armor or 5-1-1, **Impen** on all armor, ~30k+ health, tri-stat/Health enchants; add a corpse-based burst heal and a stun-break-friendly kit. Sets rotate every season — a survival mythic (Gaze of Sithis or Torc of Tonal Constancy) plus a proc/damage body set is the usual frame.
 
 *Season metas rotate — verify current pieces against Alcast's live U50 Stamina Necromancer PvP page and your in-game tooltips before spending gold.*
@@ -240,4 +240,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** (5pc crafted) and wear it in a dedicated Armory loadout when the companion is doing real work — it halves their ability cooldowns. Swap back to Corpseburster when you're carrying.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

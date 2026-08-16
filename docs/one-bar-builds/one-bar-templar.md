@@ -10,13 +10,13 @@
 ## Skills — One Bar (Lightning or Inferno Staff)
 
 1. **Puncturing Sweep** (morph of Puncturing Strikes, *Aedric Spear*) — THE button. AoE spear cone, **heals her for 25% of the damage done**, boosted by the Judgment's Brand mastery. Her spammable, her main heal, her whole game.
-2. **Radiant Glory** (morph of Radiant Destruction, *Dawn's Wrath*) — execute below ~25% HP; **also heals her** for ~15% of the damage. Cheap, deletes low targets.
+2. **Radiant Glory** (morph of Radiant Destruction, *Dawn's Wrath*) — her finisher: bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%; **also heals her** for ~15% of the damage. Cheap, deletes low targets.
 3. **Power of the Light** (morph of Backlash, *Dawn's Wrath*) — big delayed-blast damage, applies **Sundered** (100 Weapon/Spell Damage back to her), and procs **Illuminate → Minor Sorcery** (+10% Spell Damage) just for being on her bar.
 4. **Channeled Focus** (morph of Restoring Focus, *Restoring Light*) — drops a rune for **Major Resolve** (armor) + Magicka recovery. Her sustain and her mitigation in one button.
 5. **Ritual of Retribution** (morph of Cleansing Ritual, *Restoring Light*) — ground DoT that **cleanses 2 debuffs on cast** and — with Bastion of Light below — heals her every second she stands in it. Stand in it.
 - **Ult: Everlasting Sweep** (morph of Radial Sweep, *Aedric Spear*) — spinning AoE that **heals her** and stretches longer per enemy hit; it also keeps Bastion of Light's Sacred Ground alive. Damage and heal in one ultimate.
 
-*Nothing here is scribed — Templar needs no scribing, which suits her perfectly. Staff choice is taste: Lightning for the AoE heavy-attack splash, Inferno for a touch more single-target; Puncturing Sweep is a melee cone either way, so she plays it at short range.*
+*Nothing here is scribed — Templar needs no scribing, which suits her perfectly. Staff choice is taste: Lightning for the AoE heavy-attack splash, Inferno for a touch more single-target; Puncturing Sweep is a melee cone either way, so she plays it at short range — a melee-range exception that's safe by design, since the cone heals her as it hits.*
 
 ### Class Mastery (pure class — pick 2)
 - **Judgment's Brand** — every time Burning Light procs off her Puncturing Sweep, her Templar abilities gain a flat chunk of damage for ~3 seconds. Near-permanent uptime — it's why Sweep is the strongest one-bar spammable.
@@ -29,7 +29,7 @@
 2. **Power of the Light** on the boss (big delayed hit + her Spell Damage buffs)
 3. **Puncturing Sweep** over and over — it heals her as it hits
 4. **Everlasting Sweep** whenever it's ready, then keep Sweeping
-5. Below ~25% HP, **Radiant Glory** to finish
+5. As the target drops below half health, weave in **Radiant Glory** — it hits hardest under ~30%
 6. Taking damage? **Sweep more** — the spammable IS the heal, and she's standing in Ritual healing on top of it
 
 **Short version:** Stand in the glowing circle, hold Puncturing Sweep, refresh the two setup skills when they fade, Everlasting Sweep when it's up, Radiant Glory to execute.
@@ -38,7 +38,7 @@
 
 ## Gear
 
-### Crafted starter — 100% craftable/buyable (her husband's station covers all of it)
+### Starter (craftable + cheap trader pieces)
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy.** Light gives the magicka damage passives (Concentration = penetration, Prodigy = crit); the single Medium and single Heavy piece exist only to trigger all three tiers of **Undaunted Mettle**, which grants max Health/Magicka/Stamina for each distinct weight worn — three weights beat a seventh light piece.
 
@@ -55,7 +55,7 @@
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Staff (Lightning/Inferno) | — | Infused | Weapon Damage | Deadly Strike (counts as 2 pieces) |
 
-*Both sets are **craftable and already owned by the household**, so she can build this at her husband's station today — no grind. **Deadly Strike** boosts channeled, DoT, and AoE damage ~15%, and Puncturing Sweep is a channel while Ritual is a DoT — it's built for this bar. **Order's Wrath** is flat crit. In-game tooltips override — confirm on her bar.*
+*Both sets are within reach today — **Order's Wrath** is craftable at her husband's station, and **Deadly Strike** is cheap from guild traders (Cyrodiil set) — and she already owns it. No grind. **Deadly Strike** boosts channeled, DoT, and AoE damage ~15%, and Puncturing Sweep is a channel while Ritual is a DoT — it's built for this bar. **Order's Wrath** is flat crit. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
 The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Ring of the Pale Order is a complete, self-crafted build. Only real upgrade path: **Slimecraw** helm if she's still on a crafted head, and (much later, optional) a trial body set like Ansuul's Torment for a couple percent. **Keep Ring of the Pale Order in Ring 2 either way** — the household runs it for the constant self-heal. *(The one-bar mythic Oakensoul Ring parses higher because it hands a one-bar build all the group buffs, but you can't wear two mythic rings, and Pale Order's layered healing is the "don't die" pick here — so Oakensoul is the alternative she is deliberately not taking.)*
@@ -167,4 +167,4 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Duo tip:** if her husband is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
 
-Full details for all eight companions: see `shared/companions.md`.
+Full details for all eight companions: see `../shared/companions.md`.

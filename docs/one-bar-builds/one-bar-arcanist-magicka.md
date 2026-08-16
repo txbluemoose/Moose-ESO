@@ -42,7 +42,7 @@
 
 ## Gear
 
-Identical bones to her stamina Arcanist — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — just with **Magicka enchants and a lightning staff**. Her husband crafts Order's Wrath and Deadly Strike, so this is buildable today.
+Same idea as her stamina Arcanist sheet (this one uses the Order's Wrath + Deadly Strike combo) — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Magicka enchants and a lightning staff**. Her husband crafts Order's Wrath; Deadly Strike is cheap from guild traders (Cyrodiil set).
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy** — Light for the Magicka damage passives (Concentration penetration, Prodigy crit), one Medium and one Heavy to trigger all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
 
@@ -59,7 +59,7 @@ Identical bones to her stamina Arcanist — **5 Order's Wrath + 5 Deadly Strike 
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Lightning Staff | — | Infused | Spell Damage | Deadly Strike (a staff = 2 set pieces) |
 
-*Deadly Strike = the staff (2 pieces) + 2 jewelry + boots (5 total). It boosts **channeled + DoT** damage by 15% — and Fatecarver is a channel, so it's near-BiS and craftable. Order's Wrath = 5 body. Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
+*Deadly Strike = the staff (2 pieces) + 2 jewelry + boots (5 total). It boosts **channeled + DoT** damage by 15% — and Fatecarver is a channel, so it's near-BiS and cheap to buy. Order's Wrath = 5 body. Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
 
 **Endgame upgrade:** swap Order's Wrath body → **Ansuul's Torment** (Sanity's Edge trial, ~+3–4%) if she ever wants it; the crafted setup clears everything in the meantime.
 
@@ -93,12 +93,12 @@ Buy every passive in a line with a slotted skill; priorities if short:
 
 ### 🔵 BLUE (Warfare)
 
-**Slot (4):** Biting Aura · Thaumaturge · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
+**Slot (4):** Biting Aura · Master-at-Arms · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Biting Aura** | **SLOT** (50) | the beam is AoE — this boosts all of it |
-| 2 | **Thaumaturge** | **SLOT** (50) | boosts channeled/DoT damage — Fatecarver is a channel |
+| 2 | **Master-at-Arms** | **SLOT** (50) | +direct damage — the beam's channel ticks count as direct damage, not DoTs |
 | 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (Fated Fortune makes her crit a lot) |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
@@ -110,7 +110,7 @@ Buy every passive in a line with a slotted skill; priorities if short:
 | 11 | Hardy | buy max | −damage (Staving Death cluster; minimum connector points to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | Master-at-Arms | buy (50), swap option | single-target boss swap (in for Biting Aura) |
+| 14 | Thaumaturge | buy (50), swap option | +DoT damage — swap in for Master-at-Arms only if her bar ever goes DoT-heavy |
 | 15 | Ironclad | buy (50), swap option | hard-fight mitigation |
 | 16 | Duelist's Rebuff | buy (50), swap option | single-target boss mitigation |
 
@@ -156,7 +156,7 @@ Buy every passive in a line with a slotted skill; priorities if short:
 - The beam gets interrupted by stuns — content with heavy CC is this build's one weakness; block-cancel the beam when she sees a big wind-up. **Precognition** ult (*Psijic Order*) handles the handful of solo-impossible stuns.
 - **Wider-meta alternative (not the household pick):** the popular "godtier" one-bar Magicka Arcanist swaps Pale Order → the **Oakensoul Ring** mythic and plays heavy-attack weaves for a pile of free buffs. It's strong and even simpler to press — but it gives up Pale Order's heal-per-damage, which is the household's whole survivability anchor. Stick with Pale Order unless she specifically wants to try the heavy-attack style.
 
-*Source: Hyperioxes / Alcast U50 Magicka Arcanist one-bar. Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips.*
+*Source: Hyperioxes / Alcast U50 Magicka Arcanist one-bar. Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
 
 ---
 

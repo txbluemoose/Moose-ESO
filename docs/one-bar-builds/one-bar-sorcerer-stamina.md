@@ -137,7 +137,7 @@ Buy every passive in a line she has a skill slotted from; priorities if points a
 | 11 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
 | 12 | Celerity | buy (50), swap option | movement fights |
 
-*1–9 ≈ the 1250 budget; 10–12 take her to 1600. **Sustain stars matter for her** — unlike her husband (who runs Conservation of Energy + weaving), she has no in-kit sustain skill, so Rejuvenation and Bloody Renewal genuinely earn their slots.*
+*1–9 ≈ the 1250 budget; 10–12 take her to 1600. **Sustain stars matter for her** — Conservation of Energy refunds on crits, but she has no dedicated sustain skill on the bar, so Rejuvenation and Bloody Renewal still genuinely earn their slots.*
 
 ### 🟢 GREEN (Craft)
 
@@ -159,7 +159,7 @@ Buy every passive in a line she has a skill slotted from; priorities if points a
 - Heavy-CC content is a bow one-bar's one weakness (stuns interrupt her). **Immovability potions** handle it, or **Precognition** ult (*Psijic Order*) for the handful of solo-impossible stuns.
 - **Not scribed anywhere** — deliberately. If a future guide ever puts a scribed skill on her bar, it needs a non-scribed alternative called out inline (household rule).
 
-*Source: Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer (verified via search snippets — live pages egress-blocked here), ESO-Hub/UESP for individual morphs, Alcast U50 Class Mastery page. Skills marked ⚠️ need an in-game tooltip check. Verify any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
+*Source: Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer, ESO-Hub/UESP for individual morphs, Alcast U50 Class Mastery page. Skills marked ⚠️ need an in-game tooltip check. Verify any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
 
 ---
 

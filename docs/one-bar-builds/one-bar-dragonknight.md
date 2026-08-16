@@ -12,7 +12,7 @@
 
 ### Main Bar (Lightning Staff)
 1. **Engulfing Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — THE button. Channeled fire breath, ramps up damage every tick
-2. **Incinerate** (morph of Inferno, *Ardent Flame*) — fiery pulse every 5s + free crit buffs just for being slotted
+2. **Flames of Oblivion** (morph of Inferno, *Ardent Flame*) — fiery pulse every 5s + free crit buffs just for being slotted *(earlier revisions called this "Incinerate" — that's not a real morph; confirm on her bar)*
 3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve (armor) + a DoT + bonus damage on every tick; replaces Fulminating Rune
 4. **Green Dragon Blood** (morph of Dragon Blood, *Draconic Power*) — burst heal off her max health + Major Fortitude; her panic button
 5. **Burning Embers** (morph of Searing Strike, *Ardent Flame*) — DoT that heals her on cast and every tick
@@ -26,14 +26,14 @@
 - *Survivability alternative:* swap Wildfire Embers → **Resolute Defense** if she's dying while blocking
 
 ### How to play it
-1. Start of fight: Incinerate up, Shatterspike Mantle up, Burning Embers on the boss
+1. Start of fight: Flames of Oblivion up, Shatterspike Mantle up, Burning Embers on the boss
 2. Breathe fire (Engulfing Dragonfire) over and over
 3. Re-cast the buffs/DoTs when they run out (~every 10–20s — icons flash when expiring)
 4. Take Flight whenever it's ready, then breathe fire hard during its buff
 5. Green Dragon Blood whenever health dips below ~60% — it heals harder the more max health she has
 6. Tanky dungeon boss? Swap Burning Embers → Elemental Susceptibility for the Major Breach
 
-**Short version:** buffs and DoTs up (Incinerate → Shatterspike → Embers), breathe fire, Take Flight when it glows, Green Dragon Blood when hurt.
+**Short version:** buffs and DoTs up (Flames of Oblivion → Shatterspike → Embers), breathe fire, Take Flight when it glows, Green Dragon Blood when hurt.
 
 ---
 
@@ -193,4 +193,4 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Duo tip:** if her husband is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
 
-Full details for all eight companions: see `shared/companions.md`.
+Full details for all eight companions: see `../shared/companions.md`.

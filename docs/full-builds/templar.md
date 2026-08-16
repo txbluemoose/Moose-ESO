@@ -43,8 +43,8 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 *\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina goes straight at your one known sustain gap — see the CP note). Inferno back bar powers Blockade of Fire and pairs its flame damage with Vampire's Bane; a bow back bar is a fine swap (Endless Hail + Razor Caltrops) if you'd rather, but the staff keeps Blockade rolling with less GCD cost.*
 
 **What each does (and why it fits "don't die"):**
-- **Biting Jabs** — your spammable, a melee cone that hits up to 6. It's the strongest solo Templar spammable in U50 *because* it feeds Judgment's Brand. The other morph, **Puncturing Sweep**, heals you for 25% of the damage instead of granting Minor Berserk — that's the healing-over-damage swap (see the Magicka alternative below).
-- **Radiant Glory** — execute; swap to it under ~28% HP. Cheap, and it **heals you** for a slice of the damage. A Templar's execute is also a heal.
+- **Biting Jabs** — your spammable, a melee cone that hits up to 6. It's the strongest solo Templar spammable in U50 *because* it feeds Judgment's Brand. The other morph, **Puncturing Sweep**, heals you for 25% of the damage instead of Jabs' buff package (Major Brutality & Sorcery — confirm the exact buffs in-game) — that's the healing-over-damage swap (see the Magicka alternative below).
+- **Radiant Glory** — execute; its bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%. Cheap, and it **heals you** for a slice of the damage. A Templar's execute is also a heal.
 - **Ritual of Retribution** — your Sacred Ground. It's a ground DoT, it **cleanses up to 2 harmful effects on cast**, and it's the tile that keeps **Bastion of Light** healing you every second. Stand in it.
 - **Barbed Trap** — DoT plus **Minor Force** (+10% crit damage) while slotted; a permanent damage amp for one button.
 - **Quick Cloak** — Major Evasion (−20% AoE damage taken) for the whole medium-armor melee profile. Requires two one-handers, which you have.
@@ -59,14 +59,14 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 ### Situational swaps (with skill line sources)
 - **Living Dark** — *Templar > Dawn's Wrath* (morph of Eclipse) — the non-scribed replacement for Warding Contingency; heals-and-snares when hit
 - **Blazing Spear** — *Templar > Aedric Spear* (morph of Spear Shards) — a second Sacred Ground tile (more Bastion of Light uptime) that also drops a synergy for grouped play; great on trash packs
-- **Puncturing Sweep** — *Templar > Aedric Spear* (the other Jabs morph) — trade Minor Berserk for a 25%-of-damage heal when a fight is trying to kill you (this is the Magicka alternative's spammable)
+- **Puncturing Sweep** — *Templar > Aedric Spear* (the other Jabs morph) — trade Jabs' Major Brutality/Sorcery for a 25%-of-damage heal when a fight is trying to kill you (this is the Magicka alternative's spammable)
 - **Elemental Susceptibility** — *Destruction Staff* (morph of Weakness to Elements) — Minor Breach/Brittle for a tanky boss with no group to debuff it
 - **Resolving Vigor** — *Alliance War > Assault* — a stamina-cost burst-heal-over-time for invulnerability phases where Pale Order can't heal you (earn AP in Battlegrounds/Cyrodiil)
 - **Precognition** ult — *Psijic Order guild line (Summerset)* — mandatory for a few solo-impossible stuns
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
 
 ### Rotation (priority sweep — refresh whatever is highest, then Jabs as filler)
-1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Blockade of Fire** → 4. **Vampire's Bane** → 5. **Barbed Trap** → 6. **Warding Contingency** → 7. **Everlasting Sweep** when it's up → 8. **Biting Jabs** as filler forever → 9. **Radiant Glory** below ~28% → 10. **Honor the Dead** only when health dips.
+1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Blockade of Fire** → 4. **Vampire's Bane** → 5. **Barbed Trap** → 6. **Warding Contingency** → 7. **Everlasting Sweep** when it's up → 8. **Biting Jabs** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
 
 The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, Barbed Trap) rolling, then hold Biting Jabs. Because Jabs feeds Judgment's Brand and Ritual feeds Bastion of Light, doing damage *is* your buff uptime and your healing.
 
@@ -108,6 +108,8 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 **Race note:** Race is the smallest dial in the build (~5% spread) and costs real money to change — default to whatever the character already is. If you ever *do* re-roll and want to lean into the documented stamina gap, **Redguard** is the only race with a real stamina-sustain passive.
 
 ### The Magicka Templar alternative (survivability-leaning)
+
+**The full write-up is its own guide → [Magicka Templar](magicka-templar.md).** The short version below covers the Armory-loadout flip:
 
 Same class, same masteries, same melee cone — but built around **Puncturing Sweep** (the Jabs morph that **heals you for 25% of the damage done**) instead of Biting Jabs, on a magicka stat spread. It parses a hair lower (~67.4k vs ~69.4k — noise by this repo's standard) and heals noticeably more, so it's the pick when a fight is out-damaging your Pale Order + Bastion healing. The changes are small: swap Biting Jabs → **Puncturing Sweep**, run magicka enchants and food, and you can play it dual-wield *or* two-staff since Sweep is still a cone. Everything else — masteries, DoTs, Ritual/Bastion heal engine, CP — is identical. Treat it as a loadout you flip to in the Armory Assistant when you want to trade a sliver of damage for a lot of healing.
 
@@ -250,4 +252,4 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 
 **Alternatives worth knowing:** **Zerith-Var (Tank)** applies Major Breach — free penetration that can free a bar slot. **Azandar (Tank)** brings Major and Minor Vulnerability, best-rated for Infinite Archive.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

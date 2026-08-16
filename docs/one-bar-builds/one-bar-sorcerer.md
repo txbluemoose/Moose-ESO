@@ -168,4 +168,4 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Duo tip:** if her husband is running Isobel as tank, run a DPS or support companion instead — two tanks waste aggro.
 
-Full details for all eight companions: see `shared/companions.md`.
+Full details for all eight companions: see `../shared/companions.md`.

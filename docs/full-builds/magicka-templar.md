@@ -44,7 +44,7 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 
 **What each does (and why it fits "don't die"):**
 - **Puncturing Sweep** — your spammable, a melee cone that hits up to 6 and **heals you for 25% of the damage done**. It feeds Judgment's Brand, so doing damage *is* your damage buff *and* your main heal. This is the healing-over-damage morph (the other, **Biting Jabs**, trades the heal for Major Brutality/Sorcery — that's the stamina build's pick, see [templar.md](templar.md)).
-- **Radiant Glory** — execute; swap to it under ~28% HP. Cheap, and it **heals you** for ~15% of the damage. A Templar's execute is also a heal. (Want the higher-damage morph and don't need the heal? **Radiant Oppression** parses a hair higher — noise here.)
+- **Radiant Glory** — execute; its bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%. Cheap, and it **heals you** for ~15% of the damage. A Templar's execute is also a heal. (Want the higher-damage morph and don't need the heal? **Radiant Oppression** parses a hair higher — noise here.)
 - **Ritual of Retribution** — your Sacred Ground. Ground DoT that **cleanses up to 2 harmful effects on cast**, and the tile that keeps **Bastion of Light** healing you every second. Stand in it.
 - **Blazing Spear** — a second Sacred Ground tile (more Bastion of Light uptime) that drops a synergy for grouped play and hits the whole pack. On single-target fights you can drop it for a swap below.
 - **Quick Cloak** — Major Evasion (−20% AoE damage taken) for the whole melee profile. Requires two one-handers, which you have.
@@ -59,14 +59,14 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 ### Situational swaps (with skill line sources)
 - **Warding Contingency** — *scribed Contingency grimoire, Soul Magic* (scripts: throw up a damage shield when struck — *confirm scripts in-game*) — you have scribing (Gold Road), so this is free "don't die" value in the Blazing Spear slot on single-target fights. **No scribing or unsure of the script? Use Living Dark below** — same job, from a class line.
 - **Living Dark** — *Templar > Dawn's Wrath* (morph of Eclipse) — heals you and snares attackers when you're struck; the non-scribed defensive slot for single-target fights
-- **Biting Jabs** — *Templar > Aedric Spear* (the other Sweep morph) — trade the 25%-of-damage heal for Major Brutality/Sorcery + Minor Berserk when a fight isn't threatening your health (this is the stamina build's spammable)
+- **Biting Jabs** — *Templar > Aedric Spear* (the other Sweep morph) — trade the 25%-of-damage heal for Major Brutality/Sorcery (+ Minor Berserk — confirm in-game) when a fight isn't threatening your health (this is the stamina build's spammable)
 - **Elemental Susceptibility** — *Destruction Staff* (morph of Weakness to Elements) — Minor Breach for a tanky boss with no group to debuff it
 - **Resolving Vigor** — *Alliance War > Assault* — a burst-heal-over-time for invulnerability phases where Pale Order can't heal you (earn AP in Battlegrounds/Cyrodiil)
 - **Precognition** ult — *Psijic Order guild line (Summerset)* — mandatory for a few solo-impossible stuns
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
 
 ### Rotation (priority sweep — refresh whatever is highest, then Sweep as filler)
-1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Vampire's Bane** → 4. **Solar Barrage** → 5. **Blockade of Fire** → 6. **Blazing Spear** on packs → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~28% → 10. **Honor the Dead** only when health dips.
+1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Vampire's Bane** → 4. **Solar Barrage** → 5. **Blockade of Fire** → 6. **Blazing Spear** on packs → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
 
 The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Vampire's Bane, Solar Barrage, Blockade) rolling, then hold Puncturing Sweep. Because Sweep feeds Judgment's Brand and heals 25%, and Ritual feeds Bastion of Light, doing damage *is* your buff uptime *and* your healing — you rarely press a heal at all.
 
@@ -246,4 +246,4 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 
 **Alternatives worth knowing:** **Zerith-Var (Tank)** applies Major Breach — free penetration that can free a bar slot. **Azandar (Tank)** brings Major and Minor Vulnerability, best-rated for Infinite Archive.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

@@ -31,7 +31,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 | 1. ✅ **Cephaliarch's Flail** (morph of Abyssal Impact, *Herald of the Tome*) | 1. ✅ **Cruxweaver Armor** (morph of Fatewoven Armor, *Soldier of Apocrypha*) |
 | 2. ✅ **Pragmatic Fatecarver** (morph of Fatecarver, *Herald of the Tome*) | 2. ✅ **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) |
 | 3. ✅ **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) | 3. ✅ **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) |
-| 4. ✅ **Quick Cloak** (morph of Blade Cloak, *Dual Wield*) | 4. ⚠️ **Fulminating Rune** (morph of The Imperfect Ring, *Curative Runeforms*) *(confirm morph in-game)* |
+| 4. ✅ **Quick Cloak** (morph of Blade Cloak, *Dual Wield*) | 4. ⚠️ **Fulminating Rune** (morph of The Imperfect Ring, *Herald of the Tome*) *(confirm morph in-game)* |
 | 5. ✅ **Camouflaged Hunter** (morph of Expert Hunter, *Fighters Guild*) | 5. ⚠️ **Evolving Runemend** (morph of Runemend, *Curative Runeforms*) *(confirm morph in-game)* |
 | **Ult:** ✅ **The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — a beam ult you can fire **mid-Fatecarver without breaking the channel** | **Ult:** ⚠️ mirror **The Languid Eye**, or slot a defensive ult here (*confirm your preference in-game*) — ultimate resource is shared across bars |
 
@@ -47,13 +47,13 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 - **Fulminating Rune** — a second ground DoT / AoE that also generates Crux, so your back bar keeps the beam fed.
 - **Evolving Runemend** — burst heal **plus a 10s heal-over-time** — your heal-on-cast layer, so a heal source keeps ticking even when you're not landing hits or taking damage. Scales off Weapon Damage, so it's strong on this build.
 
-*\*Dual daggers are the default (best melee damage, up-close, and Flail is point-blank anyway). Want to fight at range instead? Drop to the Lightning Staff back bar and beam from 22m — but you lose Quick Cloak and the Dual Wield passives, so it's the situational stance, not the build. There's no separate ranged sibling guide for the Arcanist because the beam already reaches; the melee front bar is the only thing you'd give up.*
+*\*Dual daggers are the default (best melee damage, up-close, and Flail is point-blank anyway). Want to fight at range instead? Drop to the Lightning Staff back bar and beam from 22m — but you lose Quick Cloak and the Dual Wield passives, so it's the situational stance, not the build. Want the full ranged version — lightning staff front, Light armor? That's a separate guide: [Magicka Arcanist](magicka-arcanist.md).*
 
 ### Situational swaps (with skill line sources — drop Fulminating Rune first, then Quick Cloak)
 - ⚠️ **Wield Soul** (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Breach) — you have Gold Road, so this is a live option: a DoT + a second Major Breach source if you ever drop the staff back bar. Don't double it with Elemental Susceptibility.
 - **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
 - **Tentacular Dread** (morph of Abyssal Impact, *Herald of the Tome*) — the ranged Crux spender: burst + a 3s immobilize, for kiting or when you need to pin a runner.
-- **Runic Jolt** (morph of Runic Sunder, *Soldier of Apocrypha*) — ⚠️ ranged taunt/Minor Maim; pull single targets or peel an add in duo content.
+- **Runic Sunder** (morph of Runic Jolt, *Soldier of Apocrypha*) — ⚠️ ranged taunt/Minor Maim; pull single targets or peel an add in duo content.
 - **Precognition** (ult, *Psijic Order*) — mandatory for the handful of solo-impossible stun mechanics (Zaan-type fights).
 
 ### Rotation (priority sweep — cast the highest thing that's expired, then get back to the beam)
@@ -126,6 +126,23 @@ Directional only — **PvP metas rotate every season**, so confirm current piece
 **Sets:** the current PvP meta leans on Weapon-Damage-and-survival sets (Alcast's page carries the live list — it changes with the season). Whatever you pick, **stay pure class** — any PvP build that subclasses is off the table for you, because subclassing disables Class Mastery.
 
 *Source: Alcast U50 Stamina Arcanist PvP build (alcasthq.com). Season metas rotate — the live page and in-game tooltips override this section.*
+
+---
+
+## Skill Line Passives
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if points are short:
+
+- **Herald of the Tome:** all 4 — **Fated Fortune** (crit damage/healing tied to Crux) is the star, and both Class Masteries ride this line
+- **Soldier of Apocrypha:** all 4 — Cruxweaver Armor lives here; the line's passives are your mitigation
+- **Curative Runeforms:** all — Evolving Runemend lives here (note: **Fulminating Rune is Herald of the Tome**, not this line)
+- **Dual Wield:** all — the flat damage passives carry the dagger front bar
+- **Destruction Staff:** all — the lightning back bar's Blockade + Elemental Susceptibility lean on them
+- **Medium Armor:** Dexterity + Agility — HIGH
+- **Undaunted:** Undaunted Mettle — HIGH
+- **Fighters Guild:** Slayer, and Camouflaged Hunter's line passives — HIGH
+- **Alchemy:** Medicinal Use — HIGH
+- **Racial:** all
 
 ---
 
@@ -204,7 +221,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 6. **Perfected Crushing Wall Lightning Staff** — vet Maelstrom Arena (the *last* upgrade; Deadly Strike staff is fine until then)
 7. **Ansuul's Torment** — Sanity's Edge trial (the endgame body/jewelry upgrade over Order's Wrath/Deadly Strike, when you want it)
 
-*Sources: Hyperioxes U50 Stamina Arcanist Solo Build + Alcast U50 Stamina Arcanist (skill/set/Class Mastery mechanics cross-checked vs ESO-Hub / UESP, U50). Skill names current as of U50 — trust in-game tooltips over any guide, including this one. A few morphs are flagged ⚠️ "confirm in-game" in the bars above; verify those on your character before a hard clear.*
+*Sources: Hyperioxes U50 Stamina Arcanist Solo Build + Alcast U50 Stamina Arcanist (skill/set/Class Mastery mechanics cross-checked vs ESO-Hub / UESP, U50). Skill names current as of U50 — trust in-game tooltips over any guide, including this one. A few morphs are flagged ⚠️ "confirm in-game" in the bars above; verify those on your character before a hard clear. Revised 2026-08-16.*
 
 ---
 
@@ -214,4 +231,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Alternatives worth knowing:** **Azandar (Tank)** brings Major *and* Minor Vulnerability (best-rated companion for Infinite Archive); **Zerith-Var (Tank)** applies Major Breach, which can free your Elemental Susceptibility slot in duo play.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

@@ -151,6 +151,23 @@ Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exac
 
 ---
 
+## Skill Line Passives
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if points are short:
+
+- **Assassination:** all 4 — **Hemorrhage** (crit damage) and **Master Assassin** are the stars
+- **Shadow:** all 4 — **Shadow Barrier** (Major Resolve after cloak/stealth) is free armor on every Concealed Weapon opener
+- **Siphoning:** all 4 — **Magicka Flood** and the heal boosts feed Swallow Soul's whole engine
+- **Dual Wield:** all — flat damage for the front bar
+- **Destruction Staff:** all — the inferno back bar's Blockade and Elemental Susceptibility lean on them
+- **Light Armor** (pieces worn): Concentration + Prodigy — HIGH
+- **Undaunted:** Undaunted Mettle — HIGH
+- **Fighters Guild:** Slayer — HIGH
+- **Alchemy:** Medicinal Use — HIGH
+- **Racial:** all
+
+---
+
 ## 5. Champion Points — Spend Order (1200 → 1800)
 
 At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
@@ -240,4 +257,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** and wear it when the companion is carrying (halves their ability cooldowns); swap back to your damage set when you're the one doing the work.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
