@@ -75,6 +75,13 @@ These were all gotten wrong in the original session. They are the highest-value 
 | Wife's DK could use Shatterspike Mantle while subclassed | She lost Earthen Heart to the subclass. Shatterspike was only restored after converting her to pure class. |
 | Camouflaged Hunter / Hearth and Home on solo DK bars | Not in the verified solo build; slots 5 are Ulfsild's Contingency and Elemental Susceptibility |
 | Belt is Medium on magicka builds | **Light** |
+| "Incinerate" as a morph of Inferno | No such morph — Inferno's morphs are **Flames of Oblivion** / **Cauterize** (was on the Mag DK guide *and* her DK sheet for weeks) |
+| "Stalking Blastbones" on Necro builds | Removed from the game in U41 — the charging skeleton is **Blighted Blastbones**, morph of **Sacrificial Bones** |
+| Pestilent Colossus used as a stun | It doesn't stun — only **Glacial Colossus** stuns (final smash) |
+| "Deadly Strike is craftable / husband crafts it" | It's a **Cyrodiil vendor / guild-trader set** — owned, cheap, but never craftable (was wrong on 7 sheets) |
+| Endless Hail "morph of Arrow Barrage" | Morph of **Volley**; Arrow Barrage is the *other* morph. Same pattern: Leeching Strikes is a morph of **Siphoning Strikes** (not Siphoning Attacks), Enchanted Growth of **Fungal Growth** (not Nature's Grasp) — always check which sibling is base vs morph |
+| Thaumaturge slotted "because Fatecarver is a channel" | Channel ticks are **direct damage** → Master-at-Arms. Thaumaturge is also a 50-pt slottable, never a "buy max" passive |
+| Parking a skill on her unused back bar for its passive | Double-wrong: violates her one-bar rule AND while-slotted bonuses only work on the *active* bar |
 
 **Also worth remembering:** subclassing disables Class Mastery entirely. Both players are pure class for this reason. Any proposal to subclass must account for losing two mastery passives.
 
