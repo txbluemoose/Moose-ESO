@@ -76,6 +76,32 @@ Honestly: this is a ~1–2% swing either way. Slimecraw is the default in these 
 
 ---
 
+## Reading your penetration (the number that decides the helm)
+
+**Your character sheet lies to you here — in a good way.** The "Offensive Penetration" figure on your sheet counts only *your own* sources: Champion Points, Divines/Mundus, traits, set bonuses, Light Armor. It does **not** include the Breach debuffs you put on the enemy, because those reduce *their* resistance rather than raising your penetration. So a sheet number that looks alarmingly low usually isn't the whole story.
+
+To get your real figure, add the debuffs you actually keep up:
+
+| Source | Value |
+|---|---|
+| Your character sheet | *(whatever it reads)* |
+| **Major Breach** — from your own debuff skill | +5,948 |
+| **Minor Breach** — if something on your bar applies it | +2,974 |
+| **Target's resistance (the cap you're aiming at)** | **18,200** |
+
+Anything past 18,200 is wasted. Anything short of it is damage you're simply not doing — and the shortfall converts at roughly **1% damage per 660 penetration**, so a 5,000 gap is around 7–8% damage lost. That is far bigger than any monster-helm choice, so fix this before agonising over the helm.
+
+**Cheapest ways to close a gap, in order:**
+
+1. **The Lover mundus** — +2,744 penetration, and **up to 4,741 with a full set of legendary Divines armor**, which these builds already wear. It's free to switch (ride to the stone), and it is by far the biggest single lever. Every gear table here specifies Divines precisely so this stone hits its ceiling.
+2. **Piercing** (Warfare CP) — 350 per stage; make sure it's actually bought out, it's easy to leave half-finished.
+3. **Sharpened** on your weapons — a real chunk of penetration, traded against whatever trait you're running (Charged for status effects, Infused for the enchant).
+4. **Light Armor pieces** — each grants Concentration penetration. Medium-armour melee builds get almost none, which is the deliberate cost of the tankier setup, not a mistake.
+
+**Then re-check the helm.** The two decisions are linked: while you're under the cap, a penetration helm is fully useful; once The Lover pushes you to the cap, that penetration is wasted and the **crit helm becomes the correct pick**.
+
+---
+
 ## If you ever drop Pale Order
 
 Going to Layout B (no mythic) opens the 2-piece monster set, and *then* the proc sets become worth discussing — Valkyn Skoria on a damage-over-time build, Zaan for single-target burn, Slimecraw for the flat +5%. That's a **group** decision. For solo content in this household, the ring stays on.
