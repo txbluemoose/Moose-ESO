@@ -74,7 +74,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
-| Head | **Medium** | Divines | Magicka | **Slimecraw** | 1pc monster helm — Minor Berserk. You own it. |
+| Head | **Medium** | Divines | Magicka | **Slimecraw** | **(1pc monster — 657 Crit Chance)** You own it. |
 | Shoulders | Light | Divines | Magicka | Deadly Strike | craftable, you own it |
 | Chest | **Heavy** | Divines | Magicka | Order's Wrath | the one Heavy piece — go Reinforced for the tankiest content |
 | Hands | Light | Divines | Magicka | Order's Wrath | |
@@ -88,12 +88,14 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 
 *Order's Wrath = 5 body (chest/hands/belt/legs/boots). Deadly Strike = shoulders + 2 jewelry + whichever staff is drawn (each staff is 2 pieces, so front staff + shoulders + 2 jewelry = 5 on the front bar; back staff + shoulders + 2 jewelry = 5 on the back bar — wearing it on both means it never drops when you swap). Slimecraw 1pc + Pale Order mythic fill the last two slots. In-game tooltips override — confirm on your bar.*
 
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
+
 **Why Deadly Strike here:** it boosts **channeled, DoT, and ultimate** damage by 15% — and your entire kit (Fatecarver **channel**, Blockade/Fulminating DoTs, Languid Eye ult) is exactly that. It's the rare craftable set that's near-BiS for this class, and you already own it. **Order's Wrath** (flat crit chance + crit damage) is likewise craftable, owned, and a clean body-set fit.
 
 **Fallback ladders (all craftable — no trial gear needed):**
 - Body: **Order's Wrath** (crafted, you own it) → Ansuul's Torment (Sanity's Edge trial — the endgame body upgrade, ~+3–4%) → Whorl of the Depths (Dreadsail Reef).
 - Weapons/jewelry: **Deadly Strike** (crafted, you own it) → Ansuul's Torment jewelry/weapons → Order's Wrath as a second craftable if you want double-crafted.
-- Monster: **Slimecraw** 1pc → any Minor Berserk 1pc you already have.
+- Monster: **Slimecraw** 1pc (657 Crit Chance) → **Valkyn Skoria** 1pc (1,487 Offensive Penetration) if you're under the pen cap → any 1pc helm whose stat line you're short on. Only the 1-piece bonus ever applies — the mythic ring blocks a second monster piece.
 - Front-staff upgrade: swap the Deadly Strike Lightning staff for a **Perfected Crushing Wall / Maelstrom Lightning Staff** (vet Maelstrom Arena) — it supercharges Elemental Blockade. Do this last; the Deadly Strike staff is completely fine until then.
 
 **Mundus:** The Thief (crit) default → **The Lady** (spell/physical resist) or **The Lord** (max health) for brutal content — the survivability dial.

@@ -80,7 +80,7 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Stamina | **Slimecraw** (1pc monster — Minor Berserk) |
+| Head | Medium | Divines | Stamina | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Medium | Divines | Stamina | Order's Wrath |
 | Chest | Medium | Divines | Stamina | Deadly Strike |
 | Hands | Medium | Divines | Stamina | Order's Wrath |
@@ -93,6 +93,8 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 | Back bar (Inferno Staff) | — | Infused | Weapon Damage | *(Maelstrom / standalone)* |
 
 *Deadly Strike is doing real work here, not filling space: its 5-piece boosts **channeled, DoT, and AoE damage by ~15%**, and Biting Jabs is a channel while Ritual / Vampire's Bane / Blockade are DoTs — the set is built for exactly this kit. Order's Wrath is flat crit chance + crit damage. Both are **craftable and you already own them**, so this whole build is buildable at your own station today — no trial grind. In-game tooltips override — confirm on your bar.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
 **Where it comes from:** Deadly Strike and Order's Wrath = crafted (you own both). Slimecraw = 1pc monster helm (overland/Wayrest Sewers I). Ring of the Pale Order = Antiquities. Maelstrom inferno staff (Crushing Wall) = vet Maelstrom Arena — the only piece worth chasing, and even that's optional.
 

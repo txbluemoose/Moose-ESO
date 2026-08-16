@@ -44,7 +44,7 @@ Subclassing disables Class Mastery entirely (you'd lose both picks). You are pur
 - **Razor Caltrops** (*Alliance War > Assault*) — AoE DoT **+ Major Breach** on trash; in for Barbed Trap when you want the group-style penetration
 - **Hardened Ward** (morph of Conjured Ward, *Daedric Summoning*) — a big 6s shield; in for Deadly Cloak on a scary boss (shield + Pale Order + Critical Surge = very hard to kill)
 - **Streak / Bolt Escape** (*Storm Calling*) — the class teleport; mobility fights or cheesing mechanics (Storm Calling's escape is the best in the game)
-- **Camouflaged Hunter** (*Fighters Guild*) — Minor Berserk + a burst, if you drop Slimecraw
+- **Camouflaged Hunter** (*Fighters Guild*) — Minor Berserk on flank crits + a burst; it's your only Minor Berserk source, since a 1pc Slimecraw doesn't provide any
 - **Precognition ult** (*Psijic Order*) — the solo-impossible-stun breaker (Zaan, etc.)
 
 ### Rotation (priority sweep — not a step counter)
@@ -65,7 +65,7 @@ Play it as **two sweeps**, not a 12-step list:
 
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
-| Head | Medium | Divines | Stamina | Slimecraw (1pc monster) | you own it — Minor Berserk |
+| Head | Medium | Divines | Stamina | Slimecraw **(1pc monster — 657 Crit Chance)** | you own it |
 | Shoulders | Medium | Divines | Stamina | Order's Wrath | you craft it |
 | Chest | **Heavy** | Divines | Stamina | Order's Wrath | the Heavy Mettle tier |
 | Hands | Medium | Divines | Stamina | Order's Wrath | |
@@ -78,6 +78,8 @@ Play it as **two sweeps**, not a 12-step list:
 | Back bow | — | Infused | Weapon Damage (or Absorb Stamina) | Deadly Strike (2 pieces) | keeps Deadly Strike at 5pc on **both** bars |
 
 *Because **both** weapon sets are Deadly Strike, you keep the full 5-piece on the front daggers bar AND the back bow bar — no dead-bar problem. **Deadly Strike boosts damage-over-time and channeled abilities by 15%**, and this build is a pile of DoTs (Hurricane, Endless Hail, Poison Injection, Rending Slashes, Deadly Cloak) — so it's near-BiS *and* craftable. **Order's Wrath** (5 body) is crit damage + crit chance, also craftable. Slimecraw 1pc + Pale Order finish it. Everything here is owned or you craft it — buildable today. In-game tooltips override.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
 **Fallback ladders (owned first):**
 - Body: Order's Wrath → **Ansuul's Torment** (Sanity's Edge, ~+3–4% single target) → the Sorc class set for a class-set build (Infinite Archive) → any crafted crit set while you farm
