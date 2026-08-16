@@ -71,7 +71,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
-| Head | Medium | Divines | Stamina | Slimecraw | or Iceheart / Zaan / Grundwulf / Stone Husk / The Blind (same 1pc bonus) |
+| Head | Medium | Divines | Stamina | Slimecraw | 1pc = 657 Crit Chance. Any monster helm works — you only get its **1-item** stat line, so compare those, not the procs ([why](../shared/gear-math.md)) |
 | Shoulders | Medium | Divines | Stamina | Sul-Xan's Torment | |
 | Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive |
 | Hands | Medium | Divines | Stamina | Aerie's Cry | |
