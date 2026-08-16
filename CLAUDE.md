@@ -82,6 +82,8 @@ These were all gotten wrong in the original session. They are the highest-value 
 | Endless Hail "morph of Arrow Barrage" | Morph of **Volley**; Arrow Barrage is the *other* morph. Same pattern: Leeching Strikes is a morph of **Siphoning Strikes** (not Siphoning Attacks), Enchanted Growth of **Fungal Growth** (not Nature's Grasp) — always check which sibling is base vs morph |
 | Thaumaturge slotted "because Fatecarver is a channel" | Channel ticks are **direct damage** → Master-at-Arms. Thaumaturge is also a 50-pt slottable, never a "buy max" passive |
 | Parking a skill on her unused back bar for its passive | Double-wrong: violates her one-bar rule AND while-slotted bonuses only work on the *active* bar |
+| **Slimecraw 1pc grants Minor Berserk** | **1 item = 657 Crit Chance. Minor Berserk is the 2-item bonus** — and since every build runs Pale Order in the mythic slot, only 1 monster piece ever fits, so it *never fires*. Was wrong in 15 files (incl. the glossary) until 2026-08-16. The lone monster helm is a **pure stat pick** — see `shared/gear-math.md`. Real Minor Berserk sources here: Camouflaged Hunter, Ferocious Roar |
+| Assuming a monster set's marquee effect applies at 1 piece | **Every** monster set puts its proc/buff on the **2-item** bonus. With a mythic equipped you only get the 1-item stat line. Check which tier a bonus sits on before crediting it |
 
 **Also worth remembering:** subclassing disables Class Mastery entirely. Both players are pure class for this reason. Any proposal to subclass must account for losing two mastery passives.
 
@@ -103,4 +105,5 @@ These were all gotten wrong in the original session. They are the highest-value 
 - **Prismatic Onslaught glyph** is a nerfed sidegrade requiring rare Hakeijo runes. Not worth it. Absorb Stamina front bar is the better answer to his sustain issue.
 - **Race** is the smallest dial in any build (~5% spread) and costs real money to change. Default answer is "whatever the character already is." Redguard is the only race with a real stamina-sustain passive if it ever comes up.
 - **Set piece slots don't matter mechanically** — 5 pieces is 5 pieces. But the 5-armor / 5-jewelry-and-weapon split is the only arrangement that fits a monster helm and mythic into 12 slots.
+- **Mythic vs 2-piece monster set** is an either/or — there's no 13th slot. **Solo: the mythic (Pale Order) wins decisively** (20% of damage as healing vs ~5% more damage from a monster 2pc). **Group: the 2pc wins**, because Pale Order drops 4% per grouped ally (8% in a 4-man, 0% in a trial). Written up in `shared/gear-math.md`; don't re-derive it per guide.
 - **HarvestMap + HarvestRoute + Lost Treasure** are the farming addons (PC only). CP green tree + Keen Eye passives are the console-safe equivalent.

@@ -81,7 +81,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Magicka | **Slimecraw** (1pc monster — Minor Berserk) |
+| Head | Medium | Divines | Magicka | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Medium | Divines | Magicka | Aerie's Cry |
 | Chest | Medium | Divines | Magicka | Sul-Xan's Torment |
 | Hands | Medium | Divines | Magicka | Aerie's Cry |
@@ -93,7 +93,9 @@ Think of it as **"lay the ground, then live on the front bar."**
 | Front (2 daggers) | — | Charged | Poison + Absorb Magicka | Sul-Xan's Torment |
 | Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff |
 
-*Aerie's Cry = the Warden class set (Infinite Archive — two-player, farm it alongside your wife's runs). Sul-Xan's Torment = Rockgrove. Crushing Wall = vet Maelstrom Arena. Overland swap: Slimecraw stays; if you can't reach the trial gear yet, see the fallback ladder. **Iceheart** is a strong frost-survivability alt monster helm (a damage shield on frost crit) if you want more "don't die" than Minor Berserk. In-game tooltips override — confirm on your bar.*
+*Aerie's Cry = the Warden class set (Infinite Archive — two-player, farm it alongside your wife's runs). Sul-Xan's Torment = Rockgrove. Crushing Wall = vet Maelstrom Arena. Overland swap: Slimecraw stays; if you can't reach the trial gear yet, see the fallback ladder. *(Don't reach for **Iceheart** here for its damage shield — like every monster set, that's its **2-piece** bonus, and the mythic ring leaves you only one monster slot. At 1 piece you're buying its stat line, nothing more.)* In-game tooltips override — confirm on your bar.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
 **Note on the ice back bar:** a fully staff-free back bar (S&B/2H) loses Elemental Blockade + the Chilled procs Wild Adaptation feeds on, and isn't worth it on a magicka build. Keep the ice staff.
 
@@ -219,7 +221,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 1. **Scribing unlocked** (Gold Road questline) → Ulfsild's Contingency (you already have scribing)
 2. **Aerie's Cry** — Infinite Archive (Warden class set; two-player, farm with your wife)
 3. **Crushing Wall Ice Staff** — vet Maelstrom Arena
-4. **Slimecraw** — vet Wayrest Sewers I (or **Iceheart**, vet Direfrost Keep, for the frost-survivability alt)
+4. **Slimecraw** — vet Wayrest Sewers I (you likely own it; at 1 piece you're only buying the stat line, so don't farm a different helm for its proc — see [Gear slot math](../shared/gear-math.md))
 5. **Sul-Xan's Torment** — Rockgrove; until then crafted **Order's Wrath** (body) + **Deadly Strike** (weapons/jewelry), both owned, at a ~4–6% penalty
 6. Keep: Ring of the Pale Order, Order's Wrath, Deadly Strike
 

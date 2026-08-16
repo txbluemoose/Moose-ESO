@@ -76,7 +76,7 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Light | Divines | Stamina | Slimecraw (1pc monster — overland, you own it) |
+| Head | Light | Divines | Stamina | Slimecraw **(1pc monster — 657 Crit Chance)** — overland, you own it |
 | Shoulders | Medium | Divines | Stamina | Corpseburster |
 | Chest | Heavy | Divines | Stamina | Corpseburster |
 | Hands | Medium | Divines | Stamina | Corpseburster |
@@ -88,14 +88,16 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 | Front (2 daggers) | — | Nirnhoned / Charged | Poison + Absorb Stamina | Deadly Strike |
 | Back bar (Bow) | — | Infused | Weapon Damage | Perfected Maelstrom Bow (vMA) — its bonus boosts your bow DoT *(confirm the exact line in-game)* |
 
-*Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (Minor Berserk); Corpseburster is the 5pc corpse-explosion engine. **Deadly Strike is the household weapon/jewelry pick here on purpose** — it boosts DoTs and channels 15%, and half your kit (Detonating Siphon tether, Avid Boneyard, Deadly Cloak, Endless Hail) *is* DoTs, so it punches well above its weight on a Necromancer specifically. It's also already owned (cheap from guild traders — it's a Cyrodiil set, not craftable), so this is buildable today.*
+*Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (657 Critical Chance); Corpseburster is the 5pc corpse-explosion engine. **Deadly Strike is the household weapon/jewelry pick here on purpose** — it boosts DoTs and channels 15%, and half your kit (Detonating Siphon tether, Avid Boneyard, Deadly Cloak, Endless Hail) *is* DoTs, so it punches well above its weight on a Necromancer specifically. It's also already owned (cheap from guild traders — it's a Cyrodiil set, not craftable), so this is buildable today.*
 
-**Where it comes from:** Corpseburster = Infinite Archive. Deadly Strike = guild traders / Cyrodiil vendors (you own it). Slimecraw = overland (you own it). Perfected Maelstrom Bow = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the instanced-content upgrade over Slimecraw when you want a proc'ing monster set.
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
+
+**Where it comes from:** Corpseburster = Infinite Archive. Deadly Strike = guild traders / Cyrodiil vendors (you own it). Slimecraw = overland (you own it). Perfected Maelstrom Bow = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Ansuul's Torment / Tzogvin's Warband (trial/dungeon options — see the live source before farming a trial)
 - Weapons/jewelry: keep **Deadly Strike** — on a Necro DoT kit it's already near the top; a plain Maelstrom Bow (non-perfected) covers the back-bar slot until you clear vMA on vet
-- Monster: Slimecraw (1pc, own) → Valkyn Skoria (vet CoA II) for instanced content
+- Monster: Slimecraw 1pc (657 Crit Chance, own) → Valkyn Skoria 1pc (1,487 Offensive Penetration) if you're under the pen cap. Only the 1pc bonus ever applies.
 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo (and running Avid Boneyard rather than Unnerving) → The Lady (resistances) only for brutal one-shot content
 **Attributes:** 64 Stamina default → 32/32 Health/Stamina when struggling → 64 Health for the nastiest fights (Cycle Unending actually *rewards* the extra health with more damage, so this costs you less than it looks)
@@ -222,7 +224,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 1. **Corpseburster** — run Infinite Archive; it's the whole build's damage engine and hits harder for every Grave Lord skill you slot
 2. **Perfected Maelstrom Bow** — vet Maelstrom Arena (back bar)
 3. **Deadly Strike** — craft it (you own it); front-bar daggers + jewelry + boots (the back-bar weapon is the Maelstrom bow), unusually strong on this DoT kit
-4. **Valkyn Skoria helm** — vet City of Ash II, the instanced upgrade over Slimecraw
+4. **Valkyn Skoria helm** — vet City of Ash II, only if your character sheet says you need its 1pc penetration over Slimecraw's crit chance
 5. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath (body fallback)
 6. **Scribing** already unlocked (Gold Road) → Ulfsild's Contingency as your flexible back-bar/group slot
 

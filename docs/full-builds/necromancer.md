@@ -77,7 +77,7 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Magicka | Slimecraw (1pc monster — overland, you own it) |
+| Head | Medium | Divines | Magicka | Slimecraw **(1pc monster — 657 Crit Chance)** — overland, you own it |
 | Shoulders | Medium | Divines | Magicka | Corpseburster |
 | Chest | Heavy | Divines | Magicka | Corpseburster |
 | Hands | Medium | Divines | Magicka | Corpseburster |
@@ -89,14 +89,16 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 | Front (2 daggers) | — | Charged | Poison + Absorb Magicka | Whorl of the Depths |
 | Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff (Maelstrom) |
 
-*Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (Minor Berserk); Corpseburster is the 5pc corpse-explosion engine.*
+*Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (657 Critical Chance); Corpseburster is the 5pc corpse-explosion engine.*
 
-**Where it comes from:** Corpseburster = Infinite Archive. Whorl of the Depths = vet Dreadsail Reef / trader (Frost proc that syncs with your Ice bar). Slimecraw = overland (you own it). Crushing Wall = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the instanced-content upgrade over Slimecraw when you want a proc'ing monster set.
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
+
+**Where it comes from:** Corpseburster = Infinite Archive. Whorl of the Depths = vet Dreadsail Reef / trader (Frost proc that syncs with your Ice bar). Slimecraw = overland (you own it). Crushing Wall = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → Aegis Caller (Depths of Malatar) → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Tzogvin's Warband
 - Weapons/jewelry: Whorl of the Depths → **Deadly Strike (you own it, craftable)** — and note this: Deadly Strike boosts **DoTs and channels**, and half your kit (Detonating Siphon tether, Avid Boneyard, Elemental Blockade) *is* DoTs, so Deadly Strike punches above its weight on a Necromancer specifically — it's a better stopgap here than it was on your DK
-- Monster: Slimecraw (1pc, own) → Valkyn Skoria (vet CoA II) for instanced content
+- Monster: Slimecraw 1pc (657 Crit Chance, own) → Valkyn Skoria 1pc (1,487 Offensive Penetration) if you're under the pen cap. Only the 1pc bonus ever applies.
 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo → The Lady (resistances) only for brutal one-shot content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for the nastiest fights (Cycle Unending actually *rewards* the extra health with more damage, so this costs you less than it looks)
@@ -222,7 +224,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 1. **Corpseburster** — run Infinite Archive; it's the whole build's damage engine and hits harder for every Grave Lord skill you slot
 2. **Crushing Wall Ice staff** — vet Maelstrom Arena (back bar)
 3. **Whorl of the Depths** — vet Dreadsail Reef or a guild trader (weapons/jewelry/boots; its Frost proc syncs with your Ice bar)
-4. **Valkyn Skoria helm** — vet City of Ash II, the instanced upgrade over Slimecraw
+4. **Valkyn Skoria helm** — vet City of Ash II, only if your character sheet says you need its 1pc penetration over Slimecraw's crit chance
 5. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath, **Deadly Strike** (unusually good on Necro DoTs — see the fallback ladder)
 6. **Scribing** already unlocked (Gold Road) → Ulfsild's Contingency as your flexible back-bar/group slot
 

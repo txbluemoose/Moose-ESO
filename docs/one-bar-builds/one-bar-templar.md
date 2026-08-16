@@ -44,7 +44,7 @@
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Light | Divines | Magicka | **Slimecraw** (1pc monster — Minor Berserk) |
+| Head | Light | Divines | Magicka | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Light | Divines | Magicka | Order's Wrath |
 | Chest | Light | Divines | Magicka | Deadly Strike |
 | Hands | **Heavy** | Divines | Magicka | Order's Wrath |
@@ -56,6 +56,8 @@
 | Staff (Lightning/Inferno) | — | Infused | Weapon Damage | Deadly Strike (counts as 2 pieces) |
 
 *Both sets are within reach today — **Order's Wrath** is craftable at her husband's station, and **Deadly Strike** is cheap from guild traders (Cyrodiil set) — and she already owns it. No grind. **Deadly Strike** boosts channeled, DoT, and AoE damage ~15%, and Puncturing Sweep is a channel while Ritual is a DoT — it's built for this bar. **Order's Wrath** is flat crit. In-game tooltips override — confirm on her bar.*
+
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Its 657 Critical Chance is the default because she already owns it. See [Gear slot math](../shared/gear-math.md).*
 
 ### Endgame version
 The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Ring of the Pale Order is a complete, self-crafted build. Only real upgrade path: **Slimecraw** helm if she's still on a crafted head, and (much later, optional) a trial body set like Ansuul's Torment for a couple percent. **Keep Ring of the Pale Order in Ring 2 either way** — the household runs it for the constant self-heal. *(The one-bar mythic Oakensoul Ring parses higher because it hands a one-bar build all the group buffs, but you can't wear two mythic rings, and Pale Order's layered healing is the "don't die" pick here — so Oakensoul is the alternative she is deliberately not taking.)*

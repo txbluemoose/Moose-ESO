@@ -71,7 +71,7 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Magicka | Slimecraw (1pc — Minor Berserk) |
+| Head | Medium | Divines | Magicka | Slimecraw **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Medium | Divines | Magicka | Pyrebrand |
 | Chest | Medium | Divines | Magicka | Sul-Xan's Torment |
 | Hands | Medium | Divines | Magicka | Pyrebrand |
@@ -85,7 +85,9 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 
 *There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs); a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. Overland: swap the ice staff → inferno. In-game tooltips override — confirm on your bar.*
 
-**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Crushing Wall = Maelstrom Arena staff. *(1pc Slimecraw beats 1pc Valkyn Skoria here — with Pyrebrand on your shoulders, Valkyn's 2-piece can never fire, and Slimecraw's Minor Berserk out-damages Valkyn's bare 1pc stat line.)*
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
+
+**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Crushing Wall = Maelstrom Arena staff. *(No monster 2-piece can fire here — the Pale Order mythic leaves room for exactly one monster slot — so this is a straight 1pc stat comparison: Slimecraw's 657 Critical Chance vs Valkyn Skoria's 1,487 Offensive Penetration. Slimecraw is the default because you own it; take Valkyn instead if your character sheet shows you under the penetration cap.)*
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Pyrebrand → Tzogvin's Warband (Frostvault, −4%) → **Order's Wrath (−4 to −6%, you own it)** → Tide-Born Wildstalker
@@ -220,7 +222,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 1. **Scribing unlocked** (Gold Road questline) → Ulfsild's Contingency + Banner Bearer
 2. **Pyrebrand** — run Infinite Archive; it's the DK class set (also your best body set in every PvE mode)
 3. **Crushing Wall staves** — vet Maelstrom Arena (Inferno + Ice)
-4. ~~Valkyn Skoria helm~~ — skip it: with Pyrebrand shoulders its 2pc can't fire, and 1pc Slimecraw (which you own) is strictly better
+4. ~~Valkyn Skoria helm~~ — skip it unless you're under the penetration cap: no monster 2pc can fire here, so it's Valkyn's 1,487 Offensive Penetration vs Slimecraw's 657 Critical Chance, and you already own Slimecraw
 5. **Sul-Xan's Torment** — Rockgrove trial (weapons/jewelry/chest); until then your Deadly Strike / Order's Wrath work at a ~4–7% penalty
 6. **Ansuul's Torment** — Sanity's Edge, for group content with interrupts
 7. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath
