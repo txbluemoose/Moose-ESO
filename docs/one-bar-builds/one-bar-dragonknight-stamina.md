@@ -42,7 +42,7 @@
 
 ## Gear
 
-Same bones as her other sheets — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Stamina enchants and a bow**. Her husband crafts Order's Wrath and Deadly Strike, so this is buildable today.
+Same bones as her other sheets — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Stamina enchants and a bow**. Her husband crafts Order's Wrath; Deadly Strike is cheap from guild traders (Cyrodiil set) — and the household already owns it.
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina damage passives (Dexterity crit, Wind Walker recovery), plus one Light and one Heavy so all three tiers of **Undaunted Mettle** fire (max Health/Magicka/Stamina, one tier per *distinct* weight worn).
 
@@ -59,7 +59,7 @@ Same bones as her other sheets — **5 Order's Wrath + 5 Deadly Strike + Slimecr
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Bow | — | Infused | Weapon Damage | Deadly Strike (a bow = 2 set pieces) |
 
-*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT, channel, and AoE damage by 15%** — and this build is *all* DoTs, so it's near-BiS and craftable. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. **Crafted starter:** if her husband hasn't finished the jewelry yet, run all-Order's-Wrath body + a Deadly Strike bow and jewelry as he completes them — it's strong from the first pieces. In-game tooltips override.*
+*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT, channel, and AoE damage by 15%** — and this build is *all* DoTs, so it's near-BiS and cheap to buy. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. **Crafted starter:** if her husband hasn't finished the jewelry yet, run all-Order's-Wrath body + a Deadly Strike bow and jewelry as he completes them — it's strong from the first pieces. In-game tooltips override.*
 
 **Endgame upgrade:** none needed — this crafted setup clears her solo content. If she ever wants the last few %, a trial body set (Aegis Caller / Ansuul's Torment) swaps for Order's Wrath, but don't bother unless she asks.
 
@@ -80,7 +80,7 @@ Buy every passive in a line she has a skill slotted from:
 - **Bow:** all — Hawk Eye / Hasty Retreat / Ranger boost every arrow — HIGH
 - **Medium Armor:** Dexterity (crit) + Wind Walker (recovery) — HIGH
 - **Undaunted:** Undaunted Mettle — HIGH
-- **Fighters Guild / Mages Guild:** the flat-damage passives — HIGH
+- **Fighters Guild:** Slayer — only once she slots a Fighters Guild skill (the Dawnbreaker swap); passives need a slotted skill to matter
 - **Alchemy:** Medicinal Use (longer potions) — HIGH
 - **Racial:** all
 

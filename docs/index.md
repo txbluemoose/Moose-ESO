@@ -26,7 +26,7 @@ Every class, both stat pools (his main is the Magicka DK; melee is the household
 
 ## One-bar builds
 
-Every class, both stat pools (her stamina bars are built bow/ranged where the class allows — she stays off melee):
+Every class, both stat pools (her stamina bars are bow/ranged where the class allows — Templar's Jabs sheet and the Werewolf form bar are the melee exceptions, and both self-heal hard):
 
 - **Dragonknight** — [Magicka](one-bar-builds/one-bar-dragonknight.md) · [Stamina · Bow](one-bar-builds/one-bar-dragonknight-stamina.md)
 - **Sorcerer** — [Magicka · Pets](one-bar-builds/one-bar-sorcerer.md) · [Stamina · Bow](one-bar-builds/one-bar-sorcerer-stamina.md)

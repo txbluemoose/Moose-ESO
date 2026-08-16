@@ -28,6 +28,8 @@
 5. Getting hurt? Matriarch heal button. Really hurt? Swap in **Hardened Ward** (morph of Conjured Ward, *Daedric Summoning* — huge 6-second shield) for Crystal Weapon
 6. Fights with lots of knockbacks: drink an Immovability potion and heavy-attack right through them
 
+**Short version:** pets out, curse, wall down, then hold heavy attack — press whichever button ran out between heavies, Matriarch when hurt.
+
 ---
 
 ## Gear
@@ -49,12 +51,12 @@
 | Ring 2 | — | — (mythic) | — | **Oakensoul Ring** | Antiquities (High Isle leads) |
 | Lightning Staff | — | Precise | Shock | Sergeant's Mail | Wayrest Sewers |
 
-*Use Training traits while leveling, then Divines. Oakensoul is a mythic — no trait/enchant. In-game tooltips override — confirm on your bar.*
+*Use Training traits while leveling, then Divines. Oakensoul is a mythic — no trait/enchant. In-game tooltips override — confirm on her bar.*
 
-Oakensoul grants a pile of major buffs permanently in exchange for locking her to one bar — which she wasn't using anyway. It's THE one-bar mythic.
+Oakensoul grants a pile of major buffs permanently in exchange for locking her to one bar — which she wasn't using anyway. It's THE one-bar mythic. This is the household's one **Oakensoul** build — the heavy-attack style needs its buffs. Every other sheet of hers runs Pale Order; don't copy this ring choice to them.
 
 ### Crafted starter (until the dungeon gear drops — her husband makes all of it)
-Order's Wrath (chest/hands/belt/legs/boots) + Highland Sentinel (head/shoulders/jewelry ×3) + Assassin's Guile Lightning Staff (Precise, Shock). Parses 84.8k — already plenty for anything you two duo. Until she has Oakensoul, use Spell Power potions and park **Bound Aegis** (morph of Bound Armor, *Daedric Summoning*) on the unused back bar for its passives.
+Order's Wrath (chest/hands/belt/legs/boots) + Highland Sentinel (head/shoulders/jewelry ×3) + Assassin's Guile Lightning Staff (Precise, Shock). Parses 84.8k — already plenty for anything the two of them duo. Until she has Oakensoul, use Spell Power potions.
 
 **Mundus:** The Thief
 **Attributes:** 64 Magicka
@@ -149,10 +151,10 @@ Buy every passive in every line she uses; priorities if points are short (these 
 - **The Matriarch heals her husband too** — her heal hits 2 targets, so she's secretly the duo's pocket healer
 - Pets persist between fights; only resummon if they die (big AoE fights sometimes eat them — just recast)
 - If a fight is really rough: Hardened Ward in Crystal Weapon's slot + Bastion CP = a shield thicker than most tanks' health bars
-- This is her third one-bar option alongside the DK (flamethrower) and Arcanist (beam) — this one is the laziest of the three by design, and honestly parses the highest of them anyway
-- Same char as the earlier pet-free sorc sheet I made? No — this replaces it entirely; the pet version is both easier and stronger for her
+- This is one of her one-bar options — the laziest of them by design, and honestly it parses the highest of them anyway
+- Same char as the earlier pet-free sorc sheet? No — this replaces it entirely; the pet version is both easier and stronger for her
 
-*Source: Hyperioxes One-Bar Heavy Attack Sorcerer DPS Build, U50 (June 2026 revision) — verified current, Class Mastery picks included.*
+*Source: Hyperioxes One-Bar Heavy Attack Sorcerer DPS Build, U50 (June 2026 revision) — verified current, Class Mastery picks included. Revised 2026-08-16.*
 
 ---
 
@@ -160,7 +162,7 @@ Buy every passive in every line she uses; priorities if points are short (these 
 
 One-bar builds have fewer defensive tools, so a **tank or healer companion** covers the gap nicely.
 
-**Best pick: Isobel, built Tank.** All **Heavy / Bolstered** armor; **Quickened** jewelry, 1H sword, shield. Bar order (they cast top-to-bottom as cooldowns finish): **Provoke → Solar Ward → Beam of Reproach → Holy Ground → On Guard**, Ult **Baneslayer**. She pulls aggro so she eats the hits instead of you, and her Penetrating Strikes skill boosts her damage.
+**Best pick: Isobel, built Tank.** All **Heavy / Bolstered** armor; **Quickened** jewelry, 1H sword, shield. Bar order (they cast top-to-bottom as cooldowns finish): **Provoke → Solar Ward → Beam of Reproach → Holy Ground → On Guard**, Ult **Baneslayer**. She pulls aggro so she eats the hits instead of her, and her Penetrating Strikes skill boosts her damage.
 
 **Alternative — Sharp-as-Night, built Healer:** all **Light / Soothing**, Quickened jewelry + healing staff. Bar: Petals of the Hunter → Mystic Fortress → Fungal Forage → Rejuvenation → Snow Squall, Ult Gore. Best healer companion in the game, plus Minor Vulnerability from Infest.
 

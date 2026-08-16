@@ -8,20 +8,17 @@
 ---
 
 ## Skills
-*(Pure class — no subclass. Fulminating Rune is replaced since that came from the Arcanist line she's dropping.)*
+*(Pure class — no subclass. Fulminating Rune is replaced since that came from the Arcanist line she dropped when she went pure class.)*
 
 ### Main Bar (Lightning Staff)
 1. **Engulfing Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — THE button. Channeled fire breath, ramps up damage every tick
 2. **Incinerate** (morph of Inferno, *Ardent Flame*) — fiery pulse every 5s + free crit buffs just for being slotted
-3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Draconic Power*) — Major Resolve (armor) + a DoT + bonus damage on every tick; replaces Fulminating Rune
+3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve (armor) + a DoT + bonus damage on every tick; replaces Fulminating Rune
 4. **Green Dragon Blood** (morph of Dragon Blood, *Draconic Power*) — burst heal off her max health + Major Fortitude; her panic button
 5. **Burning Embers** (morph of Searing Strike, *Ardent Flame*) — DoT that heals her on cast and every tick
 - **Ult: Take Flight** (morph of Dragon Leap, *Draconic Power*) — big leap; while its buff is active, Engulfing always does MAX damage
 
 **Major Breach note:** with the Arcanist line gone, her armor-shred debuff comes from **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — swap it in for Burning Embers against tanky dungeon bosses. For overland/delves she won't miss it; keep Burning Embers there for the healing.
-
-### Back Bar
-- **Molten Whip** (morph of Lava Whip, *Ardent Flame*) **— slotted and NEVER used.** Don't swap to this bar. It sits there granting up to 15% bonus damage passively from stacks that build every time she casts any DK ability.
 
 ### Class Mastery (the payoff for going pure class — pick 2)
 - **Inexorable Descent** — 1% more damage/healing/shield per Landslide stack
@@ -35,6 +32,8 @@
 4. Take Flight whenever it's ready, then breathe fire hard during its buff
 5. Green Dragon Blood whenever health dips below ~60% — it heals harder the more max health she has
 6. Tanky dungeon boss? Swap Burning Embers → Elemental Susceptibility for the Major Breach
+
+**Short version:** buffs and DoTs up (Incinerate → Shatterspike → Embers), breathe fire, Take Flight when it glows, Green Dragon Blood when hurt.
 
 ---
 
@@ -53,17 +52,16 @@
 | Belt | Light | Divines | Magicka | Tide-Born Wildstalker | |
 | Legs | Light | Divines | Magicka | Tide-Born Wildstalker | |
 | Boots | Light | Divines | Magicka | Tide-Born Wildstalker | |
-| Necklace + Ring 2 | — | Bloodthirsty | Spell Damage | Order's Wrath | crafted |
-| Ring 1 | — | Bloodthirsty | Spell Damage | Highland Sentinel | |
+| Necklace + Ring 1 | — | Bloodthirsty | Spell Damage | Order's Wrath | crafted |
+| Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | Antiquities — turns damage into constant self-healing; until she digs it up, run a Highland Sentinel ring here |
 | Lightning Staff | — | Precise | Shock | Order's Wrath | counts as 2 pieces, completing that 5 |
 
-*Staff trait/enchant mirror the Sorc lightning-staff setup (Precise / Shock). In-game tooltips override — confirm on your bar.*
+*Staff trait/enchant mirror the Sorc lightning-staff setup (Precise / Shock). In-game tooltips override — confirm on her bar.*
 
 ### Upgrade path (when she feels like earning them)
 1. **Slimecraw helm** — vet Wayrest Sewers I (or undaunted chest luck)
 2. **Deadly Strike** weapons/jewelry — Cyrodiil town quests / guild traders (cheap!)
-3. **Ring of the Pale Order** — Antiquities; turns damage into constant self-healing, the true "can't die" item
-4. **Pyrebrand** (5-piece body, DK class set) — drops in the **Infinite Archive**. Its 5-piece makes her light attacks proc a Flame DoT that feeds **Wildfire Embers**, then her fully-charged heavy attacks spend those stacks for a burst of Flame Damage (up to +200% to enemies under 33% health). It's built around the exact Wildfire Embers mastery this bar already runs, so it's a strong damage upgrade for the body slot in place of Tide-Born Wildstalker — keep Pale Order in the ring slot either way. IA is two-player, so she and her husband can farm it together. *(Set bonuses verified vs ESO-Hub / ArzyeL, U50 — in-game tooltip wins.)*
+3. **Pyrebrand** (5-piece body, DK class set) — drops in the **Infinite Archive**. Its 5-piece makes her light attacks proc a Flame DoT that feeds **Wildfire Embers**, then her fully-charged heavy attacks spend those stacks for a burst of Flame Damage (up to +200% to enemies under 33% health). It's built around the exact Wildfire Embers mastery this bar already runs, so it's a strong damage upgrade for the body slot in place of Tide-Born Wildstalker — keep Pale Order in the ring slot either way. IA is two-player, so she and her husband can farm it together. *(Set bonuses verified vs ESO-Hub / ArzyeL, U50 — in-game tooltip wins.)*
 
 **Mundus:** The Thief
 **Attributes:** 64 Magicka (shift some to Health if she's getting one-shot)
@@ -86,7 +84,7 @@ Rule of thumb at her CP: **buy every passive in every line she has a skill slott
 Her Engulfing Dragonfire, Green Dragon Blood, and Take Flight live here — buy everything in the line. These are her defense/health passives (health recovery, resistances, healing).
 
 ### Class — Earthen Heart (all 4, essential)
-Comes back when she drops the subclass. Buy all four — these are DK's resource and mitigation passives (the line that historically holds Battle Roar, which returns health/stamina/magicka when she uses an ultimate — great for her since Take Flight fires often). Buy all four.
+Restored when she dropped the subclass. Buy all four — these are DK's resource and mitigation passives (the line that historically holds Battle Roar, which returns health/stamina/magicka when she uses an ultimate — great for her since Take Flight fires often). Buy all four.
 
 ### Weapon — Destruction Staff
 - **Tri Focus** (HIGH if Lightning staff) — makes her fully-charged heavy attacks splash to nearby enemies
@@ -181,7 +179,7 @@ Never slot a star that duplicates what the build already does. Her skills heal h
 - Both builds drop Standard of Might zones in group fights = stacked damage reduction; don't overlap them, chain them
 - If she wants MORE survivability later: Pale Order ring + Burning Embers swap = her own unkillable mode
 
-*Source: Hyperioxes One-Bar Breath Dragonknight Solo Build (U49, current through U50) — soloed vet HM Cradle of Shadows, so duo content will melt. Verify skill names against in-game tooltips; ZOS renames things.*
+*Source: Hyperioxes One-Bar Breath Dragonknight Solo Build (U49, current through U50) — soloed vet HM Cradle of Shadows, so duo content will melt. Verify skill names against in-game tooltips; ZOS renames things. Revised 2026-08-16.*
 
 ---
 
@@ -189,7 +187,7 @@ Never slot a star that duplicates what the build already does. Her skills heal h
 
 One-bar builds have fewer defensive tools, so a **tank or healer companion** covers the gap nicely.
 
-**Best pick: Isobel, built Tank.** All **Heavy / Bolstered** armor; **Quickened** jewelry, 1H sword, shield. Bar order (they cast top-to-bottom as cooldowns finish): **Provoke → Solar Ward → Beam of Reproach → Holy Ground → On Guard**, Ult **Baneslayer**. She pulls aggro so she eats the hits instead of you, and her Penetrating Strikes skill boosts her damage.
+**Best pick: Isobel, built Tank.** All **Heavy / Bolstered** armor; **Quickened** jewelry, 1H sword, shield. Bar order (they cast top-to-bottom as cooldowns finish): **Provoke → Solar Ward → Beam of Reproach → Holy Ground → On Guard**, Ult **Baneslayer**. She pulls aggro so she eats the hits instead of her, and her Penetrating Strikes skill boosts her damage.
 
 **Alternative — Sharp-as-Night, built Healer:** all **Light / Soothing**, Quickened jewelry + healing staff. Bar: Petals of the Hunter → Mystic Fortress → Fungal Forage → Rejuvenation → Snow Squall, Ult Gore. Best healer companion in the game, plus Minor Vulnerability from Infest.
 

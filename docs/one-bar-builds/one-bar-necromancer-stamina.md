@@ -10,11 +10,11 @@
 ## Skills — One Bar (Bow)
 
 1. **Poison Injection** (morph of Poison Arrow, *Bow*) — her ranged spammable: a strong Poison DoT that hits *much* harder as the enemy drops below 50% (a built-in execute). Deadly Strike (gear below) supercharges the DoT
-2. **Stalking Blastbones** (morph of Blastbones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse** to blow up. Recast whenever it's back
+2. **Blighted Blastbones** (morph of Sacrificial Bones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse** to blow up. The stamina-cost morph, so it feeds off her main pool. Recast whenever it's back
 3. **Skeletal Archer** (morph of Skeletal Mage, *Grave Lord*) — a second pet. Ticks free damage, hands her **extra Physical Penetration and Stamina Recovery** while it's out (her sustain, since she runs no sustain skill), and leaves a corpse when it dies
 4. **Spirit Guardian** (morph of Spirit Mender, *Living Death*) — the ghost pet. Transfers **10% of all incoming damage** to itself and heals her on a timer. Her main "don't die" button — keep it up always
 5. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery/Prophecy); the corpse explodes when it ends
-- **Ult: Pestilent Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE stun that makes everything take +10% damage (Major Vulnerability)
+- **Ult: Pestilent Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE smash that makes everything take +10% damage (Major Vulnerability); each smash hits harder than the last. Swap to **Glacial Colossus** (same base, *Grave Lord*) if she wants the stun as a panic button — only the Glacial morph stuns, on its final smash
 
 *Three Grave Lord skills are on the bar on purpose — the Corpseburster set (endgame gear below) hits harder for each one. **Nothing here is scribed**, so there's no grimoire to hunt down a substitute for. Want more AoE for trash packs? Swap Poison Injection → **Endless Hail** (morph of Volley, *Bow*) — a ground DoT that Deadly Strike also loves; keep Poison Injection for bosses. Want an extra self-heal instead of a spammable? Swap Detonating Siphon → **Avid Boneyard** (morph of Boneyard, *Grave Lord*) — press its Grave Robber synergy for a burst that heals her.*
 
@@ -28,8 +28,8 @@
 ---
 
 ## How to play it
-1. Before the pull: **Spirit Guardian** (ghost) up, **Skeletal Archer** out, **Stalking Blastbones** thrown
-2. **Stalking Blastbones** → makes a corpse
+1. Before the pull: **Spirit Guardian** (ghost) up, **Skeletal Archer** out, **Blighted Blastbones** thrown
+2. **Blighted Blastbones** → makes a corpse
 3. **Detonating Siphon** → eats the corpse, her big hit
 4. **Poison Injection** as her spammable between everything; re-throw Blastbones and re-summon the Archer whenever they're back
 5. **Pestilent Colossus** whenever it's charged

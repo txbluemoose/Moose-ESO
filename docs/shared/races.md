@@ -29,30 +29,46 @@ Recommended race, then the survivability tilt, then the sustain fix if a specifi
 
 ### His builds
 
+Every class now has a build in *both* pools — race follows the pool, not the class, so the sibling rows below differ only by pool.
+
 | Build | Stat pool | Damage pick | Survivability tilt | Sustain fix |
 |---|---|---|---|---|
 | **Magicka Dragonknight** (main) | Magicka | High Elf / **Khajiit** | Nord | Breton |
+| **Stamina Dragonknight** | Stamina | Dark Elf / **Khajiit** | Nord | Redguard |
 | **Magicka Sorcerer** | Magicka | High Elf / **Khajiit** | Nord | Breton |
-| **Necromancer** | Magicka | High Elf / **Khajiit** | Nord | Breton |
+| **Stamina Sorcerer** | Stamina | Dark Elf / **Khajiit** | Nord | Redguard |
 | **Stamina Warden** | Stamina | Dark Elf / **Khajiit** | Nord | **Redguard** (his DK stamina gremlin's real fix, if it follows him here) |
-| **Arcanist** (Stamina) | Stamina | Dark Elf / **Khajiit** | Nord / Imperial | Redguard |
+| **Magicka Warden** | Magicka | High Elf / **Khajiit** | Nord | Breton |
 | **Nightblade** (Stamina) | Stamina | Dark Elf / **Khajiit** | Nord | Redguard |
+| **Magicka Nightblade** | Magicka | High Elf / **Khajiit** | Nord | Breton |
 | **Templar** (Stamina) | Stamina | Dark Elf / **Khajiit** | Nord | Redguard |
+| **Magicka Templar** | Magicka | High Elf / **Khajiit** | Nord | Breton |
+| **Necromancer** (Magicka) | Magicka | High Elf / **Khajiit** | Nord | Breton |
+| **Stamina Necromancer** | Stamina | Dark Elf / **Khajiit** | Nord | Redguard |
+| **Arcanist** (Stamina) | Stamina | Dark Elf / **Khajiit** | Nord / Imperial | Redguard |
+| **Magicka Arcanist** | Magicka | High Elf / **Khajiit** | Nord | Breton |
 | **Werewolf** | Stamina | Dark Elf / **Khajiit** | Orc / Nord | Redguard |
 
 ### Her builds (one-bar)
 
-Her one-bars lean **magicka + staves**, except the two stamina ones. A one-bar build has no second-bar escape, so the survivability races matter a little *more* for her than for him.
+Her one-bars lean **magicka + staves**; the stamina sheets are bow-based where the class allows (the Templar Jabs sheet and Werewolf are the melee exceptions). A one-bar build has no second-bar escape, so the survivability races matter a little *more* for her than for him.
 
 | Build | Stat pool | Damage pick | Survivability tilt | Sustain fix |
 |---|---|---|---|---|
 | **Dragonknight** | Magicka | **Khajiit** / High Elf | Nord | Breton |
+| **Dragonknight** (Bow) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
 | **Pet Sorcerer** | Magicka | **Khajiit** / High Elf | Nord | Breton |
+| **Sorcerer** (Bow) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
 | **Nightblade** | Magicka | **Khajiit** / High Elf | Nord | Breton |
+| **Nightblade** (Bow) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
 | **Templar** | Magicka | **Khajiit** / High Elf | Nord | Breton |
+| **Templar** (Jabs, melee) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
 | **Necromancer** | Magicka | **Khajiit** / High Elf | Nord | Breton |
-| **Arcanist** (Stamina) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
+| **Necromancer** (Bow) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
+| **Warden** (Staff) | Magicka | **Khajiit** / High Elf | Nord | Breton |
 | **Bow Warden** (Stamina) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
+| **Arcanist** (Staff) | Magicka | **Khajiit** / High Elf | Nord | Breton |
+| **Arcanist** (Stamina) | Stamina | **Khajiit** / Dark Elf | Nord | Redguard |
 | **Werewolf** | Stamina | **Khajiit** / Dark Elf | Orc / Nord | Redguard |
 
 *Note where the same class differs by player: his **Nightblade** and **Templar** are stamina (Dark Elf/Khajiit), while her one-bar versions are magicka (Khajiit/High Elf). Race follows the stat pool, not the class name.*

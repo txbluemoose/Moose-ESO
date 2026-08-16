@@ -36,14 +36,14 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 | 2. Stalking Blastbones (morph of Blastbones, *Grave Lord*) | 2. Resistant Flesh (morph of Render Flesh, *Living Death*) |
 | 3. Detonating Siphon (morph of Shocking Siphon, *Grave Lord*) | 3. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) |
 | 4. Avid Boneyard (morph of Boneyard, *Grave Lord*) | 4. Endless Hail (morph of Volley, *Bow*) |
-| 5. Deadly Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Resistant Flesh **or** a scribed grimoire (see below) |
+| 5. Deadly Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — the flex slot; see the swaps below for non-scribed options ⚠️ confirm vs the live build in-game |
 | **Ult:** Pestilent Colossus (morph of Frozen Colossus, *Grave Lord*) | **Ult:** Ravenous Goliath (morph of Bone Goliath Transformation, *Bone Tyrant*) — survivability transform, heals you per enemy hit; a *different* base skill than Colossus, so it can sit here without conflicting *(confirm morph in-game)* |
 
 *\*Dual daggers are the household default and the up-close playstyle you run — and they suit this build, because Corpseburster's corpse explosions go off around you in a 5m circle. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps the old DK sustain gap). The bow back bar is your ranged-DoT and pre-buff slot — Endless Hail is a hard-hitting ground DoT that Deadly Strike boosts, and both survivability heals live back here. Note on ultimates: you can't run both Colossus morphs at once (they're the same base skill), so the front bar carries Pestilent Colossus — your AoE stun + Major Vulnerability button — and the back bar carries a different-line ultimate (Ravenous Goliath) as the "survive this" transform.*
 
 **What each does (and why it's here for your "don't die" goal):**
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
-- **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It's on both bars in the base setup on purpose — you want the panic heal reachable no matter which bar you're on.
+- **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It lives on the back bar next to Spirit Guardian — bar-swap and press it the instant your health dips.
 - **Stalking Blastbones** — your skeleton. Charges the target, explodes for big single-target damage, applies **Major Defile** (cuts their healing), and **leaves a corpse** — the fuel for everything else. Recast it on every cooldown; it's a pseudo-spammable as much as a summon.
 - **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery/Prophecy** (crit), and the corpse **explodes when the tether ends**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
 - **Avid Boneyard** — AoE ground DoT that consumes a corpse for +30% damage, applies Minor Vulnerability, and spawns the **Grave Robber synergy you can activate yourself** for a chunk of damage *and* a heal. This is the Necromancer heal source that magicka gets from its ice-staff utility — on stamina it lives right here, so keep it slotted.
@@ -132,6 +132,23 @@ Necromancer PvP wants burst, hard CC, and a bigger health pool than PvE. Your Co
 
 ---
 
+## Skill Line Passives — buy these with skill points
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if you're short:
+
+- **Grave Lord:** all — most of the kit lives here; **Death Gleaning** (resources when a damaged enemy dies) is the sustain standout (it feeds the stamina pool directly), and the corpse passives feed the entire engine — HIGH
+- **Bone Tyrant:** all — **Corpse Consumption** and **Reusable Parts** are the rank-2 passives your Class Mastery picks (Nothing Wasted, Cycle Unending) key off, so they're mandatory even though only the Goliath ultimate is slotted — HIGH
+- **Living Death:** all — Spirit Guardian and Resistant Flesh live here, and this line's passives are your healing and mitigation
+- **Dual Wield:** the flat damage and crit passives (Twin Blade and Blunt is why daggers), plus Deadly Cloak lives here — HIGH
+- **Bow:** Hawk Eye, Ranger, Accuracy, Long Shots — they boost Endless Hail and everything cast off the back bar — HIGH
+- **Medium Armor:** Dexterity, Agility, Wind Walker (stamina sustain) — your 5-piece weight; plus the Light/Heavy stat passives for the two odd pieces
+- **Undaunted:** Undaunted Mettle (the whole reason for the 5/1/1 split) — HIGH
+- **Fighters Guild:** Slayer — flat Weapon/Spell Damage, always on — HIGH
+- **Alchemy:** Medicinal Use (longer potion buffs) — HIGH
+- **Racial:** all
+
+---
+
 ## 5. Champion Points — Spend Order (1200 → 1800)
 
 At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the 4 active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
@@ -204,7 +221,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 1. **Corpseburster** — run Infinite Archive; it's the whole build's damage engine and hits harder for every Grave Lord skill you slot
 2. **Perfected Maelstrom Bow** — vet Maelstrom Arena (back bar)
-3. **Deadly Strike** — craft it (you own it); weapons + jewelry + boots, unusually strong on this DoT kit
+3. **Deadly Strike** — craft it (you own it); front-bar daggers + jewelry + boots (the back-bar weapon is the Maelstrom bow), unusually strong on this DoT kit
 4. **Valkyn Skoria helm** — vet City of Ash II, the instanced upgrade over Slimecraw
 5. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath (body fallback)
 6. **Scribing** already unlocked (Gold Road) → Ulfsild's Contingency as your flexible back-bar/group slot

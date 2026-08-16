@@ -36,14 +36,14 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 | 2. Blighted Blastbones (morph of Blastbones, *Grave Lord*) | 2. Resistant Flesh (morph of Render Flesh, *Living Death*) |
 | 3. Detonating Siphon (morph of Shocking Siphon, *Grave Lord*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Avid Boneyard (morph of Boneyard, *Grave Lord*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) | 5. Resistant Flesh **or** a scribed grimoire (see below) |
+| 5. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — the flex slot; see the swaps below for non-scribed options ⚠️ confirm vs the live build in-game |
 | **Ult:** Glacial Colossus (morph of Frozen Colossus, *Grave Lord*) | **Ult:** Ravenous Goliath (morph of Bone Goliath Transformation, *Bone Tyrant*) — survivability transform, heals you per enemy hit; a *different* base skill than Colossus, so it can sit here without conflicting *(confirm morph in-game)* |
 
 *\*Dual daggers are the household default and the up-close playstyle you run — and they suit this build, because Corpseburster's corpse explosions go off around you in a 5m circle. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (or Absorb Stamina if you're feeling the old DK sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Brittle, and the back bar is where your two survivability heals live. Note on ultimates: you can't run both Colossus morphs at once (they're the same base skill), so the front bar carries Glacial Colossus — your AoE stun + Major Vulnerability button — and the back bar carries a different-line ultimate (Ravenous Goliath) as the "survive this" transform.*
 
 **What each does (and why it's here for your "don't die" goal):**
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
-- **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It's on both bars in the base setup on purpose — you want the panic heal reachable no matter which bar you're on.
+- **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It lives on the back bar next to Spirit Guardian — bar-swap and press it the instant your health dips.
 - **Blighted Blastbones** — your skeleton. Runs at the target, explodes for Disease damage, applies **Major Defile** (cuts their healing), and **leaves a corpse** — the fuel for everything else.
 - **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery/Prophecy** (crit), and **+3% damage while slotted**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
 - **Avid Boneyard** — AoE ground DoT that consumes a corpse for +30% damage, applies Minor Vulnerability, and spawns the **Grave Robber synergy** you can activate yourself for a chunk of damage *and* a heal. Another layer in the heal stack.
@@ -67,21 +67,21 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 **Pre-buff before pulls:** Spirit Guardian, Skeletal Archer, Elemental Susceptibility, Elemental Blockade. Walk in with the ghost and archer already summoned.
 
 ### Prefer range, or prefer stamina? → the Stamina Necromancer sibling
-Everything above is magicka. A **Stamina Necromancer** runs the *identical* corpse engine (Corpseburster, Blighted Blastbones, Detonating Siphon, Avid Boneyard, Spirit Guardian) on **dual wield front / Inferno staff back**, and actually parses a hair higher (~69k vs ~65k) — which is noise by this repo's rules. It's just as melee-forward. Pick whichever stat pool your character already has; don't pay to re-roll for a ~5% swing. The Ice back bar (magicka) gives you Elemental Blockade + block utility; the Inferno back bar (stamina) trades that for slightly more damage. *Source: Hyperioxes U50 Stamina Necromancer Solo build.*
+Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)** sibling runs the *identical* corpse engine (Corpseburster, Blastbones, Detonating Siphon, Avid Boneyard, Spirit Guardian) on **dual daggers front / bow back**, and actually parses a hair higher (~69k vs ~65k) — which is noise by this repo's rules. It's just as melee-forward. Pick whichever stat pool your character already has; don't pay to re-roll for a ~5% swing. The Ice back bar (magicka) gives you Elemental Blockade + block utility; the bow back bar (stamina) trades that for Endless Hail and ranged DoT pressure. *Source: Hyperioxes U50 Stamina Necromancer Solo build.*
 
 ---
 
 ## 2. GEAR — Solo
 
-**Armor weight: 5 Medium / 1 Light / 1 Heavy.** Medium's Dexterity and Agility passives suit the dual-dagger, up-close melee you run, and keep you tankier than an all-light caster. The single Light and single Heavy piece are deliberate: **Undaunted Mettle** grants a stacking bonus (max Health / Magicka / Stamina) for each *distinct* armor weight you wear, so a 5/1/1 split triggers **all three tiers** — free stats for wearing one odd piece each. Put the Light on the head (behind the monster helm slot logic below) and the Heavy on a piece you don't mind being a hair slower.
+**Armor weight: 5 Medium / 1 Light / 1 Heavy.** Medium's Dexterity and Agility passives suit the dual-dagger, up-close melee you run, and keep you tankier than an all-light caster. The single Light and single Heavy piece are deliberate: **Undaunted Mettle** grants a stacking bonus (max Health / Magicka / Stamina) for each *distinct* armor weight you wear, so a 5/1/1 split triggers **all three tiers** — free stats for wearing one odd piece each. Put the Light on the belt (the household belt rule — belt is Light on magicka builds) and the Heavy on the chest.
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Light | Divines | Magicka | Slimecraw (1pc monster — overland, you own it) |
+| Head | Medium | Divines | Magicka | Slimecraw (1pc monster — overland, you own it) |
 | Shoulders | Medium | Divines | Magicka | Corpseburster |
 | Chest | Heavy | Divines | Magicka | Corpseburster |
 | Hands | Medium | Divines | Magicka | Corpseburster |
-| Belt | Medium | Divines | Magicka | Corpseburster |
+| Belt | Light | Divines | Magicka | Corpseburster |
 | Legs | Medium | Divines | Magicka | Corpseburster |
 | Boots | Medium | Divines | Magicka | Whorl of the Depths |
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Whorl of the Depths |
@@ -129,6 +129,23 @@ Necromancer PvP wants burst, hard CC, and a bigger health pool than PvE. Your Co
 **What changes:** heavier armor or 5-1-1, **Impen** on all armor, ~30k+ health, tri-stat/Health enchants; add a corpse-based burst heal and a stun-break-friendly kit. Sets rotate every season — a survival mythic (Gaze of Sithis or Torc of Tonal Constancy) plus a proc/damage body set is the usual frame.
 
 *Season metas rotate — verify current pieces against Alcast's live U50 Necromancer PvP page and your in-game tooltips before spending gold.*
+
+---
+
+## Skill Line Passives — buy these with skill points
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if you're short:
+
+- **Grave Lord:** all — the whole front bar lives here; **Death Gleaning** (resources when a damaged enemy dies) is the sustain standout, and the corpse passives feed the entire engine — HIGH
+- **Bone Tyrant:** all — **Corpse Consumption** and **Reusable Parts** are the rank-2 passives your Class Mastery picks (Nothing Wasted, Cycle Unending) key off, so they're mandatory even though only the Goliath ultimate is slotted — HIGH
+- **Living Death:** all — Spirit Guardian and Resistant Flesh live here, and this line's passives are your healing and mitigation
+- **Dual Wield:** the flat damage and crit passives (Twin Blade and Blunt is why daggers) — HIGH
+- **Destruction Staff:** Tri Focus / Penetrating Magic / Ancient Knowledge for the ice back bar — HIGH
+- **Medium Armor:** Dexterity, Agility — your 5-piece weight; plus the Light/Heavy stat passives for the two odd pieces
+- **Undaunted:** Undaunted Mettle (the whole reason for the 5/1/1 split) — HIGH
+- **Fighters Guild:** Slayer — flat Weapon/Spell Damage, always on — HIGH
+- **Alchemy:** Medicinal Use (longer potion buffs) — HIGH
+- **Racial:** all
 
 ---
 
