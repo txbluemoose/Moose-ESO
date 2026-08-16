@@ -11,10 +11,10 @@
 
 1. **Swallow Soul** (morph of Strife, *Siphoning*) — THE button. Ranged spammable that **heals her for 10% of the damage done**, as a heal-over-time that stays up as long as she recasts within ~10s. Her whole survival engine.
 2. **Merciless Resolve** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage (and a heal if the target's close). Grants **Minor Berserk + Major Savagery/Prophecy** (crit) just for being slotted.
-3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — applies **Major Breach** (with the Penetrating Magic passive — buy it, see below) so her hits land harder. *This is the non-scribed stand-in for Wield Soul — she doesn't scribe, and this staff skill does the same Major Breach job.*
+3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — applies **Major Breach** on its own, so her hits land harder (the Penetrating Magic passive — buy it, see below — stacks on top by letting her staff abilities partially ignore resistance). *This is the non-scribed stand-in for Wield Soul — she doesn't scribe, and this staff skill does the same Major Breach job.*
 4. **Sap Essence** (morph of Drain Power, *Siphoning*) — AoE hit that **heals her per enemy struck** and grants **Major Sorcery** (spell damage). Her crowd button and a second heal layer. *Single target only? Swap to Barbed Trap (morph of Trap Beast, Fighters Guild) for a DoT + Minor Force instead.*
-5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) — +15% damage for 10s, **Minor Protection** (−5% damage taken), and **Major Resolve** (armor) via the Shadow Barrier passive. Her burst-and-brace button. *Prefers a pure heal here? Dark Cloak (the other morph) heals on cast instead of granting invisibility.*
-- **Ult: Soul Tether** (morph of Soul Shred, *Siphoning*) — ranged AoE burst that **heals her** and stuns everything around the target. Panic button and execute in one.
+5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) — **invisibility for 15s** (U50 raised it), and attacking from that stealth is a **guaranteed crit**; plus **Minor Protection** (−5% damage taken) and **Major Resolve** (armor) via the Shadow Barrier passive. Her burst-and-brace button. *Prefers a pure heal here? Dark Cloak (the other morph) heals on cast instead of granting invisibility.*
+- **Ult: Soul Tether** (morph of Soul Shred, *Siphoning*) — close-range AoE burst centered on **her** that **heals her** and stuns everything around her — an "everything around me dies" panic ult, not a ranged one *(confirm range in-game)*.
 
 ### Class Mastery (pure class — pick 2)
 - **An Eye for Exploitation** — up to +1250 Weapon/Spell Damage based on the target's missing health **and reduces her damage taken up to 12%** based on her attacker's missing health. Ramps both her damage *and* her mitigation as the fight goes — the single best "don't die" mastery.
@@ -39,7 +39,7 @@
 
 ## Gear
 
-### Crafted starter (all craftable — her husband's station covers it)
+### Starter (craftable + cheap trader pieces)
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy** — Light for the magicka spell-damage and spell-cost passives (Evocation, Spell Warding); one Medium and one Heavy trigger **all three tiers of Undaunted Mettle**, which grants max health / magicka / stamina per *distinct* weight worn (a 5/1/1 split banks every tier instead of just one).
 
@@ -56,7 +56,7 @@
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Staff (Inferno) | — | Infused / Charged | Flame (or Absorb Magicka) | Deadly Strike |
 
-*Deadly Strike counts 3 always-on pieces (boots + neck + ring 1) plus the staff — a two-hander = 2 set pieces — for the full 5-piece bonus on her single bar. Order's Wrath (crit) + Deadly Strike (boosts her DoTs and channels — Swallow Soul's heal-over-time qualifies) are both craftable and owned. In-game tooltips override.*
+*Deadly Strike counts 3 always-on pieces (boots + neck + ring 1) plus the staff — a two-hander = 2 set pieces — for the full 5-piece bonus on her single bar. Order's Wrath (crit, her husband crafts it) + Deadly Strike (boosts her DoTs and channels — Swallow Soul's heal-over-time qualifies; cheap from guild traders, it's a Cyrodiil set) are both already owned. In-game tooltips override.*
 
 ### Endgame version
 Swap the **Order's Wrath body → Tide-Born Wildstalker** (Gold Road overland — the Hyperioxes magicka NB pick, more damage), keep Deadly Strike on boots/jewelry/staff, keep **Slimecraw** head and **Ring of the Pale Order**. That's the only change; the bar and playstyle are identical.
@@ -72,7 +72,7 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 - **Siphoning:** all 4 — this line feeds Swallow Soul, Sap Essence, and Soul Tether; **Catalyst** and **Magicka Flood** are her sustain, **Soul Siphoner** makes her siphon heals stronger
 - **Assassination:** all 4 — **Master Assassin** and **Hemorrhage** (crit) make Merciless Resolve worth running
 - **Shadow:** all 4 — **Shadow Barrier** is what turns Shadowy Disguise into Major Resolve (armor); **Refreshing Shadows** adds recovery
-- **Destruction Staff:** all — **Penetrating Magic** is mandatory: it upgrades Elemental Susceptibility to apply **Major** Breach instead of Minor. Without it her debuff is half as strong. **Tri Focus** makes her heavy attacks restore more magicka
+- **Destruction Staff:** all — **Penetrating Magic** lets her staff abilities partially ignore enemy resistance (Elemental Susceptibility already applies **Major Breach** all on its own — this stacks on top). **Tri Focus** makes her heavy attacks restore more magicka
 - **Light Armor:** Evocation, Spell Warding — HIGH
 - **Undaunted:** Undaunted Mettle — HIGH
 - **Alchemy:** Medicinal Use (longer potions) — HIGH
@@ -98,16 +98,15 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 | 6 | Piercing | buy max (20) | penetration |
 | 7 | Eldritch Insight | buy max (20) | max magicka |
 | 8 | Tireless Discipline | buy max (20) | max stamina |
-| 9 | Thaumaturge | buy max (20) | boosts her Swallow Soul heal-over-time and Sap ticks |
-| 10 | Quick Recovery | buy max (20) | healing received |
-| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
-| 12 | Elemental Aegis | buy max | −elemental damage |
-| 13 | Preparation | buy max | −damage, always on |
-| 14 | Wrathful Strikes | buy (50), swap option | flat damage — in for Thaumaturge when she drops the DoTs |
-| 15 | Ironclad | buy (50), swap option | hard-fight mitigation swap |
-| 16 | Duelist's Rebuff | buy (50), swap option | single-target boss mitigation |
+| 9 | Quick Recovery | buy max (20) | healing received |
+| 10 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 11 | Elemental Aegis | buy max | −elemental damage |
+| 12 | Preparation | buy max | −damage, always on |
+| 13 | Wrathful Strikes | buy (50), swap option | flat damage — in for Blessed when she'd rather have pure damage than heal scaling |
+| 14 | Ironclad | buy (50), swap option | hard-fight mitigation swap |
+| 15 | Duelist's Rebuff | buy (50), swap option | single-target boss mitigation |
 
-*1–13 ≈ the 1250 budget; 14–16 take her to 1600.*
+*1–12 ≈ the 1250 budget; 13–15 take her to 1600.*
 
 ### 🔴 RED (Fitness)
 
@@ -164,4 +163,4 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Duo tip:** if her husband is running Isobel as tank, run Sharp-as-Night (Healer) or a DPS companion instead — two tanks waste aggro.
 
-Full details for all eight companions: see `shared/companions.md`.
+Full details for all eight companions: see `../shared/companions.md`.

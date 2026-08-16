@@ -45,7 +45,7 @@ Keep this as a saved **Armory** loadout and swap to it for farming and companion
 4. **Zerith-Var** — excellent tank
 5. **Azandar** — jack of all trades, best debuff support
 6. **Ember** — best magicka DPS
-7. **Mirri** — solid stamina DPS
+7. **Mirri** — solid stamina DPS, surprisingly strong healer per ArzyeL's ratings
 8. **Bastian** — tank/buffer hybrid
 
 | Companion | Mag DPS | Stam DPS | Tank | Healer |

@@ -9,11 +9,11 @@
 
 ## Skills — One Bar (Bow)
 
-1. **Relentless Focus** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage. Grants **Minor Berserk** just for being slotted, so it's always pulling weight. *(This is the **stamina** morph — Merciless Resolve is the magicka sibling on her Magicka bar; she's stamina, so Relentless.)*
+1. **Relentless Focus** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage. Grants **Major Savagery & Prophecy** while slotted (plus a Minor Berserk detail — *confirm the exact while-slotted buffs in-game*), so it's always pulling weight. *(This is the **stamina** morph — Merciless Resolve is the magicka sibling on her Magicka bar; she's stamina, so Relentless.)*
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — ranged poison DoT that deals **up to 120% more damage under 50% health** — her single-target damage and her execute pressure, all from max range.
 3. **Endless Hail** (morph of Volley, *Bow*) — a rain of arrows on the ground; her AoE and her "tag the whole pack" button. Drop it and keep shooting.
 4. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) — execute under 25% target health that **heals her when it kills**. Free heal on every trash mob. *Short-range — she has to be close-ish to fire it. Wants to stay fully ranged? Swap to **Impale** (the other morph, 35m) — but Impale doesn't heal, so keep Killer's Blade unless a fight forces her out.*
-5. **Leeching Strikes** (morph of Siphoning Attacks, *Siphoning* — *confirm base skill name in-game*) — **heals her on every light/heavy attack and returns stamina + magicka**. Her sustain *and* a constant heal. Re-cast it the second it lapses; it's the most-forgotten skill in the class and the one that keeps her alive.
+5. **Leeching Strikes** (morph of Siphoning Strikes, *Siphoning*) — **heals her on every light/heavy attack and returns stamina + magicka**. Her sustain *and* a constant heal. Re-cast it the second it lapses; it's the most-forgotten skill in the class and the one that keeps her alive.
 - **Ult: Soul Harvest** (morph of Death Stroke, *Assassination*) — big single-target hit that grants **huge Ultimate on kill** and slaps **Major Defile** on the target. *Prefers a pure bow ult? **Toxic Barrage** (morph of Rapid Fire, *Bow*) is a channeled ranged nuke — confirm morph in-game.*
 
 *Nothing on this bar is scribed — she doesn't scribe, and she doesn't need to. Every button is a class or Bow skill she already has.*
@@ -41,7 +41,7 @@
 
 ## Gear
 
-### Crafted starter (all craftable — her husband's station covers it)
+### Starter (craftable + cheap trader pieces)
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium carries the stamina damage passives (Dexterity, Agility) that a stamina bow build runs on; one Light and one Heavy trigger **all three tiers of Undaunted Mettle**, which grants max health / magicka / stamina per *distinct* weight worn (a 5/1/1 split banks every tier instead of just one).
 
@@ -58,7 +58,7 @@
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Bow | — | Infused | Weapon Damage (or Poison) | Deadly Strike (a bow = 2 set pieces) |
 
-*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT** damage 15% — and Poison Injection + Endless Hail are both DoTs — so it's near-BiS on a bow build and craftable. Order's Wrath (crit) = 5 body. Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
+*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT** damage 15% — and Poison Injection + Endless Hail are both DoTs — so it's near-BiS on a bow build and cheap from guild traders (Cyrodiil set — not craftable, but already owned). Order's Wrath (crit, her husband crafts it) = 5 body. Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
 
 ### Endgame version
 The crafted setup clears everything. If she ever wants the last few %, swap the **Order's Wrath body → a trial DoT set** (e.g. Sul-Xan's Torment, Rockgrove) and keep Deadly Strike on bow/jewelry/boots, **Slimecraw** head, and **Ring of the Pale Order**. Bar and playstyle don't change.

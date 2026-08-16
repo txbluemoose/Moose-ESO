@@ -10,7 +10,7 @@
 ## Skills — One Bar (Lightning or Ice Staff)
 
 1. **Ricochet Skull** (morph of Flame Skull, *Grave Lord*) — cheap spammable and filler; every third cast makes a corpse to blow up
-2. **Blighted Blastbones** (morph of Blastbones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse**
+2. **Blighted Blastbones** (morph of Sacrificial Bones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse**
 3. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery/Prophecy) and **+3% damage while it's on the bar**
 4. **Avid Boneyard** (morph of Boneyard, *Grave Lord*) — AoE on the ground that eats a corpse; press the **Grave Robber synergy** it spawns for a burst of damage that **heals her**
 5. **Spirit Guardian** (morph of Spirit Mender, *Living Death*) — the ghost pet. Transfers **10% of all incoming damage** to itself and heals her on a timer. Her main "don't die" button — keep it up always
@@ -42,7 +42,9 @@
 
 ## Gear
 
-### Crafted starter (all craftable — her husband's station covers it)
+### Starter (craftable + cheap trader pieces)
+
+Order's Wrath comes off her husband's crafting station; Deadly Strike is cheap from guild traders (Cyrodiil set); Slimecraw and Pale Order she already owns.
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy** — Light for the magicka and spell-damage passives a staff caster wants, plus one Medium and one Heavy so all three tiers of **Undaunted Mettle** fire (Mettle grants max Health / Magicka / Stamina for each *distinct* weight worn, so a 5/1/1 split triggers everything).
 
@@ -171,4 +173,4 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 
 **Duo tip:** if her husband is running Isobel as tank, run Sharp-as-Night or a DPS companion instead — two tanks waste aggro.
 
-Full details for all eight companions: see `shared/companions.md`.
+Full details for all eight companions: see `../shared/companions.md`.

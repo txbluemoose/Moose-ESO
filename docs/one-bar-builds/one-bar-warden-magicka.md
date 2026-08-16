@@ -44,7 +44,7 @@
 
 ## Gear
 
-Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Magicka enchants and an ice staff**. Her husband crafts Order's Wrath and Deadly Strike, so this is buildable today, and Deadly Strike is near-perfect here because the build is all DoTs (+15% DoT damage).
+Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Magicka enchants and an ice staff**. Her husband crafts Order's Wrath, so this is buildable today, and Deadly Strike is near-perfect here because the build is all DoTs (+15% DoT damage).
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy** — Light for the Magicka damage passives (Concentration penetration, Prodigy crit), one Medium and one Heavy to trigger all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
 
@@ -84,7 +84,7 @@ Rule of thumb: **buy every passive in every line she has a skill slotted from.**
 
 - **Animal Companions** (all 4) — Advanced Species (+5% crit damage per slotted Animal Companions skill — Deep Fissure + Blue Betty here), Bond With Nature, Savage Beast, Flourish (sustain) — HIGH
 - **Winter's Embrace** (all 4) — Piercing Cold, Frozen Armor, Icy Aura, Glacial Presence (Chilled → Minor Brittle, +damage) — HIGH
-- **Green Balance** (all 4) — worth the healing/recovery passives even with only Polar Wind adjacent
+- **Green Balance** — skip for now: its passives only work with a Green Balance skill slotted, and nothing on this bar is one (Polar Wind is *Winter's Embrace*) — put the points into Winter's Embrace and Animal Companions instead
 - **Destruction Staff** — Tri Focus, Penetrating Magic, Ancient Knowledge (boost the ice staff + Blockade directly) — HIGH
 - **Light Armor** — Concentration (penetration) + Prodigy (crit) — HIGH
 - **Undaunted > Undaunted Mettle** — the mixed-weight bonus — HIGH

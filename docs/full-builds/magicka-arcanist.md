@@ -32,7 +32,8 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 | 2. ✅ **Pragmatic Fatecarver** (morph of Fatecarver, *Herald of the Tome*) | 2. ✅ **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) |
 | 3. ✅ **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) | 3. ✅ **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) |
 | 4. ⚠️ **Fulminating Rune** (morph of The Imperfect Ring, *Herald of the Tome*) *(confirm morph in-game)* | 4. ⚠️ **Evolving Runemend** (morph of Runemend, *Curative Runeforms*) *(confirm morph in-game)* |
-| 5. ✅ **The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — beam ult, fire it **mid-Fatecarver without breaking the channel** | 5. ⚠️ mirror **The Languid Eye**, or slot a defensive ult here (*confirm your preference in-game*) — ultimate resource is shared across bars |
+| 5. ✅ **Camouflaged Hunter** (morph of Expert Hunter, *Fighters Guild*) | 5. ✅ **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) |
+| **Ult:** ✅ **The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — beam ult, fire it **mid-Fatecarver without breaking the channel** | **Ult:** ⚠️ mirror **The Languid Eye**, or slot a defensive ult here (*confirm your preference in-game*) — ultimate resource is shared across bars |
 
 **What each does:**
 - **Cephaliarch's Flail** — your spammable. Generates Crux, **heals you on any hit**, and applies a **+5% damage-taken debuff** to everything it touches. Heal source #2 (Pale Order is #1). It's a point-blank AoE, but at range you just Flail the target in front of you and beam — you don't need to hug it.
@@ -43,6 +44,8 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 - **Elemental Susceptibility** — free to cast; applies **Major Breach** (your solo penetration — no group to hand it to you), Minor Magickasteal, and status effects.
 - **Elemental Blockade** — ground DoT under the boss. Both Deadly Strike (channeled/DoT) and the Thaumaturge CP star love it. A **Lightning** Blockade also procs Concussion (off-balance) for the Off-Balance passive; an **Ice** Blockade trades a little damage for Minor Brittle + block-cost cheese if you'd rather have the safety.
 - **Evolving Runemend** — burst heal **plus a heal-over-time** — your heal-on-cast layer, so a heal source keeps ticking even when you're not landing hits or taking damage. On a **resto** back bar it scales off your healing done and hits noticeably harder; that's the survivability-leaning reason to run resto over a second damage staff.
+- **Camouflaged Hunter** — passive **Major Savagery & Prophecy** (crit) just for being slotted, plus Minor Berserk on flank crits. Reliable crit uptime without potions.
+- **Barbed Trap** — **Minor Force** (+10% crit damage) for its duration plus a bleed; set it under the boss on your back-bar sweep.
 
 *\*The **Lightning Staff front bar** is the ranged default: the beam already reaches 22m, so you fight from the back and let Flail + the shield keep you topped. The **back bar** is where you choose your flavor — a **Resto Staff** for the strongest Evolving Runemend (the "don't die" pick), or a **second Lightning/Ice Staff** for a bigger Elemental Blockade (the "more damage" pick). Want melee instead? That's a different character entirely — see the [Stamina Arcanist (dual daggers)](arcanist.md).*
 
@@ -50,7 +53,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 - ⚠️ **Wield Soul** (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Breach) — you have Gold Road, so this is live: a DoT + a second Major Breach source. Don't double it with Elemental Susceptibility.
 - **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
 - **Tentacular Dread** (morph of Abyssal Impact, *Herald of the Tome*) — the ranged Crux spender: burst + a 3s immobilize, for kiting or pinning a runner. Note it competes with Flail for the same base skill, so run one or the other.
-- **Runic Jolt** (morph of Runic Sunder, *Soldier of Apocrypha*) — ⚠️ ranged taunt / Minor Maim; pull single targets or peel an add in duo content.
+- **Runic Sunder** (morph of Runic Jolt, *Soldier of Apocrypha*) — ranged taunt / Minor Maim; pull single targets or peel an add in duo content.
 - **Precognition** (ult, *Psijic Order*) — mandatory for the handful of solo-impossible stun mechanics (Zaan-type fights). Stuns interrupt the beam, so this is your answer to the build's one real weakness.
 
 ### Rotation (priority sweep — cast the highest thing that's expired, then get back to the beam)
@@ -228,4 +231,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Alternatives worth knowing:** **Azandar (Tank)** brings Major *and* Minor Vulnerability (best-rated companion for Infinite Archive); **Zerith-Var (Tank)** applies Major Breach, which can free your Elemental Susceptibility slot in duo play.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

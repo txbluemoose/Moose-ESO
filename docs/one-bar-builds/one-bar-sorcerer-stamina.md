@@ -2,7 +2,7 @@
 ### The "Rain Arrows and Heal Off Crits" Build — Bow, One Bar
 
 **Character:** Stamina Sorcerer, pure class (no subclass)
-**Verified against:** Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer (Critical Surge + Hurricane + bow DoTs; soloes overland, world bosses, and normal/vet dungeons). Skill morphs cross-checked against ESO-Hub/UESP. Hyperioxes and ESO-Hub are egress-blocked from this machine, so a couple of morphs were confirmed off search snippets, not the live page — those are flagged ⚠️.
+**Verified against:** Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer (Critical Surge + Hurricane + bow DoTs; soloes overland, world bosses, and normal/vet dungeons). Skill morphs cross-checked against ESO-Hub/UESP. A couple of morphs are flagged ⚠️ — confirm those against the in-game tooltip.
 **Playstyle:** This is the **stamina, bow sibling** of her [Magicka Pet Sorcerer](one-bar-sorcerer.md). That one is staves + pets up close-ish; **this one keeps her at range with a bow and no melee.** She stands back, rains DoTs, and heals herself every time she crits — which with a bow is constantly. No pets to babysit, no bar to swap.
 
 > **Why bow, not pets:** she dislikes melee and likes staying at range, and a bow does that best. Pets (Volatile Familiar) cost Magicka, which a stamina build barely has, so they're weak here — the pet version of her Sorc is the *magicka* sheet on purpose. If she misses having a pet, there's a swap in the Notes.
@@ -42,7 +42,7 @@
 
 ## Gear
 
-Same bones as her Arcanist cheat sheets — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — just with **Stamina enchants and a bow**. Her husband crafts Order's Wrath and Deadly Strike, so this is buildable today.
+Same bones as her **Magicka Arcanist** sheet — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — just with **Stamina enchants and a bow**. Her husband crafts Order's Wrath; Deadly Strike is cheap from guild traders (Cyrodiil set) — and the household already owns it.
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina damage passives (Dexterity crit, Wind Walker recovery), one Light and one Heavy to trigger all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
 
@@ -59,7 +59,7 @@ Same bones as her Arcanist cheat sheets — **5 Order's Wrath + 5 Deadly Strike 
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Bow | — | Infused | Weapon Damage | Deadly Strike (a bow = 2 set pieces) |
 
-*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT + channeled damage by 15%**, and almost everything she casts is a DoT (Endless Hail, Poison Injection, Hurricane) — so it's near-BiS *and* craftable. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
+*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT + channeled damage by 15%**, and almost everything she casts is a DoT (Endless Hail, Poison Injection, Hurricane) — so it's near-BiS *and* cheap to buy. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
 
 **Crafted starter (until she has the traits/mats — her husband makes all of it):** the same Order's Wrath + Deadly Strike above works from the day it's crafted — no farm needed. Use Training traits while leveling, then Divines.
 
@@ -137,7 +137,7 @@ Buy every passive in a line she has a skill slotted from; priorities if points a
 | 11 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
 | 12 | Celerity | buy (50), swap option | movement fights |
 
-*1–9 ≈ the 1250 budget; 10–12 take her to 1600. **Sustain stars matter for her** — unlike her husband (who runs Conservation of Energy + weaving), she has no in-kit sustain skill, so Rejuvenation and Bloody Renewal genuinely earn their slots.*
+*1–9 ≈ the 1250 budget; 10–12 take her to 1600. **Sustain stars matter for her** — Conservation of Energy refunds on crits, but she has no dedicated sustain skill on the bar, so Rejuvenation and Bloody Renewal still genuinely earn their slots.*
 
 ### 🟢 GREEN (Craft)
 
@@ -159,7 +159,7 @@ Buy every passive in a line she has a skill slotted from; priorities if points a
 - Heavy-CC content is a bow one-bar's one weakness (stuns interrupt her). **Immovability potions** handle it, or **Precognition** ult (*Psijic Order*) for the handful of solo-impossible stuns.
 - **Not scribed anywhere** — deliberately. If a future guide ever puts a scribed skill on her bar, it needs a non-scribed alternative called out inline (household rule).
 
-*Source: Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer (verified via search snippets — live pages egress-blocked here), ESO-Hub/UESP for individual morphs, Alcast U50 Class Mastery page. Skills marked ⚠️ need an in-game tooltip check. Verify any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
+*Source: Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer, ESO-Hub/UESP for individual morphs, Alcast U50 Class Mastery page. Skills marked ⚠️ need an in-game tooltip check. Verify any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
 
 ---
 

@@ -28,8 +28,8 @@ The ranged setup for the Mag DK, for when you'd rather kite than brawl. It's ~2.
 
 ## Everything else → see the Melee guide
 
-**Class Mastery, skills, morph notes, situational swaps, rotation, Trials & Group, PvP, Champion Points, Mundus/Attributes/Food/Race, and the fallback ladder are all identical** — read them in the [Melee Mag DK guide](magicka-dragonknight.md). The only differences are the two above.
+**Class Mastery, skills, morph notes, situational swaps, rotation, Trials & Group, PvP, Champion Points, Mundus/Attributes/Food/Race, the Shopping list and Companion, and the fallback ladder are all identical** — read them in the [Melee Mag DK guide](magicka-dragonknight.md). The only differences are the two above.
 
 ---
 
-*Source: same as the Melee guide (Hyperioxes U50 Magicka Dragonknight). This is the two-staff/ranged variant; in-game tooltips override.*
+*Source: same as the Melee guide (Hyperioxes U50 Magicka Dragonknight). This is the two-staff/ranged variant; in-game tooltips override. Revised 2026-08-16.*

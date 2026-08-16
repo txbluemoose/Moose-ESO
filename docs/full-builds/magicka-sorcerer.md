@@ -2,7 +2,7 @@
 ### Solo PvE • Group Content • PvP • CP Roadmap (1200 → 1800)
 
 **Character:** Magicka Sorcerer, pure class (no subclass), Class Mastery active
-**Verified against:** Hyperioxes U50 Magicka Sorcerer Solo Build, revised **July 8, 2026** (three days ago — this is as current as it gets). Soloed Veteran Bedlam Veil, parses 67.6k.
+**Verified against:** Hyperioxes U50 Magicka Sorcerer Solo Build, revised **July 8, 2026** (check for a newer revision before big gold purchases). Soloed Veteran Bedlam Veil, parses 67.6k.
 **Philosophy:** A self-healing lightning engine. Critical Surge heals you every second you crit, Conservation of Energy makes Blood Magic proc every second, and Pale Order stacks on top of everything. Staying alive is rarely something you think about — Static Reverberation just melts things once they drop below half health.
 **Weapon note:** this is the **melee** Mag Sorc — dual daggers, up close. Prefer to stay at range? The **ranged (two staves)** variant is only −1.2% behind → [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md).
 
@@ -24,12 +24,12 @@
 
 | Front Bar (Daggers*) | Back Bar (Lightning Staff) |
 |---|---|
-| 1. Traveling Knife (scribed: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
+| 1. Traveling Knife (scribed grimoire, *Soul Magic*; scripts: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
 | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) | 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Sorcery + **heal on every crit, once per second** |
 | 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery/Prophecy passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status engine |
 | 4. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — cast on proc only | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Ulfsild's Contingency (scribed: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (*Fighters Guild*) — Minor Force |
-| **Ult: Power Overload — parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** — the real ultimate; constant Concussion → Minor Vulnerability |
+| 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — Minor Force |
+| **Ult: Power Overload** (morph of Overload, *Storm Calling*) — **parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the real ultimate; constant Concussion → Minor Vulnerability |
 
 *\*Dual daggers are the default (best damage, up-close). Prefer to stay at range? A **lightning-staff front bar is only −1.2%** — the smallest weapon penalty of any of these builds — and the swaps that come with it (Wield Soul, Font of Power, Bear Haunch food) are spelled out in the separate [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md) guide. Bow is −2.9%, Inferno −3.1%.*
 
@@ -41,8 +41,12 @@
 - **Ball of Lightning** (*Storm Calling*) — a teleport; mobility fights, or cheesing mechanics entirely
 - **Precognition ult** (*Psijic Order*) — the solo-impossible-stun breaker (Zaan etc.)
 
-### Rotation (priority list — recast whatever's expired, top first)
-1. Charged Atronach when ready → 2. Elemental Blockade → 3. Critical Surge (1s early) → 4. Elemental Susceptibility → 5. Barbed Trap → 6. **Crystal Fragments whenever it procs** → 7. Hurricane → 8. Liquid Lightning → 9. Bound Armaments at 4 stacks → 10. Ulfsild's (1s early) → 11. Traveling Knife as filler
+### Rotation (priority sweep — not a step counter)
+Play it as **two sweeps**, not an 11-step list:
+
+- **Back-bar sweep (when the timers blink):** Elemental Blockade → Critical Surge (recast ~1s early) → Elemental Susceptibility → Barbed Trap — and **Charged Atronach whenever it's ready** → swap.
+- **Front-bar living (where you spend the fight):** **Crystal Fragments whenever it procs**, refresh Hurricane and Liquid Lightning when they expire, **fire Bound Armaments at 4 stacks**, Ulfsild's (~1s early), and Traveling Knife as your filler.
+- **Swap back** when the back-bar timers blink.
 
 **Pre-buff:** Critical Surge, Hurricane, Ulfsild's.
 
@@ -56,7 +60,7 @@
 
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
-| Head | Medium | Divines | Magicka | Slimecraw | you own it — Valkyn Skoria (Light) replaces it instanced |
+| Head | Medium | Divines | Magicka | Slimecraw | you own it — Valkyn Skoria (Medium) replaces it instanced |
 | Shoulders | Light | Divines | Magicka | Beacon of Oblivion | Sorc class set — Infinite Archive |
 | Chest | Medium | Divines | Magicka | Sul-Xan's Torment | Rockgrove |
 | Hands | Light | Divines | Magicka | Beacon of Oblivion | |
@@ -68,7 +72,7 @@
 | Front bar | — | Charged | Poison + Flame | Sul-Xan daggers | melee default |
 | Back bar | — | Infused | Weapon Damage | Crushing Wall Lightning Staff | vMA |
 
-*For instanced, shift Chest and Legs to Light and use the Light Valkyn Skoria helm for the 6/1 split. In-game tooltips override — confirm on your bar.*
+*For instanced, shift Chest and Legs to Light; the head stays the one Medium piece (Slimecraw, or a Medium Valkyn Skoria) for the 6/1 split. In-game tooltips override — confirm on your bar.*
 
 **Note:** no Heavy piece, so no third Undaunted Mettle tier — as with the Warden, the weight-specific passives are worth more here. Add one Heavy (Reinforced) piece if you want Mettle's full bonus plus armor.
 
@@ -185,7 +189,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Efficiency note:** this build shares more farm targets with your DK than any other class would — Infinite Archive, vMA, CoA II, and Rockgrove all double-dip.
 
-*Source: Hyperioxes U50 Magicka Sorcerer Solo Build (July 8, 2026 revision — verified current, Class Mastery included). Trust in-game tooltips over any guide.*
+*Source: Hyperioxes U50 Magicka Sorcerer Solo Build (July 8, 2026 revision — verified current, Class Mastery included). Trust in-game tooltips over any guide. Revised 2026-08-16.*
 
 ---
 
@@ -197,4 +201,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** (5pc crafted) and wear it when the companion is doing real work — it halves their ability cooldowns. Swap back to your damage set when you're carrying.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

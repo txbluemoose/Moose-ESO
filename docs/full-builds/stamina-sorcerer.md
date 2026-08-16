@@ -66,10 +66,10 @@ Play it as **two sweeps**, not a 12-step list:
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
 | Head | Medium | Divines | Stamina | Slimecraw (1pc monster) | you own it — Minor Berserk |
-| Shoulders | Light | Divines | Stamina | Order's Wrath | your husband crafts it |
+| Shoulders | Medium | Divines | Stamina | Order's Wrath | you craft it |
 | Chest | **Heavy** | Divines | Stamina | Order's Wrath | the Heavy Mettle tier |
 | Hands | Medium | Divines | Stamina | Order's Wrath | |
-| Belt | Medium | Divines | Stamina | Order's Wrath | |
+| Belt | **Light** | Divines | Stamina | Order's Wrath | |
 | Legs | Medium | Divines | Stamina | Order's Wrath | |
 | Boots | Medium | Divines | Stamina | Deadly Strike | |
 | Necklace + Ring 1 | — | Bloodthirsty | Weapon Damage | Deadly Strike | |
@@ -77,7 +77,7 @@ Play it as **two sweeps**, not a 12-step list:
 | Front daggers | — | Nirnhoned / Sharpened | Poison + Weapon Damage | Deadly Strike (2 pieces) | melee default |
 | Back bow | — | Infused | Weapon Damage (or Absorb Stamina) | Deadly Strike (2 pieces) | keeps Deadly Strike at 5pc on **both** bars |
 
-*Because **both** weapon sets are Deadly Strike, you keep the full 5-piece on the front daggers bar AND the back bow bar — no dead-bar problem. **Deadly Strike boosts DoT/channeled/ultimate damage by 15%**, and this build is a pile of DoTs (Hurricane, Endless Hail, Poison Injection, Rending Slashes, Deadly Cloak) — so it's near-BiS *and* craftable. **Order's Wrath** (5 body) is crit damage + crit chance, also craftable. Slimecraw 1pc + Pale Order finish it. Everything here is owned or your husband makes it — buildable today. In-game tooltips override.*
+*Because **both** weapon sets are Deadly Strike, you keep the full 5-piece on the front daggers bar AND the back bow bar — no dead-bar problem. **Deadly Strike boosts damage-over-time and channeled abilities by 15%**, and this build is a pile of DoTs (Hurricane, Endless Hail, Poison Injection, Rending Slashes, Deadly Cloak) — so it's near-BiS *and* craftable. **Order's Wrath** (5 body) is crit damage + crit chance, also craftable. Slimecraw 1pc + Pale Order finish it. Everything here is owned or you craft it — buildable today. In-game tooltips override.*
 
 **Fallback ladders (owned first):**
 - Body: Order's Wrath → **Ansuul's Torment** (Sanity's Edge, ~+3–4% single target) → the Sorc class set for a class-set build (Infinite Archive) → any crafted crit set while you farm
@@ -179,7 +179,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 ---
 
 ## 6. SHOPPING LIST
-1. **Deadly Strike** (craftable — 8 traits, at a Malacath/Wrothgar station) — daggers + bow + 2 jewelry + boots; your husband makes it, near-BiS for this DoT build
+1. **Deadly Strike** (craftable — 8 traits, at a Malacath/Wrothgar station) — daggers + bow + 2 jewelry + boots; craftable, you own the pattern — near-BiS for this DoT build
 2. **Order's Wrath** (craftable — Clockwork City station) — 5 body; also already yours
 3. **Slimecraw** 1pc helm — account-wide, already yours
 4. **Ring of the Pale Order** — account-wide, already yours
@@ -200,4 +200,4 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Craft Telvanni Efficiency** (5pc crafted) and wear it as a dedicated farming loadout when the companion is doing the real work — it halves their ability cooldowns. Swap back to Deadly Strike when you're carrying.
 
-Full details for all eight companions, including farming perks and gear traits: see `shared/companions.md`.
+Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.

@@ -14,7 +14,7 @@ Same as the melee Warden: **Wild Adaptation** (Wpn/Spell Dmg per status effect o
 ### Front bar (Bow) — where you live
 1. **Cutting Dive** (morph of Dive, *Animal Companions*) — your spammable; a bleed and your main filler
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — big poison DoT that ramps as the enemy drops (your execute); reapply ~every 10s
-3. **Endless Hail** (morph of Arrow Barrage, *Bow*) — rain-of-arrows ground DoT; drop it and forget it
+3. **Endless Hail** (morph of Volley, *Bow*) — rain-of-arrows ground DoT; drop it and forget it
 4. **Deep Fissure** (morph of Scorch, *Animal Companions*) — burst + Major & Minor Breach (your armor shred, no group needed)
 5. **Bull Netch** (morph of Betty Netch, *Animal Companions*) — stamina sustain, Major Brutality/Sorcery, constant debuff purge
 - **Ult: Wild Guardian** (morph of Feral Guardian) — slotted for the +5% crit damage per Animal Companions skill; summon the bear when you want extra damage
@@ -36,6 +36,8 @@ Back bar: Bull Netch (from front) up, Lotus Blossom, Elemental Susceptibility, E
 ## Gear
 
 Bow front, ice staff back. Leans on **Deadly Strike** (it buffs the bleeds/DoTs/channels this build is made of).
+
+**Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina damage passives; the single Light and Heavy pieces trigger all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
@@ -65,4 +67,4 @@ Bow front, ice staff back. Leans on **Deadly Strike** (it buffs the bleeds/DoTs/
 
 ---
 
-*Source: household Stamina Warden build + U50 bow-Warden skill lists (ArzyeL/Alcast), pure-class. In-game tooltips override.*
+*Source: household Stamina Warden build + U50 bow-Warden skill lists (ArzyeL/Alcast), pure-class. In-game tooltips override. Revised 2026-08-16.*

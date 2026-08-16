@@ -12,15 +12,18 @@ A *buff* helps you; a *debuff* weakens an enemy. "Major" is the strong version, 
 | **Major / Minor Vulnerability** | Target takes more damage from everything (10% / 5%) |
 | **Off Balance** | Stagger state — the enemy takes extra damage from fully-charged heavy attacks |
 | **Major Brutality / Sorcery** | Big boost to your Weapon / Spell Damage |
+| **Minor Brutality / Sorcery** | Smaller boost — +5% Weapon / Spell Damage |
 | **Major Savagery / Prophecy** | Big boost to your Weapon / Spell Critical chance |
 | **Major Resolve** | Boosts your armor |
 | **Major / Minor Protection** | Reduces the damage you take |
 | **Major Berserk** | Increases all your damage done |
+| **Minor Berserk** | +5% to all your damage done — Slimecraw's 1-piece bonus, which is why he's on every head slot |
 | **Minor Force** | Increases your Critical Damage |
 | **Major Vitality** | Increases the healing you receive |
 | **Major Fortitude** | Increases your Health Recovery |
 | **Major / Minor Cowardice** | Lowers an enemy's Weapon & Spell Damage |
 | **Minor Maim** | Lowers the damage an enemy deals |
+| **Minor Brittle** | Target takes +10% Critical Damage — why ice staves bother to Chill things |
 
 ## Gear traits & enchants
 
@@ -59,5 +62,5 @@ A *buff* helps you; a *debuff* weakens an enemy. "Major" is the strong version, 
 | **Seething Fury** | DK stacks (from casting Ardent Flame abilities) that empower your next Molten Whip |
 | **Wildfire Embers** | DK Class Mastery — a stacking Burning DoT that fully-charged heavy attacks consume |
 | **Crux** | Arcanist resource, built and spent by Herald of the Tome abilities |
-| **Pale Order** | *Ring of the Pale Order* — mythic that heals you from your own damage but blocks all outside healing. A fixture on the full builds |
+| **Pale Order** | *Ring of the Pale Order* — mythic that heals you from your own damage but blocks all outside healing. A fixture on nearly every sheet in the household — full builds and one-bars alike (the Oakensoul pet Sorcerer is the one exception) |
 | **Oakensoul** | *Oakensoul Ring* — mythic that grants many buffs in exchange for locking you to one bar. The one-bar Sorcerer's mythic |

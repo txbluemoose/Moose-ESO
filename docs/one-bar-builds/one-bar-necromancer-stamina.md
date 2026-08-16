@@ -3,18 +3,18 @@
 
 **Character:** Stamina Necromancer, pure class (no subclass)
 **Verified against:** the U50 Hyperioxes / Alcast Solo Stamina Necromancer, adapted to a one-bar bow setup, cross-checked against ESO-Hub skill pages. This is the **stamina / bow** sibling of her [Magicka Necromancer cheat sheet](one-bar-necromancer.md) — same corpse-and-ghost idea, played with a bow at range instead of a staff.
-**Playstyle:** She likes pets and hates melee, so this build keeps her at the back of the room while the Necromancer does the fighting for her. A skeleton, a skeletal archer, and a ghost are always out; the ghost eats 10% of every hit and heals her; she plinks with a bow and blows up corpses. Between the ghost and Pale Order, staying alive is nearly automatic — and nothing on the bar is melee.
+**Playstyle:** She likes pets and prefers to stay at range, so this build keeps her at the back of the room while the Necromancer does the fighting for her. A skeleton, a skeletal archer, and a ghost are always out; the ghost eats 10% of every hit and heals her; she plinks with a bow and blows up corpses. Between the ghost and Pale Order, staying alive is nearly automatic — and nothing on the bar is melee.
 
 ---
 
 ## Skills — One Bar (Bow)
 
 1. **Poison Injection** (morph of Poison Arrow, *Bow*) — her ranged spammable: a strong Poison DoT that hits *much* harder as the enemy drops below 50% (a built-in execute). Deadly Strike (gear below) supercharges the DoT
-2. **Stalking Blastbones** (morph of Blastbones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse** to blow up. Recast whenever it's back
+2. **Blighted Blastbones** (morph of Sacrificial Bones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse** to blow up. The stamina-cost morph, so it feeds off her main pool. Recast whenever it's back
 3. **Skeletal Archer** (morph of Skeletal Mage, *Grave Lord*) — a second pet. Ticks free damage, hands her **extra Physical Penetration and Stamina Recovery** while it's out (her sustain, since she runs no sustain skill), and leaves a corpse when it dies
 4. **Spirit Guardian** (morph of Spirit Mender, *Living Death*) — the ghost pet. Transfers **10% of all incoming damage** to itself and heals her on a timer. Her main "don't die" button — keep it up always
 5. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery/Prophecy); the corpse explodes when it ends
-- **Ult: Pestilent Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE stun that makes everything take +10% damage (Major Vulnerability)
+- **Ult: Pestilent Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE smash that makes everything take +10% damage (Major Vulnerability); each smash hits harder than the last. Swap to **Glacial Colossus** (same base, *Grave Lord*) if she wants the stun as a panic button — only the Glacial morph stuns, on its final smash
 
 *Three Grave Lord skills are on the bar on purpose — the Corpseburster set (endgame gear below) hits harder for each one. **Nothing here is scribed**, so there's no grimoire to hunt down a substitute for. Want more AoE for trash packs? Swap Poison Injection → **Endless Hail** (morph of Volley, *Bow*) — a ground DoT that Deadly Strike also loves; keep Poison Injection for bosses. Want an extra self-heal instead of a spammable? Swap Detonating Siphon → **Avid Boneyard** (morph of Boneyard, *Grave Lord*) — press its Grave Robber synergy for a burst that heals her.*
 
@@ -28,8 +28,8 @@
 ---
 
 ## How to play it
-1. Before the pull: **Spirit Guardian** (ghost) up, **Skeletal Archer** out, **Stalking Blastbones** thrown
-2. **Stalking Blastbones** → makes a corpse
+1. Before the pull: **Spirit Guardian** (ghost) up, **Skeletal Archer** out, **Blighted Blastbones** thrown
+2. **Blighted Blastbones** → makes a corpse
 3. **Detonating Siphon** → eats the corpse, her big hit
 4. **Poison Injection** as her spammable between everything; re-throw Blastbones and re-summon the Archer whenever they're back
 5. **Pestilent Colossus** whenever it's charged
@@ -41,7 +41,9 @@
 
 ## Gear
 
-### Crafted starter (all craftable — her husband's station covers it)
+### Starter (craftable + cheap trader pieces)
+
+Order's Wrath comes off her husband's crafting station; Deadly Strike is cheap from guild traders (Cyrodiil set); Slimecraw and Pale Order she already owns.
 
 **Armor weight: 5 Medium / 1 Light / 1 Heavy** — Medium for the stamina and weapon-damage passives a bow user wants, plus one Light and one Heavy so all three tiers of **Undaunted Mettle** fire (Mettle grants max Health / Magicka / Stamina for each *distinct* weight worn, so a 5/1/1 split triggers everything).
 
@@ -58,7 +60,7 @@
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Bow | — | Infused | Weapon Damage | Deadly Strike (a bow = 2 set pieces) |
 
-*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoTs and channels** 15% — and Poison Injection, the Siphon tether, and Blastbones are exactly that, so it's near-BiS and craftable. Order's Wrath (5 body) is pure crit. In-game tooltips override — confirm on her bar.*
+*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoTs and channels** 15% — and Poison Injection, the Siphon tether, and Blastbones are exactly that, so it's near-BiS and cheap from guild traders (Cyrodiil set). Order's Wrath (5 body) is pure crit. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
 Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive) — now every corpse she blows up detonates for bonus Disease damage around the target, and it scales up for each of her three Grave Lord skills. Keep **Deadly Strike** on bow/jewelry/boots, **Slimecraw** head, **Ring of the Pale Order**. That's the full endgame setup with nothing scribed.
@@ -154,7 +156,7 @@ Buy every passive in every line she has a skill slotted from:
 - **She never has to melee.** Everything here is a bow, a summon, or a corpse blowing up at range — it suits her exactly the way the pet Sorcerer does.
 - **Nothing on this bar is scribed** — she never has to hunt down a non-scribed substitute.
 - The corpse loop is the only thing to learn: throw Blastbones, eat the corpse with Siphon, plink Poison Injection. If corpses ever run dry, the Archer and Blastbones both leave one when they die.
-- Pestilent Colossus is both her burst *and* a survival tool — the stun buys her breathing room in a bad pull.
+- Pestilent Colossus is her burst button, not a stun — if she wants a panic-button stun, swap the ult to Glacial Colossus (same base skill); its final smash stuns and buys her breathing room in a bad pull.
 - Pairs perfectly with either DK tank or a tank companion: they hold the hits, she raises pets and deletes the room from the back.
 
 *Source: Hyperioxes / Alcast U50 Solo Stamina Necromancer, adapted to one-bar bow; skill morphs cross-checked against ESO-Hub and Alcast U50. Corpseburster is a set (Infinite Archive), not a skill. Verify Class Mastery numbers and any renamed Necromancer skills against U50 in-game tooltips. Revised 2026-08-16.*
