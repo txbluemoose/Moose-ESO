@@ -145,9 +145,11 @@ Directional only — **PvP metas rotate every season**, so confirm current piece
 
 ## 5. Champion Points — Spend Order (1200 → 1800)
 
-At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **top to bottom** — trust the order, not the math. Stars marked **SLOT** go in your 4 active slots per tree; everything else is passive once purchased.
+At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
 
 ### 🔵 BLUE (Warfare)
+
+**Slot (4):** Deadly Aim · Fighting Finesse · Wrathful Strikes · Thaumaturge — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
@@ -172,17 +174,19 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 
 ### 🔴 RED (Fitness)
 
+**Slot (4):** Boundless Vitality · Fortified · Rejuvenation · Bastion — Boundless Vitality and Fortified are central; the deeper slots sit further out, so the connectors below come before them.
+
 | # | Star | Action | What it does for you |
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
-| 2 | **Bastion** | **SLOT** (50) | **+shield strength — directly buffs the Fatecarver shield you live inside.** Earns its slot here more than on almost any other household build. |
+| 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | resource recovery |
-| 4 | **Fortified** | **SLOT** (50) | armor |
-| 5 | Hero's Vigor | buy max | max health |
-| 6 | Tumbling | buy max | cheaper dodge rolls |
-| 7 | Defiance | buy max | mitigation |
-| 8 | Mystic Tenacity | buy max | less stun time (stuns interrupt your beam — this matters) |
-| 9 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 4 | Hero's Vigor | buy max | max health |
+| 5 | Tumbling | buy max | cheaper dodge rolls |
+| 6 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 7 | **Bastion** | **SLOT** (50) | **+shield strength — directly buffs the Fatecarver shield you live inside.** Earns its slot here more than on almost any other household build. |
+| 8 | Defiance | buy max | mitigation |
+| 9 | Mystic Tenacity | buy max | less stun time (stuns interrupt your beam — this matters) |
 | 10 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight out-drains you |
 | 11 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
 | 12 | Celerity | buy (50), swap option | movement-heavy fights |
@@ -190,6 +194,8 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. Follow each table **to
 *Items 1–9 ≈ your 1200 budget; 10–12 are fight-specific swaps toward 1800.*
 
 ### 🟢 GREEN (Craft)
+
+**Slot:** Steed's Blessing.
 
 | # | Star | Action |
 |---|---|---|
