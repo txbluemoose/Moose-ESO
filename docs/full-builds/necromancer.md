@@ -77,7 +77,7 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Magicka | Slimecraw **(1pc monster — 657 Crit Chance)** — overland, you own it |
+| Head | Medium | Divines | Magicka | Slimecraw **(1pc monster — 657 Crit Chance)** — vet Wayrest Sewers I, you own it |
 | Shoulders | Medium | Divines | Magicka | Corpseburster |
 | Chest | Heavy | Divines | Magicka | Corpseburster |
 | Hands | Medium | Divines | Magicka | Corpseburster |
@@ -93,7 +93,7 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Where it comes from:** Corpseburster = Infinite Archive. Whorl of the Depths = vet Dreadsail Reef / trader (Frost proc that syncs with your Ice bar). Slimecraw = overland (you own it). Crushing Wall = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
+**Where it comes from:** Corpseburster = Infinite Archive. Whorl of the Depths = vet Dreadsail Reef / trader (Frost proc that syncs with your Ice bar). Slimecraw = the 1pc **helm**, from **vet Wayrest Sewers I** (you own it — note the Undaunted chest only ever gives the shoulders). Crushing Wall = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → Aegis Caller (Depths of Malatar) → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Tzogvin's Warband

@@ -81,7 +81,7 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Light | Divines | Stamina | Slimecraw **(1pc monster — 657 Crit Chance)** — overland, you own it |
+| Head | Light | Divines | Stamina | Slimecraw **(1pc monster — 657 Crit Chance)** — vet Wayrest Sewers I, you own it |
 | Shoulders | Medium | Divines | Stamina | Corpseburster |
 | Chest | Heavy | Divines | Stamina | Corpseburster |
 | Hands | Medium | Divines | Stamina | Corpseburster |

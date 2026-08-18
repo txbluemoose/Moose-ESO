@@ -2,7 +2,7 @@
 ### The "Raise a Ghost, Blow Up a Corpse" Build — One Bar, Five Buttons
 
 **Character:** Magicka Necromancer, pure class (no subclass)
-**Verified against:** the U50 Hyperioxes / Gregor Sutterlin "Solo Magicka Corpseburster — One Bar" build (122k+ dummy, easy rotation), cross-checked against ESO-Hub skill pages and Alcast's U50 Solo MagCro
+**Verified against:** this bar is **ours**. There is no one-bar Necromancer solo build on Hyperioxes. The "Solo Magicka Corpseburster — One Bar" build by Gregor Sutterlin is real, but it lives on **ESO-Hub**, and it is **subclassed** — which this household doesn't do, because subclassing switches Class Mastery off entirely. So this sheet is an original **pure-class** adaptation, anchored on the U50 two-bar Magicka Necromancer solo build (which parses ~65.4k pure class) and cut down to five slots. Skills, morphs and skill lines are cross-checked against ESO-Hub and Alcast's U50 Solo MagCro; the bar is our call.
 **Playstyle:** She likes pets and staves, and this build is nothing but pets and staves. A skeleton and a ghost are always out; the ghost eats 10% of every hit and heals her. She makes corpses and blows them up with a staff. Between the ghost, Pale Order, and the Grave Robber heal, staying alive is nearly automatic.
 
 ---
@@ -16,12 +16,12 @@
 5. **Spirit Guardian** (morph of Spirit Mender, *Living Death*) — the ghost pet. Transfers **10% of all incoming damage** to itself and heals her on a timer. Her main "don't die" button — keep it up always
 - **Ult: Glacial Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE stun that makes everything take +10% damage (Major Vulnerability)
 
-*Four Grave Lord skills are on the bar on purpose — the Corpseburster set (endgame gear below) hits harder for each one. **No scribed skills here**, so there's nothing to swap out. If she'd rather have a second visible pet than a spammable, swap Ricochet Skull → **Skeletal Archer** (morph of Skeletal Mage, *Grave Lord*) — it makes corpses too, just more slowly.*
+*Five Grave Lord abilities are on the bar on purpose — Ricochet Skull, Blastbones, Detonating Siphon, Avid Boneyard **and the Glacial Colossus ultimate, which is also a Grave Lord ability**. Corpseburster (endgame gear below) grows **+10% per slotted Grave Lord ability**, so that's **+50%**, not +40%. **No scribed skills here**, so there's nothing to swap out. If she'd rather have a second visible pet than a spammable, swap Ricochet Skull → **Skeletal Archer** (morph of Skeletal Mage, *Grave Lord*) — it makes corpses too, just more slowly.*
 
 ### Class Mastery (pure class — pick 2)
 - **Nothing Wasted** — every corpse she consumes stacks **+2% Max Health and +2% Weapon/Spell Damage** (up to 10). She consumes corpses constantly, so this is free damage *and* free survivability — the best pick for her.
 - **Pound of Flesh** — chance on taking damage to heal her and restore stamina. Pure "don't die" glue that needs no setup.
-- *Max-damage swap:* trade Pound of Flesh → **Cycle Unending** (+1% damage per 1% Health she has above the target) when a fight isn't scary — her big health pool turns straight into damage.
+- *Max-damage swap:* trade Pound of Flesh → **Cycle Unending** (+1% damage per 1% Health she has above the target, **capped at +25%**; 12% against players) when a fight isn't scary — her big health pool turns straight into damage, up to that cap.
 
 *Class Mastery is the new U50 system — confirm the exact numbers and that both slot together on her bar in-game.*
 
@@ -64,7 +64,7 @@ Order's Wrath comes off her husband's crafting station; Deadly Strike is cheap f
 *Deadly Strike is on the boots + jewelry + staff (5 pieces: boots, neck, ring, and the staff counts as two). It boosts **DoTs and channels** — the Siphon tether and Avid Boneyard are exactly that, so it's punching above its weight here. Order's Wrath (5 body) is pure crit. Lightning staff = better sustain from heavy attacks and cleave; Ice staff = a little more mitigation. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
-Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive) — now every corpse she blows up detonates for bonus Disease damage around her, and it scales up for each of her four Grave Lord skills. Keep **Deadly Strike** on staff/jewelry/boots, **Slimecraw** head, **Ring of the Pale Order**. That's the full 122k+ setup with nothing scribed.
+Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive) — now every corpse she consumes detonates for bonus Disease damage **at the corpse**, hitting everything within 5m of it (corpses drop out where the enemy died, so the blast lands on the pack, not on her), and it grows **+10% for each Grave Lord ability she has slotted — five of them here, so +50%**. Keep **Deadly Strike** on staff/jewelry/boots, **Slimecraw** head, **Ring of the Pale Order**. That's the full endgame setup with nothing scribed.
 
 **Mundus:** The Thief (crit) — The Lady for brutal content
 **Attributes:** 64 Magicka; shift toward Health when struggling (Cycle Unending, if slotted, even pays her back for it)
@@ -77,7 +77,7 @@ Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive)
 ## Skill Line Passives — buy these with skill points
 
 Buy every passive in every line she has a skill slotted from:
-- **Grave Lord:** all — four skills live here; **Death Gleaning** (resources when a damaged enemy dies) and the corpse passives are her sustain and her damage
+- **Grave Lord:** all — four skills *and* her ultimate live here; **Death Gleaning** (resources when a damaged enemy dies) and the corpse passives are her sustain and her damage
 - **Living Death:** all — Spirit Guardian lives here, and this line's passives are her healing and mitigation
 - **Bone Tyrant:** buy the passives even with nothing slotted — **Corpse Consumption** (Ultimate from eating corpses) and **Reusable Parts** feed her Class Mastery picks; check tooltips for which apply passively
 - **Destruction Staff:** the flat damage + Penetrating Magic passives — HIGH
@@ -159,7 +159,7 @@ Buy every passive in every line she has a skill slotted from:
 - Glacial Colossus is both her burst *and* a survival tool — the stun buys her breathing room in a bad pull.
 - Pairs perfectly with either DK tank or a tank companion: they hold the hits, she raises pets and deletes the room.
 
-*Source: Hyperioxes / Gregor Sutterlin U50 Solo Magicka Corpseburster One-Bar; skill morphs cross-checked against ESO-Hub and Alcast U50. Corpseburster is a set (Infinite Archive), not a skill. Verify Class Mastery numbers and any renamed Necromancer skills against U50 in-game tooltips. Revised 2026-08-15.*
+*Source: **our own pure-class adaptation** of the U50 two-bar Magicka Necromancer solo build (~65.4k pure class), cut to one bar. Hyperioxes publishes **no** one-bar Necromancer solo build; the "Solo Magicka Corpseburster — One Bar" build by Gregor Sutterlin is on **ESO-Hub** and is **subclassed**, so its numbers don't transfer to a pure-class Pale Order bar — the old "122k+" figure on this page came from that kind of build and has been removed. Skill morphs cross-checked against ESO-Hub and Alcast U50. Corpseburster is a set (Infinite Archive), not a skill, and its blast is centred on the consumed corpse (5m), not on the caster. Necromancer has not been reworked in U50 — only the DK has had its class refresh — but verify Class Mastery numbers against in-game tooltips. Revised 2026-08-18.*
 
 ---
 
