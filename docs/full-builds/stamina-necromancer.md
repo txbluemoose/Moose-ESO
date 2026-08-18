@@ -4,9 +4,9 @@
 **Character:** Stamina Necromancer, pure class (no subclass), Class Mastery active
 **Verified against:** the current U50 Hyperioxes Stamina Necromancer Solo build (soloed vet Dread Cellar on the U50 PTS, ~69k on the 6M dummy), cross-checked against Alcast's U50 Solo StamCro and ESO-Hub skill pages
 **Philosophy:** Kick ass and don't die. On a Necromancer that means leaning *hard* into the class's built-in survivability — Spirit Guardian eats 10% of every hit and heals you, Resistant Flesh is an on-demand burst heal, Avid Boneyard's Grave Robber synergy heals you when you press it, and Ring of the Pale Order turns your corpse-explosion damage back into health. That's four independent heal sources layered over one another. Damage is the byproduct; staying up is the plan.
-**Weapon note:** this is the **stamina** sibling of the [Magicka Necromancer Master Guide](necromancer.md). It runs the *identical corpse engine* (Corpseburster, Blastbones, Detonating Siphon, Avid Boneyard, Spirit Guardian) on **dual daggers front / bow back** instead of daggers-and-ice-staff, and parses a hair higher (~69k vs ~65k) — noise by this repo's rules. Pick whichever stat pool your character already has; don't pay to re-roll for a ~5% swing. If you'd rather fight with a staff or want the magicka version, that's the [magicka guide](necromancer.md).
+**Weapon note:** this is the **stamina** sibling of the [Magicka Necromancer Master Guide](necromancer.md). It runs the *identical corpse engine* (Corpseburster, Blastbones, Detonating Siphon, Avid Boneyard, Spirit Guardian) on **dual daggers front / bow back** instead of daggers-and-ice-staff — note the bow bar is **our** choice, not the source's (see the divergence callout in Section 1) — and parses a hair higher (~69k vs ~65k) — noise by this repo's rules. Pick whichever stat pool your character already has; don't pay to re-roll for a ~5% swing. If you'd rather fight with a staff or want the magicka version, that's the [magicka guide](necromancer.md).
 
-> **Confidence key:** The Solo PvE section is verified against the current U50 Hyperioxes solo StamCro. The Class Mastery picks are the U50 system — the passive *names* are verified against Alcast/ESO-Hub, but confirm the exact numbers and that both slot together on your bar in-game. The Group and PvP sections are directional adaptations — verify bars against the live source before a progression run. Skill names are current as of Update 50; the Necromancer corpse system was adjusted this patch, so trust your in-game tooltips over any guide.
+> **Confidence key:** The Solo PvE section is verified against the current U50 Hyperioxes solo StamCro. The Class Mastery picks are the U50 system — the passive *names* are verified against Alcast/ESO-Hub, but confirm the exact numbers and that both slot together on your bar in-game. The Group and PvP sections are directional adaptations — verify bars against the live source before a progression run. Skill names are current as of Update 50. **Necromancer has *not* been reworked** — U50 shipped Class Mastery, the Werewolf overhaul, Challenge Difficulty and PvP Veterancy, and the class-refresh order runs DK → Warden → Sorcerer → Templar → Nightblade → Necromancer → Arcanist, of which only the DK has happened. The corpse system is the one you already know; trust in-game tooltips over any guide regardless.
 
 ---
 
@@ -17,7 +17,7 @@ Subclassing disables this entire system — stay pure class. Each mastery upgrad
 | Pick | Mastery | Keys off | What it does for you |
 |---|---|---|---|
 | **Main 1** | **Nothing Wasted** | Corpse Consumption (*Bone Tyrant*) | Every corpse you consume stacks **+2% Max Health and +2% Weapon/Spell Damage**, up to 10 stacks. Your whole loop is consuming corpses, so this is free damage *and* free health — the single best pick for a "don't die" corpse build. |
-| **Main 2** | **Cycle Unending** | Reusable Parts (*Bone Tyrant*) | **+1% damage done for every 1% Health you have above your target.** Your survivability engine keeps you topped off, so this damage star *pays for itself* on the tanky playstyle. |
+| **Main 2** | **Cycle Unending** | Reusable Parts (*Bone Tyrant*) | **+1% damage done for every 1% Health you have above your target — capped at +25% (12% against players).** Your survivability engine keeps you topped off, so this damage star *pays for itself* on the tanky playstyle; the cap arrives fast on a low-health target, so don't read it as unlimited scaling. |
 | **Survival swap** | **Pound of Flesh** | (defensive mastery) | Chance on taking damage to heal and restore missing **Stamina**. Trade Cycle Unending → Pound of Flesh for the nastiest one-shot fights — and note the Stamina return directly answers the household sustain gremlin if it follows you over from the DK. |
 
 *Verify in-game that Nothing Wasted and Cycle Unending both slot at once (they key off different base passives, so they should). Numbers from Alcast/ESO-Hub U50 Class Mastery lists — tooltips override.*
@@ -26,7 +26,7 @@ Subclassing disables this entire system — stay pure class. Each mastery upgrad
 
 ## 1. SOLO PvE — Skills (delves, world bosses, vet dungeon soloing, arenas)
 
-This is your bread and butter. The damage engine is the **Corpseburster** set: every corpse you consume detonates for big Disease damage around you, and it hits harder for each Grave Lord ability slotted. So the front bar is **Grave Lord–heavy** — you generate corpses and immediately eat them, over and over, and Pale Order heals you off every explosion.
+This is your bread and butter. The damage engine is the **Corpseburster** set: every corpse you consume detonates **where the corpse is**, hitting everything within 5m *of it*, and the blast grows **+10% for each Grave Lord ability you have slotted** — the **Colossus ultimate counts**, so the front bar below is carrying five of them. You generate corpses and immediately eat them, over and over, and Pale Order heals you off every explosion.
 
 ### Skills — Base Setup
 
@@ -39,7 +39,12 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 | 5. Deadly Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — the flex slot; see the swaps below for non-scribed options ⚠️ confirm vs the live build in-game |
 | **Ult:** Pestilent Colossus (morph of Frozen Colossus, *Grave Lord*) | **Ult:** Ravenous Goliath (morph of Bone Goliath Transformation, *Bone Tyrant*) — survivability transform, heals you per enemy hit; a *different* base skill than Colossus, so it can sit here without conflicting *(confirm morph in-game)* |
 
-*\*Dual daggers are the household default and the up-close playstyle you run — and they suit this build, because Corpseburster's corpse explosions go off around you in a 5m circle. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps the old DK sustain gap). The bow back bar is your ranged-DoT and pre-buff slot — Endless Hail is a hard-hitting ground DoT that Deadly Strike boosts, and both survivability heals live back here. Note on ultimates: you can't run both Colossus morphs at once (they're the same base skill), so the front bar carries Pestilent Colossus — your AoE stun + Major Vulnerability button — and the back bar carries a different-line ultimate (Ravenous Goliath) as the "survive this" transform.*
+*\*Dual daggers are the household default and the up-close playstyle you run — and being in the pack keeps you standing next to the corpses your explosions are centred on (the blast is 5m around the **corpse**, out where the enemy died, not around you). Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps the old DK sustain gap). The bow back bar is your ranged-DoT and pre-buff slot — Endless Hail is a hard-hitting ground DoT that Deadly Strike boosts, and both survivability heals live back here. Note on ultimates: you can't run both Colossus morphs at once (they're the same base skill), so the front bar carries Pestilent Colossus — your AoE stun + Major Vulnerability button — and the back bar carries a different-line ultimate (Ravenous Goliath) as the "survive this" transform.*
+
+> **Where this diverges from the live build — read before you farm anything.** The cited U50 solo StamCro runs **dual wield front / inferno staff back**, keeps **Elemental Susceptibility** on that staff bar (the source calls it *very strong for solo* — it's near-free to cast and applies Major Breach, −5948 Armor), and gears **Corpseburster + Perfected Sul-Xan's Torment + Slimecraw + Ring of the Pale Order + a Maelstrom inferno staff**. The **bow back bar above is our household adaptation**, not the source's bar: it buys ranged DoT pressure (Endless Hail, which Deadly Strike loves) and a pre-buff bar you can use from range, and it pays for that by giving up Elemental Susceptibility and the Maelstrom inferno staff, which are staff-only. That's a real penetration and damage trade, not a wash. Both bars work — pick deliberately:
+>
+> - **Bow back bar (this guide's default):** ranged pressure, Endless Hail, no Major Breach from your own bar — cover penetration with the Lover Mundus, a Crusher enchant, Piercing CP, or a companion who debuffs.
+> - **Inferno staff back bar (the source's):** slot **Elemental Susceptibility** in place of Endless Hail and run the Maelstrom **inferno staff** (Crushing Wall). More penetration, more single-target damage, less ranged utility.
 
 **What each does (and why it's here for your "don't die" goal):**
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
@@ -49,11 +54,11 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 - **Avid Boneyard** — AoE ground DoT that consumes a corpse for +30% damage, applies Minor Vulnerability, and spawns the **Grave Robber synergy you can activate yourself** for a chunk of damage *and* a heal. This is the Necromancer heal source that magicka gets from its ice-staff utility — on stamina it lives right here, so keep it slotted.
 - **Venom Skull** — your cheap Poison spammable and a corpse generator (every third cast makes a corpse). It's the weakest single button in U50, but its job here is corpse fuel and filler, not raw parse.
 - **Deadly Cloak** — a spinning AoE DoT that *also* reduces the AoE damage you take. Pure "kick ass and not die": it feeds Corpseburster, Deadly Strike boosts it, and the mitigation is exactly what a melee character standing in the pile wants. (Swap to Skeletal Archer here if you'd rather run a second pet on the front bar — see swaps.)
-- **Skeletal Archer** — a second pet that ticks free damage, hands you **extra Physical Penetration and Stamina Recovery** while slotted, and on death leaves *another* corpse. On this build it earns its slot for the sustain and pen alone.
+- **Skeletal Archer** — a second pet that ticks free damage and, on death, leaves *another* corpse. ⚠️ **Confirm in-game:** this guide has also credited it with **extra Physical Penetration and Stamina Recovery while slotted**, and that claim is unsourced — it isn't in a tooltip we've checked. Don't plan your sustain around it until you've read the skill on your own bar; the corpse it leaves and its free damage are what it definitely does.
 - **Pestilent Colossus** — big AoE ultimate that stuns and applies **Major Vulnerability** (enemies take +10% damage). Your "delete the room / survive this" button — and a genuine group buff (see Section 3).
 
 ### Situational swaps (with skill line sources)
-- **Unnerving Boneyard** (morph of Boneyard, *Grave Lord*) — the other Boneyard morph. It applies **Major Breach** (penetration) instead of letting you self-activate the synergy. Stamina has no Elemental Susceptibility (that's a staff skill on the magicka sibling), so if you want a class-based Major Breach source, swap Avid → Unnerving — but you give up the self-heal synergy, so the household default stays Avid Boneyard + a **Crusher** enchant / Lover Mundus / Piercing CP for penetration
+- **Unnerving Boneyard** (morph of Boneyard, *Grave Lord*) — the other Boneyard morph. It applies **Major Breach** (penetration) instead of letting you self-activate the synergy. Worth taking if you're running the bow back bar and your penetration is short; on the inferno-staff back bar **Elemental Susceptibility** already supplies Major Breach (it's a Destruction Staff skill — available to any stat pool, stamina included), so keep Avid Boneyard and its self-heal synergy there. Household default stays **Avid Boneyard**
 - **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — a bow-bar DoT that grants **Minor Force** (+10% crit damage) while slotted; drop it in for Endless Hail on single-target fights
 - **Rending Slashes** (morph of Twin Slashes, *Dual Wield*) — a bleed DoT if you want another Deadly-Strike-boosted tick on the front bar
 - **Empowering Grasp / Ghostly Embrace** (*Necromancer > Bone Tyrant*) — pull/immobilize for trash packs; stacks adds into your Corpseburster circle
@@ -62,7 +67,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 - **Precognition ult** (*Psijic Order guild line, Summerset*) — mandatory for the handful of solo-impossible stuns
 
 ### Rotation (priority sweep — just refresh whatever is highest on this list)
-1. **Spirit Guardian** (never let the ghost drop) → 2. **Skeletal Archer** (keep the pet up for pen + sustain) → 3. **Endless Hail** (back bar) → 4. **Blighted Blastbones** (makes a corpse) → 5. **Detonating Siphon** (eats the corpse — your big hit) → 6. **Avid Boneyard** (eats a corpse, grab the Grave Robber synergy) → 7. **Deadly Cloak** → 8. **Pestilent Colossus** when it's up → 9. **Venom Skull** as filler between everything → **Resistant Flesh the instant your health dips.**
+1. **Spirit Guardian** (never let the ghost drop) → 2. **Skeletal Archer** (keep the pet up — free damage and a corpse when it dies) → 3. **Endless Hail** (back bar) → 4. **Blighted Blastbones** (makes a corpse) → 5. **Detonating Siphon** (eats the corpse — your big hit) → 6. **Avid Boneyard** (eats a corpse, grab the Grave Robber synergy) → 7. **Deadly Cloak** → 8. **Pestilent Colossus** when it's up → 9. **Venom Skull** as filler between everything → **Resistant Flesh the instant your health dips.**
 
 The whole thing is a sweep, not a script: keep a corpse on the ground, keep the ghost up, and alternate "make a corpse (Blastbones/Skull) → eat a corpse (Siphon/Boneyard)." Pale Order + Spirit Guardian + the Grave Robber synergy mean you're being healed from three independent sources while you do it.
 
@@ -86,17 +91,18 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 | Necklace + Ring 1 | — | Bloodthirsty | Weapon Damage | Deadly Strike |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Front (2 daggers) | — | Nirnhoned / Charged | Poison + Absorb Stamina | Deadly Strike |
-| Back bar (Bow) | — | Infused | Weapon Damage | Perfected Maelstrom Bow (vMA) — its bonus boosts your bow DoT *(confirm the exact line in-game)* |
+| Back bar (Bow) | — | Infused | Weapon Damage | Maelstrom Bow — the set is **Thunderous Volley** (vet Maelstrom Arena; the perfected version is the veteran drop). Its bonus buffs **Volley / Endless Hail specifically**, so it's worth nothing if Endless Hail leaves the bar ⚠️ confirm the set name in-game. *The live build's Maelstrom weapon is the **inferno staff** (Crushing Wall), because its back bar is a staff.* |
 
 *Prefer more health? Shift one Medium piece to Light for a 4 Medium / 2 Light / 1 Heavy split — both splits still trigger all three Undaunted Mettle tiers. In-game tooltips override — confirm on your bar. Slimecraw is a 1pc monster helm (657 Critical Chance); Corpseburster is the 5pc corpse-explosion engine. **Deadly Strike is the household weapon/jewelry pick here on purpose** — it boosts DoTs and channels 15%, and half your kit (Detonating Siphon tether, Avid Boneyard, Deadly Cloak, Endless Hail) *is* DoTs, so it punches well above its weight on a Necromancer specifically. It's also already owned (cheap from guild traders — it's a Cyrodiil set, not craftable), so this is buildable today.*
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Where it comes from:** Corpseburster = Infinite Archive. Deadly Strike = guild traders / Cyrodiil vendors (you own it). Slimecraw = overland (you own it). Perfected Maelstrom Bow = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
+**Where it comes from:** Corpseburster = Infinite Archive. Deadly Strike = guild traders / Cyrodiil vendors (you own it — a Cyrodiil set, never craftable). Slimecraw = 1pc monster **helm** from **vet Wayrest Sewers I** (the Undaunted chest gives only the shoulders). Maelstrom Bow (Thunderous Volley) = vet Maelstrom Arena — and if you move to the staff back bar, the equivalent is the Maelstrom inferno staff (Crushing Wall). Perfected Sul-Xan's Torment = Sanity's Edge trial. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Ansuul's Torment / Tzogvin's Warband (trial/dungeon options — see the live source before farming a trial)
 - Weapons/jewelry: keep **Deadly Strike** — on a Necro DoT kit it's already near the top; a plain Maelstrom Bow (non-perfected) covers the back-bar slot until you clear vMA on vet
+- **What the live build actually pairs with Corpseburster: Perfected Sul-Xan's Torment** (Sanity's Edge) on weapons and jewelry, not Deadly Strike. It's the stronger pairing and it's what the source runs — but it's a trial farm, while Deadly Strike is owned, cheap, and unusually good on this DoT-heavy kit. So the household answer stays Deadly Strike, with Sul-Xan's written down as the upgrade you're deliberately not chasing rather than one you've never heard of
 - Monster: Slimecraw 1pc (657 Crit Chance, own) → Valkyn Skoria 1pc (1,487 Offensive Penetration) if you're under the pen cap. Only the 1pc bonus ever applies.
 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo (and running Avid Boneyard rather than Unnerving) → The Lady (resistances) only for brutal one-shot content
@@ -117,7 +123,7 @@ Same character, different job: the group brings the heals, buffs, and debuffs, s
 - **Swap Avid Boneyard → Unnerving Boneyard** if the group needs the Major Breach, or drop Boneyard entirely for a slotted DoT — the group's debuffers usually cover penetration, so this frees a slot
 - **Spirit Guardian can stay** — even in a group its 10% transfer + heal is cheap insurance, and it keeps a Grave Lord/Living Death balance; drop it only if you need the slot for a group buff
 - **Body set shifts to a group DPS set** — keep Corpseburster if the fight has constant adds/corpses; otherwise a trial two-piece + a shared-uptime set. Point to the live source below rather than guessing a trial parse
-- Skeletal Archer stays for the free penetration and the corpse it leaves on death
+- Skeletal Archer stays for the free damage and the corpse it leaves on death
 
 *Reference: adapt the live Hyperioxes group Necromancer DPS build for exact bars and trial sets before a progression run — group set metas shift with each trial and patch.*
 
@@ -168,7 +174,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (Detonating Siphon feeds you crit rating) |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
-| 6 | Piercing | buy max (20) | armor penetration (your realistic solo pen with Avid Boneyard slotted) |
+| 6 | Piercing | buy max (20) | armor penetration — carries more weight on the bow back bar, which has no Elemental Susceptibility on it |
 | 7 | Tireless Discipline | buy max (20) | max stamina — your primary pool, helps the old sustain gremlin |
 | 8 | Eldritch Insight | buy max (20) | max magicka (a few class skills still cost it) |
 | 9 | Blessed | buy max (20) | your heals — Resistant Flesh, Grave Robber — hit harder |
@@ -222,7 +228,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 ## 6. SHOPPING LIST (in priority order)
 
 1. **Corpseburster** — run Infinite Archive; it's the whole build's damage engine and hits harder for every Grave Lord skill you slot
-2. **Perfected Maelstrom Bow** — vet Maelstrom Arena (back bar)
+2. **Maelstrom Bow (Thunderous Volley)** — vet Maelstrom Arena (back bar; only pays out while Endless Hail is slotted). Running the staff back bar instead? Get the Maelstrom **inferno staff** (Crushing Wall)
 3. **Deadly Strike** — buy it from a guild trader (you own it); front-bar daggers + jewelry + boots (the back-bar weapon is the Maelstrom bow), unusually strong on this DoT kit
 4. **Valkyn Skoria helm** — vet City of Ash II, only if your character sheet says you need its 1pc penetration over Slimecraw's crit chance
 5. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath (body fallback)
@@ -230,7 +236,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ---
 
-*Sources: Hyperioxes U50 Stamina Necromancer Solo build (verified for U50; soloed vet Dread Cellar, ~69k on the 6M dummy); skill morphs and Class Mastery names cross-checked against Alcast U50 Solo StamCro and ESO-Hub skill/Class-Mastery pages; Corpseburster confirmed as a set (Infinite Archive), not a skill. Class Mastery is the U50 system — confirm the exact numbers and dual-slot behavior in-game. ZOS renames Necromancer abilities on class refreshes, so your in-game tooltips override any guide. Revised 2026-08-16.*
+*Sources: Hyperioxes U50 Stamina Necromancer Solo build (verified for U50; soloed vet Dread Cellar, ~69k on the 6M dummy); skill morphs and Class Mastery names cross-checked against Alcast U50 Solo StamCro and ESO-Hub skill/Class-Mastery pages; Corpseburster confirmed as a set (Infinite Archive), not a skill. Class Mastery is the U50 system — confirm the exact numbers and dual-slot behavior in-game. **Necromancer has not had its class refresh yet** (only the DK has), so U50 changed no Necromancer skills. **The bow back bar is our adaptation — the cited build runs dual wield + inferno staff with Elemental Susceptibility, and gears Perfected Sul-Xan's Torment alongside Corpseburster.** Corpseburster's detonation is centred on the consumed corpse (5m), not on the player. Skeletal Archer's penetration/stamina-recovery claim is flagged unverified. In-game tooltips override any guide. Revised 2026-08-18.*
 
 ---
 

@@ -2,7 +2,7 @@
 ### Lightning Staff + Pets + Heavy Attacks — The Easiest Strong Build in ESO
 
 **Character:** Magicka Sorcerer, pure class (no subclass)
-**Verified against:** Hyperioxes One-Bar Heavy Attack Sorcerer, Update 50 (June 2026) — 112.6k DPS in the practical setup, works in normal/vet dungeons, trials, and hard modes
+**Verified against:** Hyperioxes One-Bar Heavy Attack Sorcerer, **Update 50 — last changed 30th July 2026** — 112.6k DPS in the practical setup, works in normal/vet dungeons, trials, and hard modes. *(The live page also quotes a higher **121.8k**; that figure is the No-Oakensoul / Rakkhat's variant, not the Oakensoul setup we run here. Our 112.6k isn't out of date — it's the number for this build.)*
 **Playstyle:** Hold down heavy attack with a lightning staff (it splashes to everything nearby), let the pets fight, press one button between heavy attacks. Heavy attacks refund resources, so sustain literally cannot fail.
 
 ---
@@ -89,12 +89,12 @@ Buy every passive in every line she uses; priorities if points are short (these 
 
 ### 🔵 BLUE (Warfare)
 
-**Slot (4):** Weapons Expert · Backstabber · Deadly Aim · Wrathful Strikes — the damage slots sit near the center, so they come first.
+**Slot (4):** Weapons Expert · Exploiter · Deadly Aim · Wrathful Strikes — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Weapons Expert** | **SLOT** (50) | +20% heavy attack damage — her #1 star; most of her damage IS heavy attacks |
-| 2 | **Backstabber** | **SLOT** (50) | bonus vs Off Balance — Unstable Wall keeps enemies Off Balance |
+| 2 | **Exploiter** | **SLOT** (50) | +damage vs **Off Balance** enemies — Unstable Wall keeps everything Off Balance. (**Not Backstabber**, which was here before: that's a *flanking* crit-damage star and she stands still channelling heavy attacks from the front, so it would almost never fire.) |
 | 3 | **Deadly Aim** | **SLOT** (50) | single target damage |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
@@ -106,7 +106,7 @@ Buy every passive in every line she uses; priorities if points are short (these 
 | 11 | Hardy | buy max | −damage (Staving Death cluster; minimum connector points to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Reaving Blows** | buy (50), swap option | heal from every heavy attack tick — HER comfort swap (in for Backstabber) |
+| 14 | **Reaving Blows** | buy (50), swap option | heal from every heavy attack tick — HER comfort swap (in for Exploiter) |
 | 15 | Biting Aura | buy (50), swap option | AoE swap for trash-heavy content |
 | 16 | Ironclad | buy (50), swap option | hard-boss mitigation swap |
 
@@ -154,7 +154,7 @@ Buy every passive in every line she uses; priorities if points are short (these 
 - This is one of her one-bar options — the laziest of them by design, and honestly it parses the highest of them anyway
 - Same char as the earlier pet-free sorc sheet? No — this replaces it entirely; the pet version is both easier and stronger for her
 
-*Source: Hyperioxes One-Bar Heavy Attack Sorcerer DPS Build, U50 (June 2026 revision) — verified current, Class Mastery picks included. Revised 2026-08-16.*
+*Source: Hyperioxes One-Bar Heavy Attack Sorcerer DPS Build, U50 (last changed 30th July 2026) — verified current, Class Mastery picks included. Revised 2026-08-18.*
 
 ---
 
