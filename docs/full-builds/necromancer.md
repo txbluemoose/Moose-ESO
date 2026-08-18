@@ -97,7 +97,7 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → Aegis Caller (Depths of Malatar) → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Tzogvin's Warband
-- Weapons/jewelry: Whorl of the Depths → **Deadly Strike (you own it, craftable)** — and note this: Deadly Strike boosts **DoTs and channels**, and half your kit (Detonating Siphon tether, Avid Boneyard, Elemental Blockade) *is* DoTs, so Deadly Strike punches above its weight on a Necromancer specifically — it's a better stopgap here than it was on your DK
+- Weapons/jewelry: Whorl of the Depths → **Deadly Strike (you own it — Cyrodiil set, guild traders)** — and note this: Deadly Strike boosts **DoTs and channels**, and half your kit (Detonating Siphon tether, Avid Boneyard, Elemental Blockade) *is* DoTs, so Deadly Strike punches above its weight on a Necromancer specifically — it's a better stopgap here than it was on your DK
 - Monster: Slimecraw 1pc (657 Crit Chance, own) → Valkyn Skoria 1pc (1,487 Offensive Penetration) if you're under the pen cap. Only the 1pc bonus ever applies.
 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo → The Lady (resistances) only for brutal one-shot content

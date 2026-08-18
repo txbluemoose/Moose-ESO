@@ -2,40 +2,40 @@
 ### The "Bow From The Back" Build — One Bar, Five Buttons, Stay At Range
 
 **Character:** Stamina Nightblade, pure class (no subclass — uses Class Mastery), bow
-**Verified against:** the U50 Hyperioxes / ArzyeL / Alcast Stamina Nightblade bow builds (spectral bow + Poison Injection + Killer's Blade + Leeching Strikes soloes vet content). One-bar layout adapted to her constraints — verify renamed skills in-game.
+**Verified against:** the U50 Hyperioxes / ArzyeL / Alcast Stamina Nightblade bow builds (spectral bow + Poison Injection + Killer's Blade + Siphoning Attacks soloes vet content). One-bar layout adapted to her constraints — verify renamed skills in-game.
 **Playstyle:** One bar, no bar swapping, no rotation to memorize. **She stays at range with a bow** — no melee. Poison the target, drop a rain of arrows, weave the spectral bow, and let the heals fall out of it. This is the **Stamina/Bow** sibling of her Magicka staff one-bar → [One-Bar Nightblade (Magicka)](one-bar-nightblade.md).
 
 ---
 
 ## Skills — One Bar (Bow)
 
-1. **Relentless Focus** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage. Grants **Major Savagery & Prophecy** while slotted (plus a Minor Berserk detail — *confirm the exact while-slotted buffs in-game*), so it's always pulling weight. *(This is the **stamina** morph — Merciless Resolve is the magicka sibling on her Magicka bar; she's stamina, so Relentless.)*
+1. **Relentless Focus** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage. Grants **Major Savagery and Major Prophecy** (+2629 Weapon and Spell Critical) while slotted, so it's always pulling weight. *(This is the **stamina** morph — Merciless Resolve is the magicka sibling on her Magicka bar; she's stamina, so Relentless.)*
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — ranged poison DoT that deals **up to 120% more damage under 50% health** — her single-target damage and her execute pressure, all from max range.
 3. **Endless Hail** (morph of Volley, *Bow*) — a rain of arrows on the ground; her AoE and her "tag the whole pack" button. Drop it and keep shooting.
-4. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) — execute under 25% target health that **heals her when it kills**. Free heal on every trash mob. *Short-range — she has to be close-ish to fire it. Wants to stay fully ranged? Swap to **Impale** (the other morph, 35m) — but Impale doesn't heal, so keep Killer's Blade unless a fight forces her out.*
-5. **Leeching Strikes** (morph of Siphoning Strikes, *Siphoning*) — **heals her on every light/heavy attack and returns stamina + magicka**. Her sustain *and* a constant heal. Re-cast it the second it lapses; it's the most-forgotten skill in the class and the one that keeps her alive.
+4. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) — Disease-damage execute that deals up to **400% more damage under 50% target health** and **heals her for 2399 if the enemy dies within 2 seconds**. Free heal on every trash mob, and it opens far earlier than 25% — that number belongs to the base skill, Assassin's Blade. *Short-range — she has to be close-ish to fire it. Wants to stay fully ranged? Swap to **Impale** (the other morph, 35m) — but Impale doesn't heal, so keep Killer's Blade unless a fight forces her out.*
+5. **Siphoning Attacks** (morph of Siphoning Strikes, *Siphoning*) — while slotted, **heals her 1250 Health and restores 200 Magicka and 200 Stamina, once per second**. Her sustain *and* a constant heal — and it's a while-slotted passive, so there's nothing to cast and nothing to refresh. *(The other morph, **Leeching Strikes**, heals more — 1800 Health per second — but returns **no** resources, so it does nothing for her sustain. Take Siphoning Attacks.)*
 - **Ult: Soul Harvest** (morph of Death Stroke, *Assassination*) — big single-target hit that grants **huge Ultimate on kill** and slaps **Major Defile** on the target. *Prefers a pure bow ult? **Toxic Barrage** (morph of Rapid Fire, *Bow*) is a channeled ranged nuke — confirm morph in-game.*
 
 *Nothing on this bar is scribed — she doesn't scribe, and she doesn't need to. Every button is a class or Bow skill she already has.*
 
 ### Class Mastery (pure class — pick 2)
 - **An Eye for Exploitation** — up to +1250 Weapon/Spell Damage based on the target's missing health **and reduces her damage taken up to 12%** based on her attacker's missing health. Ramps both her damage *and* her mitigation as the fight goes — the single best "don't die" mastery.
-- **Above and Beyond** — +25% Critical Damage **and Healing** at all times. The healing half makes Leeching, Killer's Blade, and the spectral bow's heal all hit harder. Pure survivability glue that also parses.
-- *Max-damage swap:* trade Above and Beyond → **Cutthroat's Focus** (applies a 5% damage-taken debuff to enemies) when a fight isn't threatening.
+- **Above and Beyond** — +25% Critical Damage **and Healing** at all times. The healing half makes Siphoning Attacks, Killer's Blade, and the spectral bow's heal all hit harder. Pure survivability glue that also parses.
+- *Max-damage swap:* trade Above and Beyond → **Cutthroat's Focus** (applies a damage-taken debuff to enemies — ⚠️ the **5%** figure often quoted for it is unconfirmed, so check the in-game tooltip) when a fight isn't threatening.
 
-*Masteries verified vs ESO-Hub / Alcast U50 lists. A fifth Nightblade mastery exists but wasn't cleanly verifiable — confirm the full list in-game. In-game tooltips override.*
+*The five Nightblade masteries are **An Eye for Exploitation, Above and Beyond, Cutthroat's Focus, Nocturnal Inspiration, and Share the Spoils**; Share the Spoils is a group Magicka/Stamina + Ultimate passive, so it does nothing for her solo. In-game tooltips override.*
 
 ---
 
 ## How to play it
-1. **Leeching Strikes** up before the pull — it's her sustain and a heal, never let it drop
+1. **Siphoning Attacks** does its job the moment it's on the bar — no cast, no upkeep, one tick of heal and resources every second
 2. **Endless Hail** on the target, then **Poison Injection** to start the poison ticking
 3. **Weave light attacks** to build Relentless stacks; **fire the spectral bow** at 5 stacks
-4. **Killer's Blade** the instant anything drops under 25% (it heals her when it kills)
+4. **Killer's Blade** the instant anything drops under 50% (it heals her when it kills)
 5. **Refresh Poison Injection and Endless Hail** as they fall off; drop **Soul Harvest** on a tough target or when she's low
-6. Taking damage? **Keep attacking** — Leeching heals her every weave, and the whole bar hits from range.
+6. Taking damage? **Keep attacking** — Siphoning Attacks ticks regardless, and the whole bar hits from range.
 
-**Short version:** Leeching Strikes up, Hail + Poison on the target, weave the spectral bow, Killer's Blade under 25%. Her heals come from her attacks, and she never has to leave range.
+**Short version:** Hail + Poison on the target, weave the spectral bow, Killer's Blade under 50%. Siphoning Attacks heals and refuels her just by sitting on the bar, and she never has to leave range.
 
 ---
 
@@ -63,7 +63,7 @@
 ### Endgame version
 The crafted setup clears everything. If she ever wants the last few %, swap the **Order's Wrath body → a trial DoT set** (e.g. Sul-Xan's Torment, Rockgrove) and keep Deadly Strike on bow/jewelry/boots, **Slimecraw** head, and **Ring of the Pale Order**. Bar and playstyle don't change.
 
-**Mundus:** The Thief (crit). **Attributes:** 64 Stamina, shift toward Health if she's struggling. **Food:** Bewitched Sugar Skulls (tri-stat, max survivability). **Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Leeching covers most of her sustain. **Race:** whatever she already is — race is the smallest dial in any build and costs money to change (Redguard is the only real stamina-sustain race if it ever comes up).
+**Mundus:** The Thief (crit). **Attributes:** 64 Stamina, shift toward Health if she's struggling. **Food:** Bewitched Sugar Skulls (tri-stat, max survivability). **Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Siphoning Attacks covers most of her sustain. **Race:** whatever she already is — race is the smallest dial in any build and costs money to change (Redguard is the only real stamina-sustain race if it ever comes up).
 
 ---
 
@@ -71,8 +71,8 @@ The crafted setup clears everything. If she ever wants the last few %, swap the 
 
 Buy every passive in every line she has a skill slotted from. The load-bearing ones:
 
-- **Assassination:** all 4 — **Master Assassin** and **Hemorrhage** (crit) make Relentless Focus and Killer's Blade worth running
-- **Siphoning:** all 4 — **Catalyst** and **Magicka Flood** back up Leeching Strikes' sustain; **Soul Siphoner** makes her siphon heals stronger
+- **Assassination:** all 4 — **Master Assassin** and **Hemorrhage** (crit) make Relentless Focus and Killer's Blade worth running. **U50 note: Pressure Points now grants 1|2% Critical Chance per *Nightblade* ability slotted** (it used to be 1.25|2.5% per *Assassination* ability), so Siphoning Attacks and Soul Harvest count toward it too
+- **Siphoning:** all 4 — **Catalyst** and **Magicka Flood** back up Siphoning Attacks' sustain; **Soul Siphoner** makes her siphon heals stronger
 - **Shadow:** all 4 — **Refreshing Shadows** adds recovery even with nothing from this line slotted; take it for the sustain
 - **Bow:** all — **Hawk Eye** (stacking bow damage as she keeps firing), **Ranger** (cheaper bow abilities — her sustain), and **Hasty Retreat** for kiting. HIGH
 - **Medium Armor:** Dexterity, Agility — HIGH
@@ -100,8 +100,8 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | penetration |
 | 7 | Tireless Discipline | buy max (20) | max stamina |
-| 8 | Eldritch Insight | buy max (20) | max magicka (Leeching feeds it) |
-| 9 | Blessed | buy max (20) | **her heals hit harder** — Leeching and Killer's Blade both heal, so this is defensive *and* damage |
+| 8 | Eldritch Insight | buy max (20) | max magicka (Siphoning Attacks feeds it) |
+| 9 | Blessed | buy max (20) | **her heals hit harder** — Siphoning Attacks and Killer's Blade both heal, so this is defensive *and* damage |
 | 10 | Quick Recovery | buy max (20) | healing received |
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
@@ -120,7 +120,7 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
 | 2 | **Fortified** | **SLOT** (50) | armor |
-| 3 | **Rejuvenation** | **SLOT** (50) | **recovery — she needs this.** Unlike her husband (his class solves sustain), her siphon return is Leeching alone; keep a recovery star slotted |
+| 3 | **Rejuvenation** | **SLOT** (50) | **recovery — she needs this.** Unlike her husband (his class solves sustain), her siphon return is Siphoning Attacks alone; keep a recovery star slotted |
 | 4 | Hero's Vigor | buy max | max health |
 | 5 | Tumbling | buy max | cheaper dodge rolls |
 | 6 | Sprinter + Hasty | minimum points | connectors only |
@@ -147,8 +147,8 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 ---
 
 ## Notes
-- **The heals are automatic** — as long as Leeching Strikes is up she's healing off every attack, and Killer's Blade tops her up on every kill. The trick is *remembering to re-cast Leeching* — it's the one button that, if it lapses, quietly costs her the fight.
-- **Stay at range** — this is the whole reason she's on a bow instead of daggers. Only Killer's Blade pulls her in a little; everything else is max-range. If a fight is too dangerous to close for the execute, drop it for **Impale** and stay put.
+- **The heals are automatic** — Siphoning Attacks heals and refuels her every second just for being slotted, and Killer's Blade tops her up on every kill. Nothing here needs re-casting: it's a while-slotted effect, not a buff she has to maintain.
+- **Stay at range** — this is the whole reason she's on a bow instead of daggers. Only Killer's Blade pulls her in a little (though it opens at 50% health, so those windows come early and often); everything else is max-range. If a fight is too dangerous to close for the execute, drop it for **Impale** and stay put.
 - **Stuns are the one weakness** — a one-bar has no second-bar escape. Dodge-roll big wind-ups; Precognition ult (*Psijic Order*) covers the handful of solo-impossible stun mechanics.
 - **Want a helper on the bar?** Swap Endless Hail (single-target fights only) for **Dark Shade** (morph of Summon Shade, *Shadow*) — it applies Minor Maim so enemies hit her softer.
 

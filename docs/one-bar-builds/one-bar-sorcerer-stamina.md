@@ -61,7 +61,7 @@ Same bones as her **Magicka Arcanist** sheet — **5 Order's Wrath + 5 Deadly St
 
 *Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT + channeled damage by 15%**, and almost everything she casts is a DoT (Endless Hail, Poison Injection, Hurricane) — so it's near-BiS *and* cheap to buy. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
 
-**Crafted starter (until she has the traits/mats — her husband makes all of it):** the same Order's Wrath + Deadly Strike above works from the day it's crafted — no farm needed. Use Training traits while leveling, then Divines.
+**Crafted starter (Order's Wrath from her husband's station, Deadly Strike from a guild trader):** the same Order's Wrath + Deadly Strike above works from the day you buy it — no farm needed. Use Training traits while leveling, then Divines.
 
 **Endgame upgrade:** swap Order's Wrath body → **Ansuul's Torment** (Sanity's Edge, ~+3–4%) if she ever wants a trial set; the crafted setup clears everything she and her husband duo in the meantime.
 

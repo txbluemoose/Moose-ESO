@@ -2,8 +2,8 @@
 ### Solo PvE • Group Content • PvP • CP Roadmap (1200 → 1800)
 
 **Character:** Stamina Dragonknight, pure class (no subclass), Class Mastery active
-**Verified against:** the current U50 Hyperioxes / Alcast Solo Stamina Dragonknight (flame/DoT solo build; soloes vet HM dungeons). Skill names checked against U50 sources — the DK was heavily reworked in U49/U50, so trust in-game tooltips over any guide.
-**Philosophy:** Kick ass and don't die. Flame DoTs that tick while you heal through them, layered self-healing (Blood of the Elder Dragon burst + Cauterize aura + Pale Order), survivability weighted over parse.
+**Verified against:** the current U50 [Hyperioxes Solo Stamina Dragonknight](https://hyperioxes.com/eso/solo/stamina-dragonknight-build) (soloed **vet HM Unhallowed Grave**; the group sibling parses 166k). That build's stated core is **Magma Fist building Seething Fury, spent with Molten Whip, carried by Soul of Flame** — the bar below follows it, with the household's survivability swaps layered on. Skill names checked against U50 sources — the DK was heavily reworked in U49/U50, so trust in-game tooltips over any guide.
+**Philosophy:** Kick ass and don't die. Build Seething Fury and dump it into an empowered Molten Whip, with flame DoTs ticking the whole time and layered self-healing (Blood of the Elder Dragon burst + Cauterize aura + Soul of Flame sustain + Pale Order), survivability weighted over parse.
 **Weapon note:** this is the **melee** build — dual daggers front bar, two-hander back, medium armor. It's how you actually play: up close, all content, survivability first. This is the **stamina sibling** of your [Magicka Dragonknight](magicka-dragonknight.md); if you'd rather cast from range, that guide (and its two-staff ranged variant) is the magicka answer.
 
 > **Confidence key:** Class skills (Magma Fist, Searing Claw, Disintegrating Dragonfire, Igneous Weapons, Blood of the Elder Dragon, Cauterize) are verified against U50 sources. Weapon-line morphs (dual-wield, two-handed) survived the DK rework unchanged but confirm the exact names on your bar. The Group and PvP sections are directional — verify bars against the live build before a progression run or before spending gold on PvP sets.
@@ -35,24 +35,27 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 
 | Front Bar (Dual Daggers) | Back Bar (Two-Handed) |
 |---|---|
-| 1. **Magma Fist** (morph of Superheated Ward, *Earthen Heart*) | 1. **Igneous Weapons** (morph of Molten Weapons, *Earthen Heart*) |
-| 2. **Searing Claw** (morph of Searing Strike, *Ardent Flame*) | 2. **Cauterize** (morph of Inferno, *Ardent Flame*) |
-| 3. **Disintegrating Dragonfire** (morph of Fiery Breath, *Ardent Flame*) | 3. **Stampede** (morph of Critical Charge, *Two-Handed*) |
-| 4. **Blood of the Elder Dragon** (morph of Dragon Blood, *Draconic Power*) | 4. **Carve** (morph of Cleave, *Two-Handed*) |
-| 5. **Deadly Cloak** (morph of Blade Cloak, *Dual Wield*) | 5. **Executioner** (morph of Reverse Slash, *Two-Handed*) |
+| 1. **Magma Fist** (morph of Superheated Ward, *Earthen Heart*) — the **builder** | 1. **Igneous Weapons** (morph of Molten Weapons, *Earthen Heart*) |
+| 2. **Molten Whip** (morph of Lava Whip, *Ardent Flame*) — the **spender** | 2. **Cauterize** (morph of Inferno, *Ardent Flame*) |
+| 3. **Searing Claw** (morph of Searing Strike, *Ardent Flame*) | 3. **Disintegrating Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) |
+| 4. **Soul of Flame** (morph of Core of Flame, *Ardent Flame*) | 4. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) |
+| 5. **Blood of the Elder Dragon** (morph of Dragon Blood, *Draconic Power*) | 5. **Carve** (morph of Cleave, *Two-Handed*) |
 | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) |
 
 *Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina**. That off-hand Absorb Stamina is deliberate — it's the same lever that patched your Mag DK's sustain gap, and stamina builds feel drain harder without Soul of Flame's magicka-return morph doing the work. (Confirm the base-skill names of Stampede/Deadly Cloak on your bar — the weapon lines weren't part of the DK rework, but tooltips override.)*
 
 ### What each does for your "don't die" goal
-- **Magma Fist** — your spammable. Each hit applies a **Heat Shock** stack (target takes more damage from everything); keep it rolling and leave no more than ~3s between casts. Direct physical damage, so it feeds Wildfire Embers.
+- **Magma Fist** — your **builder**, and the button you press most. Each hit applies a **Heat Shock** stack (**+66 damage taken per stack, 7s, 3 stacks**), and hitting an enemy at max stacks empowers your *next* Magma Fist within 6s by **66%**. Every non-Whip Dragonknight cast — this included — also banks a stack of Seething Fury for the Whip.
 - **Searing Claw** — scaling flame DoT: the longer it sits on a target, the harder it ticks. Cast, then don't touch it.
 - **Disintegrating Dragonfire** — applies **Major Breach** (your solo penetration — you have no group to provide it) plus an AoE flame DoT. This is *why* the solo build takes Disintegrating Dragonfire and not a group morph.
-- **Blood of the Elder Dragon** — burst self-heal that scales off your **offensive** stats and heals harder the lower your health. Your panic button; it hits like your gear does.
+- **Molten Whip** — the **spender**. Seething Fury stacks (from any other Dragonknight cast) give **+5% damage done each, 10s, up to 3** — and crucially that damage buff *survives* the empowered Whip, which itself hits for **+33% per stack**. Never whip twice from empty; land three other DK casts between empowered Whips and it lines up on its own.
+- **Soul of Flame** — the sustain engine, and the reason this build can run all-offence gear. It restores **15% of your missing Stamina *and* Magicka every 2s over 4s**. Hyperioxes says the U50 StamDK is *carried* by it — it's the same skill that trivialises sustain on your Mag DK.
+- **Blood of the Elder Dragon** — burst self-heal scaling off your **Max Health** (not your damage stats), which also heals nearby allies and grants **Major Fortitude + Minor Courage**. Your panic button.
+- **Shatterspike Mantle** — **Major Resolve** (your armour), plus a 20s AoE DoT that adds flat damage to all your ticks. This is the mitigation slot the earlier revision of this guide simply didn't have.
 - **Cauterize** — grants **Major Savagery/Prophecy** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Incinerate** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Blood of the Elder Dragon (burst) + Cauterize (HoT) + Pale Order (per-damage).
 - **Igneous Weapons** — Major Brutality/Sorcery + a weapon/spell-damage empower for the group of one that is you.
-- **Stampede / Carve** — Stampede is your gap-closer with a persistent ground DoT (melee engage); Carve is an AoE bleed DoT that also feeds ultimate. Both are DoTs, so Deadly Strike (see §2) supercharges them.
-- **Executioner** — sub-50% finisher. Swap out on trash-only content.
+- **Carve** — AoE bleed DoT that also feeds ultimate. A DoT, so Deadly Strike (see §2) supercharges it.
+- *(**Stampede**, **Executioner** and **Deadly Cloak** moved to the swaps below — the builder/spender core plus Major Resolve and Soul of Flame take priority on a 10-slot bar.)*
 
 ### Situational swaps (with skill line sources)
 - **Incinerate** — *Dragonknight > Ardent Flame* (other morph of Inferno) — trade Cauterize's heal aura back for fireball damage when a fight isn't threatening. Same crit buff either way.
@@ -93,7 +96,7 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 | Front (2 daggers) | — | Charged / Nirnhoned | Poison + Absorb Stamina | Deadly Strike |
 | Back bar (Two-Hander) | — | Infused | Weapon Damage | Maelstrom Greatsword (Merciless Charge) |
 
-*The split: **Deadly Strike** = 2 daggers + 2 jewelry + boots (5). It boosts **damage-over-time and channeled abilities by 15%** — and this build is almost entirely poison DoTs and bleeds (Searing Claw, Disintegrating Dragonfire, Stampede, Carve, Deadly Cloak), so Deadly Strike is near-BiS **and craftable, and you already own it**. **Order's Wrath** = 5 body (crit + crit damage, also craftable and owned). **Slimecraw** = 1pc monster helm. **Pale Order** = Ring 2, the mythic — a fixture, do not drop it in solo content. The back-bar **Maelstrom Greatsword** carries its own 2pc (Merciless Charge boosts Cleave/Carve) so it doesn't eat a body-set slot; until you farm it, craft the back-bar greatsword as Deadly Strike or Order's Wrath — you're running full 5+5 either way. In-game tooltips override.*
+*The split: **Deadly Strike** = 2 daggers + 2 jewelry + boots (5). It boosts **damage-over-time and channeled abilities by 15%** — and this build carries several flame DoTs and bleeds (Searing Claw, Disintegrating Dragonfire, Stampede, Carve, Deadly Cloak), so Deadly Strike is near-BiS **and craftable, and you already own it**. **Order's Wrath** = 5 body (crit + crit damage, also craftable and owned). **Slimecraw** = 1pc monster helm. **Pale Order** = Ring 2, the mythic — a fixture, do not drop it in solo content. The back-bar **Maelstrom Greatsword** carries its own 2pc (Merciless Charge boosts Cleave/Carve) so it doesn't eat a body-set slot; until you farm it, craft the back-bar greatsword as Deadly Strike or Order's Wrath — you're running full 5+5 either way. In-game tooltips override.*
 
 **Fallback ladders (you don't need trial gear — the crafted setup clears everything):**
 - Body: Order's Wrath → Deadly Strike (double up if short) → Briarheart / Ancient Dragonguard (both stamina-friendly overland)
@@ -103,7 +106,7 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 **Mundus:** The Thief (crit) default → The Lover for more penetration on the medium setup → The Lady only for the nastiest content.
 **Attributes:** 64 Stamina default → 32/32 Health/Stamina when struggling → 64 Health for the brutal fights (~−5% damage, big survivability).
 **Food:** Bewitched Sugar Skulls (tri-stat + recovery) — the household default and the most "not die" food. Dubious Camoran Throne (max stam + stam recovery) if a fight out-drains you.
-**Potions:** Weapon Crit potions (Bugloss + Dragonthorn + Wormwood) for damage, or tri-stat/armor potions for survivability. Note: no Soul of Flame here, so you lean on these more than the Mag DK does.
+**Potions:** Weapon Crit potions (Bugloss + Dragonthorn + Wormwood) for damage, or tri-stat/armor potions for survivability. Note: with Soul of Flame slotted your sustain is largely handled, so potions are a damage or safety choice rather than a crutch — much as the Mag DK does.
 **Race note:** whatever the character already is — race is the smallest dial (~5%). Nord for max vet-HM mitigation; Redguard is the one race with a real stamina-sustain passive if your stamina gap ever bites here too. Don't pay to change it without reason.
 
 ---
@@ -172,7 +175,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 |---|---|---|---|
 | 1 | **Boundless Vitality** | **SLOT** (50) | max health |
 | 2 | **Fortified** | **SLOT** (50) | armor |
-| 3 | **Rejuvenation** | **SLOT** (50) | recovery — you have no Soul of Flame here, so stamina sustain matters; this earns its slot |
+| 3 | **Rejuvenation** | **SLOT** (50) | recovery — a comfort pick; with Soul of Flame slotted you can swap this for Bloody Renewal or Celerity once sustain feels solid |
 | 4 | Hero's Vigor | buy max | max health |
 | 5 | Tumbling | buy max | cheaper dodge rolls |
 | 6 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
@@ -184,7 +187,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 12 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
 | 13 | Pain's Refuge + Bastion | buy (50), swap options | the PvP defensive pair |
 
-*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800. Note vs the Mag DK: Rejuvenation slots earlier here because you have no Soul of Flame carrying sustain.*
+*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800. Note: Rejuvenation is slotted as a comfort pick, not a necessity — Soul of Flame carries sustain here exactly as it does on the Mag DK.*
 
 ### 🟢 GREEN (Craft)
 
@@ -203,7 +206,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ## 6. SHOPPING LIST (in priority order)
 
-1. **Deadly Strike** — you own it; craft the full 5 (2 daggers + 2 jewelry + boots) with Stamina/Weapon Damage.
+1. **Deadly Strike** — you own it; buy out the full 5 (2 daggers + 2 jewelry + boots) with Stamina/Weapon Damage.
 2. **Order's Wrath** — you own it; craft the 5 body pieces.
 3. **Slimecraw** helm (1pc) — overland (Rivenspire) or Undaunted.
 4. **Maelstrom Greatsword** (Merciless Charge) — vet Maelstrom Arena; until then any crafted greatsword.

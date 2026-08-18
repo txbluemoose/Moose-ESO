@@ -3,25 +3,25 @@
 
 **Character:** Magicka Nightblade, pure class (no subclass — uses Class Mastery), staff
 **Verified against:** the U50 Hyperioxes Magicka Nightblade solo builds (Swallow Soul is a ranged heal-spammable that soloes vet HM content). One-bar layout adapted to her constraints — verify renamed skills in-game.
-**Playstyle:** One bar, no bar swapping, no rotation to memorize. Stay at range with a staff, cloak, debuff, then spam Swallow Soul — it heals her for 10% of every hit it lands. The healing *is* the damage. She barely has to think about staying alive.
+**Playstyle:** One bar, no bar swapping, no rotation to memorize. Stay at range with a staff, cloak, debuff, then spam Swallow Soul — it heals her for 35% of the damage it inflicts, every 2 seconds for 10 seconds. The healing *is* the damage. She barely has to think about staying alive.
 
 ---
 
 ## Skills — One Bar (Inferno Staff)
 
-1. **Swallow Soul** (morph of Strife, *Siphoning*) — THE button. Ranged spammable that **heals her for 10% of the damage done**, as a heal-over-time that stays up as long as she recasts within ~10s. Her whole survival engine.
-2. **Merciless Resolve** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage (and a heal if the target's close). Grants **Minor Berserk + Major Savagery/Prophecy** (crit) just for being slotted.
+1. **Swallow Soul** (morph of Strife, *Siphoning*) — THE button. Ranged spammable that **heals her for 35% of the damage inflicted, every 2 seconds for 10 seconds** (her only — it doesn't heal allies), and stays up as long as she recasts. Her whole survival engine.
+2. **Merciless Resolve** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage (and a heal if the target's close). Grants **Major Savagery and Major Prophecy** (+2629 Weapon and Spell Critical) just for being slotted.
 3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — applies **Major Breach** on its own, so her hits land harder (the Penetrating Magic passive — buy it, see below — stacks on top by letting her staff abilities partially ignore resistance). *This is the non-scribed stand-in for Wield Soul — she doesn't scribe, and this staff skill does the same Major Breach job.*
-4. **Sap Essence** (morph of Drain Power, *Siphoning*) — AoE hit that **heals her per enemy struck** and grants **Major Sorcery** (spell damage). Her crowd button and a second heal layer. *Single target only? Swap to Barbed Trap (morph of Trap Beast, Fighters Guild) for a DoT + Minor Force instead.*
-5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) — **invisibility for 15s** (U50 raised it), and attacking from that stealth is a **guaranteed crit**; plus **Minor Protection** (−5% damage taken) and **Major Resolve** (armor) via the Shadow Barrier passive. Her burst-and-brace button. *Prefers a pure heal here? Dark Cloak (the other morph) heals on cast instead of granting invisibility.*
+4. **Sap Essence** (morph of Drain Power, *Siphoning*) — AoE hit that **heals her and nearby allies per enemy struck** and grants **Major Brutality and Major Sorcery** (weapon *and* spell damage). Her crowd button and a second heal layer. *Single target only? Swap to Barbed Trap (morph of Trap Beast, Fighters Guild) for a DoT + Minor Force instead.*
+5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) — **invisibility for 3 seconds**, and her next direct-damage attack within those 3s is a **guaranteed crit**; while slotted she also gets **Minor Protection** (−5% damage taken), plus **Major Resolve** (armor) via the Shadow Barrier passive. Her burst-and-brace button. *Prefers a pure heal here? Dark Cloak (the other morph) heals on cast instead of granting invisibility.*
 - **Ult: Soul Tether** (morph of Soul Shred, *Siphoning*) — close-range AoE burst centered on **her** that **heals her** and stuns everything around her — an "everything around me dies" panic ult, not a ranged one *(confirm range in-game)*.
 
 ### Class Mastery (pure class — pick 2)
 - **An Eye for Exploitation** — up to +1250 Weapon/Spell Damage based on the target's missing health **and reduces her damage taken up to 12%** based on her attacker's missing health. Ramps both her damage *and* her mitigation as the fight goes — the single best "don't die" mastery.
 - **Above and Beyond** — +25% Critical Damage **and Healing** at all times. The healing half makes Swallow Soul, Sap Essence, and Soul Tether all hit harder. Pure survivability glue that also parses.
-- *Max-damage swap:* trade Above and Beyond → **Cutthroat's Focus** (applies a 5% damage-taken debuff to enemies) when a fight isn't threatening.
+- *Max-damage swap:* trade Above and Beyond → **Cutthroat's Focus** (applies a damage-taken debuff to enemies — ⚠️ the **5%** figure often quoted for it is unconfirmed, so check the in-game tooltip) when a fight isn't threatening.
 
-*Masteries verified vs ESO-Hub / Alcast U50 lists. A fifth Nightblade mastery exists but wasn't cleanly verifiable — confirm the full list in-game. In-game tooltips override.*
+*The five Nightblade masteries are **An Eye for Exploitation, Above and Beyond, Cutthroat's Focus, Nocturnal Inspiration, and Share the Spoils**; Share the Spoils is a group Magicka/Stamina + Ultimate passive, so it does nothing for her solo. In-game tooltips override.*
 
 ---
 
@@ -29,7 +29,7 @@
 1. **Shadowy Disguise → Elemental Susceptibility** on the target to open (cloak buff + Major Breach)
 2. **Weave light attacks** to build Merciless stacks; throw a **heavy attack** now and then to refill magicka (she likes heavy attacks — this build rewards them)
 3. **Spam Swallow Soul** — keep recasting it, the heal-over-time never falls off and every hit tops her up
-4. **Sap Essence** whenever 2+ enemies are on her (AoE heal)
+4. **Sap Essence** whenever 2+ enemies are on her (AoE heal + Major Brutality/Sorcery)
 5. Fire the **spectral bow** (Merciless) at 5 stacks; drop **Soul Tether** when she's surrounded or low
 6. Taking damage? **Swallow Soul more** — the heal scales with the damage she's doing.
 
@@ -70,7 +70,7 @@ Swap the **Order's Wrath body → Tide-Born Wildstalker** (Gold Road overland �
 Buy every passive in every line she has a skill slotted from. The load-bearing ones:
 
 - **Siphoning:** all 4 — this line feeds Swallow Soul, Sap Essence, and Soul Tether; **Catalyst** and **Magicka Flood** are her sustain, **Soul Siphoner** makes her siphon heals stronger
-- **Assassination:** all 4 — **Master Assassin** and **Hemorrhage** (crit) make Merciless Resolve worth running
+- **Assassination:** all 4 — **Master Assassin** and **Hemorrhage** (crit) make Merciless Resolve worth running. **U50 note: Pressure Points now grants 1|2% Critical Chance per *Nightblade* ability slotted** (it used to be 1.25|2.5% per *Assassination* ability), so her Siphoning and Shadow skills count toward it too — four of her five buttons feed it
 - **Shadow:** all 4 — **Shadow Barrier** is what turns Shadowy Disguise into Major Resolve (armor); **Refreshing Shadows** adds recovery
 - **Destruction Staff:** all — **Penetrating Magic** lets her staff abilities partially ignore enemy resistance (Elemental Susceptibility already applies **Major Breach** all on its own — this stacks on top). **Tri Focus** makes her heavy attacks restore more magicka
 - **Light Armor:** Evocation, Spell Warding — HIGH

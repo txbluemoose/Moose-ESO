@@ -223,7 +223,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 1. **Corpseburster** — run Infinite Archive; it's the whole build's damage engine and hits harder for every Grave Lord skill you slot
 2. **Perfected Maelstrom Bow** — vet Maelstrom Arena (back bar)
-3. **Deadly Strike** — craft it (you own it); front-bar daggers + jewelry + boots (the back-bar weapon is the Maelstrom bow), unusually strong on this DoT kit
+3. **Deadly Strike** — buy it from a guild trader (you own it); front-bar daggers + jewelry + boots (the back-bar weapon is the Maelstrom bow), unusually strong on this DoT kit
 4. **Valkyn Skoria helm** — vet City of Ash II, only if your character sheet says you need its 1pc penetration over Slimecraw's crit chance
 5. Keep: Slimecraw, Ring of the Pale Order, Order's Wrath (body fallback)
 6. **Scribing** already unlocked (Gold Road) → Ulfsild's Contingency as your flexible back-bar/group slot

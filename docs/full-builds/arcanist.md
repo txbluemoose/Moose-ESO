@@ -75,7 +75,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
 | Head | Medium | Divines | Stamina | **Slimecraw** | **(1pc monster — 657 Crit Chance)** You own it. |
-| Shoulders | Medium | Divines | Stamina | Deadly Strike | craftable, you own it |
+| Shoulders | Medium | Divines | Stamina | Deadly Strike | guild traders (Cyrodiil set), you own it |
 | Chest | **Heavy** | Divines | Stamina | Order's Wrath | the one Heavy piece — go Reinforced instead for the tankiest content |
 | Hands | Medium | Divines | Stamina | Order's Wrath | |
 | Belt | **Light** | Divines | Stamina | Order's Wrath | the one Light piece |
@@ -90,7 +90,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Why Deadly Strike here:** it boosts **channeled, DoT, and ultimate** damage by 15% — and your entire kit (Fatecarver channel, Blockade/Fulminating DoTs, Languid Eye ult) is exactly that. It's the rare craftable set that's near-BiS for this class, and you already own it.
+**Why Deadly Strike here:** it boosts **damage-over-time and channeled abilities** by 15% — and your entire kit (Fatecarver channel, Blockade/Fulminating DoTs, Languid Eye ult) is exactly that. It's the rare craftable set that's near-BiS for this class, and you already own it.
 
 **Fallback ladders (all craftable — no trial gear needed):**
 - Body: **Order's Wrath** (crafted, you own it) → Ansuul's Torment (Sanity's Edge, trial — the endgame body upgrade, ~+3–4%) → Whorl of the Depths (Dreadsail Reef).
@@ -216,7 +216,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ## 6. SHOPPING LIST
 1. **Slimecraw** — vet Wayrest Sewers I (1pc helm; you own it — just have it in the bag)
-2. **Deadly Strike** — craftable, you own it (shoulders + jewelry + both weapon bars)
+2. **Deadly Strike** — Cyrodiil set from guild traders, you own it (shoulders + jewelry + both weapon bars)
 3. **Order's Wrath** — craftable, you own it (5 body pieces)
 4. **Ring of the Pale Order** — Antiquities (account-wide once collected)
 5. **Scribing** (Gold Road) — optional: Wield Soul / Ulfsild's Contingency as back-bar swaps

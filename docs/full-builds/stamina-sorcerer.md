@@ -83,7 +83,7 @@ Play it as **two sweeps**, not a 12-step list:
 
 **Fallback ladders (owned first):**
 - Body: Order's Wrath → **Ansuul's Torment** (Sanity's Edge, ~+3–4% single target) → the Sorc class set for a class-set build (Infinite Archive) → any crafted crit set while you farm
-- Weapons/jewelry: Deadly Strike (craftable, near-BiS for DoTs) → **Aegis Caller** / **Sul-Xan's Torment** trial swaps → **Master's Bow** on the back bar to super-charge Endless Hail
+- Weapons/jewelry: Deadly Strike (guild traders, near-BiS for DoTs) → **Aegis Caller** / **Sul-Xan's Torment** trial swaps → **Master's Bow** on the back bar to super-charge Endless Hail
 - For a pushed parse, check the live [Hyperioxes Stamina Sorcerer solo build](https://hyperioxes.com/eso/solo/stamina-sorcerer-build) — it's the primary source and gets re-tuned each season; the Order's Wrath + Deadly Strike core above is the "buildable today, clears everything" answer.
 
 **Mundus:** The Thief (crit) → **The Lady** for brutal content (more resistances alongside Hurricane)

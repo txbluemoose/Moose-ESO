@@ -101,7 +101,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 **Fallback ladders (you don't need trial gear — you own the crafted answers):**
 - Body: Aerie's Cry → **Order's Wrath (crafted, you own it, ~−4 to −6%)** → Tide-Born Wildstalker (crafted) → Mother's Sorrow (overland)
-- Weapons/jewelry: Sul-Xan → Whorl of the Depths → **Deadly Strike (crafted, you own it)** — this build is DoT/channel-heavy (Fetcher, Winter's Revenge, Blockade, Ulfsild's), so Deadly Strike's +15% DoT/channel damage lands at only ~−3 to −5% and is usable today
+- Weapons/jewelry: Sul-Xan → Whorl of the Depths → **Deadly Strike (guild traders — you own it)** — this build is DoT/channel-heavy (Fetcher, Winter's Revenge, Blockade, Ulfsild's), so Deadly Strike's +15% DoT/channel damage lands at only ~−3 to −5% and is usable today
 
 **Mundus:** The Thief (crit) default → The Atronach if a fight out-drains Blue Betty → The Lady for the nastiest content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for one-shot fights (only ~−5% damage, and Polar Wind heals harder for it)

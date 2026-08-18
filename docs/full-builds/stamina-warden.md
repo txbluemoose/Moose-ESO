@@ -27,7 +27,7 @@
 | 3. Bull Netch (morph of Betty Netch, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Arctic Blast (morph of Arctic Wind, *Winter's Embrace*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
 | 5. Soul Burst (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Force) |
-| **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the 5% crit damage passive only; never summon it, never spend ult on it* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage + damage done buff + **Major Protection (−10% damage taken)** |
+| **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the 5% crit damage passive only — the bonus comes from **slotting** an Animal Companions ability, not from summoning. Never summon it, never spend ult on it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage + **50 Weapon/Spell Damage per tick, stacking to 450** + **Major Protection (−10% damage taken)** |
 
 **What each does:**
 - **Wield Soul** — spammable that restores 600 Stam+Mag per cast AND provides Major Resolve. Sustain and armor from your spammable.
@@ -54,12 +54,14 @@
 ### Rotation — a sweep, not a checklist
 Think of it as **"lay the ground, then live on the front bar."**
 
-1. **Back bar, top to bottom:** Lotus Blossom (refresh 1s early) → Bull Netch (1s early) → Elemental Susceptibility → Elemental Blockade → Winter's Revenge. Fire **Northern Storm** here when it's ready.
+1. **Back bar, top to bottom:** Bull Netch (1s early) → Elemental Susceptibility → Elemental Blockade → Winter's Revenge. Fire **Northern Storm** here when it's ready.
 2. **Swap to daggers.** Deep Fissure → Arctic Blast → Soul Burst → Ulfsild's (1s early).
 3. **Wield Soul as filler.** That's your spammable and light-attack weave.
 4. When the back-bar timers blink, swap back, re-sweep 1, swap forward. Repeat.
 
 **Pre-buff:** Lotus Blossom, Bull Netch, Arctic Blast, Soul Burst, Deep Fissure, Ulfsild's.
+
+**Lotus Blossom runs on its own timer — keep it out of the sweep.** It lasts **60 seconds**, so re-casting it every back-bar pass burns GCDs and resources you can't spare on this build. Pre-buff it, then only re-press it about once a minute (or after a death/phase reset). The source deliberately leaves it out of the repeating rotation for exactly this reason.
 
 ---
 
@@ -67,31 +69,33 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 ### Overland (Base)
 
-**Armor weight: 6 Medium / 1 Light** overland — Medium's Dexterity and Agility passives are the stamina build's damage core. **Instanced: 4 Medium / 3 Light**, trading some of that for Light Armor's Concentration penetration.
+**Armor weight: 4 Medium / 3 Light** base and overland — Medium's Dexterity and Agility passives are the stamina build's damage core, but with **The Thief** on you're short on penetration, so three Light pieces buy it back through Light Armor's Concentration. **Instanced: 6 Medium / 1 Light**, because instanced content switches the Mundus to **The Lover** — the penetration now comes from the stone, so you can trade the Light pieces back for Medium's damage passives.
 
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
 | Head | Medium | Divines | Stamina | Slimecraw | 1pc = 657 Crit Chance. Any monster helm works — you only get its **1-item** stat line, so compare those, not the procs ([why](../shared/gear-math.md)) |
 | Shoulders | Medium | Divines | Stamina | Sul-Xan's Torment | |
 | Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive |
-| Hands | Medium | Divines | Stamina | Aerie's Cry | |
-| Belt | **Light** | Divines | Stamina | Aerie's Cry | the one light piece overland |
+| Hands | **Light** | Divines | Stamina | Aerie's Cry | Light in the base/overland 4/3 split |
+| Belt | **Light** | Divines | Stamina | Aerie's Cry | always Light |
 | Legs | Medium | Divines | Stamina | Aerie's Cry | |
-| Boots | Medium | Divines | Stamina | Aerie's Cry | |
+| Boots | **Light** | Divines | Stamina | Aerie's Cry | Light in the base/overland 4/3 split |
 | Necklace + Ring 1 | — | Bloodthirsty | Physical Harm | Sul-Xan's Torment | Rockgrove |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | the unkillable button |
 | Front bar | — | Charged | Poison + Shock | Sul-Xan daggers | melee default |
 | Back bar | — | Infused | Weapon Damage | Crushing Wall Ice Staff | vMA |
 
-*For instanced content, shift Hands + Boots (or any two Medium slots) to Light for the 4/3 split. In-game tooltips override — confirm on your bar.*
+*For instanced content, shift Hands + Boots (or any two Light slots other than the belt) **back to Medium** for the 6/1 split, and switch the Mundus to The Lover at the same time — the two go together. In-game tooltips override — confirm on your bar.*
 
 **Note:** no Heavy piece here, so you forgo the third Undaunted Mettle tier — the Medium passives outweigh it on this build. If you'd rather have Mettle's full bonus, swap one Medium piece to Heavy (Reinforced) for a small survivability gain.
+
+**Per-fight swap — Sul-Xan's Torment needs adds.** Its proc feeds off enemies dying, so in a fight with **no adds** it does close to nothing. Swap it out there; **Whorl of the Depths** is the strongest fallback for those fights (and stays fine everywhere else, so it's a reasonable default if you'd rather not swap).
 
 **Fallback ladders (no trial gear needed):**
 - Body: Aerie's Cry → Aegis Caller (Unhallowed Grave, −3.9%) → Tide-Born Wildstalker (crafted, −5.5%) → Order's Wrath (crafted)
 - Weapons/jewelry: Sul-Xan → Whorl of the Depths → Aegis Caller → Symmetry of the Weald (West Weald overland) → Order's Wrath / Tide-Born (crafted, ~−5%)
 
-**Mundus:** The Thief default → The Lover for instanced content → The Lady for brutal content
+**Mundus:** The Thief for base/overland (paired with 4 Medium / 3 Light) → **The Lover for instanced content** (paired with 6 Medium / 1 Light — The Lover is where the penetration comes from once the Light pieces come off) → The Lady for brutal content
 **Attributes:** 64 Stamina → 32/32 → 64 Health for the nastiest fights (only −4.7% damage)
 **Food:** Orzorga's Smoked Bear Haunch (Jewels of Misrule = budget). Full damage: Braised Rabbit + Tri-Stat/Heroism pots.
 **Potions:** Armor potions (Bugloss + Mountain Flower + Mudcrab Chitin) — 5,280 armor uptime
@@ -103,7 +107,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 Solo build works fine in normal/vet 4-mans as-is. For optimized group DPS:
 - Drop Pale Order (healers exist) → complete 3rd Sul-Xan jewelry
-- Drop Elemental Susceptibility and Deep Fissure's breach role if tanks/debuffers cover it — check the current Warden DPS build at hyperioxes.com/eso/warden-builds before a progression trial; the group rotation differs enough that I won't guess it here
+- Deep Fissure already covers Major Breach, so Elemental Susceptibility is **not** on the bar for Breach — it's there for the **status effects** (Burning/Chilled/Concussed), which are what feed Wild Adaptation and Force of Nature. That means a tank supplying Major Breach doesn't free the slot; only losing the status-effect engine would. Drop Deep Fissure's breach role if debuffers cover it, and check the current Warden DPS build at hyperioxes.com/eso/warden-builds before a progression trial — the group rotation differs enough that I won't guess it here
 - Northern Storm stays excellent (personal damage + Major Protection through trial mechanics)
 
 ---
@@ -146,14 +150,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ### 🔵 BLUE (Warfare)
 
-**Slot (4):** Master-at-Arms · Deadly Aim · Fighting Finesse · Wrathful Strikes — the damage slots sit near the center, so they come first.
+**Slot (4):** Master-at-Arms · Deadly Aim · Fighting Finesse · **Force of Nature** (base/overland) — the damage slots sit near the center, so they come first. **Instanced content swaps Force of Nature → Wrathful Strikes**, because The Lover is supplying your penetration there and Force of Nature's penetration stops being the scarce thing.
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
 | 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage |
 | 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage |
 | 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits |
-| 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
+| 4 | **Wrathful Strikes** | buy (50), **instanced SLOT** | flat damage on everything — this is the *instanced* slot, in for Force of Nature once you're on The Lover |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | armor penetration |
 | 7 | Eldritch Insight | buy max (20) | max magicka |
@@ -163,7 +167,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Force of Nature** | buy (50), instanced swap | 660 penetration per status effect (up to 3300) — this build stacks status effects constantly, so it caps fast; swap in for Wrathful Strikes in groups/instanced |
+| 14 | **Force of Nature** | **SLOT** (50) — base/overland | 660 penetration per status effect (up to 3300) — this build stacks status effects constantly, so it caps fast. This is the **base/overland** slot (with The Thief); swap it out for Wrathful Strikes in instanced content, where The Lover covers penetration. Buy it as early as the tree lets you reach it |
 | 15 | **Reaving Blows** | buy (50), swap option | heals off direct damage |
 | 16 | Ironclad / Duelist's Rebuff / Enduring Resolve / Unassailable | buy (50), swap options | direct / single-target / DoT / AoE mitigation for specific fights |
 

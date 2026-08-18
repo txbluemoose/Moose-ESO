@@ -92,11 +92,11 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 | Front (2 daggers) | — | Charged / Nirnhoned | Poison + Absorb Stamina | Deadly Strike |
 | Back bar (Inferno Staff) | — | Infused | Weapon Damage | *(Maelstrom / standalone)* |
 
-*Deadly Strike is doing real work here, not filling space: its 5-piece boosts **channeled, DoT, and AoE damage by ~15%**, and Biting Jabs is a channel while Ritual / Vampire's Bane / Blockade are DoTs — the set is built for exactly this kit. Order's Wrath is flat crit chance + crit damage. Both are **craftable and you already own them**, so this whole build is buildable at your own station today — no trial grind. In-game tooltips override — confirm on your bar.*
+*Deadly Strike is doing real work here, not filling space: its 5-piece boosts **damage-over-time and channeled abilities by 15%**, and Biting Jabs is a channel while Ritual / Vampire's Bane / Blockade are DoTs — the set is built for exactly this kit. Order's Wrath is flat crit chance + crit damage. Both are **craftable and you already own them**, so this whole build is buildable at your own station today — no trial grind. In-game tooltips override — confirm on your bar.*
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Where it comes from:** Deadly Strike and Order's Wrath = crafted (you own both). Slimecraw = 1pc monster helm (overland/Wayrest Sewers I). Ring of the Pale Order = Antiquities. Maelstrom inferno staff (Crushing Wall) = vet Maelstrom Arena — the only piece worth chasing, and even that's optional.
+**Where it comes from:** Order's Wrath = crafted; Deadly Strike = Cyrodiil set from guild traders (you own both). Slimecraw = 1pc monster helm (overland/Wayrest Sewers I). Ring of the Pale Order = Antiquities. Maelstrom inferno staff (Crushing Wall) = vet Maelstrom Arena — the only piece worth chasing, and even that's optional.
 
 **Fallback ladder (you don't need trial gear — you own your endgame):**
 - Body: Order's Wrath → **you own it, it's the endgame body set here.** Cheaper crit alt: Mother's Sorrow (overland, dirt cheap on traders).
@@ -234,7 +234,7 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 
 ## 6. SHOPPING LIST (in priority order)
 
-1. **Craft Deadly Strike + Order's Wrath** — you own both traits; this is your entire endgame body/weapon/jewelry, no grind
+1. **Craft Order's Wrath; buy Deadly Strike from a guild trader** — you own both traits; this is your entire endgame body/weapon/jewelry, no grind
 2. **Slimecraw** 1pc helm — Wayrest Sewers I / overland
 3. **Ring of the Pale Order** — Antiquities (keep it; it's the fixture)
 4. **Scribing unlocked** (Gold Road) → Warding Contingency (or skip it and run Living Dark)
