@@ -5,7 +5,7 @@
     Every other sheet here is one-bar. This build is **two bars** (bow front, ice staff back) by request. It's kept as easy as a two-bar gets: the back bar is "set and forget," and she lives on the bow bar. **No scribed skills** — everything here is a normal skill anyone can slot.
 
 **Character:** Stamina Warden, pure class (no subclass — keeps Class Mastery)
-**Verified against:** the household's verified Stamina Warden guide (bow-front / ice-staff-back) + the current U50 bow-Warden skill list (ArzyeL/Alcast). ArzyeL's bow build uses *subclassing* — this one does **not**, so it stays pure class.
+**Verified against:** Alcast's U50 bow Warden **"Racer"** (<https://alcasthq.com/eso-stamina-warden-bow-build-pve/>) — the pure-class bow reference — plus the household's [Stamina Warden — Bow](../full-builds/stamina-warden-bow.md) guide, which is the bow sibling of the melee dual-dagger [Stamina Warden](../full-builds/stamina-warden.md). ArzyeL's bow build uses *subclassing* — this one does **not**, so it stays pure class.
 **Playstyle:** Ranged. Cast five things on the back bar, swap to the bow, and mostly press two buttons. Bleeds and poisons do the work; Arctic Blast keeps her alive.
 
 ---
@@ -18,9 +18,9 @@ Cast these top-to-bottom at the start of a fight, then swap to the bow and leave
 1. **Bull Netch** (morph of Betty Netch, *Animal Companions*) — stamina back over time, Major Brutality (damage), and it purges a debuff off her every few seconds
 2. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery/Prophecy (crit) **and** a passive heal on every light/heavy attack
 3. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ground DoT; with an ice staff it keeps enemies Chilled
-4. **Winter's Revenge** (morph of Impaling Shards, *Winter's Embrace*) — a second ground DoT that spikes with Chilled procs
+4. **Growing Swarm** (morph of Swarm, *Animal Companions*) — a strong bleed DoT that also puts **Minor Vulnerability (+5% damage taken)** on the target, which nothing else here provides, and being an Animal Companions skill it adds another **+5% Critical Damage** through Advanced Species. It takes Winter's Revenge's slot — Elemental Blockade already covers the ground-DoT job
 5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach (her armor-shred; solo has no group to provide it)
-- **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, a damage buff, **and Major Protection (−10% damage taken)** through scary mechanics
+- **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking up to 450**, **and Major Protection (−10% damage taken)** through scary mechanics
 
 ### Front bar (Bow) — where she lives
 1. **Cutting Dive** (morph of Dive, *Animal Companions*) — her spammable; a bleed that's her main filler button
@@ -28,15 +28,15 @@ Cast these top-to-bottom at the start of a fight, then swap to the bow and leave
 3. **Endless Hail** (morph of Volley, *Bow*) — a rain-of-arrows ground DoT; drop it on the pack and forget it
 4. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — **her heal AND a stun** — heals off her max health, so it's the panic button. Press it when hurt; press it to peel a nasty add
 5. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — a DoT that also gives Minor Force (+10% crit damage); lay it down before a pull
-- **Ult: Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — summon the bear and forget it; it fights on its own, and just being slotted grants **+5% crit damage per Animal Companions skill** she has (she has several)
+- **Ult: Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — the **+5% Critical Damage per Animal Companions ability comes from *slotting* them** (Advanced Species), not from summoning, so she gets that bonus the moment it's on the bar. Summoning is a bonus on top: an extra body that fights on its own and takes hits, which is exactly what this sheet wants — so yes, summon it and forget it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game before planning around it
 
-*Survivability swap: if she's getting hit too hard, replace Barbed Trap → **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) for Major Resolve (armor). Small damage loss, much tankier — on-brand for "don't die."*
+*Survivability swap: if she's getting hit too hard, replace Barbed Trap → **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) for Major Resolve (armor). Small damage loss, much tankier — on-brand for "don't die." Note she gives up her only **Minor Force** doing it, so swap back once the fight is comfortable. Don't take Growing Swarm for this instead — that's her Minor Vulnerability.*
 
 ---
 
 ## How to play it (a sweep, not a checklist)
 
-1. **On the ice bar:** press 1 → 2 → 3 → 4 → 5 (Bull Netch, Lotus, Blockade, Winter's Revenge, Susceptibility). Fire Northern Storm here when it's up.
+1. **On the ice bar:** press 1 → 2 → 3 → 4 → 5 (Bull Netch, Lotus, Blockade, Growing Swarm, Susceptibility). Fire Northern Storm here when it's up.
 2. **Swap to the bow.** Lay Barbed Trap + Endless Hail, then Poison Injection.
 3. **Spam Cutting Dive.** That's the main damage now. Re-press Poison Injection when it falls off (~10s) and Endless Hail when it expires.
 4. **Getting hurt? Arctic Blast.** It heals hard and stuns the thing hitting her.
@@ -73,7 +73,7 @@ Aim for this. It's cheap, mostly craftable/farmable, and leans on **Deadly Strik
 All **Order's Wrath** (7 pieces) + a crafted stam set on jewelry/weapons (**Tide-Born Wildstalker** or **Briarheart**) until Deadly Strike and Pale Order are farmed. Deadly Strike is cheap from guild traders (Cyrodiil set); Pale Order is from Antiquities.
 
 ### Upgrade
-Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together (same runs that drop his DK's Pyrebrand).
+Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together (the same runs that drop his Warden's Aerie's Cry).
 
 **Mundus:** The Thief
 **Attributes:** 64 Stamina (shift some to Health if she's getting one-shot)
@@ -180,4 +180,4 @@ Full details for all eight companions: see `../shared/companions.md`.
 
 ---
 
-*Source: adapted from the household's verified Stamina Warden guide + current U50 bow-Warden skill lists (ArzyeL/Alcast). This is a pure-class build — ArzyeL's bow Warden subclasses, which would disable Class Mastery. Verify skill names against in-game tooltips; they win over any guide. Revised 2026-08-16.*
+*Sources: [Alcast U50 Stamina Warden Bow "Racer"](https://alcasthq.com/eso-stamina-warden-bow-build-pve/) + the household's [Stamina Warden — Bow](../full-builds/stamina-warden-bow.md) guide. This is a pure-class build — ArzyeL's bow Warden subclasses, which would disable Class Mastery. Verify skill names against in-game tooltips; they win over any guide. Revised 2026-08-18.*

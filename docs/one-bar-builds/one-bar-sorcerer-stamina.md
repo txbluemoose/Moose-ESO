@@ -2,7 +2,7 @@
 ### The "Rain Arrows and Heal Off Crits" Build — Bow, One Bar
 
 **Character:** Stamina Sorcerer, pure class (no subclass)
-**Verified against:** Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer (Critical Surge + Hurricane + bow DoTs; soloes overland, world bosses, and normal/vet dungeons). Skill morphs cross-checked against ESO-Hub/UESP. A couple of morphs are flagged ⚠️ — confirm those against the in-game tooltip.
+**Verified against:** nothing directly — **there is no published equivalent of this build.** This is a **household-constructed** pure-class, Pale-Order, **bow** one-bar. There is no Hyperioxes one-bar Stamina Sorcerer at all. The nearest published one-bar Stam Sorcs are all **Oakensoul** builds — Alcast's dual-wield one-bar (~107k) and Hack the Minotaur's two-hander **"Thunder Lord"** — and ArzyeL's one-bar Stam Sorc *bow* build **subclasses**, which is unusable here because it kills Class Mastery. So: individual skills and morphs are cross-checked against ESO-Hub / UESP / Alcast (U50), but the *combination* is ours. Morphs flagged ⚠️ need an in-game tooltip check.
 **Playstyle:** This is the **stamina, bow sibling** of her [Magicka Pet Sorcerer](one-bar-sorcerer.md). That one is staves + pets up close-ish; **this one keeps her at range with a bow and no melee.** She stands back, rains DoTs, and heals herself every time she crits — which with a bow is constantly. No pets to babysit, no bar to swap.
 
 > **Why bow, not pets:** she dislikes melee and likes staying at range, and a bow does that best. Pets (Volatile Familiar) cost Magicka, which a stamina build barely has, so they're weak here — the pet version of her Sorc is the *magicka* sheet on purpose. If she misses having a pet, there's a swap in the Notes.
@@ -11,7 +11,9 @@
 
 ## Skills — One Bar (Bow)
 
-1. **Endless Hail** (morph of Volley, *Bow*) — rains arrows on the ground for a physical DoT; her AoE, carries her weapon enchant ✅
+1. **Endless Hail** (morph of Volley, *Bow*) — a rain of arrows on the ground; her AoE and her "tag the whole pack" button. Drop it and keep shooting.
+
+    **The one real gap on this bar — worth knowing:** she has **no Major Breach**, so every enemy keeps ~5,948 more armor than it needs to. That's a bigger damage loss than any gear choice on this page, and it's not fixable with a Crusher glyph (flat armor debuff — a different, smaller thing). The fix is **Razor Caltrops** (morph of Caltrops, *Alliance War > Assault*) in this slot: a ground AoE DoT that also applies Major Breach, stamina-based and not scribed, so it fits her rules. The catch is that it unlocks through the **Assault** line, which means ranking it up in Cyrodiil or Battlegrounds. **If she's willing to earn it, take it — it's the single biggest upgrade available to this build.** If not, Endless Hail is the right call and the sheet works as written. (Elemental Susceptibility, the usual free answer, is a Destruction Staff skill — unavailable on a bow.)
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — poison DoT that deals **up to +120% more to enemies under 50% health** — her execute; things melt below half ✅
 3. **Hurricane** (morph of Lightning Form, *Storm Calling*) — **Major Resolve** (her armor) + a physical AoE that grows the longer it's up; recast it to keep the armor ✅
 4. **Critical Surge** (morph of Surge, *Storm Calling*) — **Major Brutality/Sorcery** (her damage buff, no potion needed) + **heals her ~3300 every time she crits, once a second**. This is her whole survivability engine ✅
@@ -22,7 +24,7 @@
 
 ### Class Mastery (pure class — pick 2)
 - **Font of Power** — grants **+11% Weapon Damage** for 10s whenever she uses any Sorc ability. Her biggest damage pick, costs nothing defensive. ✅
-- **Conservation of Energy** — refunds Stamina (and Magicka) whenever she deals direct crit damage with a costed ability. **She has no dedicated sustain skill, so this genuinely matters for her** — it keeps her stamina from bottoming out. ✅
+- **Conservation of Energy** — upgrades Blood Magic so it refunds Stamina *and* Magicka on **any costed ability** (not just crits), roughly **once per second**. **She has no dedicated sustain skill, so this genuinely matters for her** — it keeps her stamina from bottoming out. ✅
 - *Tankier swap:* trade Font of Power → **Calculated Defense** (a Max-Health shield every cast) for a scary fight. ⚠️ confirm the numbers in-game.
 
 *Masteries verified vs Alcast's U50 Class Mastery breakdown — confirm live numbers on her bar.*
@@ -31,12 +33,12 @@
 
 ## How to play it
 1. **Before the pull:** Critical Surge → Hurricane → Bound Armaments (all up)
-2. **Open on the target:** Poison Injection, then Endless Hail on the ground
+2. **Open on the target:** Poison Injection, then Endless Hail on the ground (Razor Caltrops instead, if she earned it)
 3. **Light-attack weave** between recasts — that's her spammable, and every light attack builds a Bound Armaments stack she can fire off
 4. **Refresh** whatever expired — Critical Surge (~every 30s, never let it drop — it's her heal), Hurricane, then the two DoTs
 5. **Greater Storm Atronach** whenever it's ready. Getting hurt? **Keep attacking** — she heals off her own crits, so more damage = more healing.
 
-**Short version:** Critical Surge + Hurricane up → rain Endless Hail + Poison Injection → light-attack and refire Bound Armaments → drop the Atronach on cooldown. The heals happen on their own every time she crits.
+**Short version:** Critical Surge + Hurricane up → drop Endless Hail + Poison Injection → light-attack and refire Bound Armaments → drop the Atronach on cooldown. The heals happen on their own every time she crits.
 
 ---
 
@@ -61,7 +63,7 @@ Same bones as her **Magicka Arcanist** sheet — **5 Order's Wrath + 5 Deadly St
 
 *Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT + channeled damage by 15%**, and almost everything she casts is a DoT (Endless Hail, Poison Injection, Hurricane) — so it's near-BiS *and* cheap to buy. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. In-game tooltips override.*
 
-**Crafted starter (until she has the traits/mats — her husband makes all of it):** the same Order's Wrath + Deadly Strike above works from the day it's crafted — no farm needed. Use Training traits while leveling, then Divines.
+**Crafted starter (Order's Wrath from her husband's station, Deadly Strike from a guild trader):** the same Order's Wrath + Deadly Strike above works from the day she buys it — Order's Wrath is crafted, **Deadly Strike is a Cyrodiil vendor / guild-trader set and is never craftable**, so that half is a purchase, not a crafting session. No farm needed either way. Use Training traits while leveling, then Divines.
 
 **Endgame upgrade:** swap Order's Wrath body → **Ansuul's Torment** (Sanity's Edge, ~+3–4%) if she ever wants a trial set; the crafted setup clears everything she and her husband duo in the meantime.
 
@@ -78,6 +80,7 @@ Same bones as her **Magicka Arcanist** sheet — **5 Order's Wrath + 5 Deadly St
 Buy every passive in a line she has a skill slotted from; priorities if points are short:
 
 - **Bow:** all — Long Shots, Accuracy, Ranger, Hawk Eye directly boost her bow damage and DoTs — HIGH
+- **Alliance War > Assault:** only if she goes after Razor Caltrops (see the note on skill 1) — otherwise skip this line entirely
 - **Storm Calling:** Energized, Amplitude, Expert Mage — HIGH (Hurricane + Critical Surge live here); Capacitor medium
 - **Daedric Summoning:** Power Stone, Expert Summoner — Bound Armaments' passives + cheaper ults — HIGH
 - **Dark Magic:** Exploitation, Blood Magic — feeds Conservation of Energy — medium/HIGH
@@ -159,7 +162,7 @@ Buy every passive in a line she has a skill slotted from; priorities if points a
 - Heavy-CC content is a bow one-bar's one weakness (stuns interrupt her). **Immovability potions** handle it, or **Precognition** ult (*Psijic Order*) for the handful of solo-impossible stuns.
 - **Not scribed anywhere** — deliberately. If a future guide ever puts a scribed skill on her bar, it needs a non-scribed alternative called out inline (household rule).
 
-*Source: Hyperioxes / Alcast / Hack the Minotaur U50 one-bar Stamina Sorcerer, ESO-Hub/UESP for individual morphs, Alcast U50 Class Mastery page. Skills marked ⚠️ need an in-game tooltip check. Verify any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
+*Source: household-constructed — no published one-bar pure-class bow Stam Sorc exists to copy. Nearest published relatives (all Oakensoul, none pure-class-bow): Alcast's one-bar dual-wield Stam Sorc and Hack the Minotaur's two-hander "Thunder Lord"; ArzyeL's one-bar Stam Sorc bow subclasses and is unusable here. Individual morphs from ESO-Hub / UESP / Alcast (U50); Class Mastery from Alcast's U50 page. Skills marked ⚠️ need an in-game tooltip check. Revised 2026-08-18.*
 
 ---
 

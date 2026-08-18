@@ -2,7 +2,7 @@
 ### The "Beam Everything" Build — Staff Version, One Bar
 
 **Character:** Magicka Arcanist, pure class (no subclass)
-**Verified against:** Hyperioxes / Alcast U50 Magicka Arcanist one-bar (the classic Fatecarver beam build; soloes vet content). The Magicka beam is the original Arcanist setup — this is the **staff** sibling of her [Stamina Arcanist cheat sheet](one-bar-arcanist.md).
+**Adapted from — no published Magicka Arcanist one-bar exists.** This sheet was built by combining the **two-bar** [Hyperioxes Magicka Arcanist Solo build (U50)](https://hyperioxes.com/eso/solo/magicka-arcanist-build) with the **U44 one-bar Stamina Arcanist**, cutting the two-bar build down to five buttons. Hyperioxes' one-bar Arcanist is the *Stamina* version and is still written for U44; Alcast's Magicka Arcanist is two-bar. So: the skills and sets below are sourced, **the one-bar arrangement is ours** — no one has published this exact build. It's the **staff** sibling of her [Stamina Arcanist cheat sheet](one-bar-arcanist.md).
 **Playstyle:** Exactly like the stamina version, but she **stays at range and never has to melee**. Build 3 Crux with Flail, dump them into a giant beam that shields her while she channels it. Between Flail's heal-on-hit, the Fatecarver shield, and Pale Order, staying alive is nearly automatic.
 
 > **Which Arcanist one-bar should she run?** Whichever weapon she likes. **This one = lightning staff, ranged.** The [other = dual daggers, melee](one-bar-arcanist.md). They play *identically* — same five buttons, same Crux loop — so it's purely a "staff or daggers" preference. She likes staves, so this is probably the one.
@@ -22,7 +22,7 @@
 
 ### Class Mastery (pure class — pick 2)
 - **Unbound Potential** — upgrades **Fated Fortune** to add +30% damage done for its duration. This build crits constantly off Crux, so it's the single biggest damage pick and costs nothing defensive.
-- **Erudite's Rigor** — upgrades **Cruxweaver Armor** (which she slots) to restore Magicka/Stamina + grant Ultimate when hit, applies **Minor Cowardice** to attackers (they hit softer), and grants **Major Vitality** (every heal lands harder — Flail, Pale Order all scale up). Pure "don't die" glue that also fixes sustain.
+- **Erudite's Rigor** — upgrades **Cruxweaver Armor** (which she slots) to restore Magicka/Stamina when she's hit, applies **Minor Cowardice** to attackers (they hit softer), and grants **Major Vitality** (every heal lands harder — Flail, Pale Order all scale up). Pure "don't die" glue that also fixes sustain.
 - *Max-damage swap:* trade Erudite's Rigor → **Abyssal Emergence** (Languid Eye instantly refills 3 Crux + a big Spell Damage buff) when a fight isn't threatening.
 
 *Masteries verified vs ESO-Hub / Alcast U50 — confirm the exact numbers on her bar.*
@@ -154,9 +154,9 @@ Buy every passive in a line with a slotted skill; priorities if short:
 - **She now has both Arcanist one-bars** — this staff/Magicka one and the [daggers/Stamina one](one-bar-arcanist.md). Same loop, same difficulty; pick by weapon feel. No need to build both unless she wants the option.
 - **Bastion is a secret weapon** on this build — almost no one else in the household lives inside a damage shield the way Fatecarver does.
 - The beam gets interrupted by stuns — content with heavy CC is this build's one weakness; block-cancel the beam when she sees a big wind-up. **Precognition** ult (*Psijic Order*) handles the handful of solo-impossible stuns.
-- **Wider-meta alternative (not the household pick):** the popular "godtier" one-bar Magicka Arcanist swaps Pale Order → the **Oakensoul Ring** mythic and plays heavy-attack weaves for a pile of free buffs. It's strong and even simpler to press — but it gives up Pale Order's heal-per-damage, which is the household's whole survivability anchor. Stick with Pale Order unless she specifically wants to try the heavy-attack style.
+- **Wider-meta alternative (not the household pick):** the popular **Oakensoul heavy-attack one-bar style** swaps Pale Order → the **Oakensoul Ring** mythic and plays heavy-attack weaves for a pile of free buffs. It's strong and even simpler to press — but it gives up Pale Order's heal-per-damage, which is the household's whole survivability anchor. Stick with Pale Order unless she specifically wants to try the heavy-attack style.
 
-*Source: Hyperioxes / Alcast U50 Magicka Arcanist one-bar. Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
+*Sources: [Hyperioxes Magicka Arcanist Solo build (U50, two-bar)](https://hyperioxes.com/eso/solo/magicka-arcanist-build) + Hyperioxes' U44 one-bar Stamina Arcanist, adapted — **no published Magicka Arcanist one-bar was found**, so the bar arrangement here is unverified against any live build even though every skill and set on it is. Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips. Revised 2026-08-18.*
 
 ---
 

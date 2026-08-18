@@ -16,7 +16,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 
 | Mode | Mastery 1 | Mastery 2 | Situational |
 |---|---|---|---|
-| Default | ✅ **Unbound Potential** — upgrades **Fated Fortune** to also grant **+30% damage done** for its duration. This build crits constantly (Fated Fortune scales off Crux), so it's the single biggest damage pick and costs you nothing defensive. | ✅ **Erudite's Rigor** — upgrades **Fatewoven Armor** (you run its morph, Cruxweaver Armor) to restore Mag/Stam and grant Ultimate when hit, applies **Minor Cowardice** to attackers (they hit softer) and grants **Major Vitality** (every heal you take lands harder — Flail, Pale Order, Runemend all scale up). Pure "don't die" glue that also fixes sustain. | **Abyssal Emergence** replaces Erudite's Rigor when a fight isn't threatening — your Languid Eye ult instantly refills 3 Crux + grants a big Spell Damage buff, a pure parse pick. |
+| Default | ✅ **Unbound Potential** — upgrades **Fated Fortune** to also grant **+30% damage done** for its duration. This build crits constantly (Fated Fortune scales off Crux), so it's the single biggest damage pick and costs you nothing defensive. | ✅ **Erudite's Rigor** — upgrades **Fatewoven Armor** (you run its morph, Cruxweaver Armor) to restore Magicka/Stamina when hit, applies **Minor Cowardice** to attackers (they hit softer) and grants **Major Vitality** (every heal you take lands harder — Flail, Pale Order, Runemend all scale up). Pure "don't die" glue that also fixes sustain. | **Abyssal Emergence** replaces Erudite's Rigor when a fight isn't threatening — your Languid Eye ult instantly refills 3 Crux + grants a big Spell Damage buff, a pure parse pick. |
 
 *Both suit the two-bar setup: Unbound Potential rides Fated Fortune (a passive, always live); Erudite's Rigor rides Cruxweaver Armor, which sits on your back bar and stays active through the bar swap. Masteries verified vs ESO-Hub / Alcast U50 — confirm the exact numbers on your bar.*
 
@@ -33,7 +33,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 | 3. ✅ **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) | 3. ✅ **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) |
 | 4. ⚠️ **Fulminating Rune** (morph of The Imperfect Ring, *Herald of the Tome*) *(confirm morph in-game)* | 4. ⚠️ **Evolving Runemend** (morph of Runemend, *Curative Runeforms*) *(confirm morph in-game)* |
 | 5. ✅ **Camouflaged Hunter** (morph of Expert Hunter, *Fighters Guild*) | 5. ✅ **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) |
-| **Ult:** ✅ **The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — beam ult, fire it **mid-Fatecarver without breaking the channel** | **Ult:** ⚠️ mirror **The Languid Eye**, or slot a defensive ult here (*confirm your preference in-game*) — ultimate resource is shared across bars |
+| **Ult:** ✅ **Flawless Dawnbreaker** (morph of Dawnbreaker, *Fighters Guild*) overland — swap to ✅ **The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) for instanced content | **Ult:** ✅ **The Languid Eye** — beam ult, fire it **mid-Fatecarver without breaking the channel** |
 
 **What each does:**
 - **Cephaliarch's Flail** — your spammable. Generates Crux, **heals you on any hit**, and applies a **+5% damage-taken debuff** to everything it touches. Heal source #2 (Pale Order is #1). It's a point-blank AoE, but at range you just Flail the target in front of you and beam — you don't need to hug it.
@@ -46,6 +46,8 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 - **Evolving Runemend** — burst heal **plus a heal-over-time** — your heal-on-cast layer, so a heal source keeps ticking even when you're not landing hits or taking damage. On a **resto** back bar it scales off your healing done and hits noticeably harder; that's the survivability-leaning reason to run resto over a second damage staff.
 - **Camouflaged Hunter** — passive **Major Savagery & Prophecy** (crit) just for being slotted, plus Minor Berserk on flank crits. Reliable crit uptime without potions.
 - **Barbed Trap** — **Minor Force** (+10% crit damage) for its duration plus a bleed; set it under the boss on your back-bar sweep.
+
+**Which ultimate on the front bar.** The live Hyperioxes build splits it: **Flawless Dawnbreaker** front bar for **overland** (its passive Weapon/Spell Damage bonus is always-on value while you're clearing trash you'll never ult on), and **The Languid Eye** for **instanced content** — dungeons, arenas, trials. Languid Eye isn't just a better ult there; it's a **Herald of the Tome ability**, so slotting it adds another **+1,240 penetration** through **Splintered Secrets**. Ultimate is shared across bars, so the back bar always carries The Languid Eye and you're never more than a swap from firing it mid-beam.
 
 *\*The **Lightning Staff front bar** is the ranged default: the beam already reaches 22m, so you fight from the back and let Flail + the shield keep you topped. The **back bar** is where you choose your flavor — a **Resto Staff** for the strongest Evolving Runemend (the "don't die" pick), or a **second Lightning/Ice Staff** for a bigger Elemental Blockade (the "more damage" pick). Want melee instead? That's a different character entirely — see the [Stamina Arcanist (dual daggers)](arcanist.md).*
 
@@ -75,7 +77,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 | Slot | Weight | Trait | Enchant | Set | Notes |
 |---|---|---|---|---|---|
 | Head | **Medium** | Divines | Magicka | **Slimecraw** | **(1pc monster — 657 Crit Chance)** You own it. |
-| Shoulders | Light | Divines | Magicka | Deadly Strike | craftable, you own it |
+| Shoulders | Light | Divines | Magicka | Deadly Strike | guild traders (Cyrodiil set), you own it |
 | Chest | **Heavy** | Divines | Magicka | Order's Wrath | the one Heavy piece — go Reinforced for the tankiest content |
 | Hands | Light | Divines | Magicka | Order's Wrath | |
 | Belt | Light | Divines | Magicka | Order's Wrath | Light belt on a magicka build |
@@ -90,7 +92,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Why Deadly Strike here:** it boosts **channeled, DoT, and ultimate** damage by 15% — and your entire kit (Fatecarver **channel**, Blockade/Fulminating DoTs, Languid Eye ult) is exactly that. It's the rare craftable set that's near-BiS for this class, and you already own it. **Order's Wrath** (flat crit chance + crit damage) is likewise craftable, owned, and a clean body-set fit.
+**Why Deadly Strike here:** it boosts **damage-over-time and channeled abilities** by 15% — and your entire kit (Fatecarver **channel**, Blockade/Fulminating DoTs, Languid Eye ult) is exactly that. It's the rare craftable set that's near-BiS for this class, and you already own it. **Order's Wrath** (flat crit chance + crit damage) is likewise craftable, owned, and a clean body-set fit.
 
 **Fallback ladders (all craftable — no trial gear needed):**
 - Body: **Order's Wrath** (crafted, you own it) → Ansuul's Torment (Sanity's Edge trial — the endgame body upgrade, ~+3–4%) → Whorl of the Depths (Dreadsail Reef).
@@ -110,7 +112,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 
 Rule of thumb: **buy every passive in every line you have a skill slotted from.** Priorities if you're short:
 
-- **Herald of the Tome:** all 4 — essential; **Fated Fortune** (crit damage/healing tied to Crux) is the star, and most of your bar lives here.
+- **Herald of the Tome:** all 4 — essential; most of your bar lives here. **Fated Fortune** (crit damage/healing tied to Crux) is the headline, but **Splintered Secrets** is the one that shapes your bars: at rank 2 it grants **+1,240 Physical & Spell Penetration for *each* Herald of the Tome ability you have slotted**. Flail, Fatecarver, Inspired Scholarship, Fulminating Rune and The Languid Eye all count — which is why the bar looks the way it does, and why the Languid Eye swap is worth more than its damage alone. It also feeds the monster-helm decision: stack enough Splintered Secrets and you're at the penetration cap, so the crit helm beats the penetration helm (see [Gear slot math](../shared/gear-math.md)).
 - **Soldier of Apocrypha:** all 4 — Cruxweaver Armor lives here and the line's passives are your mitigation.
 - **Curative Runeforms:** worth the passives for Evolving Runemend's HoT strength — check tooltips for which apply.
 - **Destruction Staff:** all — Tri Focus / Penetrating Magic / Ancient Knowledge boost the staff and the beam directly — HIGH.
@@ -154,14 +156,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ### 🔵 BLUE (Warfare)
 
-**Slot (4):** Deadly Aim · Fighting Finesse · Wrathful Strikes · Thaumaturge — the damage slots sit near the center, so they come first.
+**Slot (4):** Deadly Aim · Fighting Finesse · Wrathful Strikes · Master-at-Arms — the damage slots sit near the center, so they come first.
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
 | 1 | **Deadly Aim** | **SLOT** (50) | +single-target damage — your beam on a boss |
 | 2 | **Fighting Finesse** | **SLOT** (50) | bigger crits (you crit constantly via Fated Fortune) |
 | 3 | **Wrathful Strikes** | **SLOT** (50) | flat damage on your direct hits (Flail, Scholarship pulses) |
-| 4 | **Thaumaturge** | **SLOT** (50) | **boosts channeled + DoT damage — Fatecarver is a channel, so this is a genuine gain here, not a trap.** Its best home in the household. |
+| 4 | **Master-at-Arms** | **SLOT** (50) | **+direct damage — and Fatecarver's channel ticks *are* direct damage.** This is the star that actually buffs the beam. |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | penetration |
 | 7 | Eldritch Insight | buy max (20) | max magicka (feeds Runemend/Fatecarver cost) |
@@ -172,10 +174,10 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
 | 14 | **Biting Aura** | buy (50), instanced swap | +AoE damage — swap in for a slotted star on trash-heavy / AoE fights (the beam is AoE) |
-| 15 | **Master-at-Arms** | buy (50), swap option | +direct damage — swap in vs single bosses where Flail + direct hits dominate |
+| 15 | **Thaumaturge** | buy (50), rarely | +**DoT** damage only. ⚠️ **It does not buff Fatecarver** — a channel's ticks are direct damage, not damage-over-time. Slot it only if your bar ever goes genuinely DoT-heavy. (The thing that *does* buff channels is **Deadly Strike**, which you're already wearing.) |
 | 16 | Ironclad / Duelist's Rebuff / Enduring Resolve | buy (50), swap options | direct / single-target / DoT mitigation for specific nasty fights |
 
-*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800. Thaumaturge/Biting Aura/Master-at-Arms is a per-fight swap — channel/AoE/direct — not a permanent choice; keep Thaumaturge slotted whenever the beam is your main damage source (i.e. almost always).*
+*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800. **Master-at-Arms stays slotted** — the beam is direct damage. Biting Aura is the per-fight swap for trash-heavy pulls.*
 
 ### 🔴 RED (Fitness)
 
@@ -216,14 +218,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ## 6. SHOPPING LIST
 1. **Slimecraw** — vet Wayrest Sewers I (1pc helm; you own it — just have it in the bag)
-2. **Deadly Strike** — craftable, you own it (shoulders + jewelry + both staff bars)
+2. **Deadly Strike** — Cyrodiil set from guild traders, you own it (shoulders + jewelry + both staff bars)
 3. **Order's Wrath** — craftable, you own it (5 body pieces)
 4. **Ring of the Pale Order** — Antiquities (account-wide once collected)
 5. **Scribing** (Gold Road) — optional: Wield Soul / Ulfsild's Contingency as back-bar swaps
 6. **Perfected Crushing Wall Lightning Staff** — vet Maelstrom Arena (the *last* upgrade; Deadly Strike staff is fine until then)
 7. **Ansuul's Torment** — Sanity's Edge trial (the endgame body/jewelry upgrade over Order's Wrath/Deadly Strike, when you want it)
 
-*Sources: Hyperioxes U50 Magicka Arcanist Solo Build + Alcast U50 Magicka Arcanist (skill/set/Class Mastery mechanics cross-checked vs ESO-Hub / UESP, U50). Skill names current as of U50 — trust in-game tooltips over any guide, including this one. A few morphs are flagged ⚠️ "confirm in-game" in the bars above; verify those on your character before a hard clear. Revised 2026-08-16.*
+*Sources: Hyperioxes U50 Magicka Arcanist Solo Build + Alcast U50 Magicka Arcanist (skill/set/Class Mastery mechanics cross-checked vs ESO-Hub / UESP, U50). Skill names current as of U50 — trust in-game tooltips over any guide, including this one. A few morphs are flagged ⚠️ "confirm in-game" in the bars above; verify those on your character before a hard clear. Revised 2026-08-18.*
 
 ---
 

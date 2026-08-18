@@ -2,9 +2,9 @@
 ### Solo PvE • Group Content • PvP • CP Roadmap (1200 → 1800)
 
 **Character:** Magicka Sorcerer, pure class (no subclass), Class Mastery active
-**Verified against:** Hyperioxes U50 Magicka Sorcerer Solo Build, revised **July 8, 2026** (check for a newer revision before big gold purchases). Soloed Veteran Bedlam Veil, parses 67.6k.
+**Verified against:** Hyperioxes U50 Magicka Sorcerer Solo Build — **U50; source revision date not verified from here** (the live page reads as more recently updated than this file, so check it before big gold purchases). Soloed Veteran Bedlam Veil, parses 67.6k.
 **Philosophy:** A self-healing lightning engine. Critical Surge heals you every second you crit, Conservation of Energy makes Blood Magic proc every second, and Pale Order stacks on top of everything. Staying alive is rarely something you think about — Static Reverberation just melts things once they drop below half health.
-**Weapon note:** this is the **melee** Mag Sorc — dual daggers, up close. Prefer to stay at range? The **ranged (two staves)** variant is only −1.2% behind → [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md).
+**Weapon note:** this is the **melee** Mag Sorc — dual daggers front, **ice staff** back, up close. Prefer to stay at range? The **ranged (two staves)** variant is only −1.2% behind → [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md).
 
 ---
 
@@ -22,12 +22,12 @@
 
 ### Base Setup
 
-| Front Bar (Daggers*) | Back Bar (Lightning Staff) |
+| Front Bar (Daggers*) | Back Bar (Ice Staff) |
 |---|---|
 | 1. Traveling Knife (scribed grimoire, *Soul Magic*; scripts: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
 | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) | 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Sorcery + **heal on every crit, once per second** |
 | 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery/Prophecy passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status engine |
-| 4. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — cast on proc only | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
+| 4. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — cast on proc only | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — **run the Ice version** |
 | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — Minor Force |
 | **Ult: Power Overload** (morph of Overload, *Storm Calling*) — **parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the real ultimate; constant Concussion → Minor Vulnerability |
 
@@ -44,8 +44,8 @@
 ### Rotation (priority sweep — not a step counter)
 Play it as **two sweeps**, not an 11-step list:
 
-- **Back-bar sweep (when the timers blink):** Elemental Blockade → Critical Surge (recast ~1s early) → Elemental Susceptibility → Barbed Trap — and **Charged Atronach whenever it's ready** → swap.
-- **Front-bar living (where you spend the fight):** **Crystal Fragments whenever it procs**, refresh Hurricane and Liquid Lightning when they expire, **fire Bound Armaments at 4 stacks**, Ulfsild's (~1s early), and Traveling Knife as your filler.
+- **Back-bar sweep (when the timers blink):** Hurricane → Elemental Blockade → Critical Surge (recast ~1s early) → Elemental Susceptibility → Barbed Trap — and **Charged Atronach whenever it's ready** → swap. (Hurricane is a back-bar skill; you can only refresh it from this bar.)
+- **Front-bar living (where you spend the fight):** **Crystal Fragments whenever it procs**, refresh Liquid Lightning when it expires, **fire Bound Armaments at 4 stacks**, Ulfsild's (~1s early), and Traveling Knife as your filler.
 - **Swap back** when the back-bar timers blink.
 
 **Pre-buff:** Critical Surge, Hurricane, Ulfsild's.
@@ -70,7 +70,9 @@ Play it as **two sweeps**, not an 11-step list:
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment | |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** | |
 | Front bar | — | Charged | Poison + Flame | Sul-Xan daggers | melee default |
-| Back bar | — | Infused | Weapon Damage | Crushing Wall Lightning Staff | vMA |
+| Back bar | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff | vMA — see the note below |
+
+**Why an Ice back bar:** the source builds its Blockade write-up around the **Ice** version — an Ice Blockade also applies **Minor Breach** to Chilled enemies, and they're permanently Chilled thanks to Elemental Susceptibility. That free Minor Breach is worth more than the lightning staff's AoE on the back bar. (Front bar stays as-is; if you'd rather not re-farm, a lightning Crushing Wall still works — you just give up the Minor Breach.)
 
 *For instanced, shift Chest and Legs to Light; the head stays the one Medium piece (Slimecraw, or a Medium Valkyn Skoria) for the 6/1 split. In-game tooltips override — confirm on your bar.*
 
@@ -182,14 +184,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 ## 6. SHOPPING LIST
 1. **Scribing** (you have it from the DK) — Traveling Knife + Ulfsild's + Wield Soul grimoires cover both weapon variants
 2. **Beacon of Oblivion** — Infinite Archive, Sorc class set (same runs that drop your DK's Pyrebrand — farm both at once)
-3. **Crushing Wall Lightning Staff** — vet Maelstrom (you may already have one from the DK's staff farm — it's the same staff, different element)
+3. **Crushing Wall Ice Staff** — vet Maelstrom. Note this is a *different element* from your DK's staff, so the DK farm doesn't hand it to you; you want the Ice version here for the Minor Breach on Chilled enemies (see the gear note). A lightning Crushing Wall is the fallback if you already have one
 4. **Valkyn Skoria** — vet City of Ash II (shared with your DK's instanced setup — one helm serves both if weights align)
 5. **Sul-Xan's Torment** — Rockgrove; Tide-Born crafted covers you at −2 to −6% meanwhile
 6. Pale Order + Slimecraw: account-wide, already yours
 
 **Efficiency note:** this build shares more farm targets with your DK than any other class would — Infinite Archive, vMA, CoA II, and Rockgrove all double-dip.
 
-*Source: Hyperioxes U50 Magicka Sorcerer Solo Build (July 8, 2026 revision — verified current, Class Mastery included). Trust in-game tooltips over any guide. Revised 2026-08-16.*
+*Source: Hyperioxes U50 Magicka Sorcerer Solo Build (U50 — source revision date not verified from here; Class Mastery included). Trust in-game tooltips over any guide. Revised 2026-08-18.*
 
 ---
 

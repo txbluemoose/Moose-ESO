@@ -13,13 +13,17 @@
 
 ## 0. Class Mastery (pick 2 — stay pure class)
 
-Subclassing disables Class Mastery entirely (you'd lose both picks). You are pure class for exactly this reason — never subclass this character. All four Sorcerer masteries scale off your **higher** of Max Magicka/Stamina, so they work fully on a stamina build. ✅
+Subclassing disables Class Mastery entirely (you'd lose both picks). You are pure class for exactly this reason — never subclass this character.
+
+⚠️ *An earlier version of this page claimed all four Sorcerer masteries scale off the **higher** of your Max Magicka/Stamina. That was unsourced and has been removed — check each mastery's own tooltip for what it scales off before you count on it.*
 
 | Situation | Mastery 1 | Mastery 2 |
 |---|---|---|
-| **Default (daggers)** | **Conservation of Energy** — upgrades Blood Magic to refund on *any* costed ability and restores ~400 Magicka **+389 Stamina** per proc. This is your sustain engine, and it directly answers the stamina-shortfall problem that plagues your DK. | **Font of Power** — upgrades Exploitation to work on any Sorc ability and grants **+11% Weapon/Spell Damage** for 10s (scales off your Max Stamina). Your biggest single damage pick, costs nothing defensive. |
-| **Need survivability** | Conservation of Energy | **Calculated Defense** replaces Font of Power — a Max-Health damage shield every time you start a cast, plus 3% Weapon/Spell Damage to you and nearby group if it holds. |
+| **Default (daggers)** — *our pick, see the note below* | **Conservation of Energy** — upgrades Blood Magic to refund on *any* costed ability and restores ~400 Magicka **+389 Stamina** per proc. This is your sustain engine, and it directly answers the stamina-shortfall problem that plagues your DK. | **Font of Power** — upgrades Exploitation to work on any Sorc ability and grants **+11% Weapon/Spell Damage** for 10s (scales off your Max Stamina). Your biggest single damage pick, costs nothing defensive. |
+| **Need survivability** | Conservation of Energy | **Calculated Defense** replaces Font of Power — a Max-Health damage shield every time you start a cast, plus **6%** Weapon/Spell Damage to you and nearby group members if the shield doesn't break. |
 | **Execute-heavy / add packs** | Conservation of Energy | **Static Reverberation** replaces Font of Power — chance-on-damage Shock proc that scales with the target's missing health (the old Implosion, tuned down). Big in the last 30%. |
+
+**Our deviation, stated plainly:** the live source's default pairing appears to be **Conservation of Energy + Static Reverberation**. We run **Conservation of Energy + Font of Power** instead and demote Static Reverberation to the execute/add-pack swap, because Font of Power's flat Weapon/Spell Damage is up all fight while Static Reverberation only pays out below half health. That's *our* call, not the source's — if you want the source-faithful setup, take Static Reverberation as Mastery 2.
 
 *Masteries verified vs Alcast's U50 Class Mastery breakdown — ⚠️ confirm the live numbers on your bar; ZOS tunes these between seasons.*
 
@@ -29,19 +33,27 @@ Subclassing disables Class Mastery entirely (you'd lose both picks). You are pur
 
 ### Base Setup
 
-| Front Bar (Dual Daggers*) | Back Bar (Bow) |
+| Front Bar (Dual Daggers*) | Back Bar (Bow — ⚠️ read the Major Breach flag below) |
 |---|---|
 | 1. **Crystal Weapon** (morph of Crystal Shard, *Dark Magic*) — stamina spammable; second hit **shreds the target's armor** ✅ | 1. **Hurricane** (morph of Lightning Form, *Storm Calling*) — **Major Resolve** + Minor Expedition + a physical AoE that ramps up to +120% damage the longer it's up ✅ |
 | 2. **Rending Slashes** (morph of Twin Slashes, *Dual Wield*) — physical bleed DoT + Minor Maim on the target (they hit *you* softer) ✅ | 2. **Endless Hail** (morph of Volley, *Bow*) — ground physical DoT; carries your back-bar weapon enchant ✅ |
-| 3. **Deadly Cloak** (morph of Blade Cloak, *Dual Wield*) — AoE physical DoT **+ Minor Protection (−5% damage taken while slotted)** ✅ | 3. **Poison Injection** (morph of Poison Arrow, *Bow*) — poison DoT that deals **up to +120% more to enemies under 50% health** — your execute ✅ |
-| 4. **Bound Armaments** (morph of Bound Armor, *Daedric Summoning*) — **Major Savagery/Prophecy** (crit) passively; light/heavy attacks build stacks, **fire at 4** ✅ | 4. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — **Minor Force** (+10% crit damage) + DoT ✅ |
+| 3. **Deadly Cloak** (morph of Blade Cloak, *Dual Wield*) — AoE physical DoT + a defensive line that reduces **area** damage taken. ⚠️ It is *not* Minor Protection (an earlier version said it was) — confirm the exact wording in-game | 3. **Poison Injection** (morph of Poison Arrow, *Bow*) — poison DoT that deals **up to +120% more to enemies under 50% health** — your execute ✅ |
+| 4. **Bound Armaments** (morph of Bound Armor, *Daedric Summoning*) — **Major Savagery/Prophecy** (crit) passively; light/heavy attacks build stacks, **fire at 4** ✅ | 4. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — **free to cast**, applies **Major Breach (−5,948 armor)** plus Burning/Chilled/Concussed. ⚠️ Destruction Staff line, so it only works on a bar with a **destro staff** equipped — see the flag |
 | 5. **Critical Surge** (morph of Surge, *Storm Calling*) — **Major Brutality/Sorcery** + **heals you ~3300 on any crit, once per second** — the survivability core ✅ | 5. **Resolving Vigor** (morph of Vigor, *Assault*) — burst self-heal; Minor Resolve. *Scribed alt if you'd rather: a self-heal grimoire — you have scribing.* ⚠️ |
 | **Ult: Greater Storm Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — big Shock hit + stun; ally can pop **Charged Lightning** for Major Berserk | **Ult: Greater Storm Atronach** — same ult both bars so it's always ready |
+
+> ⚠️ **Major Breach flag — the one thing to sort out before you build this.**
+> Nothing in the old base setup applied **Major Breach**, and Razor Caltrops was sitting in the situational swaps. That's ~5,948 armor left on every target you fight, which is a bigger loss than any gear choice on this page. **Elemental Susceptibility is now on the base bar** — the live Hyperioxes Stam Sorc slots it (it's free to cast) and explicitly warns that replacing the back-bar weapon is troublesome *because* Elemental Susceptibility is that strong for solo play.
+>
+> The catch: it's a **Destruction Staff** ability, so it can only be slotted on a bar carrying a destro staff. That means the source's back bar is very likely a **destruction staff, not a bow** — which would also mean **Endless Hail**, **Poison Injection** and the **Master's Bow** upgrade path below are *our* additions, not the source's. **This page has not been rewritten around that**; it's flagged instead. **Re-verify the back-bar weapon in-game / against the live page before you commit gold.**
+>
+> If you'd rather keep the bow back bar today: slot **Razor Caltrops** (*Alliance War > Assault*) in Elemental Susceptibility's place — it's stamina, works with any weapon, and also gives Major Breach. **Barbed Trap** (Minor Force) moves to the situational swaps either way; if you can find the slot, put it back.
 
 *\*Dual daggers are the household default — best damage, up close, where you like to play. The **bow lives on the back bar** purely to load DoTs (Endless Hail, Poison Injection) and hold your buffs; you spend the fight on the front daggers bar. Prefer to fight at range full-time? The class also runs as a two-staff/bow-front magicka build — see the [Magicka Sorcerer](magicka-sorcerer.md) sibling.*
 
 ### Situational swaps (line sources called out)
-- **Razor Caltrops** (*Alliance War > Assault*) — AoE DoT **+ Major Breach** on trash; in for Barbed Trap when you want the group-style penetration
+- **Razor Caltrops** (*Alliance War > Assault*) — AoE DoT **+ Major Breach**; the **bow-compatible** stand-in for Elemental Susceptibility (see the flag above)
+- **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — **Minor Force** (+10% crit damage) + DoT; the build's only Minor Force, so slot it back the moment you free a slot
 - **Hardened Ward** (morph of Conjured Ward, *Daedric Summoning*) — a big 6s shield; in for Deadly Cloak on a scary boss (shield + Pale Order + Critical Surge = very hard to kill)
 - **Streak / Bolt Escape** (*Storm Calling*) — the class teleport; mobility fights or cheesing mechanics (Storm Calling's escape is the best in the game)
 - **Camouflaged Hunter** (*Fighters Guild*) — Minor Berserk on flank crits + a burst; it's your only Minor Berserk source, since a 1pc Slimecraw doesn't provide any
@@ -50,7 +62,7 @@ Subclassing disables Class Mastery entirely (you'd lose both picks). You are pur
 ### Rotation (priority sweep — not a step counter)
 Play it as **two sweeps**, not a 12-step list:
 
-- **Back-bar sweep (every ~10s, or when a DoT drops):** Greater Storm Atronach when ready → Hurricane → Endless Hail → Poison Injection → Barbed Trap → swap.
+- **Back-bar sweep (every ~10s, or when a DoT drops):** Greater Storm Atronach when ready → Hurricane → Endless Hail → Poison Injection → **Elemental Susceptibility** (or Razor Caltrops on a bow bar) → swap.
 - **Front-bar sweep (where you live):** light-attack-weave **Crystal Weapon** as your spammable, refresh **Rending Slashes** and **Deadly Cloak** when they expire, **fire Bound Armaments at 4 stacks**, and **keep Critical Surge up** (recast ~1s early — it's your heartbeat heal). Vigor whenever you dip.
 
 **Pre-buff (before the pull):** Critical Surge → Hurricane → Bound Armaments (start stacking) → Deadly Cloak.
@@ -83,7 +95,7 @@ Play it as **two sweeps**, not a 12-step list:
 
 **Fallback ladders (owned first):**
 - Body: Order's Wrath → **Ansuul's Torment** (Sanity's Edge, ~+3–4% single target) → the Sorc class set for a class-set build (Infinite Archive) → any crafted crit set while you farm
-- Weapons/jewelry: Deadly Strike (craftable, near-BiS for DoTs) → **Aegis Caller** / **Sul-Xan's Torment** trial swaps → **Master's Bow** on the back bar to super-charge Endless Hail
+- Weapons/jewelry: Deadly Strike (guild traders, near-BiS for DoTs) → **Aegis Caller** / **Sul-Xan's Torment** trial swaps → **Master's Bow** on the back bar to super-charge Endless Hail — ⚠️ this whole bow upgrade path assumes the bow back bar, which is the part flagged for re-verification above; don't buy it until that's settled
 - For a pushed parse, check the live [Hyperioxes Stamina Sorcerer solo build](https://hyperioxes.com/eso/solo/stamina-sorcerer-build) — it's the primary source and gets re-tuned each season; the Order's Wrath + Deadly Strike core above is the "buildable today, clears everything" answer.
 
 **Mundus:** The Thief (crit) → **The Lady** for brutal content (more resistances alongside Hurricane)
@@ -190,7 +202,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Efficiency note:** this build is fully craftable from sets you already own — no farm required to reach "clears everything." The trial-set upgrades (Ansuul's, Aegis Caller) are strictly optional polish.
 
-*Source: Hyperioxes U50 Solo Stamina Sorcerer (primary, verified via search snippets — the live page is egress-blocked here), Alcast U50 Class Mastery + Stam Sorc pages, ESO-Hub/UESP for individual morphs. Skills marked ⚠️ need an in-game tooltip check. Trust in-game tooltips over any guide. Revised 2026-08-16.*
+*Source: Hyperioxes U50 Solo Stamina Sorcerer (primary, verified via search snippets — the live page is egress-blocked here), Alcast U50 Class Mastery + Stam Sorc pages, ESO-Hub/UESP for individual morphs. Skills marked ⚠️ need an in-game tooltip check. Trust in-game tooltips over any guide. Revised 2026-08-18.*
 
 ---
 

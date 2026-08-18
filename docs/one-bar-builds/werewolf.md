@@ -2,7 +2,7 @@
 ### Pack Leader — the wolves fight for her, she stays alive
 
 !!! warning "The werewolf line was reworked in Update 50 — verify the bar in-game"
-    ZOS renamed and redesigned several werewolf skills in U50 (the new **Claw Fury** channel is the headline). Names/effects below are checked against the current [Hyperioxes](https://hyperioxes.com/eso/dps/werewolf-build), [Alcast](https://alcasthq.com/eso-werewolf-build-pve/) and [ESO-Hub](https://eso-hub.com/en/guides/becoming-a-werewolf) werewolf builds — but **confirm the exact morphs on her own bar**; in-game tooltips always win.
+    U50 changed how the form *works*, not just what things are called. Staying a wolf now costs **Ultimate over time** instead of running a drain timer, **Infectious Claws became Rending Claws**, **Piercing Howl became Gnash**, and the old "re-press the ultimate" burst is now the **Fury → Rampage** meter. This page is rewritten against the [Hyperioxes solo Werewolf build](https://hyperioxes.com/eso/solo/werewolf-build), Hack the Minotaur's U50 Werewolf guide and the U50 patch notes. Plenty of pre-U50 werewolf material is still floating around (this page carried some of it), so **confirm the exact morphs on her own bar** — in-game tooltips always win.
 
 Werewolf isn't a class — it's a transformation she slots on any character. She builds normally, puts the transformation ultimate on a bar, and presses it to turn into a beast with its own skill bar. With the **Pack Leader** morph it's about as easy and hard-to-die as ESO gets: two wolves fight on their own, she takes less damage, and one button heals her a ton.
 
@@ -11,38 +11,49 @@ Werewolf isn't a class — it's a transformation she slots on any character. She
 Both morphs are of **Werewolf Transformation** (*World → Werewolf*). She takes **Pack Leader**:
 
 - **Major Protection** (−10% damage taken) + extra block mitigation + Minor Courage
-- **Summons two Dire Wolves that fight for her** — free damage she doesn't have to manage
-- **Fury Rampage** (re-press the ultimate): **health recovery** instead of damage
+- **Summons two Dire Wolves that fight for her** — free damage she doesn't have to manage, *and* they cut the cost of staying in wolf form by nearly two thirds (see below)
+- **Enduring Rampage** — her version of the Rampage super adds **Health Recovery**. It is *not* a button: it fires on its own once she's built **1,000 Fury** by dealing damage
 
 ## The werewolf form bar
 
 When she transforms she gets a fixed 5-slot beast bar. Recommended slots:
 
-1. **Feral Pounce** (morph of Pounce, *Werewolf*) — leap in; restores 200 Stamina and builds **Fury** (extends her time in form). Her opener.
-2. **Hircine's Rage** (morph of Hircine's Bounty, *Werewolf*) — her big self-heal (heals off max health) + passive Major Brutality/Sorcery. **Her panic button.**
-3. **Ferocious Roar** (morph of Roar, *Werewolf*) — **fears** everything nearby (an "everybody back off" button) and buffs her damage.
-4. **Claw Fury** (morph of Infectious Claws, *Werewolf* — U50 rework) — a channeled claw swipe (~5s); her main damage, and it heals her with Pale Order slotted.
-5. **Fifth slot — confirm in-game.** The reworked line leaves one flex slot. Slot whatever the live [Hyperioxes werewolf build](https://hyperioxes.com/eso/dps/werewolf-build) uses — worth a quick check rather than guessing a renamed morph.
+1. **Feral Pounce** (morph of Pounce, *Werewolf*) — **dynamic in U50**: pressed from far away it's the leap; pressed in melee range it's **Feral Carnage**, a single-target damage-over-time. Restores Stamina and builds Fury either way. She'll mostly be using the melee half.
+    - **Feral** is the **single-target** morph (bosses — the default here). **Brutal** is the **AoE** morph, better if she's mainly clearing packs.
+2. **Hircine's Fortitude** (morph of Hircine's Bounty, *Werewolf*) — **her panic button.** Heals for about **40% of her Max Health** and grants **12–24% Max Stamina**, with no downside.
+    - *Why not Hircine's Rage?* Rage is the other morph: its heal scales off **offensive stats** instead of health, and it grants up to **12% damage done** — but it also **increases the damage she takes by the same amount**. On a sheet built around not dying, Fortitude's bigger, penalty-free heal wins. ⚠️ The trade-off: sources put **Minor Berserk** on **Hircine's Rage**, so choosing Fortitude gives that up — confirm both tooltips in-game before she decides.
+3. **Ferocious Roar** (morph of Roar, *Werewolf*) — **fears** everything nearby (an "everybody back off" button), applies **Major Courage**, and grants **Major Savagery & Prophecy while slotted** (her crit buff — no potion needed).
+4. **Claw Fury** (morph of Rending Claws, *Werewolf* — the U50 rename of Infectious Claws) — a channeled claw swipe (~5s); her main damage, and it heals her with Pale Order slotted. **Hold it to the end** — see Blood Hunger below. *(The other morph is **Bloodclaws**.)*
+5. **Rip and Tear** (morph of **Gnash** — the U50 redesign of Piercing Howl, *Werewolf*) — **her spammable.** Big damage, applies **Major Breach** (more penetration for everything she does), **heals her for about 21% of her Max Health**, and **taunts while she's blocking**. Damage that also debuffs and heals is exactly the trade this sheet wants. *(The other morph, **Bloody Gnash**, is a parse/execute option — she doesn't need it.)*
+
+### Two new things U50 added
+
+- **Blood Hunger** — **Claw Fury adds a stack every second she holds the channel, and each stack is +25% damage**, so letting it run to the end matters a lot. **Rip and Tear then eats a stack for +25% extra damage.** Hold the beam of claws, *then* Rip and Tear.
+- **Prowl** — werewolf stealth. Pouncing on something **out of Prowl does +50% damage and stuns it**. Free opener whenever she can sneak up.
 
 ## How to play it
 
-1. Turn into a wolf (press the ultimate).
-2. **Feral Pounce** in → **Ferocious Roar** to scare them → hold **Claw Fury** to attack.
-3. **Hircine's Rage whenever she's hurt** — it heals hard.
-4. The two wolves keep attacking on their own; she just holds Claw Fury.
-5. **Keep hitting things** to stay a wolf; **eat a corpse** (hold interact on a body) between fights to heal and add time.
+1. Turn into a wolf (press the ultimate — it costs 100 Ultimate).
+2. **Pounce in** (from stealth if she can — +50% damage and a stun) → **Ferocious Roar** to scare them.
+3. **Hold Claw Fury all the way through**, then **Rip and Tear**. That's the loop.
+4. **Hircine's Fortitude whenever she's hurt** — it heals about 40% of her health.
+5. The two wolves keep attacking on their own; she just holds Claw Fury.
+6. **Eat a corpse** (hold interact on a body) between fights — it heals her *and* refills the Ultimate that keeps her a wolf.
 
-**Short version:** wolf out, the pets fight, hold Claw Fury, press Hircine's Rage when hurt, eat bodies between packs.
+**Short version:** wolf out, the pets fight, hold Claw Fury → Rip and Tear, press Hircine's Fortitude when hurt, eat bodies between packs.
 
-## Staying a werewolf
+## Staying a werewolf — it costs Ultimate now
 
-- **Out of combat she stays a wolf forever** — the timer only drains in combat.
-- **Attacking and using skills keeps the form going** — so keep swinging.
-- **Devour corpses** to heal and add a big chunk of time.
+U50 removed the old drain timer. The form runs on Ultimate instead:
+
+- **100 Ultimate to transform**, then **100 Ultimate every 10 seconds to stay in form**…
+- …except **Pack Leader's two direwolves cut that to 36 per 10 seconds**. This is a big deal: her morph is by far the cheapest one to stay transformed in, so she gets much longer wolf time than a Berserker does.
+- **Devour restores Ultimate**, not time. Eating corpses is how she extends the form mid-fight.
+- Nothing about attacking keeps the form alive any more — attacking builds **Fury** toward **Rampage**, which is a separate thing.
 
 ## Passives — buy all of them
 
-*World → Werewolf line.* **Buy every werewolf passive** — they're what keep the form strong and long: **Devour** (eat corpses to heal + extend), **Blood Rage** (extend on damage), **Pursuit**, **Savage Strength**, **Call of the Pack**, **Bloodmoon**. Buy Fighters Guild passives (Slayer) too.
+*World → Werewolf line.* **Buy every werewolf passive** — they're what keep the form strong and long: **Devour** (eat corpses to heal + restore Ultimate), **Blood Rage** (builds Fury toward Rampage), **Pursuit**, **Savage Strength**, **Call of the Pack** (cheaper transform *and* cheaper upkeep), **Bloodmoon**. Buy Fighters Guild passives (Slayer) too.
 
 ## Gear — easy, all craftable/cheap
 
@@ -57,9 +68,9 @@ Werewolf can't bar-swap, so it's **one loadout**.
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Weapons | — | Charged | Poison | **Deadly Strike** |
 
-*5× Order's Wrath (crafted — her husband makes it) + 5× Deadly Strike (jewelry + weapons + boots) + Slimecraw + Pale Order. Deadly Strike buffs the Claw Fury channel; Pale Order heals her from her own damage. She barely needs the optimal setup — Pack Leader's wolves + Major Protection carry overland and normal dungeons on their own. In-game tooltips override.*
+*5× Order's Wrath (crafted — her husband makes it) + 5× Deadly Strike (jewelry + weapons + boots) + Slimecraw + Pale Order. Deadly Strike's 15% channelled-damage bonus buffs Claw Fury (a genuine channel — that's the whole reason for the set); Pale Order heals her from her own damage. She barely needs the optimal setup — Pack Leader's wolves + Major Protection carry overland and normal dungeons on their own. In-game tooltips override.*
 
-*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Its 657 Critical Chance is the default because she already owns it. Her Minor Berserk in wolf form comes from **Ferocious Roar**, not the helm. See [Gear slot math](../shared/gear-math.md).*
+*Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Its 657 Critical Chance is the default because she already owns it. ⚠️ An earlier version of this page credited her wolf-form **Minor Berserk** to **Ferocious Roar**; post-U50 sources put it on **Hircine's Rage** instead — and since this sheet runs **Hircine's Fortitude**, she may simply not have Minor Berserk in form. **Confirm both tooltips in-game.** What Ferocious Roar definitely does give her is Major Courage plus **Major Savagery & Prophecy while slotted**. See [Gear slot math](../shared/gear-math.md).*
 
 **Mundus:** The Thief
 **Food:** any Max Health + Stamina dish (Orzorga's Smoked Bear Haunch)
@@ -140,4 +151,4 @@ A **tank or healer companion** is a nice safety net while she learns to stay in 
 
 ---
 
-*Sources: [Hyperioxes U50 Werewolf builds](https://hyperioxes.com/eso/dps/werewolf-build), [Alcast Werewolf Build (U50)](https://alcasthq.com/eso-werewolf-build-pve/), [ESO-Hub Werewolf guide](https://eso-hub.com/en/guides/becoming-a-werewolf). Line reworked in U50 — confirm the exact form-bar morphs against the live builds and in-game tooltips.*
+*Sources: primary — [Hyperioxes U50 solo Werewolf build](https://hyperioxes.com/eso/solo/werewolf-build); also Hack the Minotaur's U50 Werewolf guide, the U50 patch notes, [Alcast Werewolf Build](https://alcasthq.com/eso-werewolf-build-pve/) and [ESO-Hub's Werewolf guide](https://eso-hub.com/en/guides/becoming-a-werewolf). The line was reworked in U50 and a lot of stale pre-rework material is still online — this page was itself wrong about the form timer, the Rampage trigger and two skill names until this revision, so treat the names here as "checked, not sacred" and let in-game tooltips decide. Revised 2026-08-18.*

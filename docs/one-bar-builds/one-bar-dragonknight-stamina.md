@@ -62,7 +62,7 @@ Same bones as her other sheets — **5 Order's Wrath + 5 Deadly Strike + Slimecr
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Bow | — | Infused | Weapon Damage | Deadly Strike (a bow = 2 set pieces) |
 
-*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **DoT, channel, and AoE damage by 15%** — and this build is *all* DoTs, so it's near-BiS and cheap to buy. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. **Crafted starter:** if her husband hasn't finished the jewelry yet, run all-Order's-Wrath body + a Deadly Strike bow and jewelry as he completes them — it's strong from the first pieces. In-game tooltips override.*
+*Deadly Strike = the bow (2 pieces) + 2 jewelry + boots (5 total). It boosts **damage-over-time and channeled abilities by 15%** — and this build is *all* DoTs, so it's near-BiS and cheap to buy. Order's Wrath = 5 body (crit). Slimecraw 1pc + Pale Order mythic finish it. **Crafted starter:** if her husband hasn't finished the jewelry yet, run all-Order's-Wrath body + a Deadly Strike bow and jewelry as he completes them — it's strong from the first pieces. In-game tooltips override.*
 
 **Endgame upgrade:** none needed — this crafted setup clears her solo content. If she ever wants the last few %, a trial body set (Aegis Caller / Ansuul's Torment) swaps for Order's Wrath, but don't bother unless she asks.
 

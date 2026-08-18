@@ -4,9 +4,9 @@
 **Character:** Magicka Necromancer, pure class (no subclass), Class Mastery active
 **Verified against:** the current U50 Hyperioxes Magicka Necromancer Solo build (soloed vet HM Bloodroot Forge / vet Dread Cellar, ~65k on the 6M dummy), cross-checked against Alcast's U50 Solo MagCro and ESO-Hub skill pages
 **Philosophy:** Kick ass and don't die. On a Necromancer that means leaning *hard* into the class's built-in survivability — Spirit Guardian eats 10% of every hit and heals you, Resistant Flesh is an on-demand burst heal, and Ring of the Pale Order turns your corpse-explosion damage back into health. Damage is the byproduct; staying up is the plan.
-**Weapon note:** the main build is **melee — dual daggers front bar, Ice staff back bar, medium-lean armor**. It's how you actually play: up close, all content, survivability first. Necromancer is a summoner by flavor (you'll have a skeleton and a ghost out at all times), but the strongest solo setup still fights in melee range, because the **Corpseburster** set explodes corpses in a 5m circle around *you*. Prefer to fight from range, or prefer stamina? See the note at the end of Section 1 — a **Stamina Necromancer** sibling exists and parses within noise.
+**Weapon note:** the main build is **melee — dual daggers front bar, Ice staff back bar, medium-lean armor**. It's how you actually play: up close, all content, survivability first. Necromancer is a summoner by flavor (you'll have a skeleton and a ghost out at all times), but the strongest solo setup still fights in melee range — because that's how you play, and because Avid Boneyard's self-synergy, your dagger damage and every corpse button want you inside the pack. **One thing melee is *not* justified by: Corpseburster.** Consuming a corpse detonates **the corpse**, hitting enemies within 5m *of it* — and corpses drop out where the enemy died, not under your feet. Fighting up close keeps you near the corpses, which is a real convenience, but the blast is centred on them, not on you. Prefer to fight from range, or prefer stamina? See the note at the end of Section 1 — a **Stamina Necromancer** sibling exists and parses within noise.
 
-> **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes solo MagCro. The Class Mastery picks are the new U50 system — the passive *names* are verified against Alcast/ESO-Hub, but confirm the exact numbers and that both slot together on your bar in-game. The Group and PvP sections are directional adaptations — verify bars against the live source before a progression run. Skill names are current as of Update 50; the Necromancer corpse system was adjusted this patch, so trust your in-game tooltips over any guide.
+> **Confidence key:** The Solo PvE section is fully verified against the current U50 Hyperioxes solo MagCro. The Class Mastery picks are the new U50 system — the passive *names* are verified against Alcast/ESO-Hub, but confirm the exact numbers and that both slot together on your bar in-game. The Group and PvP sections are directional adaptations — verify bars against the live source before a progression run. Skill names are current as of Update 50. **Note that Necromancer has *not* been reworked** — U50 shipped Class Mastery, the Werewolf overhaul, Challenge Difficulty and PvP Veterancy, and the class-refresh order runs DK → Warden → Sorcerer → Templar → Nightblade → Necromancer → Arcanist, of which only the DK has happened. So the corpse system is the same one you already know; trust in-game tooltips over any guide regardless.
 
 ---
 
@@ -17,7 +17,7 @@ Subclassing disables this entire system — stay pure class. Each mastery upgrad
 | Pick | Mastery | Keys off | What it does for you |
 |---|---|---|---|
 | **Main 1** | **Nothing Wasted** | Corpse Consumption (*Bone Tyrant*) | Every corpse you consume stacks **+2% Max Health and +2% Weapon/Spell Damage**, up to 10 stacks. Your whole loop is consuming corpses, so this is free damage *and* free health — the single best pick for a "don't die" corpse build. |
-| **Main 2** | **Cycle Unending** | Reusable Parts (*Bone Tyrant*) | **+1% damage done for every 1% Health you have above your target.** Your survivability engine keeps you topped off, so this is a damage star the tanky playstyle *pays for itself*. |
+| **Main 2** | **Cycle Unending** | Reusable Parts (*Bone Tyrant*) | **+1% damage done for every 1% Health you have above your target — capped at +25% (12% against players).** Your survivability engine keeps you topped off, so this is a damage star the tanky playstyle *pays for itself*; just don't read it as unlimited scaling, the cap arrives quickly against a low-health target. |
 | **Survival swap** | **Pound of Flesh** | (defensive mastery) | Chance on taking damage to heal ~2745 and restore missing Stamina. Trade Cycle Unending → Pound of Flesh for the nastiest one-shot fights, or if the DK-style stamina gap ever bites you here. |
 
 *Verify in-game that Nothing Wasted and Cycle Unending both slot at once (they key off different base passives, so they should). Numbers from Alcast/ESO-Hub U50 Class Mastery lists — tooltips override.*
@@ -26,7 +26,7 @@ Subclassing disables this entire system — stay pure class. Each mastery upgrad
 
 ## 1. SOLO PvE — Skills (delves, world bosses, vet dungeon soloing, arenas)
 
-This is your bread and butter. The damage engine is the **Corpseburster** set: every corpse you consume detonates for big Disease damage around you, and it hits harder for each Grave Lord ability slotted. So the front bar is **all Grave Lord** — you generate corpses and immediately eat them, over and over, and Pale Order heals you off every explosion.
+This is your bread and butter. The damage engine is the **Corpseburster** set: every corpse you consume detonates **where the corpse is**, hitting everything within 5m *of it*, and the blast grows **+10% for each Grave Lord ability you have slotted**. So the front bar is **all Grave Lord** — and the **Glacial Colossus ultimate is a Grave Lord ability too**, so that bar is carrying six of them. You generate corpses and immediately eat them, over and over, and Pale Order heals you off every explosion.
 
 ### Skills — Base Setup
 
@@ -39,7 +39,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 | 5. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — the flex slot; see the swaps below for non-scribed options ⚠️ confirm vs the live build in-game |
 | **Ult:** Glacial Colossus (morph of Frozen Colossus, *Grave Lord*) | **Ult:** Ravenous Goliath (morph of Bone Goliath Transformation, *Bone Tyrant*) — survivability transform, heals you per enemy hit; a *different* base skill than Colossus, so it can sit here without conflicting *(confirm morph in-game)* |
 
-*\*Dual daggers are the household default and the up-close playstyle you run — and they suit this build, because Corpseburster's corpse explosions go off around you in a 5m circle. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (or Absorb Stamina if you're feeling the old DK sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Brittle, and the back bar is where your two survivability heals live. Note on ultimates: you can't run both Colossus morphs at once (they're the same base skill), so the front bar carries Glacial Colossus — your AoE stun + Major Vulnerability button — and the back bar carries a different-line ultimate (Ravenous Goliath) as the "survive this" transform.*
+*\*Dual daggers are the household default and the up-close playstyle you run — and they suit this build, because being in the pack keeps you next to the corpses your explosions are centred on (the blast is 5m around the corpse, not around you). Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (or Absorb Stamina if you're feeling the old DK sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Brittle, and the back bar is where your two survivability heals live. Note on ultimates: you can't run both Colossus morphs at once (they're the same base skill), so the front bar carries Glacial Colossus — your AoE stun + Major Vulnerability button — and the back bar carries a different-line ultimate (Ravenous Goliath) as the "survive this" transform.*
 
 **What each does (and why it's here for your "don't die" goal):**
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
@@ -77,7 +77,7 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
-| Head | Medium | Divines | Magicka | Slimecraw **(1pc monster — 657 Crit Chance)** — overland, you own it |
+| Head | Medium | Divines | Magicka | Slimecraw **(1pc monster — 657 Crit Chance)** — vet Wayrest Sewers I, you own it |
 | Shoulders | Medium | Divines | Magicka | Corpseburster |
 | Chest | Heavy | Divines | Magicka | Corpseburster |
 | Hands | Medium | Divines | Magicka | Corpseburster |
@@ -93,11 +93,11 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Where it comes from:** Corpseburster = Infinite Archive. Whorl of the Depths = vet Dreadsail Reef / trader (Frost proc that syncs with your Ice bar). Slimecraw = overland (you own it). Crushing Wall = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
+**Where it comes from:** Corpseburster = Infinite Archive. Whorl of the Depths = vet Dreadsail Reef / trader (Frost proc that syncs with your Ice bar). Slimecraw = the 1pc **helm**, from **vet Wayrest Sewers I** (you own it — note the Undaunted chest only ever gives the shoulders). Crushing Wall = vet Maelstrom Arena. Valkyn Skoria (vet City of Ash II) is the alternative helm when you want its 1pc penetration instead of Slimecraw's crit chance — note its meteor proc is a 2-piece bonus and can't fire alongside the Pale Order mythic.
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Corpseburster → Aegis Caller (Depths of Malatar) → **Order's Wrath (you own it, craftable, ~−4 to −6%)** → Tzogvin's Warband
-- Weapons/jewelry: Whorl of the Depths → **Deadly Strike (you own it, craftable)** — and note this: Deadly Strike boosts **DoTs and channels**, and half your kit (Detonating Siphon tether, Avid Boneyard, Elemental Blockade) *is* DoTs, so Deadly Strike punches above its weight on a Necromancer specifically — it's a better stopgap here than it was on your DK
+- Weapons/jewelry: Whorl of the Depths → **Deadly Strike (you own it — Cyrodiil set, guild traders)** — and note this: Deadly Strike boosts **DoTs and channels**, and half your kit (Detonating Siphon tether, Avid Boneyard, Elemental Blockade) *is* DoTs, so Deadly Strike punches above its weight on a Necromancer specifically — it's a better stopgap here than it was on your DK
 - Monster: Slimecraw 1pc (657 Crit Chance, own) → Valkyn Skoria 1pc (1,487 Offensive Penetration) if you're under the pen cap. Only the 1pc bonus ever applies.
 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo → The Lady (resistances) only for brutal one-shot content
@@ -230,7 +230,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ---
 
-*Sources: Hyperioxes U50 Magicka Necromancer Solo build (verified for U50; soloed vet HM Bloodroot Forge / vet Dread Cellar) and U50 Stamina Necromancer Solo build; skill morphs and Class Mastery names cross-checked against Alcast U50 Solo MagCro and ESO-Hub skill/Class-Mastery pages; Corpseburster confirmed as a set (Infinite Archive), not a skill. Class Mastery is the new U50 system — confirm the exact numbers and dual-slot behavior in-game. ZOS renames Necromancer abilities on class refreshes, so your in-game tooltips override any guide. Revised 2026-08-15.*
+*Sources: Hyperioxes U50 Magicka Necromancer Solo build (verified for U50; soloed vet HM Bloodroot Forge / vet Dread Cellar) and U50 Stamina Necromancer Solo build; skill morphs and Class Mastery names cross-checked against Alcast U50 Solo MagCro and ESO-Hub skill/Class-Mastery pages; Corpseburster confirmed as a set (Infinite Archive), not a skill. Class Mastery is the new U50 system — confirm the exact numbers and dual-slot behavior in-game. **Necromancer has not had its class refresh yet** (only the DK has), so U50 changed no Necromancer skills; in-game tooltips still override any guide. Corpseburster's detonation is centred on the consumed corpse (5m), not on the player. Revised 2026-08-18.*
 
 ---
 

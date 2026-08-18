@@ -2,7 +2,7 @@
 ### The "Frost and Forget" Build — Ice Staff, One Bar
 
 **Character:** Magicka Warden, pure class (no subclass)
-**Verified against:** U50 Magicka Warden solo skill core (Hyperioxes primary; every morph cross-checked ESO-Hub / UESP / Alcast). This is the **staff / magicka** sibling of her [two-bar Bow Warden cheat sheet](warden-bow-two-bar.md) — same class, ranged, but boiled down to a single forgiving bar.
+**Verified against:** **Hack the Minotaur's one-bar Magicka Warden, "Bitter Chill"** (<https://hacktheminotaur.com/builds/eso-one-bar-heavy-attack-magicka-warden-build/>) — three of her five slots (Deep Fissure, Blue Betty, Northern Storm) match it exactly. There is **no** Hyperioxes one-bar Magicka Warden to check against: their one-bar Warden is a *Stamina* build and is still on U45. Every morph name cross-checked ESO-Hub / UESP / Alcast. This is the **staff / magicka** sibling of her [two-bar Bow Warden cheat sheet](warden-bow-two-bar.md) — same class, ranged, but boiled down to a single forgiving bar.
 **Playstyle:** Ranged, staff, one bar. Mag Warden is one of the best and most **forgiving** one-bar classes in the game — the class heals so hard that between Polar Wind, Blue Betty, and Pale Order, staying alive is nearly automatic. She stands at range, presses the shalk button, refreshes two ground DoTs, and heals when she wants to.
 
 > **Nothing on this bar is scribed.** She doesn't scribe, and she doesn't need to — every skill here comes straight off her class lines or the staff.
@@ -16,7 +16,7 @@
 3. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ice ground DoT; with the ice staff it keeps everything Chilled. Cast it from the staff, no scribing.
 4. **Polar Wind** (morph of Arctic Wind, *Winter's Embrace*) — her heal. Scales off her **max Health**, so it heals huge — this is the panic button.
 5. **Blue Betty** (morph of Betty Netch, *Animal Companions*) — magicka back over time (her sustain), **Major Sorcery** (spell damage, no potion needed), and it purges a debuff off her every few seconds. Cast once, forget it (~20s).
-- **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, a ramping damage buff, **and Major Protection (−10% damage taken)** through scary mechanics.
+- **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking up to 450**, **and Major Protection (−10% damage taken)** through scary mechanics.
 
 *Wants a pet instead of the storm? **Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — summon the bear and it fights on its own, and being slotted adds crit damage via Advanced Species. Northern Storm is the tankier answer (Major Protection); the bear is the fun one. Either is fine.*
 
@@ -34,7 +34,7 @@
 ## How to play it
 1. **Blue Betty + Polar Wind** up before the pull, then drop **Winter's Revenge + Elemental Blockade** on the pack.
 2. **Deep Fissure** on cooldown — it's her big hit and her penetration.
-3. **Heavy-attack the staff** between casts to keep magicka topped (she likes heavy attacks anyway).
+3. **Heavy-attack the staff** between casts to keep magicka topped (she likes heavy attacks anyway) — here they're sustain and filler, not the damage engine; her damage is Deep Fissure plus the two ground DoTs.
 4. **Northern Storm** whenever it's up — the Major Protection is free survivability.
 5. **Getting hurt? Polar Wind.** It heals off her max health, so it heals a ton. Re-drop the two ground DoTs when they blink (~10s).
 
@@ -44,7 +44,9 @@
 
 ## Gear
 
-Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Magicka enchants and an ice staff**. Her husband crafts Order's Wrath, so this is buildable today, and Deadly Strike is near-perfect here because the build is all DoTs (+15% DoT damage).
+Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slimecraw + Pale Order** — with **Magicka enchants and an ice staff**. That's the answer; build it. Her husband crafts Order's Wrath, so it's buildable today, and Deadly Strike still earns its place: **two** of her five skills are real DoTs (Winter's Revenge and Elemental Blockade, both long ground DoTs she keeps up permanently), so its +15% DoT damage is applying most of the fight — it just isn't buffing the whole bar.
+
+*If heavy attacks turn out to be her actual engine — she's channelling them more than she's pressing buttons — the published heavy-attack package is **Sergeant's Mail + Order's Wrath**. Swap to that whole-hog or not at all; don't half-mix it with this one.*
 
 **Armor weight: 5 Light / 1 Medium / 1 Heavy** — Light for the Magicka damage passives (Concentration penetration, Prodigy crit), one Medium and one Heavy to trigger all three tiers of **Undaunted Mettle** (max Health/Magicka/Stamina per *distinct* weight worn).
 
@@ -107,7 +109,7 @@ At CP 1250 she has ~417 points per color; ~533 at 1600. **Each table is in the o
 | # | Star | Action | What it does for HER |
 |---|---|---|---|
 | 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage (Deep Fissure) |
-| 2 | **Thaumaturge** | **SLOT** (50) | +DoT damage — most of her bar is DoTs (Winter's Revenge, Blockade) |
+| 2 | **Thaumaturge** | **SLOT** (50) | +DoT damage — her two ground DoTs (Winter's Revenge, Blockade) are up almost the whole fight, so it's applying constantly even though it isn't buffing the whole bar |
 | 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
@@ -165,7 +167,7 @@ At CP 1250 she has ~417 points per color; ~533 at 1600. **Each table is in the o
 - **She now has both Wardens** — this staff/magicka one-bar and her [two-bar Bow Warden](warden-bow-two-bar.md) (stamina). Pick by mood: one bar and ranged staff, or the bow with a set-and-forget ice back bar.
 - Stuns are one-bar's weakness — **Precognition** ult (*Psijic Order*) handles the handful of solo-impossible stuns if a specific fight needs it.
 
-*Source: U50 Magicka Warden solo skill core (Hyperioxes primary), morphs cross-checked ESO-Hub / UESP / Alcast. Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips — they win over any guide. Revision date: 2026-08-16.*
+*Source: [Hack the Minotaur "Bitter Chill" one-bar Magicka Warden](https://hacktheminotaur.com/builds/eso-one-bar-heavy-attack-magicka-warden-build/) as the tracking build (there is no Hyperioxes one-bar Mag Warden), morphs cross-checked ESO-Hub / UESP / Alcast. Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips — they win over any guide. Revision date: 2026-08-18.*
 
 ---
 

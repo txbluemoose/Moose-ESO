@@ -2,7 +2,7 @@
 ### The "Beam Everything" Build — One Bar, Five Buttons
 
 **Character:** Stamina Arcanist, pure class (no subclass)
-**Verified against:** Hyperioxes One-Bar Stamina Arcanist Solo Build (soloed vet HM Imperial City Prison) — written U44, and the Arcanist kit is essentially unchanged since; cross-check the U50 Stamina Arcanist page before pushing vet HM content
+**Verified against:** Hyperioxes One-Bar Stamina Arcanist Solo Build — the source claims it handles **every Veteran dungeon that doesn't require multiple people, and most Hard Modes**, without naming specific clears. It was written for **U44**: the **bar composition is unchanged**, but the **numbers are not** — since U44, **Fatecarver was nerfed ~7%**, **Cephaliarch's Flail's execute was nerfed**, subclassing arrived (U46), and U50 added **Class Mastery** and cut **The Languid Eye's max stacks from 20 to 12**. Treat the five skills as current and the damage expectations as optimistic; cross-check the U50 Stamina Arcanist page before pushing vet HM content
 **Playstyle:** Build 3 Crux with Flail, spend them on a giant beam that shields her while she channels it. That's the whole game. Between Flail's heal-on-hit and Fatecarver's shield, staying alive is nearly automatic.
 
 ---
@@ -126,7 +126,7 @@ Buy every passive in lines with a slotted skill; priorities if short:
 | 4 | Hero's Vigor | buy max | max health |
 | 5 | Tumbling | buy max | cheaper dodge rolls |
 | 6 | Sprinter + Hasty | minimum points | connectors only |
-| 7 | **Bastion** | **SLOT** (50) | +15% shields — directly buffs the Fatecarver shield she lives inside |
+| 7 | **Bastion** | **SLOT** (50) | +shield strength — directly buffs the Fatecarver shield she lives inside |
 | 8 | Defiance | buy max | mitigation |
 | 9 | Mystic Tenacity | buy max | less stun time (stuns are this build's weakness) |
 | 10 | Sustained by Suffering | buy (50), swap option | debuff-heavy fights (in for Rejuvenation) |
@@ -150,12 +150,12 @@ Buy every passive in lines with a slotted skill; priorities if short:
 ---
 
 ## Notes
-- **Bastion is this build's secret weapon** — no other build in the household gets 15% value out of it, because no one else lives inside a damage shield
+- **Bastion is this build's secret weapon** — no other build in the household gets the same value out of it, because no one else lives inside a damage shield
 - The beam gets interrupted by stuns — content with frequent CC is this build's one weakness; block-cancel the beam when she sees a big wind-up
 - Precognition ult (*Psijic Order*) for the handful of solo-impossible stun mechanics
 - Pairs hilariously with either DK: DK draws the hits, Arcanist deletes the room from 22 meters
 
-*Source: Hyperioxes One-Bar Stamina Arcanist Solo Build. Verify Class Mastery picks and any renamed skills against U50 in-game tooltips. Revised 2026-08-16.*
+*Source: Hyperioxes One-Bar Stamina Arcanist Solo Build (written U44 — see the note at the top about what has changed since). Verify Class Mastery picks and any renamed skills against U50 in-game tooltips. Revised 2026-08-18.*
 
 ---
 

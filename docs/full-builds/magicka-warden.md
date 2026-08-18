@@ -2,11 +2,11 @@
 ### Solo PvE • Group Content • PvP • CP Roadmap (1200 → 1800)
 
 **Character:** Magicka Warden, pure class (no subclass), Class Mastery active
-**Verified against:** U50 Magicka Warden solo skill core (Hyperioxes primary; cross-checked ESO-Hub / Alcast / UESP for every morph name). Frost-themed DPS with class-native heals stacked on Pale Order.
+**Verified against:** morph names cross-checked against ESO-Hub / UESP / Alcast (U50). **Provenance, honestly:** these bars were **constructed here** from the household's verified [Stamina Warden](stamina-warden.md) chassis rebuilt around magicka — they were not taken from a published build. A real published pure-class U50 Magicka Warden solo build **does** exist at <https://hyperioxes.com/eso/solo/magicka-warden-build> (clears vHM Scalecaller Peak, vHM Falkreath Hold, vCastle Thorn, vFrostvault) — **re-verify this page against it** before committing gold. Frost-themed DPS with class-native heals stacked on Pale Order.
 **Philosophy:** Kick ass and don't die. Warden is a *naturally tanky* class — your class heals (**Polar Wind**, **Enchanted Growth**) and Northern Storm's Major Protection are layered on top of Pale Order, so damage that heals you plus real burst heals mean you rarely fall over. Survivability is weighted above raw DPS; a 2–5% parse gap is noise.
 **Weapon note:** this is the **melee** Magicka Warden — dual daggers front, ice staff back, up close, all content. The staff is your *ranged option*, not the default (swap the daggers to an inferno/lightning staff and nothing else changes). Want a full stamina Warden instead? → [Stamina Warden](stamina-warden.md).
 
-> **Confidence key:** Skill names and morph sources are verified against current U50 tooltips (ESO-Hub / UESP / Alcast). The Solo PvE bars mirror the household's verified Stamina Warden chassis rebuilt around magicka. Group and PvP sections are directional — verify the live Hyperioxes/Alcast pages and your in-game tooltips before spending gold. In-game tooltips beat every source, including this file.
+> **Confidence key:** Skill names and morph sources are verified against current U50 tooltips (ESO-Hub / UESP / Alcast). The Solo PvE bars are **household-constructed** from the Stamina Warden chassis, not lifted from a published build — check them against the live Hyperioxes Magicka Warden solo build linked above. Group and PvP sections are directional. In-game tooltips beat every source, including this file.
 
 ---
 
@@ -30,30 +30,32 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 
 | Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
-| 1. Screaming Cliff Racer (morph of Dive, *Animal Companions*) | 1. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) |
+| 1. Wield Soul (scribed grimoire, *Soul Magic*; scripts: Frost / **Druid's Resurgence** / Resolve) | 1. Blue Betty (morph of Betty Netch, *Animal Companions*) |
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
 | 3. Fetcher Infection (morph of Swarm, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
-| 4. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Blue Betty (morph of Betty Netch, *Animal Companions*) | 5. Enchanted Growth (morph of Fungal Growth, *Green Balance*) |
-| **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the Advanced Species crit-damage passive; you can summon the bear or leave it, but never spend ult on it* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, ramping +damage-done buff, and **Major Protection (−10% damage taken)** |
+| 4. Traveling Knife (scribed grimoire, *Dual Wield*; scripts: Poison / Assassin's Misery / Force) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
+| 5. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) | 5. Enchanted Growth (morph of Fungal Growth, *Green Balance*) |
+| **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted **only** for the Advanced Species crit-damage passive, which comes from **slotting** an Animal Companions ability, not from summoning. Don't summon it, don't spend Ultimate on it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking to 450**, and **Major Protection (−10% damage taken)** |
 
 **What each does:**
-- **Screaming Cliff Racer** — your magicka spammable. Deals more damage the farther you are and sets ranged targets Off Balance, then quadruples its Weapon/Spell Damage buff off Off-Balance enemies. Up close (your default) you forgo the distance bonus but still get a cheap, hard-hitting spammable that feeds Advanced Species; it's the skill that *shines* on the ranged staff variant.
+- **Wield Soul** — your spammable, and the same one your Stam Warden runs. With the **Druid's Resurgence** script it restores **600 Stamina and Magicka per cast**, so your filler button is also your sustain. (You scribe, so this costs you nothing but a grimoire slot.)
+- **Traveling Knife** — the build's only source of **Minor Force (+10% Critical Damage)**, which matters a lot on a crit-stacked Warden. **Deliberately overcast it** — press it more often than its duration needs. It costs *Stamina*, so every extra cast is damage you're paying for out of the resource pool you aren't using, which quietly props up your Magicka sustain. Dual Wield line, so it can only live on the dagger bar.
 - **Deep Fissure** — delayed burst that applies **Major AND Minor Breach** (your armor shred, no group needed). Fire it on cooldown; the resurface hit is big.
 - **Fetcher Infection** — a DoT that also applies **Minor Vulnerability** (+5% damage taken on the target), and every second cast hits 60% harder. Cheap, long, refresh on the blink.
 - **Polar Wind** — burst heal that **scales off your max Health**, not the target's — your panic button, and it gets stronger the tankier you build.
-- **Blue Betty** — magicka back over time (your sustain), **Major Sorcery** (spell damage), and every 5s it either purges a debuff off you or buffs your damage. This is why you don't need a sustain CP crutch.
-- **Ulfsild's Contingency** — scribed DoT that detonates on a delay; the Frost script keeps it on-theme. **No scribing?** Slot **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) here instead — Major Resolve is a flat survivability gain and needs no scripts.
+- **Blue Betty** — magicka back over time (your sustain), **Major Sorcery** (spell damage), and every 5s it either purges a debuff off you or buffs your damage. It lives on the back bar because it's a ~20s cast-and-forget, not something you press in the fight.
 - **Winter's Revenge** — ground DoT with an elevated status-proc chance; enormous when it's stacking Chilled procs (which feed Wild Adaptation).
-- **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed plus Major Breach and Minor Magickasteal. Its real job here is *feeding status effects* to Wild Adaptation and keeping Major Breach at near-100% uptime between Deep Fissure casts.
+- **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed plus **Major Breach**. It does **not** give Minor Magickasteal — that's **Elemental Drain**, the *other* morph of Weakness to Elements. Its real job here is *feeding status effects* to Wild Adaptation and keeping Major Breach at near-100% uptime between Deep Fissure casts.
 - **Elemental Blockade** — ice ground DoT; with the ice staff it keeps everything Chilled (Minor Brittle via Glacial Presence passive).
 - **Enchanted Growth** — a heal that also grants **Minor Intellect + Minor Endurance** (magicka/stamina recovery) — layered healing plus a sustain top-up in one button.
-- **Advanced Species** — +5% crit damage per slotted Animal Companions ability (Cliff Racer, Deep Fissure, Fetcher Infection, Blue Betty, Wild Guardian = five of them). That's why Wild Guardian just sits slotted.
+- **Advanced Species** — +5% crit damage per slotted Animal Companions ability, counted **per bar**. Front bar: Deep Fissure, Fetcher Infection, Wild Guardian (three). Back bar: Blue Betty. That's why Wild Guardian just sits slotted. Adding Wield Soul and Traveling Knife costs you two Animal Companions slots up front — you're trading ~10% crit damage for Minor Force plus a spammable that refunds 600 of each resource, which is the better deal on a build with no other Minor Force and no sustain skill besides Blue Betty.
 
-*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (feeds sustain alongside Blue Betty). The ice back bar is correct — it powers Elemental Blockade + the Chilled procs that Wild Adaptation eats. Prefer to fight at range? Swap the two daggers for an **inferno or lightning staff** front bar — Screaming Cliff Racer's distance bonus comes online, the rotation is identical, and you shift toward Light armor. That's the only change; there's no separate ranged guide for Warden.*
+*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (feeds sustain alongside Blue Betty). The ice back bar is correct — it powers Elemental Blockade + the Chilled procs that Wild Adaptation eats. Prefer to fight at range? Swap the two daggers for an **inferno or lightning staff** front bar — Traveling Knife comes off (Dual Wield line) and **Screaming Cliff Racer** takes its slot, with its distance bonus and Off Balance now actually online; the rest of the rotation is identical, and you shift toward Light armor. There's no separate ranged guide for Warden.*
 
 ### Situational swaps (with skill line sources)
-- **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) — Major Resolve (armor); the non-scribed slot-5 answer and a flat survivability gain for hard fights
+- **Screaming Cliff Racer** (morph of Dive, *Animal Companions*) — the **ranged** spammable, and the reason it isn't the default: it only sets an enemy Off Balance **beyond 7 metres**, and its 100 Weapon/Spell Damage buff **quadruples to 400 only after you damage an Off Balance enemy**. Standing in melee — your normal playstyle — forfeits *both*, leaving a plain spammable with no sustain return. Take it on the ranged staff variant, where it's excellent; on daggers, Wield Soul wins.
+- **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Resolve) — a delayed-detonation DoT; comes in for Enchanted Growth or Winter's Revenge when you want more damage than healing. **No scribing on a given character?** **Frozen Armor** (below) is the non-scribed answer, and **Screaming Cliff Racer** replaces Wield Soul as the spammable.
+- **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) — Major Resolve (armor); the non-scribed answer and a flat survivability gain for hard fights
 - **Budding Seeds** (morph of Healing Seed, *Green Balance*) — a HoT field + burst bloom for sustained-pressure fights; replaces Enchanted Growth when you want more raw healing than recovery
 - **Arctic Blast** (other morph of Arctic Wind, *Winter's Embrace*) — trades Polar Wind's pure burst heal for a heal-**and**-stun AoE DoT; take it when you need to peel adds
 - **Shimmering Shield** (morph of Crystallized Shield, *Winter's Embrace*) — absurd shield vs projectiles only; situational but build-defining where it works
@@ -63,15 +65,15 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 ### Rotation — a sweep, not a checklist
 Think of it as **"lay the ground, then live on the front bar."**
 
-1. **Back bar, top to bottom:** Ulfsild's → Winter's Revenge → Elemental Susceptibility → Elemental Blockade → Enchanted Growth. Fire **Northern Storm** here when it's up.
-2. **Swap to daggers.** Deep Fissure → Fetcher Infection → Blue Betty (only every ~20s).
-3. **Spam Screaming Cliff Racer.** That's your filler and light-attack weave.
+1. **Back bar, top to bottom:** Blue Betty (only every ~20s) → Winter's Revenge → Elemental Susceptibility → Elemental Blockade → Enchanted Growth. Fire **Northern Storm** here when it's up.
+2. **Swap to daggers.** Deep Fissure → Fetcher Infection → Traveling Knife.
+3. **Spam Wield Soul**, and re-press **Traveling Knife** whenever there's a spare GCD — overcasting it is intentional, since its Stamina cost is free damage from a pool you aren't spending. That's your filler and light-attack weave.
 4. **Getting hurt? Polar Wind.** It heals off your max health — press it and keep going.
 5. When the back-bar DoTs blink (~10–20s), swap back, re-sweep 1, swap forward. Repeat.
 
-**Short version:** ice bar once → daggers → Cliff Racer to attack, Polar Wind to survive, refresh DoTs when they blink.
+**Short version:** ice bar once → daggers → Wield Soul to attack, Traveling Knife whenever it's free, Polar Wind to survive, refresh DoTs when they blink.
 
-**Pre-buff before pulls:** Blue Betty, Enchanted Growth, Winter's Revenge, Elemental Susceptibility, Ulfsild's, Deep Fissure.
+**Pre-buff before pulls:** Blue Betty, Enchanted Growth, Winter's Revenge, Elemental Susceptibility, Traveling Knife, Deep Fissure.
 
 ---
 
@@ -101,7 +103,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 **Fallback ladders (you don't need trial gear — you own the crafted answers):**
 - Body: Aerie's Cry → **Order's Wrath (crafted, you own it, ~−4 to −6%)** → Tide-Born Wildstalker (crafted) → Mother's Sorrow (overland)
-- Weapons/jewelry: Sul-Xan → Whorl of the Depths → **Deadly Strike (crafted, you own it)** — this build is DoT/channel-heavy (Fetcher, Winter's Revenge, Blockade, Ulfsild's), so Deadly Strike's +15% DoT/channel damage lands at only ~−3 to −5% and is usable today
+- Weapons/jewelry: Sul-Xan → **Ansuul's Torment** (use it in fights where you can interrupt something at least once every 30 seconds — its bonus keys off interrupts, so it's dead weight in fights that never give you one) → Whorl of the Depths → **Deadly Strike (guild traders — you own it)** — this build is DoT/channel-heavy (Fetcher, Winter's Revenge, Blockade), so Deadly Strike's +15% DoT/channel damage lands at only ~−3 to −5% and is usable today
 
 **Mundus:** The Thief (crit) default → The Atronach if a fight out-drains Blue Betty → The Lady for the nastiest content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for one-shot fights (only ~−5% damage, and Polar Wind heals harder for it)
@@ -123,15 +125,15 @@ The solo build clears normal/vet 4-mans as-is. For optimized group DPS:
 
 ## 4. PvP (Cyrodiil & Battlegrounds)
 
-Warden PvP translates well from this chassis. Verified directionally against **Alcast's U50 Magicka Warden PvP** framework; season set metas rotate, so confirm current pieces on the live page before spending gold.
+Warden PvP translates well from this chassis. Verified against **Alcast's U50 Magicka Warden PvP build, "Frostcloak"**; season set metas rotate, so confirm current pieces on the live page before spending gold.
 
 **What carries over:** **Polar Wind** becomes your money burst heal (max-health scaling is PvP gold), **Deep Fissure** burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Blue Betty purge, Northern Storm as a brawler ult, Frozen Armor for resolve.
 
-**Setup:** **Heavy armor or 5-1-1**, ~30k health, **Impen** traits, Health/tri-stat enchants — burst and mobility while staying tanky.
+**Setup ("Frostcloak"):** **Light armor** — not Heavy — with **Impen** traits, built around roughly **50k Magicka and 30k Health**. The survivability comes from the enormous magicka pool feeding shields and heals, not from armor weight.
 
-**Sets (directional):** a Weapon/Spell-Damage-heavy survival frame — **Rallying Cry** back bar + a damage set you already own (**Deadly Strike** is a legitimate option), a monster set (**Balorgh** for ultimate-scaling burst), and a survival mythic. Note: builds that *subclass* are **not for you** — subclassing disables Class Mastery. Stick to pure-class-compatible references.
+**Sets:** **Necropotence** + **Bright-Throat's Boast** + **Kjalnar's Nightmare** (monster set). Note: builds that *subclass* are **not for you** — subclassing disables Class Mastery. Stick to pure-class-compatible references.
 
-*Source: [Alcast U50 Magicka Warden PvP](https://alcasthq.com/eso-magicka-warden-pvp-build/). Season metas rotate — the live page and in-game tooltips override.*
+*Source: [Alcast U50 Magicka Warden PvP "Frostcloak"](https://alcasthq.com/eso-magicka-warden-build-pvp/). Season metas rotate — the live page and in-game tooltips override.*
 
 ---
 
@@ -142,7 +144,8 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 - **Animal Companions:** all — **Advanced Species** (+5% crit damage per slotted skill) is why five of your slots live here.
 - **Winter's Embrace:** all — Polar Wind, Winter's Revenge, and Northern Storm live here, and **Glacial Presence** feeds the Chilled/Brittle engine.
 - **Green Balance:** all — Enchanted Growth lives here.
-- **Dual Wield + Destruction Staff:** the flat-damage passives — both weapon lines are on your bars.
+- **Dual Wield + Destruction Staff:** the flat-damage passives — both weapon lines are on your bars, and Traveling Knife is a Dual Wield grimoire.
+- **Soul Magic:** Wield Soul lives here.
 - **Medium Armor:** all — the 6-Medium body is this build's chassis. **Light Armor:** Concentration (penetration), for the belt and the ranged staff variant.
 - **Undaunted:** Undaunted Mettle — HIGH.
 - **Fighters Guild:** Slayer — HIGH.
@@ -161,7 +164,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
-| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Cliff Racer, Deep Fissure |
+| 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Wield Soul, Deep Fissure, Traveling Knife |
 | 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage |
 | 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (Advanced Species crit damage compounds this) |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
@@ -174,7 +177,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Thaumaturge** | buy (50), swap option | +DoT/channel damage — this build runs real DoTs (Fetcher, Winter's Revenge, Blockade, Ulfsild's); in for Wrathful Strikes on DoT-heavy fights |
+| 14 | **Thaumaturge** | buy (50), swap option | +DoT/channel damage — this build runs real DoTs (Fetcher, Winter's Revenge, Blockade); in for Wrathful Strikes on DoT-heavy fights |
 | 15 | **Force of Nature** | buy (50), instanced swap | penetration per status effect — you stack them constantly, so it caps fast; swap in for groups/instanced |
 | 16 | Ironclad / Enduring Resolve / Duelist's Rebuff | buy (50), swap options | direct / DoT / single-target mitigation for specific fights |
 
@@ -218,14 +221,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ## 6. SHOPPING LIST (in priority order)
 
-1. **Scribing unlocked** (Gold Road questline) → Ulfsild's Contingency (you already have scribing)
+1. **Scribing unlocked** (Gold Road questline) → **Wield Soul** (Druid's Resurgence script) and **Traveling Knife** — two of your five front-bar slots (you already have scribing)
 2. **Aerie's Cry** — Infinite Archive (Warden class set; two-player, farm with your wife)
 3. **Crushing Wall Ice Staff** — vet Maelstrom Arena
 4. **Slimecraw** — vet Wayrest Sewers I (you likely own it; at 1 piece you're only buying the stat line, so don't farm a different helm for its proc — see [Gear slot math](../shared/gear-math.md))
 5. **Sul-Xan's Torment** — Rockgrove; until then crafted **Order's Wrath** (body) + **Deadly Strike** (weapons/jewelry), both owned, at a ~4–6% penalty
 6. Keep: Ring of the Pale Order, Order's Wrath, Deadly Strike
 
-*Sources: U50 Magicka Warden solo skill core (Hyperioxes primary), with every morph name cross-checked against ESO-Hub / UESP / Alcast. Skill names current as of Update 50 — ZOS renames abilities every class refresh, so trust your in-game tooltips over any guide. Revision date: 2026-08-16.*
+*Sources: household-constructed bars (Stamina Warden chassis rebuilt around magicka), with every morph name cross-checked against ESO-Hub / UESP / Alcast; re-verify against the live [Hyperioxes Magicka Warden solo build](https://hyperioxes.com/eso/solo/magicka-warden-build). PvP from [Alcast "Frostcloak"](https://alcasthq.com/eso-magicka-warden-build-pvp/). Skill names current as of Update 50 — ZOS renames abilities every class refresh, so trust your in-game tooltips over any guide. Revision date: 2026-08-18.*
 
 ---
 
