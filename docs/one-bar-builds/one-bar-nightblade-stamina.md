@@ -152,7 +152,7 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 - **Stuns are the one weakness** — a one-bar has no second-bar escape. Dodge-roll big wind-ups; Precognition ult (*Psijic Order*) covers the handful of solo-impossible stun mechanics.
 - **Want a helper on the bar?** Swap Endless Hail (single-target fights only) for **Dark Shade** (morph of Summon Shade, *Shadow*) — it applies Minor Maim so enemies hit her softer.
 
-*Source: Hyperioxes / ArzyeL / Alcast U50 Stamina Nightblade bow builds (spectral bow + Poison Injection + Killer's Blade + Leeching Strikes), adapted to one bar and her no-scribe constraint. Class Mastery and renamed skills verified vs ESO-Hub / UESP / Fextralife U50 — confirm on her in-game tooltips. Revision: 2026-08-16.*
+*Source: Hyperioxes / ArzyeL / Alcast U50 Stamina Nightblade bow builds (spectral bow + Poison Injection + Killer's Blade + Siphoning Attacks), adapted to one bar and her no-scribe constraint. Class Mastery and renamed skills verified vs ESO-Hub / UESP / Fextralife U50 — confirm on her in-game tooltips. Skill tooltips (Grim Focus, Killer's Blade, Siphoning Attacks, Pressure Points) re-verified against current ESO-Hub tooltips 2026-08-18. Revision: 2026-08-18.*
 
 ---
 

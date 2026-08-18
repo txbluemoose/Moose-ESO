@@ -16,7 +16,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 
 | Mode | Mastery 1 | Mastery 2 | Situational |
 |---|---|---|---|
-| Default | ✅ **Unbound Potential** — upgrades **Fated Fortune** to also grant **+30% damage done** for its duration. This build crits constantly (Fated Fortune scales off Crux), so it's the single biggest damage pick and costs you nothing defensive. | ✅ **Erudite's Rigor** — upgrades **Fatewoven Armor** (you run its morph, Cruxweaver Armor) to restore Mag/Stam and grant Ultimate when hit, applies **Minor Cowardice** to attackers (they hit softer) and grants **Major Vitality** (every heal you take lands harder — Flail, Pale Order, Runemend all scale up). Pure "don't die" glue that also fixes sustain. | **Abyssal Emergence** replaces Erudite's Rigor when a fight isn't threatening — your Languid Eye ult instantly refills 3 Crux + grants a big Spell Damage buff, a pure parse pick. |
+| Default | ✅ **Unbound Potential** — upgrades **Fated Fortune** to also grant **+30% damage done** for its duration. This build crits constantly (Fated Fortune scales off Crux), so it's the single biggest damage pick and costs you nothing defensive. | ✅ **Erudite's Rigor** — upgrades **Fatewoven Armor** (you run its morph, Cruxweaver Armor) to restore Magicka/Stamina when hit, applies **Minor Cowardice** to attackers (they hit softer) and grants **Major Vitality** (every heal you take lands harder — Flail, Pale Order, Runemend all scale up). Pure "don't die" glue that also fixes sustain. | **Abyssal Emergence** replaces Erudite's Rigor when a fight isn't threatening — your Languid Eye ult instantly refills 3 Crux + grants a big Spell Damage buff, a pure parse pick. |
 
 *Both suit the two-bar setup: Unbound Potential rides Fated Fortune (a passive, always live); Erudite's Rigor rides Cruxweaver Armor, which sits on your back bar and stays active through the bar swap. Masteries verified vs ESO-Hub / Alcast U50 — confirm the exact numbers on your bar.*
 
@@ -225,7 +225,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 6. **Perfected Crushing Wall Lightning Staff** — vet Maelstrom Arena (the *last* upgrade; Deadly Strike staff is fine until then)
 7. **Ansuul's Torment** — Sanity's Edge trial (the endgame body/jewelry upgrade over Order's Wrath/Deadly Strike, when you want it)
 
-*Sources: Hyperioxes U50 Magicka Arcanist Solo Build + Alcast U50 Magicka Arcanist (skill/set/Class Mastery mechanics cross-checked vs ESO-Hub / UESP, U50). Skill names current as of U50 — trust in-game tooltips over any guide, including this one. A few morphs are flagged ⚠️ "confirm in-game" in the bars above; verify those on your character before a hard clear. Revised 2026-08-16.*
+*Sources: Hyperioxes U50 Magicka Arcanist Solo Build + Alcast U50 Magicka Arcanist (skill/set/Class Mastery mechanics cross-checked vs ESO-Hub / UESP, U50). Skill names current as of U50 — trust in-game tooltips over any guide, including this one. A few morphs are flagged ⚠️ "confirm in-game" in the bars above; verify those on your character before a hard clear. Revised 2026-08-18.*
 
 ---
 

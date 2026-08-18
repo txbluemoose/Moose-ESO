@@ -83,7 +83,7 @@ Werewolf can't bar-swap, so it's **one loadout**: armor + jewelry + equipped wea
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. If your Offensive Penetration is under the 18,200 cap, Valkyn Skoria's 1-piece (1,487 Offensive Penetration) is the better stat. See [Gear slot math](../shared/gear-math.md). In-game tooltips override — confirm on the bar.*
 
-**Group content:** in grouped content with a healer, drop **Pale Order** for a damage ring (complete the 3rd Deadly Strike jewelry piece) — same as every other build in this repo.
+**Group content:** in grouped content with a healer, drop **Pale Order** — its heal drops 4% per grouped ally — and use the freed ring to complete a **2-piece monster set** (helm + shoulders), which is the better trade in a group. Same call as every other build in this repo; the math is in [Gear slot math](../shared/gear-math.md).
 
 **Mundus:** The Thief (crit) → The Lover for penetration
 **Attributes:** 64 Stamina (shift to Health for the nastiest fights)

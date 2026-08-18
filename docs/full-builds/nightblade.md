@@ -243,7 +243,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ---
 
-*Sources: Hyperioxes U50 Solo Stamina Nightblade build (verified vs the live page, August 2026). Class Mastery names verified vs ESO-Hub / Alcast U50 lists. Group and PvP sections are directional adaptations — point to the live Hyperioxes group build and current Alcast PvP page respectively before committing gold. Skill names current as of Update 50; ZOS renames Nightblade abilities every class refresh, so trust your in-game tooltips over any guide. Revision: 2026-08-15.*
+*Sources: Hyperioxes U50 Solo Stamina Nightblade build (verified vs the live page, August 2026). Class Mastery names verified vs ESO-Hub / Alcast U50 lists. Group and PvP sections are directional adaptations — point to the live Hyperioxes group build and current Alcast PvP page respectively before committing gold. Skill names current as of Update 50; ZOS renames Nightblade abilities every class refresh, so trust your in-game tooltips over any guide. Skill tooltips (Grim Focus, Killer's Blade, Siphoning Strikes morphs, Shadowy Disguise, Veiled Strike's skill line, Pressure Points) and the full Class Mastery list re-verified against current ESO-Hub tooltips 2026-08-18. Revision: 2026-08-18.*
 
 ---
 

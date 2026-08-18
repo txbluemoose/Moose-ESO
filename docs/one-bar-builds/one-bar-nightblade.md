@@ -149,7 +149,7 @@ Buy every passive in every line she has a skill slotted from. The load-bearing o
 - **Stuns are the one weakness** — a one-bar has no second-bar escape. Block-cancel Swallow Soul when she sees a big wind-up; Precognition ult (*Psijic Order*) covers the handful of solo-impossible stun mechanics.
 - **Ice staff alternative:** run an Ice staff instead of Inferno if she wants cheaper blocking and more survivability; Elemental Susceptibility and everything else work the same.
 
-*Source: Hyperioxes U50 Magicka Nightblade solo builds (Swallow Soul heal-spammable), adapted to one bar and her no-scribe constraint. Class Mastery and renamed skills verified vs ESO-Hub / Alcast U50 — confirm on her in-game tooltips. Revision: 2026-08-15.*
+*Source: Hyperioxes U50 Magicka Nightblade solo builds (Swallow Soul heal-spammable), adapted to one bar and her no-scribe constraint. Class Mastery and renamed skills verified vs ESO-Hub / Alcast U50 — confirm on her in-game tooltips. Skill tooltips (Grim Focus, Swallow Soul, Sap Essence, Shadowy Disguise, Pressure Points) re-verified against current ESO-Hub tooltips 2026-08-18. Revision: 2026-08-18.*
 
 ---
 

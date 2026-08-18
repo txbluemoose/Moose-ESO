@@ -248,7 +248,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ---
 
-*Sources: Hyperioxes U50 Solo Magicka Nightblade build (Concealed Weapon spammable, Swallow Soul heal-spammable, An Eye for Exploitation, Soul Harvest ult). Morphs and skill lines cross-checked vs ESO-Hub / UESP / Fextralife U50. Class Mastery names verified vs ESO-Hub / Alcast U50 lists. Group and PvP sections are directional adaptations — point to the live Hyperioxes group build and current Alcast PvP page respectively before committing gold. Skill names current as of Update 50; ZOS renames Nightblade abilities every class refresh, so trust your in-game tooltips over any guide. Revision: 2026-08-16.*
+*Sources: Hyperioxes U50 Solo Magicka Nightblade build (Concealed Weapon spammable, Swallow Soul heal-spammable, An Eye for Exploitation, Soul Harvest ult). Morphs and skill lines cross-checked vs ESO-Hub / UESP / Fextralife U50. Class Mastery names verified vs ESO-Hub / Alcast U50 lists. Group and PvP sections are directional adaptations — point to the live Hyperioxes group build and current Alcast PvP page respectively before committing gold. Skill names current as of Update 50; ZOS renames Nightblade abilities every class refresh, so trust your in-game tooltips over any guide. Skill tooltips (Grim Focus, Killer's Blade, Concealed Weapon, Swallow Soul, Sap Essence, Shadowy Disguise, Siphoning Strikes morphs, Pressure Points) and the full Class Mastery list re-verified against current ESO-Hub tooltips 2026-08-18. Revision: 2026-08-18.*
 
 ---
 
