@@ -2,11 +2,14 @@
 ### Solo PvE • Group Content • PvP • CP Roadmap (1200 → 1800)
 
 **Character:** Stamina Dragonknight, pure class (no subclass), Class Mastery active
-**Verified against:** the current U50 Hyperioxes / Alcast Solo Stamina Dragonknight (poison/DoT solo build; soloes vet HM dungeons). Skill names checked against U50 sources — the DK was heavily reworked in U49/U50, so trust in-game tooltips over any guide.
-**Philosophy:** Kick ass and don't die. Poison DoTs that tick while you heal through them, layered self-healing (Coagulating Blood burst + Cauterize aura + Pale Order), survivability weighted over parse.
+**Verified against:** the current U50 Hyperioxes / Alcast Solo Stamina Dragonknight (flame/DoT solo build; soloes vet HM dungeons). Skill names checked against U50 sources — the DK was heavily reworked in U49/U50, so trust in-game tooltips over any guide.
+**Philosophy:** Kick ass and don't die. Flame DoTs that tick while you heal through them, layered self-healing (Blood of the Elder Dragon burst + Cauterize aura + Pale Order), survivability weighted over parse.
 **Weapon note:** this is the **melee** build — dual daggers front bar, two-hander back, medium armor. It's how you actually play: up close, all content, survivability first. This is the **stamina sibling** of your [Magicka Dragonknight](magicka-dragonknight.md); if you'd rather cast from range, that guide (and its two-staff ranged variant) is the magicka answer.
 
-> **Confidence key:** Class skills (Stone Giant, Venomous Claw, Noxious Breath, Igneous Weapons, Coagulating Blood, Cauterize) are verified against U50 sources. Weapon-line morphs (dual-wield, two-handed) survived the DK rework unchanged but confirm the exact names on your bar. The Group and PvP sections are directional — verify bars against the live build before a progression run or before spending gold on PvP sets.
+> **Confidence key:** Class skills (Magma Fist, Searing Claw, Disintegrating Dragonfire, Igneous Weapons, Blood of the Elder Dragon, Cauterize) are verified against U50 sources. Weapon-line morphs (dual-wield, two-handed) survived the DK rework unchanged but confirm the exact names on your bar. The Group and PvP sections are directional — verify bars against the live build before a progression run or before spending gold on PvP sets.
+
+!!! warning "Rebuilt after the U49 Dragonknight rework — re-check the bar in-game"
+    This guide was originally written with **pre-rework skill names** (Venomous Claw, Noxious Breath, Stone Giant, Coagulating Blood). Update 49 renamed them to **Searing Claw**, **Disintegrating Dragonfire** (which also moved to *Draconic Power*), **Magma Fist** (base: Superheated Ward) and **Blood of the Elder Dragon**, and converted the Dragonknight's Poison damage to **Flame**. The names below are corrected and verified against the U49 patch notes, but the rework also changed *mechanics* — notably **Molten Whip is now a spender**, not a spammable (each non-Whip DK cast builds a Seething Fury stack). Treat the bar order and rotation here as directional and confirm against the live [Hyperioxes U50 Stamina Dragonknight build](https://hyperioxes.com/eso/solo/stamina-dragonknight-build) before a hard clear.
 
 ---
 
@@ -32,21 +35,21 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 
 | Front Bar (Dual Daggers) | Back Bar (Two-Handed) |
 |---|---|
-| 1. **Stone Giant** (morph of Stonefist, *Earthen Heart*) | 1. **Igneous Weapons** (morph of Molten Weapons, *Earthen Heart*) |
-| 2. **Venomous Claw** (morph of Searing Strike, *Ardent Flame*) | 2. **Cauterize** (morph of Inferno, *Ardent Flame*) |
-| 3. **Noxious Breath** (morph of Fiery Breath, *Ardent Flame*) | 3. **Stampede** (morph of Critical Charge, *Two-Handed*) |
-| 4. **Coagulating Blood** (morph of Dragon Blood, *Draconic Power*) | 4. **Carve** (morph of Cleave, *Two-Handed*) |
+| 1. **Magma Fist** (morph of Superheated Ward, *Earthen Heart*) | 1. **Igneous Weapons** (morph of Molten Weapons, *Earthen Heart*) |
+| 2. **Searing Claw** (morph of Searing Strike, *Ardent Flame*) | 2. **Cauterize** (morph of Inferno, *Ardent Flame*) |
+| 3. **Disintegrating Dragonfire** (morph of Fiery Breath, *Ardent Flame*) | 3. **Stampede** (morph of Critical Charge, *Two-Handed*) |
+| 4. **Blood of the Elder Dragon** (morph of Dragon Blood, *Draconic Power*) | 4. **Carve** (morph of Cleave, *Two-Handed*) |
 | 5. **Deadly Cloak** (morph of Blade Cloak, *Dual Wield*) | 5. **Executioner** (morph of Reverse Slash, *Two-Handed*) |
 | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) |
 
 *Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina**. That off-hand Absorb Stamina is deliberate — it's the same lever that patched your Mag DK's sustain gap, and stamina builds feel drain harder without Soul of Flame's magicka-return morph doing the work. (Confirm the base-skill names of Stampede/Deadly Cloak on your bar — the weapon lines weren't part of the DK rework, but tooltips override.)*
 
 ### What each does for your "don't die" goal
-- **Stone Giant** — your spammable. Each hit applies a **Stagger** stack (target takes more damage from everything); keep it rolling and leave no more than ~3s between casts. Direct physical damage, so it feeds Wildfire Embers.
-- **Venomous Claw** — scaling poison DoT: the longer it sits on a target, the harder it ticks. Cast, then don't touch it.
-- **Noxious Breath** — applies **Major Breach** (your solo penetration — you have no group to provide it) plus an AoE poison DoT. This is *why* the solo build takes Noxious Breath and not a group morph.
-- **Coagulating Blood** — burst self-heal that scales off your **offensive** stats and heals harder the lower your health. Your panic button; it hits like your gear does.
-- **Cauterize** — grants **Major Savagery/Prophecy** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Incinerate** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Coagulating Blood (burst) + Cauterize (HoT) + Pale Order (per-damage).
+- **Magma Fist** — your spammable. Each hit applies a **Heat Shock** stack (target takes more damage from everything); keep it rolling and leave no more than ~3s between casts. Direct physical damage, so it feeds Wildfire Embers.
+- **Searing Claw** — scaling flame DoT: the longer it sits on a target, the harder it ticks. Cast, then don't touch it.
+- **Disintegrating Dragonfire** — applies **Major Breach** (your solo penetration — you have no group to provide it) plus an AoE flame DoT. This is *why* the solo build takes Disintegrating Dragonfire and not a group morph.
+- **Blood of the Elder Dragon** — burst self-heal that scales off your **offensive** stats and heals harder the lower your health. Your panic button; it hits like your gear does.
+- **Cauterize** — grants **Major Savagery/Prophecy** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Incinerate** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Blood of the Elder Dragon (burst) + Cauterize (HoT) + Pale Order (per-damage).
 - **Igneous Weapons** — Major Brutality/Sorcery + a weapon/spell-damage empower for the group of one that is you.
 - **Stampede / Carve** — Stampede is your gap-closer with a persistent ground DoT (melee engage); Carve is an AoE bleed DoT that also feeds ultimate. Both are DoTs, so Deadly Strike (see §2) supercharges them.
 - **Executioner** — sub-50% finisher. Swap out on trash-only content.
@@ -56,19 +59,19 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 - **Resolving Vigor** — *Alliance War > Assault* — a strong HoT for burst-damage windows and invulnerability phases where Pale Order can't heal you (no damage going out = no Pale Order heal).
 - **Ulfsild's Contingency** — *scribed grimoire, Soul Magic; scripts: Flame / Lingering Torment / Resolve* — you have scribing (Gold Road), so this is a legitimate slot-5 damage-and-utility option in place of Executioner or Deadly Cloak.
 - **Quick Cloak** — *Dual Wield* (other morph of Blade Cloak) — Major Evasion without the bleed if you want a cheaper defensive; Deadly Cloak is the default because it also adds damage.
-- **Green Dragon Blood** — *Dragonknight > Draconic Power* (other morph of Dragon Blood) — swap in over Coagulating Blood for Major Endurance + stamina recovery when a long fight out-drains you; trades burst-heal size for sustain.
+- **Blood of the Green Dragon** — *Dragonknight > Draconic Power* (other morph of Dragon Blood) — swap in over Blood of the Elder Dragon for Major Endurance + stamina recovery when a long fight out-drains you; trades burst-heal size for sustain.
 - **Corrosive Armor** ult — *Dragonknight > Earthen Heart* — caps incoming hits at 6% max HP for 10s; panic ult for one-shot mechanics.
 - **Precognition** ult — *Psijic Order guild line (Summerset)* — for the handful of solo-impossible stuns.
 
 ### Rotation — priority sweep (refresh whatever is highest and expired; don't run it as a rigid 1-through-9 list)
 1. **Buffs first:** Igneous Weapons → Cauterize (back bar), then swap.
-2. **DoTs down:** Noxious Breath (Major Breach) → Venomous Claw → Stampede/Carve on the pull.
-3. **Spam Stone Giant** to keep Stagger up; weave a light attack before every cast.
-4. **Coagulating Blood** the moment your health dips — it's a GCD well spent, not a panic-only button.
+2. **DoTs down:** Disintegrating Dragonfire (Major Breach) → Searing Claw → Stampede/Carve on the pull.
+3. **Spam Magma Fist** to keep Heat Shock up; weave a light attack before every cast.
+4. **Blood of the Elder Dragon** the moment your health dips — it's a GCD well spent, not a panic-only button.
 5. **Execute** with Executioner under 50%.
 6. **Ultimates:** Take Flight is your DPS/engage ult; **Standard of Might** is your "survive this mechanic" ult (damage done up, damage taken down — stand in it).
 
-**Pre-buff before pulls:** Igneous Weapons, Cauterize, then bar-swap and lay Noxious Breath + a DoT before the first Stone Giant.
+**Pre-buff before pulls:** Igneous Weapons, Cauterize, then bar-swap and lay Disintegrating Dragonfire + a DoT before the first Magma Fist.
 
 ---
 
@@ -90,7 +93,7 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 | Front (2 daggers) | — | Charged / Nirnhoned | Poison + Absorb Stamina | Deadly Strike |
 | Back bar (Two-Hander) | — | Infused | Weapon Damage | Maelstrom Greatsword (Merciless Charge) |
 
-*The split: **Deadly Strike** = 2 daggers + 2 jewelry + boots (5). It boosts **damage-over-time and channeled abilities by 15%** — and this build is almost entirely poison DoTs and bleeds (Venomous Claw, Noxious Breath, Stampede, Carve, Deadly Cloak), so Deadly Strike is near-BiS **and craftable, and you already own it**. **Order's Wrath** = 5 body (crit + crit damage, also craftable and owned). **Slimecraw** = 1pc monster helm. **Pale Order** = Ring 2, the mythic — a fixture, do not drop it in solo content. The back-bar **Maelstrom Greatsword** carries its own 2pc (Merciless Charge boosts Cleave/Carve) so it doesn't eat a body-set slot; until you farm it, craft the back-bar greatsword as Deadly Strike or Order's Wrath — you're running full 5+5 either way. In-game tooltips override.*
+*The split: **Deadly Strike** = 2 daggers + 2 jewelry + boots (5). It boosts **damage-over-time and channeled abilities by 15%** — and this build is almost entirely poison DoTs and bleeds (Searing Claw, Disintegrating Dragonfire, Stampede, Carve, Deadly Cloak), so Deadly Strike is near-BiS **and craftable, and you already own it**. **Order's Wrath** = 5 body (crit + crit damage, also craftable and owned). **Slimecraw** = 1pc monster helm. **Pale Order** = Ring 2, the mythic — a fixture, do not drop it in solo content. The back-bar **Maelstrom Greatsword** carries its own 2pc (Merciless Charge boosts Cleave/Carve) so it doesn't eat a body-set slot; until you farm it, craft the back-bar greatsword as Deadly Strike or Order's Wrath — you're running full 5+5 either way. In-game tooltips override.*
 
 **Fallback ladders (you don't need trial gear — the crafted setup clears everything):**
 - Body: Order's Wrath → Deadly Strike (double up if short) → Briarheart / Ancient Dragonguard (both stamina-friendly overland)
@@ -110,9 +113,9 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 Same character, different job: the group provides Major Breach, buffs, and heals, so you drop self-sufficiency for damage.
 
 - **Drop Ring of the Pale Order** — healers exist. Complete a third jewelry piece of your damage set in that slot instead.
-- **Noxious Breath's Major Breach is redundant** if a tank/support provides it — you can keep it for the poison DoT, or swap toward more group-relevant damage.
+- **Disintegrating Dragonfire's Major Breach is redundant** if a tank/support provides it — you can keep it for the flame DoT, or swap toward more group-relevant damage.
 - **Cauterize → Incinerate** — you're not the healer; take the damage morph back (same crit buff).
-- **Coagulating Blood may come off** for another DoT or a group utility slot — the healer covers you.
+- **Blood of the Elder Dragon may come off** for another DoT or a group utility slot — the healer covers you.
 - **Standard of Might stays** — in a group it's also a damage-taken debuff zone that pairs with burn phases.
 
 **Point to the live build before a progression run** — the current Hyperioxes group Stamina Dragonknight DPS list (166k parse in U50) is the reference; verify bars in-game rather than trusting a static table here.
@@ -123,8 +126,8 @@ Same character, different job: the group provides Major Breach, buffs, and heals
 
 DK came out of the U49/U50 rework strong. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
 
-- **Green Dragon Blood** over Coagulating Blood — the recovery and Major Endurance keep you alive under pressure.
-- **Petrify** (*Earthen Heart*) for setup CC before a Stone Giant / Executioner burst.
+- **Blood of the Green Dragon** over Blood of the Elder Dragon — the recovery and Major Endurance keep you alive under pressure.
+- **Petrify** (*Earthen Heart*) for setup CC before a Magma Fist / Executioner burst.
 - **Heavier armor or 5/1/1, ~30k+ health, Impen** on all armor, tri-stat/Health enchants.
 - **Sets:** a stat/weapon-damage set on the front (**Deadly Strike** is a legitimate option you own) + a survival set (Rallying Cry) + a monster set + a survival mythic. **PvP set metas rotate every season** — confirm current pieces on Alcast's live U50 Stamina Dragonknight PvP page before spending gold.
 
@@ -142,20 +145,20 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 | # | Star | Action | What it does for you |
 |---|---|---|---|
-| 1 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything — leads over Thaumaturge because your Stone Giant hits are direct and Wildfire Embers doesn't scale with Thaumaturge |
+| 1 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything — leads over Thaumaturge because your Magma Fist hits are direct and Wildfire Embers doesn't scale with Thaumaturge |
 | 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage (your DoTs + Executioner) |
 | 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits |
-| 4 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Stone Giant, Stampede hits |
+| 4 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Magma Fist, Stampede hits |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | armor penetration |
 | 7 | Tireless Discipline | buy max (20) | max stamina |
-| 8 | Eldritch Insight | buy max (20) | max magicka (Coagulating Blood/Cauterize cost) |
-| 9 | Blessed | buy max (20) | Coagulating Blood + Cauterize heal harder |
+| 8 | Eldritch Insight | buy max (20) | max magicka (Blood of the Elder Dragon/Cauterize cost) |
+| 9 | Blessed | buy max (20) | Blood of the Elder Dragon + Cauterize heal harder |
 | 10 | Quick Recovery | buy max (20) | healing received |
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Thaumaturge** | buy (50), swap option | +DoT damage — swap in for Master-at-Arms on DoT-heavy fights; your poison kit is DoT-dense enough that this is a real option (just not over Wrathful Strikes) |
+| 14 | **Thaumaturge** | buy (50), swap option | +DoT damage — swap in for Master-at-Arms on DoT-heavy fights; your flame kit is DoT-dense enough that this is a real option (just not over Wrathful Strikes) |
 | 15 | Ironclad | buy (50), swap option | −direct damage on hard hitters |
 | 16 | Duelist's Rebuff / Unassailable | buy (50), swap options | single-target / AoE mitigation for specific fights |
 
@@ -213,10 +216,10 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 **Default pick: Isobel, built Tank.** All Heavy / Bolstered armor, Quickened jewelry + 1H sword + shield. Bar order: Provoke → Solar Ward → Beam of Reproach → Holy Ground → On Guard, Ult Baneslayer. She holds aggro off you (worth more than any companion heal given Pale Order already heals you), and her Penetrating Strikes buffs your light-attack weaving — which also helps close your known stamina/weaving gap.
 
-**Alternatives worth knowing:** **Zerith-Var (Tank)** applies Major Breach via Sepulchral Chill — free penetration that could free Noxious Breath for another slot. **Azandar (Tank)** brings Major and Minor Vulnerability, best-rated companion for Infinite Archive.
+**Alternatives worth knowing:** **Zerith-Var (Tank)** applies Major Breach via Sepulchral Chill — free penetration that could free Disintegrating Dragonfire for another slot. **Azandar (Tank)** brings Major and Minor Vulnerability, best-rated companion for Infinite Archive.
 
 Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
 
 ---
 
-*Sources: Hyperioxes U50 Stamina Dragonknight Solo Build, Alcast U50 Solo Stamina Dragonknight, ESO-Hub skill pages (Stonefist/Stone Giant, Searing Strike/Venomous Claw, Inferno/Cauterize/Incinerate, Dragon Blood/Coagulating Blood), U49/U50 DK rework notes. Class skills verified against U50; weapon-line morphs are pre-rework-stable but confirm on your bar. In-game tooltips override every source, including this file. Revised 2026-08-16.*
+*Sources: Hyperioxes U50 Stamina Dragonknight Solo Build, Alcast U50 Solo Stamina Dragonknight, ESO-Hub skill pages (Superheated Ward/Magma Fist, Searing Strike/Searing Claw, Inferno/Cauterize/Incinerate, Dragon Blood/Blood of the Elder Dragon), U49/U50 DK rework notes. Class skills verified against U50; weapon-line morphs are pre-rework-stable but confirm on your bar. In-game tooltips override every source, including this file. Revised 2026-08-16.*

@@ -137,7 +137,7 @@ DK came out of the U49/U50 rework strong — community consensus puts it among t
 **What carries over:** Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve.
 
 **What changes:**
-- **Green Dragon Blood** (Draconic) becomes your burst heal — the U50 morph heals off max health per tick, exactly what a PvP DK wants
+- **Blood of the Green Dragon** (Draconic) becomes your burst heal — the U50 morph heals off max health per tick, exactly what a PvP DK wants
 - **Petrify** (Earthen Heart) got reworked into a snare-then-stun — set up CC before a whip combo
 - **Protect the Brood / Fleetstep Wings** — projectile eating and snare removal, both PvP gold
 - Heavier armor or 5-1-1, ~30k+ health, **Impen** trait on all armor, Health/tri-stat enchants

@@ -14,7 +14,7 @@
 1. **Engulfing Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — THE button. Channeled fire breath, ramps up damage every tick
 2. **Incinerate** (morph of Inferno, *Ardent Flame*) — fiery pulse every 5s + free crit buffs just for being slotted
 3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve (armor) + a DoT + bonus damage on every tick; replaces Fulminating Rune
-4. **Green Dragon Blood** (morph of Dragon Blood, *Draconic Power*) — burst heal off her max health + Major Fortitude; her panic button
+4. **Blood of the Green Dragon** (morph of Dragon Blood, *Draconic Power*) — burst heal off her max health + Major Fortitude; her panic button
 5. **Burning Embers** (morph of Searing Strike, *Ardent Flame*) — DoT that heals her on cast and every tick
 - **Ult: Take Flight** (morph of Dragon Leap, *Draconic Power*) — big leap; while its buff is active, Engulfing always does MAX damage
 
@@ -30,10 +30,10 @@
 2. Breathe fire (Engulfing Dragonfire) over and over
 3. Re-cast the buffs/DoTs when they run out (~every 10–20s — icons flash when expiring)
 4. Take Flight whenever it's ready, then breathe fire hard during its buff
-5. Green Dragon Blood whenever health dips below ~60% — it heals harder the more max health she has
+5. Blood of the Green Dragon whenever health dips below ~60% — it heals harder the more max health she has
 6. Tanky dungeon boss? Swap Burning Embers → Elemental Susceptibility for the Major Breach
 
-**Short version:** buffs and DoTs up (Incinerate → Shatterspike → Embers), breathe fire, Take Flight when it glows, Green Dragon Blood when hurt.
+**Short version:** buffs and DoTs up (Incinerate → Shatterspike → Embers), breathe fire, Take Flight when it glows, Blood of the Green Dragon when hurt.
 
 ---
 
@@ -78,10 +78,10 @@ Rule of thumb at her CP: **buy every passive in every line she has a skill slott
 - **Combustion** — refunds Magicka AND Stamina every second she applies Burning (she applies Burning constantly) — her main sustain passive
 - **Fan the Flames** — up to +50% chance to apply Burning and +25% Burning damage, scaling further per DK ability slotted (her bar is almost all DK abilities)
 - **Traumatic Burns** — enemies she hits with direct Ardent Flame damage take +5% Flame Damage — a permanent damage amp given her kit
-- **A Soul Ablaze** — +8% Healing Taken at all times — makes Green Dragon Blood, Burning Embers, AND the Pale Order ring all heal harder
+- **A Soul Ablaze** — +8% Healing Taken at all times — makes Blood of the Green Dragon, Burning Embers, AND the Pale Order ring all heal harder
 
 ### Class — Draconic Power (all 4, essential)
-Her Engulfing Dragonfire, Green Dragon Blood, and Take Flight live here — buy everything in the line. These are her defense/health passives (health recovery, resistances, healing).
+Her Engulfing Dragonfire, Blood of the Green Dragon, and Take Flight live here — buy everything in the line. These are her defense/health passives (health recovery, resistances, healing).
 
 ### Class — Earthen Heart (all 4, essential)
 Restored when she dropped the subclass. Buy all four — these are DK's resource and mitigation passives (the line that historically holds Battle Roar, which returns health/stamina/magicka when she uses an ultimate — great for her since Take Flight fires often). Buy all four.

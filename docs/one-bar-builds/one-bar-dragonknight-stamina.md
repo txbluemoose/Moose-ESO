@@ -1,27 +1,30 @@
 # One-Bar Stamina Dragonknight Cheat Sheet
-### The "Poison Everything From Range" Build — Bow, One Bar
+### The "Burn Everything From Range" Build — Bow, One Bar
 
 **Character:** Stamina Dragonknight, pure class (no subclass)
-**Verified against:** Hyperioxes / Alcast U50 Stamina Dragonknight (poison/DoT solo). Built as a **bow** one-bar so she stays at range and never has to melee. This is the **stamina/bow sibling** of her [Magicka Dragonknight one-bar](one-bar-dragonknight.md).
-**Playstyle:** Stack poison DoTs from across the room, spam Lethal Arrow, heal through it. Between Coagulating Blood, Pale Order's heal-per-damage, and Standard of Might's damage reduction, staying alive is nearly automatic — and she never leaves range.
+**Verified against:** Hyperioxes / Alcast U50 Stamina Dragonknight (flame/DoT solo). Built as a **bow** one-bar so she stays at range and never has to melee. This is the **stamina/bow sibling** of her [Magicka Dragonknight one-bar](one-bar-dragonknight.md).
+**Playstyle:** Stack flame DoTs from across the room, spam Lethal Arrow, heal through it. Between Blood of the Elder Dragon, Pale Order's heal-per-damage, and Standard of Might's damage reduction, staying alive is nearly automatic — and she never leaves range.
 
 > **Nothing on this bar is scribed** — she doesn't scribe, and this build doesn't ask her to. Every skill is a plain class or bow skill she already has or can train.
+
+!!! warning "Rebuilt after the U49 Dragonknight rework — re-check the bar in-game"
+    This guide was originally written with **pre-rework skill names** (Venomous Claw, Noxious Breath, Stone Giant, Coagulating Blood). Update 49 renamed them to **Searing Claw**, **Disintegrating Dragonfire** (which also moved to *Draconic Power*), **Magma Fist** (base: Superheated Ward) and **Blood of the Elder Dragon**, and converted the Dragonknight's Poison damage to **Flame**. The names below are corrected and verified against the U49 patch notes, but the rework also changed *mechanics* — notably **Molten Whip is now a spender**, not a spammable (each non-Whip DK cast builds a Seething Fury stack). Treat the bar order and rotation here as directional and confirm against the live [Hyperioxes U50 Stamina Dragonknight build](https://hyperioxes.com/eso/solo/stamina-dragonknight-build) before a hard clear.
 
 ---
 
 ## Skills — One Bar (Bow)
 
-1. **Lethal Arrow** (morph of Snipe, *Bow*) — her ranged spammable. Hits hard, and the DK's poison passives (World in Ruin, Combustion) make it cheaper and boost its poison proc.
+1. **Lethal Arrow** (morph of Snipe, *Bow*) — her ranged spammable. Hits hard and still deals **Poison** damage (the Bow line was untouched by the DK rework), so it applies Poisoned for **Combustion** to refund resources off. ⚠️ Note the U49 rework converted the DK's *class* kit from Poison to **Flame**, so her class DoTs and her bow spammable now proc two different status effects — confirm which passives actually fire on her bar.
 2. **Endless Hail** (morph of Volley, *Bow*) — big AoE ground DoT; drop it and let it tick while she does everything else.
-3. **Venomous Claw** (morph of Searing Strike, *Ardent Flame*) — scaling poison DoT that ticks harder the longer it sits. Cast once, forget it.
-4. **Noxious Breath** (morph of Fiery Breath, *Ardent Flame*) — applies **Major Breach** (her penetration — she has no group to give it) plus an AoE poison DoT.
-5. **Coagulating Blood** (morph of Dragon Blood, *Draconic Power*) — burst self-heal that scales off her damage stats and heals more the lower her health. Her panic button.
+3. **Searing Claw** (morph of Searing Strike, *Ardent Flame*) — scaling flame DoT that ticks harder the longer it sits. Cast once, forget it.
+4. **Disintegrating Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — applies **Major Breach** (her penetration — she has no group to give it) plus an AoE poison DoT.
+5. **Blood of the Elder Dragon** (morph of Dragon Blood, *Draconic Power*) — burst self-heal that scales off her damage stats and heals more the lower her health. Her panic button.
 - **Ult: Standard of Might** (morph of Dragonknight Standard, *Ardent Flame*) — she stands in it: damage done up, damage taken down. Her "survive this" button.
 
 *Swaps: **Poison Injection** (morph of Poison Arrow, *Bow*) in for Endless Hail on single-target bosses (it's a DoT + execute). **Dawnbreaker of Smiting** (*Fighters Guild*) in for Standard of Might if she wants a burst-and-stun ult instead of the defensive zone.*
 
 ### Class Mastery (pure class — pick 2)
-- **Wildfire Embers** — stacking bonus Flame Damage (up to 12×). Biggest damage pick, and her poison/flame kit keeps it fed. Costs nothing defensive.
+- **Wildfire Embers** — stacking bonus Flame Damage (up to 12×). Biggest damage pick, and her flame kit keeps it fed. Costs nothing defensive.
 - **Inexorable Descent** — buffs the Landslide passive: more damage, more healing, stronger shields. Cheap "everything's better, including survival" pick.
 - *Subclassing would disable both of these — she stays pure class.*
 
@@ -30,13 +33,13 @@
 ---
 
 ## How to play it
-1. **Noxious Breath** (for Major Breach) → **Venomous Claw** → **Endless Hail** on the pull — get all three DoTs ticking.
+1. **Disintegrating Dragonfire** (for Major Breach) → **Searing Claw** → **Endless Hail** on the pull — get all three DoTs ticking.
 2. **Spam Lethal Arrow** as the filler.
-3. **Refresh** any DoT the moment it falls off (Venomous Claw and Noxious Breath last a while; Endless Hail is shorter).
-4. **Coagulating Blood** whenever her health dips — don't save it for emergencies, press it.
+3. **Refresh** any DoT the moment it falls off (Searing Claw and Disintegrating Dragonfire last a while; Endless Hail is shorter).
+4. **Blood of the Elder Dragon** whenever her health dips — don't save it for emergencies, press it.
 5. **Standard of Might** on tough packs or when a mechanic is coming — then stand in it.
 
-**Short version:** DoTs down (Noxious → Venomous → Hail) → spam Lethal Arrow → re-drop DoTs when they expire → Coagulating Blood when hurt. Pale Order and Standard do the rest.
+**Short version:** DoTs down (Noxious → Venomous → Hail) → spam Lethal Arrow → re-drop DoTs when they expire → Blood of the Elder Dragon when hurt. Pale Order and Standard do the rest.
 
 ---
 
@@ -75,8 +78,8 @@ Same bones as her other sheets — **5 Order's Wrath + 5 Deadly Strike + Slimecr
 
 Buy every passive in a line she has a skill slotted from:
 
-- **Ardent Flame:** all — Venomous Claw and Noxious Breath live here; **World in Ruin** and **Combustion** make her poisons cheaper and hit harder — HIGH
-- **Draconic Power:** all — Coagulating Blood's line; the passives boost her healing and resources — HIGH
+- **Ardent Flame:** all — Searing Claw and Disintegrating Dragonfire live here; **World in Ruin** and **Combustion** make her flames cheaper and hit harder — HIGH
+- **Draconic Power:** all — Blood of the Elder Dragon's line; the passives boost her healing and resources — HIGH
 - **Bow:** all — Hawk Eye / Hasty Retreat / Ranger boost every arrow — HIGH
 - **Medium Armor:** Dexterity (crit) + Wind Walker (recovery) — HIGH
 - **Undaunted:** Undaunted Mettle — HIGH
@@ -103,8 +106,8 @@ Buy every passive in a line she has a skill slotted from:
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | penetration |
 | 7 | Tireless Discipline | buy max (20) | max stamina |
-| 8 | Eldritch Insight | buy max (20) | max magicka (Coagulating Blood/Noxious cost) |
-| 9 | Blessed | buy max (20) | Coagulating Blood heals harder |
+| 8 | Eldritch Insight | buy max (20) | max magicka (Blood of the Elder Dragon/Noxious cost) |
+| 9 | Blessed | buy max (20) | Blood of the Elder Dragon heals harder |
 | 10 | Quick Recovery | buy max (20) | healing received |
 | 11 | Hardy | buy max | −damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
@@ -152,11 +155,11 @@ Buy every passive in a line she has a skill slotted from:
 ## Notes
 - **She now has both Dragonknight one-bars** — this stamina/bow one and the [magicka staff one](one-bar-dragonknight.md). Pick by feel: this one keeps her at bow range with poison DoTs; the magicka one is her flame-staff version. No need to build both unless she wants the option.
 - **This is a one-bar** — her hard constraint. It stays one bar (the sanctioned two-bar exception is only her Bow Warden).
-- **Her heals are Coagulating Blood + Pale Order + Standard of Might's mitigation.** If a fight still feels lethal, shift attributes toward Health and use tri-stat potions before touching the skills.
+- **Her heals are Blood of the Elder Dragon + Pale Order + Standard of Might's mitigation.** If a fight still feels lethal, shift attributes toward Health and use tri-stat potions before touching the skills.
 - **No scribing anywhere** — confirmed. If any future swap ever suggests a grimoire, a non-scribed alternative gets called out first.
-- **Confirm morphs in-game.** Class skills (Venomous Claw, Noxious Breath, Coagulating Blood) are verified against U50; the bow morphs (Lethal Arrow, Endless Hail) are stable but tooltips override.
+- **Confirm morphs in-game.** Class skills (Searing Claw, Disintegrating Dragonfire, Blood of the Elder Dragon) are verified against U50; the bow morphs (Lethal Arrow, Endless Hail) are stable but tooltips override.
 
-*Source: Hyperioxes / Alcast U50 Stamina Dragonknight (poison/bow). Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
+*Source: Hyperioxes / Alcast U50 Stamina Dragonknight (flame DoTs / bow). Verify Class Mastery picks and any renamed morphs against U50 in-game tooltips. Revised 2026-08-16.*
 
 ---
 
