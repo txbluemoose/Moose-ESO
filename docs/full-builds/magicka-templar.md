@@ -20,7 +20,7 @@ Two Class Mastery Points, not skill points. Subclassing disables this system ent
 | PvP | **Judgment's Brand** | Steadfast Candescence or Devout Guardian | Steadfast Candescence if you brawl on block; Devout Guardian for the shield |
 
 - **Judgment's Brand** — when Burning Light procs (it procs off Puncturing Sweep constantly), your Templar abilities gain a flat chunk of damage done for ~3s. This is *why* Sweep is the strongest solo Templar spammable in U50 — it's a near-permanent damage buff on your whole kit.
-- **Bastion of Light** — your Sacred Ground now also counts while your Nova and Spear Shards are down and while Radial Sweep / Solar Barrage are active, and while Sacred Ground is up you heal ~1498 Health/sec; hit full health in combat and you also bank 2 Ultimate. This is the passive "heartbeat heal" that makes the build unkillable — you'll almost always have Ritual of Retribution or Blazing Spear on the ground under you.
+- **Bastion of Light** — your Sacred Ground now also counts while your Nova and Spear Shards are down and while Radial Sweep / Solar Barrage are active, and while Sacred Ground is up you heal ~1498 Health/sec; hit full health in combat and you also bank 2 Ultimate. This is the passive "heartbeat heal" that makes the build unkillable — you'll almost always have Ritual of Retribution or Luminous Shards on the ground under you.
 - *Swaps:* **Devout Guardian** (a repeating ~3.7k damage shield + recovery while on Sacred Ground) and **Steadfast Candescence** (Sacred Ground refreshes while you block, +20% block mitigation) are the block-tank flavors — good in a fight where you eat a big telegraphed hit on block.
 
 ---
@@ -34,23 +34,23 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 | Front Bar (Dual Daggers*) | Back Bar (Inferno Staff) |
 |---|---|
 | 1. Puncturing Sweep (morph of Puncturing Strikes, *Aedric Spear*) | 1. Channeled Focus (morph of Rune Focus, *Restoring Light*) |
-| 2. Radiant Glory (morph of Radiant Destruction, *Dawn's Wrath*) | 2. Vampire's Bane (morph of Sun Fire, *Dawn's Wrath*) |
-| 3. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) | 3. Solar Barrage (morph of Solar Flare, *Dawn's Wrath*) |
-| 4. Blazing Spear (morph of Spear Shards, *Aedric Spear*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — shows as **Blockade of Fire** with a flame staff |
+| 2. Radiant Glory (morph of Radiant Destruction, *Dawn's Wrath*) | 2. Degeneration (morph of Entropy, *Mages Guild*) |
+| 3. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
+| 4. Luminous Shards (morph of Spear Shards, *Aedric Spear*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — shows as **Blockade of Fire** with a flame staff |
 | 5. Quick Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) |
 | **Ult:** Everlasting Sweep (morph of Radial Sweep, *Aedric Spear*) | **Ult:** Solar Prison (morph of Nova, *Dawn's Wrath*) |
 
-*\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (that off-hand Absorb Magicka feeds your magicka pool so Channeled Focus isn't your only sustain lever). Inferno back bar powers Elemental Blockade (which displays as "Blockade of Fire") and pairs its flame damage with Vampire's Bane. Puncturing Sweep is a melee cone regardless of weapon, so a two-staff (inferno front) setup also works — you lose Quick Cloak's Major Evasion but keep everything else; it's ~2% behind and squishier, the alternative rather than the default.*
+*\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (that off-hand Absorb Magicka feeds your magicka pool so Channeled Focus isn't your only sustain lever). Inferno back bar powers Elemental Blockade (which displays as "Blockade of Fire") and Elemental Susceptibility. Puncturing Sweep is a melee cone regardless of weapon, so a two-staff (inferno front) setup also works — you lose Quick Cloak's Major Evasion but keep everything else; it's ~2% behind and squishier, the alternative rather than the default.*
 
 **What each does (and why it fits "don't die"):**
 - **Puncturing Sweep** — your spammable, a melee cone that hits up to 6 and **heals you for 25% of the damage done**. It feeds Judgment's Brand, so doing damage *is* your damage buff *and* your main heal. This is the healing-over-damage morph (the other, **Biting Jabs**, trades the heal for Major Brutality/Sorcery — that's the stamina build's pick, see [templar.md](templar.md)).
 - **Radiant Glory** — execute; its bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%. Cheap, and it **heals you** for ~15% of the damage. A Templar's execute is also a heal. (Want the higher-damage morph and don't need the heal? **Radiant Oppression** parses a hair higher — noise here.)
 - **Ritual of Retribution** — your Sacred Ground. Ground DoT that **cleanses up to 2 harmful effects on cast**, and the tile that keeps **Bastion of Light** healing you every second. Stand in it.
-- **Blazing Spear** — a second Sacred Ground tile (more Bastion of Light uptime) that drops a synergy for grouped play and hits the whole pack. On single-target fights you can drop it for a swap below.
+- **Luminous Shards** — a second Sacred Ground tile (more Bastion of Light uptime) that hits the whole pack, and whose synergy you can press yourself in solo play for **3960 Stamina and Magicka**. That self-usable synergy is why the live build runs this morph rather than Blazing Spear (the same base skill, Spear Shards, with a damage synergy instead) — same Sacred Ground contribution, but Luminous is a free resource button on a bar with no other sustain skill. On single-target fights you can drop it for a swap below.
 - **Quick Cloak** — Major Evasion (−20% AoE damage taken) for the whole melee profile. Requires two one-handers, which you have.
 - **Channeled Focus** — Major Resolve (armor) *and* Magicka recovery — it powers your magicka-cost kit (Sweep, Ritual, Vampire's Bane, Honor the Dead) without a dedicated sustain skill.
-- **Vampire's Bane** — a long-duration flame DoT that also hands you **Major Savagery + Major Prophecy** (Weapon and Spell crit) just for casting it. Free crit.
-- **Solar Barrage** — an AoE DoT that **follows you** and grants **+5% damage done with class abilities** (buffs Sweep, Radiant Glory, Blazing Spear, Everlasting Sweep). Also counts as Sacred Ground for Bastion of Light. A DoT and a class-damage buff in one button.
+- **Degeneration** — a 22-second DoT that grants you **Major Brutality and Major Sorcery** (+20% Weapon and Spell Damage). **This is the slot that fixes a real hole in this build:** Puncturing Sweep, unlike Biting Jabs, does *not* grant that buff, so without Degeneration you have no Major Sorcery source on the bar at all — you'd be relying on potion uptime for your single biggest damage multiplier. It's a Mages Guild skill (not scribed), so it's available to anyone. The live U50 solo MagPlar runs it for exactly this reason.
+- **Elemental Susceptibility** — **core, not situational.** It's effectively free to cast, and it applies **Major Breach: −5948 Armor** on the target. Solo you have no group debuffer handing you that, so this single button is one of the biggest damage increases on the bar — and it keeps status effects rolling with the flame staff.
 - **Elemental Blockade** (it reads "Blockade of Fire" on a flame staff) — ground DoT; refreshes status effects and holds enemies in your damage zones.
 - **Honor the Dead** — full-panel **burst heal** that partially refunds its magicka when you cast it below ~half health. Your panic button.
 - **Everlasting Sweep** (front ult) — spinning AoE that **heals you** and lengthens itself per enemy hit; also a Radial Sweep, so it keeps Bastion of Light's Sacred Ground alive. Your damage-and-heal ultimate.
@@ -60,43 +60,45 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 - **Warding Contingency** — *scribed Contingency grimoire, Soul Magic* (scripts: throw up a damage shield when struck — *confirm scripts in-game*) — you have scribing (Gold Road), so this is free "don't die" value in the Blazing Spear slot on single-target fights. **No scribing or unsure of the script? Use Living Dark below** — same job, from a class line.
 - **Living Dark** — *Templar > Dawn's Wrath* (morph of Eclipse) — heals you and snares attackers when you're struck; the non-scribed defensive slot for single-target fights
 - **Biting Jabs** — *Templar > Aedric Spear* (the other Sweep morph) — trade the 25%-of-damage heal for Major Brutality/Sorcery (+ Minor Berserk — confirm in-game) when a fight isn't threatening your health (this is the stamina build's spammable)
-- **Elemental Susceptibility** — *Destruction Staff* (morph of Weakness to Elements) — Minor Breach for a tanky boss with no group to debuff it
+- **Vampire's Bane** — *Templar > Dawn's Wrath* (morph of Sun Fire) — a long flame DoT that hands you **Major Savagery + Major Prophecy** (Weapon and Spell crit). It came off the base bar because your Spell Power potions already carry Major Prophecy — slot it back (in for Elemental Blockade) on long fights where you're not drinking on cooldown
+- **Solar Barrage** — *Templar > Dawn's Wrath* (morph of Solar Flare) — an AoE DoT that **follows you**, grants **+5% damage done with class abilities**, and counts as Sacred Ground. A fine third Sacred Ground source when you'd rather have it than Blockade
+- **Blazing Spear** — *Templar > Aedric Spear* (the other Spear Shards morph) — the damage-synergy version of Luminous Shards; take it in a group, where someone else is pressing the synergy anyway
 - **Resolving Vigor** — *Alliance War > Assault* — a burst-heal-over-time for invulnerability phases where Pale Order can't heal you (earn AP in Battlegrounds/Cyrodiil)
 - **Precognition** ult — *Psijic Order guild line (Summerset)* — mandatory for a few solo-impossible stuns
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
 
 ### Rotation (priority sweep — refresh whatever is highest, then Sweep as filler)
-1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Vampire's Bane** → 4. **Solar Barrage** → 5. **Elemental Blockade** → 6. **Blazing Spear** on packs → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
+1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Degeneration** (Major Brutality/Sorcery up) → 4. **Elemental Susceptibility** (Major Breach on the target) → 5. **Elemental Blockade** → 6. **Luminous Shards** on packs (press the synergy — it's your resource button) → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
 
-The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Vampire's Bane, Solar Barrage, Blockade) rolling, then hold Puncturing Sweep. Because Sweep feeds Judgment's Brand and heals 25%, and Ritual feeds Bastion of Light, doing damage *is* your buff uptime *and* your healing — you rarely press a heal at all.
+The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Degeneration, Elemental Susceptibility, Blockade) rolling, then hold Puncturing Sweep. Because Sweep feeds Judgment's Brand and heals 25%, and Ritual feeds Bastion of Light, doing damage *is* your buff uptime *and* your healing — you rarely press a heal at all.
 
-**Pre-buff before pulls:** Channeled Focus, Vampire's Bane, Solar Barrage, Elemental Blockade, then drop Ritual of Retribution as you engage. Solar Prison is your "survive this mechanic" ult; Everlasting Sweep is your DPS-and-heal ult.
+**Pre-buff before pulls:** Channeled Focus, Degeneration, Elemental Blockade, then drop Ritual of Retribution and Elemental Susceptibility as you engage. Solar Prison is your "survive this mechanic" ult; Everlasting Sweep is your DPS-and-heal ult.
 
 ---
 
 ## 2. GEAR
 
-**Armor weight: 5 Medium / 1 Light / 1 Heavy.** Medium keeps the up-close melee profile a touch tankier (and its Dexterity/Agility passives back the dual-dagger damage); the single Light **belt** and single Heavy **boots** exist to trigger the second and third tiers of **Undaunted Mettle**, which grants max Health/Magicka/Stamina for *each distinct weight worn* — a 5/1/1 split fires all three tiers, worth more than a seventh medium piece. A full-Light version does ~2% more magicka damage but is noticeably squishier — not the trade this repo makes.
+**Armor weight: 5 Medium / 1 Light / 1 Heavy.** Medium keeps the up-close melee profile a touch tankier (and its Dexterity/Agility passives back the dual-dagger damage); the single Light **belt** and single Heavy **chest** exist to trigger the second and third tiers of **Undaunted Mettle**, which grants max Health/Magicka/Stamina for *each distinct weight worn* — a 5/1/1 split fires all three tiers, worth more than a seventh medium piece. A full-Light version does ~2% more magicka damage but is noticeably squishier — not the trade this repo makes.
 
 | Slot | Weight | Trait | Enchant | Set |
 |---|---|---|---|---|
 | Head | Medium | Divines | Magicka | **Slimecraw** **(1pc monster — 657 Crit Chance)** |
 | Shoulders | Medium | Divines | Magicka | Order's Wrath |
-| Chest | Medium | Divines | Magicka | Order's Wrath |
+| Chest | **Heavy** | Reinforced | Magicka | Order's Wrath |
 | Hands | Medium | Divines | Magicka | Order's Wrath |
 | Belt | **Light** | Divines | Magicka | Order's Wrath |
 | Legs | Medium | Divines | Magicka | Order's Wrath |
-| Boots | **Heavy** | Reinforced | Magicka | Deadly Strike |
+| Boots | Medium | Divines | Magicka | Deadly Strike |
 | Necklace + Ring 1 | — | Bloodthirsty | Spell Damage | Deadly Strike |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Front (2 daggers) | — | Charged / Nirnhoned | Poison + Absorb Magicka | Deadly Strike |
 | Back bar (Inferno Staff) | — | Infused | Weapon Damage | *(Maelstrom / standalone)* |
 
-*Deadly Strike is doing real work here, not filling space: its 5-piece boosts **damage-over-time and channeled abilities by 15%**, and Puncturing Sweep is a channel while Ritual / Vampire's Bane / Solar Barrage / Blockade are DoTs — the set is built for exactly this kit (boots + 2 jewelry + 2 daggers = 5). Order's Wrath is flat crit chance + crit damage (5 body). Both are **craftable and you already own them**, so this whole build is buildable at your own station today — no trial grind. In-game tooltips override — confirm on your bar.*
+*Deadly Strike is doing real work here, not filling space: its 5-piece boosts **damage-over-time and channeled abilities by 15%**, and Puncturing Sweep is a channel while Ritual / Degeneration / Blockade are DoTs — the set is built for exactly this kit (boots + 2 jewelry + 2 daggers = 5). **Note the weights: Deadly Strike body pieces are crafted in Medium only** — there is no Light or Heavy Deadly Strike armor — so the Deadly Strike boot *is* the Medium slot here, and the odd Heavy piece sits on the chest instead. Order's Wrath is flat crit chance + crit damage (5 body). Both are **craftable and you already own them**, so this whole build is buildable at your own station today — no trial grind. In-game tooltips override — confirm on your bar.*
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Where it comes from:** Order's Wrath = crafted; Deadly Strike = Cyrodiil set from guild traders (you own both). Slimecraw = 1pc monster helm (overland / Wayrest Sewers I). Ring of the Pale Order = Antiquities. Maelstrom inferno staff (Crushing Wall) = vet Maelstrom Arena — the only piece worth chasing, and even that's optional.
+**Where it comes from:** Order's Wrath = crafted; Deadly Strike = Cyrodiil set from guild traders (you own both). Slimecraw = 1pc monster **helm** from **vet Wayrest Sewers I** (the Undaunted chest gives only the shoulders). Ring of the Pale Order = Antiquities. Maelstrom inferno staff (Crushing Wall) = vet Maelstrom Arena — the only piece worth chasing, and even that's optional.
 
 **Fallback ladders (you don't need trial gear — you own your endgame):**
 - Body: Order's Wrath → **you own it, it's the endgame body set here.** Cheaper crit alt: Mother's Sorrow (overland, dirt cheap on traders).
@@ -116,8 +118,9 @@ The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Vampire's Bane,
 Same character, different job: the group brings buffs, debuffs, and a healer, so you drop self-sufficiency for damage.
 
 - **Drop Ring of the Pale Order** — a healer exists; complete a third jewelry piece of your damage set instead (a full Deadly Strike / trial-set jewelry line).
-- **Drop Honor the Dead and Quick Cloak** — the healer covers you, and the group provides Major Evasion sources. Slot a group utility skill and keep Blazing Spear for the extra Sacred Ground + synergy.
-- **Ritual of Retribution stays** — it's now a group heal *and* your Bastion of Light engine; Blazing Spear stacks more Sacred Ground on top.
+- **Drop Honor the Dead and Quick Cloak** — the healer covers you, and the group provides Major Evasion sources. Slot a group utility skill, and flip Luminous Shards → **Blazing Spear** (in a group someone else takes the synergy, so the damage morph wins).
+- **Ritual of Retribution stays** — it's now a group heal *and* your Bastion of Light engine; Spear Shards stacks more Sacred Ground on top.
+- **Elemental Susceptibility comes off** — the group's debuffers already supply Major Breach. Put Vampire's Bane or Solar Barrage back in that slot. **Degeneration stays** unless someone else is supplying Major Sorcery.
 - **Puncturing Sweep can flip to Biting Jabs** if the group's healing is solid and you want the Major Brutality/Sorcery buff instead of the lifesteal — but Sweep's heal costs you almost nothing, so keeping it is fine.
 - **Everlasting Sweep** stays as your spammed ult; **Solar Prison / Solar Disturbance** is a group Major Maim zone for burn phases.
 - Deadly Strike remains strong for grouped Templar (channel + DoT), but a trial weapon/jewelry set (Ansuul's Torment, Sanity's Edge, in fights where you interrupt something every ~30s) edges it.
@@ -156,18 +159,18 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 |---|---|---|---|
 | 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Sweep and Radiant Glory are direct |
 | 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage — your Sweep channel on a boss |
-| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (Vampire's Bane already hands you Major crit buffs) |
+| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (your Spell Power potions carry the Major crit buffs) |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | armor penetration |
-| 7 | Eldritch Insight | buy max (20) | max magicka (fuels Sweep / Ritual / Vampire's Bane / Honor the Dead) |
+| 7 | Eldritch Insight | buy max (20) | max magicka (fuels Sweep / Ritual / Degeneration / Honor the Dead) |
 | 8 | Tireless Discipline | buy max (20) | max stamina |
 | 9 | **Blessed** | buy max (20) | **your heals hit harder — huge on a Templar** (Sweep's 25%, Ritual, Honor the Dead, Everlasting Sweep, Pale Order) |
 | 10 | Quick Recovery | buy max (20) | healing received |
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Thaumaturge** | buy (50), swap option | boosts your DoTs (Ritual, Vampire's Bane, Solar Barrage, Blockade) on DoT-heavy fights |
+| 14 | **Thaumaturge** | buy (50), swap option | boosts your DoTs (Ritual, Degeneration, Blockade) on DoT-heavy fights |
 | 15 | **Reaving Blows** | buy (50), swap option | heals off direct damage; stacks with Sweep + Pale Order + Bastion for absurd solo healing |
 | 16 | Ironclad / Duelist's Rebuff | buy (50), swap options | −direct / −single-target damage for a boss that hits like a truck |
 
@@ -214,8 +217,9 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 Rule of thumb: **buy every passive in every line you have a skill slotted from.** Skill points are abundant. Priority order if you're short:
 
-- **Aedric Spear** (Puncturing Sweep, Blazing Spear, Everlasting Sweep) — all 4; **Piercing Spear** (crit damage) and **Spear Wall** (mitigation on Sweep) are the standouts — HIGH
-- **Dawn's Wrath** (Radiant Glory, Vampire's Bane, Solar Barrage) — all 4; **Illuminate** and **Enduring Rays** (longer DoTs) matter, and **Restoring Spirit** cuts ability costs (helps sustain) — HIGH
+- **Aedric Spear** (Puncturing Sweep, Luminous Shards, Everlasting Sweep) — all 4; **Piercing Spear** (crit damage) and **Spear Wall** (mitigation on Sweep) are the standouts — HIGH
+- **Dawn's Wrath** (Radiant Glory) — all 4; **Illuminate** and **Enduring Rays** (longer DoTs) matter, and **Restoring Spirit** cuts ability costs (helps sustain) — HIGH
+- **Mages Guild** (Degeneration) — **Might of the Guild** (damage while a Mages Guild ability is slotted) and the rest of the line; level it by collecting Lorebooks — HIGH
 - **Restoring Light** (Channeled Focus, Ritual of Retribution, Honor the Dead) — all 4; **Master Ritualist**, **Light Weaver**, and **Sacred Ground** feed your heal engine directly — HIGH
 - **Dual Wield** (Puncturing Sweep is cast off it, Quick Cloak) — the flat damage passives + Twin Blade and Blunt — HIGH
 - **Destruction Staff** (back bar) — Tri Focus, Penetrating Magic, Ancient Knowledge, Elemental Force
@@ -229,7 +233,7 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 ## 6. SHOPPING LIST (in priority order)
 
 1. **Craft Order's Wrath; buy Deadly Strike from a guild trader** — you own both traits; this is your entire endgame body/weapon/jewelry, no grind
-2. **Slimecraw** 1pc helm — Wayrest Sewers I / overland
+2. **Slimecraw** 1pc helm — **vet Wayrest Sewers I** (the helm drops there; the Undaunted chest gives only the shoulders)
 3. **Ring of the Pale Order** — Antiquities (keep it; it's the fixture)
 4. **Scribing** (Gold Road) → Warding Contingency for the defensive slot (or skip it and run Living Dark — no scribing needed)
 5. **Crushing Wall inferno staff** — vet Maelstrom Arena (optional, small Blockade gain)
@@ -238,7 +242,7 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 
 ---
 
-*Sources: Hyperioxes U50 Magicka Templar Solo build (soloed vet HM March of Sacrifices, ~67.4k). Skill morphs and lines verified vs ESO-Hub / UESP / Fextralife U50 tooltips; Solar Barrage confirmed as a morph of Solar Flare (Dawn's Wrath) and Solar Prison as a morph of Nova. Class Mastery names verified vs ESO-Hub / Alcast U50 Class Mastery lists. Warding Contingency scripts flagged to confirm in-game. PvP is directional — cross-check the current Alcast U50 Templar PvP page, metas rotate seasonally. In-game tooltips override any guide. Revision date: 2026-08-16.*
+*Sources: Hyperioxes U50 Magicka Templar Solo build (soloed vet HM March of Sacrifices, ~67.4k). Skill morphs and lines verified vs ESO-Hub / UESP / Fextralife U50 tooltips; Solar Barrage confirmed as a morph of Solar Flare (Dawn's Wrath), Solar Prison as a morph of Nova, Luminous Shards and Blazing Spear as the two morphs of Spear Shards, and Degeneration as a morph of Entropy (Mages Guild — not scribed). **Puncturing Sweep does not grant Major Brutality/Sorcery — that's Biting Jabs' buff — which is why Degeneration is on the base bar.** Elemental Susceptibility promoted from swap to base bar to match the live build. Class Mastery names verified vs ESO-Hub / Alcast U50 Class Mastery lists. Warding Contingency scripts flagged to confirm in-game. PvP is directional — cross-check the current Alcast U50 Templar PvP page, metas rotate seasonally. In-game tooltips override any guide. Revision date: 2026-08-18.*
 
 ---
 
