@@ -46,13 +46,13 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 - **Venomous Claw** — scaling poison DoT: the longer it sits on a target, the harder it ticks. Cast, then don't touch it.
 - **Noxious Breath** — applies **Major Breach** (your solo penetration — you have no group to provide it) plus an AoE poison DoT. This is *why* the solo build takes Noxious Breath and not a group morph.
 - **Coagulating Blood** — burst self-heal that scales off your **offensive** stats and heals harder the lower your health. Your panic button; it hits like your gear does.
-- **Cauterize** — grants **Major Savagery/Prophecy** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Flames of Oblivion** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Coagulating Blood (burst) + Cauterize (HoT) + Pale Order (per-damage).
+- **Cauterize** — grants **Major Savagery/Prophecy** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Incinerate** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Coagulating Blood (burst) + Cauterize (HoT) + Pale Order (per-damage).
 - **Igneous Weapons** — Major Brutality/Sorcery + a weapon/spell-damage empower for the group of one that is you.
 - **Stampede / Carve** — Stampede is your gap-closer with a persistent ground DoT (melee engage); Carve is an AoE bleed DoT that also feeds ultimate. Both are DoTs, so Deadly Strike (see §2) supercharges them.
 - **Executioner** — sub-50% finisher. Swap out on trash-only content.
 
 ### Situational swaps (with skill line sources)
-- **Flames of Oblivion** — *Dragonknight > Ardent Flame* (other morph of Inferno) — trade Cauterize's heal aura back for fireball damage when a fight isn't threatening. Same crit buff either way.
+- **Incinerate** — *Dragonknight > Ardent Flame* (other morph of Inferno) — trade Cauterize's heal aura back for fireball damage when a fight isn't threatening. Same crit buff either way.
 - **Resolving Vigor** — *Alliance War > Assault* — a strong HoT for burst-damage windows and invulnerability phases where Pale Order can't heal you (no damage going out = no Pale Order heal).
 - **Ulfsild's Contingency** — *scribed grimoire, Soul Magic; scripts: Flame / Lingering Torment / Resolve* — you have scribing (Gold Road), so this is a legitimate slot-5 damage-and-utility option in place of Executioner or Deadly Cloak.
 - **Quick Cloak** — *Dual Wield* (other morph of Blade Cloak) — Major Evasion without the bleed if you want a cheaper defensive; Deadly Cloak is the default because it also adds damage.
@@ -111,7 +111,7 @@ Same character, different job: the group provides Major Breach, buffs, and heals
 
 - **Drop Ring of the Pale Order** — healers exist. Complete a third jewelry piece of your damage set in that slot instead.
 - **Noxious Breath's Major Breach is redundant** if a tank/support provides it — you can keep it for the poison DoT, or swap toward more group-relevant damage.
-- **Cauterize → Flames of Oblivion** — you're not the healer; take the damage morph back (same crit buff).
+- **Cauterize → Incinerate** — you're not the healer; take the damage morph back (same crit buff).
 - **Coagulating Blood may come off** for another DoT or a group utility slot — the healer covers you.
 - **Standard of Might stays** — in a group it's also a damage-taken debuff zone that pairs with burn phases.
 
@@ -219,4 +219,4 @@ Full details for all eight companions, including farming perks and gear traits: 
 
 ---
 
-*Sources: Hyperioxes U50 Stamina Dragonknight Solo Build, Alcast U50 Solo Stamina Dragonknight, ESO-Hub skill pages (Stonefist/Stone Giant, Searing Strike/Venomous Claw, Inferno/Cauterize/Flames of Oblivion, Dragon Blood/Coagulating Blood), U49/U50 DK rework notes. Class skills verified against U50; weapon-line morphs are pre-rework-stable but confirm on your bar. In-game tooltips override every source, including this file. Revised 2026-08-16.*
+*Sources: Hyperioxes U50 Stamina Dragonknight Solo Build, Alcast U50 Solo Stamina Dragonknight, ESO-Hub skill pages (Stonefist/Stone Giant, Searing Strike/Venomous Claw, Inferno/Cauterize/Incinerate, Dragon Blood/Coagulating Blood), U49/U50 DK rework notes. Class skills verified against U50; weapon-line morphs are pre-rework-stable but confirm on your bar. In-game tooltips override every source, including this file. Revised 2026-08-16.*

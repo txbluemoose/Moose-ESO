@@ -33,14 +33,14 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 
 | Front Bar (Dual Daggers*) | Back Bar (Inferno Staff) |
 |---|---|
-| 1. Puncturing Sweep (morph of Puncturing Strikes, *Aedric Spear*) | 1. Channeled Focus (morph of Restoring Focus, *Restoring Light*) |
+| 1. Puncturing Sweep (morph of Puncturing Strikes, *Aedric Spear*) | 1. Channeled Focus (morph of Rune Focus, *Restoring Light*) |
 | 2. Radiant Glory (morph of Radiant Destruction, *Dawn's Wrath*) | 2. Vampire's Bane (morph of Sun Fire, *Dawn's Wrath*) |
 | 3. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) | 3. Solar Barrage (morph of Solar Flare, *Dawn's Wrath*) |
-| 4. Blazing Spear (morph of Spear Shards, *Aedric Spear*) | 4. Blockade of Fire (morph of Wall of Elements, *Destruction Staff*) |
+| 4. Blazing Spear (morph of Spear Shards, *Aedric Spear*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — shows as **Blockade of Fire** with a flame staff |
 | 5. Quick Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) |
 | **Ult:** Everlasting Sweep (morph of Radial Sweep, *Aedric Spear*) | **Ult:** Solar Prison (morph of Nova, *Dawn's Wrath*) |
 
-*\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (that off-hand Absorb Magicka feeds your magicka pool so Channeled Focus isn't your only sustain lever). Inferno back bar powers Blockade of Fire and pairs its flame damage with Vampire's Bane. Puncturing Sweep is a melee cone regardless of weapon, so a two-staff (inferno front) setup also works — you lose Quick Cloak's Major Evasion but keep everything else; it's ~2% behind and squishier, the alternative rather than the default.*
+*\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (that off-hand Absorb Magicka feeds your magicka pool so Channeled Focus isn't your only sustain lever). Inferno back bar powers Elemental Blockade (which displays as "Blockade of Fire") and pairs its flame damage with Vampire's Bane. Puncturing Sweep is a melee cone regardless of weapon, so a two-staff (inferno front) setup also works — you lose Quick Cloak's Major Evasion but keep everything else; it's ~2% behind and squishier, the alternative rather than the default.*
 
 **What each does (and why it fits "don't die"):**
 - **Puncturing Sweep** — your spammable, a melee cone that hits up to 6 and **heals you for 25% of the damage done**. It feeds Judgment's Brand, so doing damage *is* your damage buff *and* your main heal. This is the healing-over-damage morph (the other, **Biting Jabs**, trades the heal for Major Brutality/Sorcery — that's the stamina build's pick, see [templar.md](templar.md)).
@@ -51,7 +51,7 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 - **Channeled Focus** — Major Resolve (armor) *and* Magicka recovery — it powers your magicka-cost kit (Sweep, Ritual, Vampire's Bane, Honor the Dead) without a dedicated sustain skill.
 - **Vampire's Bane** — a long-duration flame DoT that also hands you **Major Savagery + Major Prophecy** (Weapon and Spell crit) just for casting it. Free crit.
 - **Solar Barrage** — an AoE DoT that **follows you** and grants **+5% damage done with class abilities** (buffs Sweep, Radiant Glory, Blazing Spear, Everlasting Sweep). Also counts as Sacred Ground for Bastion of Light. A DoT and a class-damage buff in one button.
-- **Blockade of Fire** — ground DoT; refreshes status effects and holds enemies in your damage zones.
+- **Elemental Blockade** (it reads "Blockade of Fire" on a flame staff) — ground DoT; refreshes status effects and holds enemies in your damage zones.
 - **Honor the Dead** — full-panel **burst heal** that partially refunds its magicka when you cast it below ~half health. Your panic button.
 - **Everlasting Sweep** (front ult) — spinning AoE that **heals you** and lengthens itself per enemy hit; also a Radial Sweep, so it keeps Bastion of Light's Sacred Ground alive. Your damage-and-heal ultimate.
 - **Solar Prison** (back ult) — drops a **Major Maim** zone (enemies deal ~10% less) plus a stun. Your "survive this pull" button.
@@ -66,11 +66,11 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
 
 ### Rotation (priority sweep — refresh whatever is highest, then Sweep as filler)
-1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Vampire's Bane** → 4. **Solar Barrage** → 5. **Blockade of Fire** → 6. **Blazing Spear** on packs → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
+1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Vampire's Bane** → 4. **Solar Barrage** → 5. **Elemental Blockade** → 6. **Blazing Spear** on packs → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
 
 The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Vampire's Bane, Solar Barrage, Blockade) rolling, then hold Puncturing Sweep. Because Sweep feeds Judgment's Brand and heals 25%, and Ritual feeds Bastion of Light, doing damage *is* your buff uptime *and* your healing — you rarely press a heal at all.
 
-**Pre-buff before pulls:** Channeled Focus, Vampire's Bane, Solar Barrage, Blockade of Fire, then drop Ritual of Retribution as you engage. Solar Prison is your "survive this mechanic" ult; Everlasting Sweep is your DPS-and-heal ult.
+**Pre-buff before pulls:** Channeled Focus, Vampire's Bane, Solar Barrage, Elemental Blockade, then drop Ritual of Retribution as you engage. Solar Prison is your "survive this mechanic" ult; Everlasting Sweep is your DPS-and-heal ult.
 
 ---
 
@@ -101,7 +101,7 @@ The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Vampire's Bane,
 **Fallback ladders (you don't need trial gear — you own your endgame):**
 - Body: Order's Wrath → **you own it, it's the endgame body set here.** Cheaper crit alt: Mother's Sorrow (overland, dirt cheap on traders).
 - Weapons/jewelry: **Deadly Strike — you own it and it's best-in-slot for a channel/DoT Templar.** Marginal trial upgrade later: Ansuul's Torment (Sanity's Edge) in interrupt-heavy fights, ~a few %.
-- Back staff: any inferno staff until you earn Crushing Wall; the Maelstrom staff only buffs Blockade of Fire, so it's a small gain.
+- Back staff: any inferno staff until you earn Crushing Wall; the Maelstrom staff only buffs Elemental Blockade, so it's a small gain.
 
 **Mundus:** The Thief default → The Lover if your penetration is short → The Lady for the nastiest content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for one-shot fights (only ~−5% damage)

@@ -75,7 +75,8 @@ These were all gotten wrong in the original session. They are the highest-value 
 | Wife's DK could use Shatterspike Mantle while subclassed | She lost Earthen Heart to the subclass. Shatterspike was only restored after converting her to pure class. |
 | Camouflaged Hunter / Hearth and Home on solo DK bars | Not in the verified solo build; slots 5 are Ulfsild's Contingency and Elemental Susceptibility |
 | Belt is Medium on magicka builds | **Light** |
-| "Incinerate" as a morph of Inferno | No such morph — Inferno's morphs are **Flames of Oblivion** / **Cauterize** (was on the Mag DK guide *and* her DK sheet for weeks) |
+| ~~"Incinerate" is not a morph of Inferno~~ **(this entry was itself wrong — 2026-08-16)** | **Incinerate IS correct.** U49 renamed **Flames of Oblivion → Incinerate**; the patch notes read "Incinerate (originally Flames of Oblivion)". Inferno's U50 morphs are **Incinerate** / **Cauterize**. A search briefly "corrected" the guides the wrong way and this log endorsed it — always check the *patch notes* for a renamed skill, not a skill-line index page |
+| Trusting ESO-Hub's **skill-line index** pages for DK/Necro | Those aggregate pages list **pre- and post-rework skills merged together** (both `Inhale` and `Core of Flame`, both `Ash Cloud` and `Hearthfire`). Use the **individual skill page** or the patch notes instead |
 | "Stalking Blastbones" on Necro builds | Removed from the game in U41 — the charging skeleton is **Blighted Blastbones**, morph of **Sacrificial Bones** |
 | Pestilent Colossus used as a stun | It doesn't stun — only **Glacial Colossus** stuns (final smash) |
 | "Deadly Strike is craftable / husband crafts it" | It's a **Cyrodiil vendor / guild-trader set** — owned, cheap, but never craftable (was wrong on 7 sheets) |

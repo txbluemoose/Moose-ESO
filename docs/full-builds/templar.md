@@ -33,14 +33,14 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 
 | Front Bar (Dual Daggers*) | Back Bar (Inferno Staff) |
 |---|---|
-| 1. Biting Jabs (morph of Puncturing Strikes, *Aedric Spear*) | 1. Channeled Focus (morph of Restoring Focus, *Restoring Light*) |
+| 1. Biting Jabs (morph of Puncturing Strikes, *Aedric Spear*) | 1. Channeled Focus (morph of Rune Focus, *Restoring Light*) |
 | 2. Radiant Glory (morph of Radiant Destruction, *Dawn's Wrath*) | 2. Vampire's Bane (morph of Sun Fire, *Dawn's Wrath*) |
-| 3. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) | 3. Blockade of Fire (morph of Wall of Elements, *Destruction Staff*) |
+| 3. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) | 3. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — shows as **Blockade of Fire** with a flame staff |
 | 4. Barbed Trap (morph of Trap Beast, *Fighters Guild*) | 4. Warding Contingency (scribed Contingency grimoire, *Soul Magic* — *confirm scripts in-game*) |
 | 5. Quick Cloak (morph of Blade Cloak, *Dual Wield*) | 5. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) |
 | **Ult:** Everlasting Sweep (morph of Radial Sweep, *Aedric Spear*) | **Ult:** Solar Prison (morph of Nova, *Dawn's Wrath*) |
 
-*\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina goes straight at your one known sustain gap — see the CP note). Inferno back bar powers Blockade of Fire and pairs its flame damage with Vampire's Bane; a bow back bar is a fine swap (Endless Hail + Razor Caltrops) if you'd rather, but the staff keeps Blockade rolling with less GCD cost.*
+*\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina goes straight at your one known sustain gap — see the CP note). Inferno back bar powers Elemental Blockade (which displays as "Blockade of Fire") and pairs its flame damage with Vampire's Bane; a bow back bar is a fine swap (Endless Hail + Razor Caltrops) if you'd rather, but the staff keeps Blockade rolling with less GCD cost.*
 
 **What each does (and why it fits "don't die"):**
 - **Biting Jabs** — your spammable, a melee cone that hits up to 6. It's the strongest solo Templar spammable in U50 *because* it feeds Judgment's Brand. The other morph, **Puncturing Sweep**, heals you for 25% of the damage instead of Jabs' buff package (Major Brutality & Sorcery — confirm the exact buffs in-game) — that's the healing-over-damage swap (see the Magicka alternative below).
@@ -50,7 +50,7 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 - **Quick Cloak** — Major Evasion (−20% AoE damage taken) for the whole medium-armor melee profile. Requires two one-handers, which you have.
 - **Channeled Focus** — Major Resolve (armor) *and* Magicka recovery — it powers your magicka-cost skills (Ritual, Vampire's Bane, Honor the Dead) without a sustain skill.
 - **Vampire's Bane** — a long-duration flame DoT that also gives you **Major Savagery + Major Prophecy** (Weapon and Spell crit) just for casting it. Free crit.
-- **Blockade of Fire** — ground DoT; refreshes status effects and holds enemies in your damage zones.
+- **Elemental Blockade** (it reads "Blockade of Fire" on a flame staff) — ground DoT; refreshes status effects and holds enemies in your damage zones.
 - **Warding Contingency** — the scribed Contingency grimoire scripted to throw up a **damage shield when you take a hit**. You have scribing (Gold Road), so this is free value. *No scribing, or unsure of the script? Use **Living Dark** (morph of Eclipse, Dawn's Wrath) — it heals you and snares attackers when you're struck, same "don't die" job from a class line.*
 - **Honor the Dead** — full-panel **burst heal** that partially refunds its magicka when you cast it below ~half health. Your panic button.
 - **Everlasting Sweep** (front ult) — spinning AoE that **heals you** and lengthens itself per enemy hit; also a Radial Sweep, so it keeps Bastion of Light's Sacred Ground alive. Your damage-and-heal ultimate.
@@ -66,7 +66,7 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
 
 ### Rotation (priority sweep — refresh whatever is highest, then Jabs as filler)
-1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Blockade of Fire** → 4. **Vampire's Bane** → 5. **Barbed Trap** → 6. **Warding Contingency** → 7. **Everlasting Sweep** when it's up → 8. **Biting Jabs** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
+1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Elemental Blockade** → 4. **Vampire's Bane** → 5. **Barbed Trap** → 6. **Warding Contingency** → 7. **Everlasting Sweep** when it's up → 8. **Biting Jabs** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
 
 The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, Barbed Trap) rolling, then hold Biting Jabs. Because Jabs feeds Judgment's Brand and Ritual feeds Bastion of Light, doing damage *is* your buff uptime and your healing.
 
@@ -101,7 +101,7 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 **Fallback ladder (you don't need trial gear — you own your endgame):**
 - Body: Order's Wrath → **you own it, it's the endgame body set here.** Cheaper crit alt: Mother's Sorrow (overland, dirt cheap on traders).
 - Weapons/jewelry: **Deadly Strike — you own it and it's the best-in-slot for a channel/DoT Templar.** Marginal trial upgrade later: Ansuul's Torment (Sanity's Edge) in interrupt-heavy fights, ~a few %.
-- Back staff: any inferno staff until you earn Crushing Wall; the Maelstrom staff only buffs Blockade of Fire, so it's a small gain.
+- Back staff: any inferno staff until you earn Crushing Wall; the Maelstrom staff only buffs Elemental Blockade, so it's a small gain.
 
 **Mundus:** The Thief default → The Lover if your penetration is short → The Lady for the nastiest content
 **Attributes:** 64 Stamina default → 32/32 Health/Stamina when struggling → 64 Health for one-shot fights (only ~−5% damage)

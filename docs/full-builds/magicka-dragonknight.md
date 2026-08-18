@@ -29,7 +29,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 | Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
 | 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) |
-| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Flames of Oblivion (morph of Inferno, *Ardent Flame*) ⚠️ |
+| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
 | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
@@ -37,7 +37,6 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
 
-*⚠️ Flames of Oblivion: earlier revisions of this guide listed "Incinerate" here — that's not one of Inferno's morphs (they're **Flames of Oblivion** and **Cauterize**, per ESO-Hub/UESP U50; Cauterize is the heal-leaning option if you want another "don't die" layer). Confirm the morph on your bar.*
 
 **Morph notes for your "don't die" goal:**
 - **Burning Embers** (other morph of Searing Claw) heals on cast and every DoT tick — swap it in over Searing Claw whenever you want more healing. Slightly less damage.
@@ -58,11 +57,11 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 ### Rotation (priority sweep — two passes, not a checklist)
 
-1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Flames of Oblivion → Shatterspike Mantle.
+1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Incinerate → Shatterspike Mantle.
 2. **Live on the front bar:** whip at 3 Seething Fury stacks, keep Searing Claw / Disintegrating Dragonfire / Ulfsild's / Soul of Flame ticking, Take Flight when it's up, Molten Whip as filler.
 3. Back-bar timers blinking? Swap, re-sweep top to bottom, swap forward. That's the whole loop.
 
-**Pre-buff before pulls:** Shatterspike Mantle, Flames of Oblivion, Igneous Weapons, Ulfsild's.
+**Pre-buff before pulls:** Shatterspike Mantle, Incinerate, Igneous Weapons, Ulfsild's.
 Standard of Might is your "survive this mechanic" ultimate (25% damage reduction inside it); Take Flight is your DPS ultimate.
 
 ### Gear — Solo
@@ -121,7 +120,7 @@ Same character, different job: the group provides buffs, debuffs, and heals, so 
 | Front Bar | Back Bar |
 |---|---|
 | Molten Whip | Shatterspike Mantle |
-| Searing Claw | Flames of Oblivion |
+| Searing Claw | Incinerate |
 | Engulfing Dragonfire | Banner Bearer |
 | Soul of Flame | Elemental Blockade |
 | Camouflaged Hunter | Igneous Weapons |
