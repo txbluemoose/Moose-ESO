@@ -42,6 +42,7 @@ Every class, both stat pools (her stamina bars are bow/ranged where the class al
 - [Companions](shared/companions.md) — all eight, verified bars and gear
 - [Race & Class Pairings](shared/races.md) — best race per class, and class per race (the smallest dial)
 - [Gear Slot Math](shared/gear-math.md) — mythic vs 2-piece monster set, and why the helm is a stat pick
+- [Mythic Items](shared/mythics.md) — what each does, where the leads drop, and which are worth digging up
 - [Farming](notes/farming.md) — gathering, chests, troves, surveys
 - [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands
 - [Glossary](glossary.md) — plain-language definitions for the jargon
