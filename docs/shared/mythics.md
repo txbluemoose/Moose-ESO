@@ -15,8 +15,22 @@ You don't loot them and you can't craft them. Every mythic (with one 2026 except
 3. **Excavate** the dig site to pull out one **fragment**.
 4. **Five fragments = the item**, which drops straight into your inventory the moment the last one comes out of the ground.
 
-!!! warning "Leads expire — 30 days from the moment you pick one up"
-    The clock starts when the lead enters your journal, not when you first see the drop. If you're chasing a mythic, **scry each lead as you get it** rather than stockpiling five and doing them in a batch. This is the single most common way people lose a month of farming.
+!!! note "Leads expire — but far more slowly than the old 30-day rule, and mythic leads get the longest clocks"
+    **Update 49 (March 2026) rescaled lead expiry by lead quality, and ESO+ doubles every tier:**
+
+    | Lead quality | Base | With ESO+ |
+    |---|---|---|
+    | White | 30 days | 60 days |
+    | Green | 60 days | 120 days |
+    | Blue | 90 days | 180 days |
+    | Purple | 120 days | 240 days |
+    | **Gold** | **180 days** | **360 days** |
+
+    **Mythic fragment leads are the high-rarity ones**, so you are working with months, not weeks — up to a full year with ESO+. The old "you have 30 days" advice is stale and it's the wrong thing to plan around.
+
+    **And the clock often doesn't apply at all:** expiry only affects leads you have **never successfully excavated**. Once your account has dug a given lead once, every future copy of it is permanent. So the pressure is on your *first* run at each fragment and nothing after that.
+
+    The practical upshot is the opposite of the old advice: you can comfortably stockpile leads and dig them when you feel like it. Just check the timer in the Antiquities journal before you sit on a **white** lead for a month.
 
 **Skill requirements.** Mythic fragments are **Master difficulty** — the hardest scry tier. You need **Scrying level 7** and the **Antiquarian Insight IV** passive before the game will even let you attempt one, plus enough Excavation skill (and the right excavation tools/passives) to survive the dig. If a mythic lead is sitting in your journal greyed out, this is why. Both skill lines level purely by doing lower-tier antiquities, so the fix is grind, not gold.
 
