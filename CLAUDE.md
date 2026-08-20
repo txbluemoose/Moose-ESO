@@ -60,6 +60,27 @@ Follow these when editing or adding guides.
 
 **In-game tooltips beat every source, including this file.** Say so in guides.
 
+### The staleness rule — read this before "correcting" anything
+
+**Most ESO content on the web was written before the current patch, and none of it announces that.** Search snippets carry no dates. Three separate mistakes in this repo trace to exactly that, and two of them *introduced* errors into guides that had been right (see the corrections log: Incinerate, and the 30-day lead timer).
+
+**Before you write or change a skill name, morph, set bonus, or system rule:**
+
+1. **Know which patch is current and when it landed.** See the timeline in `docs/notes/patch-watch.md`. Anything published before that date is a claim about a *previous* version of the game until proven otherwise.
+2. **Patch notes outrank everything.** For a rename, a moved skill, or a changed number, the official notes are the only source that settles it. Build sites and wikis lag; forums repeat old numbers for years.
+3. **An undated source is not evidence about the current patch.** It may still be right — but it can't be the reason you change something.
+4. **When two sources disagree, don't split the difference — go to the patch notes.**
+
+**Tell-tales that you're reading pre-patch content:**
+
+- **A legacy URL serving a differently-titled page.** `eso-hub.com/.../flames-of-oblivion` renders as "Incinerate" — that mismatch *is* the rename, and the **title** is the current name. Same for `/infectious-claws` → "Rending Claws", `/noxious-breath` → "Disintegrating Dragonfire".
+- **Skill-line index / aggregate pages**, which merge pre- and post-rework skills and list both `Inhale` and `Core of Flame`. Use the individual skill page instead.
+- **A number everyone repeats.** "Leads expire in 30 days" was true, then U49 rescaled it by lead quality. Widely-repeated ≠ current.
+
+**The rule that would have prevented the worst of it:** if a guide here already says X and a source says Y, **the burden of proof is on Y.** These guides were verified once against a live build. Do not overwrite one with an older name on the strength of a single undated search result — find the patch note, or leave it alone and flag it.
+
+**When you do verify something, record it:** "verified <date> vs <source>" in the guide's source line. A wrong date is worse than no date, and an unsourced confident claim is worse than a flagged uncertainty.
+
 ## Corrections log — mistakes already made, don't repeat
 
 These were all gotten wrong in the original session. They are the highest-value content in this file.
