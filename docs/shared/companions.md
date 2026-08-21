@@ -1,7 +1,7 @@
 # ESO Companion Reference — All Eight
 ### Shared reference for every character in the household
 
-**Verified against:** ArzyeL Best Companions Builds (June 22, 2026) + Companion Tier List (2026)
+**Verified against:** ArzyeL Best Companions Builds (June 22, 2026) + Companion Tier List (2026). Recruitment quests and locations verified 2026-08-21 against ZOS official support pages, UESP, ArzyeL and Alcast.
 
 ---
 
@@ -37,7 +37,29 @@ Keep this as a saved **Armory** loadout and swap to it for farming and companion
 
 ---
 
-## 1. TIER LIST (overall usefulness)
+## 1. WHERE TO RECRUIT EACH COMPANION
+
+You already have all eight at max rapport — **this table is for alts.** Recruiting is **per character**: the quest has to be run again on every character you want that companion on. Rapport and companion level are **account-wide**, so you only ever level them once.
+
+| Companion | Quest to pick up | Where the quest starts | What you need to own |
+|---|---|---|---|
+| **Bastian Hallix** | *Competition and Contracts* | **Blackwood** — Deepscorn Hollow, southwest coast. He's on the ground, tied up. | Blackwood chapter |
+| **Mirri Elendis** | *Shattered and Scattered* | **Blackwood** — Doomvault Vulpinaz, in the north of the zone. | Blackwood chapter |
+| **Isobel Veloise** | *Tournament of the Heart* | **High Isle** — Castle Navire, southwest coast. Two NPCs arguing near the Castle Navire Wayshrine. | High Isle chapter |
+| **Ember** | *Tower Full of Trouble* | **High Isle** — Tor Draioch, north of Gonfalon Bay. Talk to **Ladlow Menant** near the Tor Draioch Wayshrine, or Ember herself on the path east of the tower. | High Isle chapter |
+| **Sharp-as-Night** | *The Double Edge* | **Telvanni Peninsula** — the entrance to Necrom city, by the bridge to the left of the main gate. | Necrom chapter |
+| **Azandar al-Cybiades** | *The Fateweaver's Key* | **Apocrypha** — outside Cipher's Midden. | Necrom chapter |
+| **Tanlorin** | *The Garland Ring* | **Auridon** (base game) — just north of the Vulkhel Guard Wayshrine. Tanlorin is stuck in an ice trap; interact to start it. | Crown Store bundle — free to claim with active ESO Plus |
+| **Zerith-var** | *A Moonlit Shadow* | **Reaper's March** (base game) — talk to **Cantor Krin'ze**, just south of Moonmont / the Moonmont Wayshrine. | Crown Store bundle — free to claim with active ESO Plus |
+
+**Two things worth knowing:**
+
+- **Tanlorin and Zerith-var are the odd ones out.** They arrived in Update 44 as *Crown Store* companions rather than with a chapter, and their quests are in base-game zones anyone can reach. If you've already claimed the bundle, the quest auto-accepts into your journal on a new character; if it didn't, the quest-giver above still starts it.
+- **Shortcut if a quest won't show:** slot the companion in an **Allies quickslot** and try to summon them. For several — Ember especially — that fires the recruitment quest directly instead of making you walk to the NPC.
+
+---
+
+## 2. TIER LIST (overall usefulness)
 
 1. **Isobel** — best overall, best tank, top-2 healer, excellent DPS either way
 2. **Sharp-as-Night** — best healer (tied), great tank, best frost mage
@@ -61,78 +83,315 @@ Keep this as a saved **Armory** loadout and swap to it for farming and companion
 
 ---
 
-## 2. BUILDS (verified skill bars, in cast-priority order)
+## 3. BUILDS
 
-### Isobel — TANK (default pick for both of us)
-**Skills:** Provoke → Solar Ward → Beam of Reproach → Holy Ground → On Guard → **Ult: Baneslayer**
-**Gear:** All **Heavy / Bolstered**; jewelry + 1H sword + shield **Quickened**
-**Effects she brings:** Gallant Blitz (Off Balance) • Holy Ground (AoE heal) • **Penetrating Strikes (boosts YOUR light AND heavy attack damage)**
-**Racial — Enchanted:** reduces her cooldowns AND damage taken
-**Perk — Isobel's Grace:** chance at extra loot from World Bosses
-**Rapport:** Undaunted dailies (Bolgrul), High Isle world boss dailies, killing any bosses
-*Note: her heals have long cooldowns; she may need occasional help staying up. Telvanni Efficiency largely fixes this.*
-
-### Sharp-as-Night — HEALER
-**Skills:** Petals of the Hunter → Mystic Fortress → Fungal Forage → Rejuvenation → Snow Squall → **Ult: Gore**
-**Gear:** All **Light / Soothing**; jewelry + healing staff **Quickened**
-**Effects:** Cold Snap (CC) • **Infest (Minor Vulnerability)** • Petals of the Hunter (passive heals) • Sleetmail (Major Resolve) • Swoop (Off Balance)
-**Racial — Survivalist:** +armor and +healing done
-**Perk — Sharp's Patience:** better fish bite chance and Trophy Fish odds (the fishing companion)
-**Rapport:** Necrom world boss dailies, Vvardenfell Ashlander dailies, **finding treasure map chests and heavy sacks**, catching rare fish
-
-### Tanlorin — STAMINA DPS (highest DPS companion)
-**Skills:** Kindle → Volcanic Arms → Shattered Spirit → Piercing Arrow → Internal Conflict → **Ult: Ruinous Outburst**
-**Gear:** All **Medium / Quickened**; jewelry + **Bow** Quickened *(swap armor to Aggressive if you'd rather have raw damage than cooldown speed)*
-**Effects:** Volcanic Arms (Major Brutality + Sorcery) • Igneous Armor (Major Resolve + shield) • Kindle (heal) • Haze of Cinders (CC + heal) • Blazing Grasp (CC)
-**Racial — Spirited:** +damage done, −damage taken
-**Perk — Tanlorin's Finesse:** better lockpicking (more time, better force chance, fewer broken picks) — **the thief-build companion**
-**Rapport:** Fighters Guild dailies, Alchemy writs, crafting, lockpicking containers
-
-### Zerith-Var — TANK
-**Skills:** Provoke → On Guard → Sepulchral Chill → Atoning Spirit → Perigean Armor → **Ult: Blade of the Crossing**
-**Gear:** All **Heavy / Bolstered**; jewelry + 1H + shield **Quickened**
-**Effects:** Dark Moon Totem (Minor Protection + Fear) • Azurah's Embrace (purges negative effects) • Blade of the Crossing (Minor Magickasteal) • **Sepulchral Chill (Major Breach!)**
-**Racial — Third's Moon Chosen:** −cooldowns, +health
-**Perk — Zerith's Guidance:** **highlights Heavy Sacks in the world** — farming companion
-**Rapport:** Northern Elsweyr Defense Force dailies, Tales of Tribute dailies/matches, Purifying Bloody Mara drink
-*Best pick when you want a tank who also applies Major Breach — that's free penetration for you.*
-
-### Azandar — TANK / SUPPORT (most buffs and debuffs of anyone)
-**Skills:** Scathing Rune → Tendrils of the Colorless Sea → On Guard → Shields of Erudition → Zone of Recuperation → **Ult: Vigorous Tentacular Eruption**
-**Gear:** All **Heavy / Bolstered**; jewelry + 1H + shield **Quickened** (add Vigorous pieces — he's short on self-heals)
-**Effects:** Fate Omen's Inspiration (Minor Berserk) • Fear of the Unknown (Fear) • Scathing Rune (Minor Maim) • Shields of Erudition (shield) • **Tendrils (Minor Vulnerability)** • Zone of Recuperation (AoE heal + recovery) • **Vigorous Tentacular Eruption (Major Vulnerability)**
-**Racial — Son of Konzaset:** +max health, −cooldowns
-**Perk — Azandar's Inquisitiveness:** **chance for extra surveys, treasure maps, recipes from containers** — THE farming companion
-**Rapport:** Enchanter writs, Necrom delve dailies, Master Enchanter writs, Psijic portals, **reading Mages Guild books** (overlaps with the Ulfsild's grimoire grind)
-*Best-rated companion for Infinite Archive thanks to the Vulnerability debuffs.*
-
-### Ember — MAGICKA DPS
-**Skills:** Thunderous Strike → Hurricane Visage → Shared Wards → Shocking Burst → Crystal Blast → **Ult: Raging Storm**
-**Gear:** All **Medium / Quickened**; jewelry + **Lightning Staff** Quickened
-**Effects:** Entomb (CC + heals) • Shared Wards (shield) • Trickster's Trap (CC)
-**Racial — Cunning:** +crit chance, +damage done
-**Perk — Ember's Intuition:** **more gold when pickpocketing**
-**Rapport:** Thieves Guild heist dailies, Mages Guild dailies, High Isle delve dailies, pickpocketing guards, fencing stolen goods, **looting thieves troves and safeboxes** — *don't get caught stealing, she never forgives it*
-
-### Mirri — STAMINA DPS
-**Skills:** Slayer's Blade → Life Absorption → Swift Assault → Spinning Steel → Razor Cape → **Ult: Impeccable Shot**
-**Gear:** All **Medium / Quickened**; jewelry + two 1H weapons (axe/dagger) Quickened
-**Effects:** Masque of Torment (Fear) • Shadow Slash (Off Balance)
-**Racial — Dynamic:** +damage done, +healing done
-**Perk — Mirri's Expertise:** **better extra-loot chance from treasure map chests**
-**Rapport:** Fighters Guild dailies, Vvardenfell Ashlander Relics dailies, **excavating antiquities**, entering Daedric delves and public dungeons
-
-### Bastian — TANK / BUFFER
-**Skills:** Provoke → Drake's Blood → On Guard → Ritual of Salvation → Kindle → **Ult: Unleashed Rage**
-**Gear:** All **Heavy / Bolstered**; jewelry + 1H + shield **Quickened**
-**Effects:** Basalt Barrier (shield) • Blazing Grasp (CC) • Crushing Claws (CC) • Fiery Flail (Off Balance) • **Searing Weapons (boosts your light AND heavy attack damage)**
-**Racial — Tough:** +max health, +damage done
-**Perk — Bastian's Insight:** chance to improve potions looted from monsters
-**Rapport:** Mages Guild dailies, scrying antiquities, looting Psijic portals, killing cultists and bandits
+Each companion gets the same four blocks: **bar order** (which is cast priority), **gear**, **what they bring you**, and the **perk / rapport** housekeeping. Skills level by use — leave them slotted.
 
 ---
 
-## 3. WHO TO BRING — BY SITUATION
+### Isobel — TANK
+*The default pick for both of us. Best tank in the game, and good at everything else.*
+
+**Bar order** — she casts top-to-bottom as each comes off cooldown
+
+| # | Skill |
+|---|---|
+| 1 | Provoke *(the taunt)* |
+| 2 | Solar Ward |
+| 3 | Beam of Reproach |
+| 4 | Holy Ground |
+| 5 | On Guard |
+| **Ult** | **Baneslayer** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Heavy | **Bolstered** |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapons | 1H sword + shield | **Quickened** |
+
+**What she brings you**
+
+- **Penetrating Strikes** — boosts your light **and** heavy attack damage
+- Holy Ground — AoE heal
+- Gallant Blitz — Off Balance
+
+**Housekeeping**
+
+- **Racial — Enchanted:** reduces her cooldowns *and* her damage taken
+- **Perk — Isobel's Grace:** chance at extra loot from World Bosses
+- **Rapport:** Undaunted dailies (Bolgrul), High Isle world boss dailies, killing any bosses
+
+!!! note "She can struggle to stay up"
+    Her heals sit on long cooldowns. Telvanni Efficiency largely fixes this; without it, expect to throw her the occasional heal.
+
+---
+
+### Sharp-as-Night — HEALER
+*Best healer in the game (tied with Isobel), and the best frost mage.*
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Petals of the Hunter |
+| 2 | Mystic Fortress |
+| 3 | Fungal Forage |
+| 4 | Rejuvenation |
+| 5 | Snow Squall |
+| **Ult** | **Gore** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Light | **Soothing** |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapon | Healing staff | **Quickened** |
+
+**What he brings you**
+
+- **Infest** — Minor Vulnerability
+- Sleetmail — Major Resolve
+- Petals of the Hunter — passive heals
+- Cold Snap — crowd control
+- Swoop — Off Balance
+
+**Housekeeping**
+
+- **Racial — Survivalist:** +armor and +healing done
+- **Perk — Sharp's Patience:** better fish bite chance and Trophy Fish odds — the fishing companion
+- **Rapport:** Necrom world boss dailies, Vvardenfell Ashlander dailies, **finding treasure map chests and heavy sacks**, catching rare fish
+
+---
+
+### Tanlorin — STAMINA DPS
+*Highest-damage companion in the game.*
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Kindle |
+| 2 | Volcanic Arms |
+| 3 | Shattered Spirit |
+| 4 | Piercing Arrow |
+| 5 | Internal Conflict |
+| **Ult** | **Ruinous Outburst** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Medium | **Quickened** *(swap to Aggressive if you'd rather have raw damage than cooldown speed)* |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapon | **Bow** | **Quickened** |
+
+**What they bring you**
+
+- Volcanic Arms — Major Brutality + Major Sorcery
+- Igneous Armor — Major Resolve + a shield
+- Kindle — heal
+- Haze of Cinders — crowd control + heal
+- Blazing Grasp — crowd control
+
+**Housekeeping**
+
+- **Racial — Spirited:** +damage done, −damage taken
+- **Perk — Tanlorin's Finesse:** better lockpicking — more time, better force chance, fewer broken picks. **The thief-build companion.**
+- **Rapport:** Fighters Guild dailies, Alchemy writs, crafting, lockpicking containers
+
+---
+
+### Zerith-var — TANK
+*Bring him when you want a tank who also hands you free penetration.*
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Provoke *(the taunt)* |
+| 2 | On Guard |
+| 3 | **Sepulchral Chill** *(Major Breach)* |
+| 4 | Atoning Spirit |
+| 5 | Perigean Armor |
+| **Ult** | **Blade of the Crossing** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Heavy | **Bolstered** |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapons | 1H + shield | **Quickened** |
+
+**What he brings you**
+
+- **Sepulchral Chill — Major Breach.** This is the reason to bring him: it's penetration you'd otherwise spend a bar slot on
+- Dark Moon Totem — Minor Protection + Fear
+- Azurah's Embrace — purges negative effects
+- Blade of the Crossing — Minor Magickasteal
+
+**Housekeeping**
+
+- **Racial — Third's Moon Chosen:** −cooldowns, +health
+- **Perk — Zerith's Guidance:** **highlights Heavy Sacks in the world** — the farming companion
+- **Rapport:** Northern Elsweyr Defense Force dailies, Tales of Tribute dailies/matches, Purifying Bloody Mara drink
+
+---
+
+### Azandar al-Cybiades — TANK / SUPPORT
+*More buffs and debuffs than anyone else. Best-rated companion for Infinite Archive.*
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Scathing Rune |
+| 2 | Tendrils of the Colorless Sea |
+| 3 | On Guard |
+| 4 | Shields of Erudition |
+| 5 | Zone of Recuperation |
+| **Ult** | **Vigorous Tentacular Eruption** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Heavy | **Bolstered** — mix in Vigorous pieces, he's short on self-heals |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapons | 1H + shield | **Quickened** |
+
+**What he brings you**
+
+- **Vigorous Tentacular Eruption — Major Vulnerability** (the ultimate)
+- **Tendrils of the Colorless Sea — Minor Vulnerability**
+- Fate Omen's Inspiration — Minor Berserk
+- Scathing Rune — Minor Maim
+- Zone of Recuperation — AoE heal + recovery
+- Shields of Erudition — shield
+- Fear of the Unknown — Fear
+
+**Housekeeping**
+
+- **Racial — Son of Konzaset:** +max health, −cooldowns
+- **Perk — Azandar's Inquisitiveness:** **chance for extra surveys, treasure maps and recipes from containers** — the farming companion
+- **Rapport:** Enchanter writs, Necrom delve dailies, Master Enchanter writs, Psijic portals, **reading Mages Guild books** (overlaps with the Ulfsild's grimoire grind)
+
+---
+
+### Ember — MAGICKA DPS
+*Best magicka damage companion, and a solid emergency healer.*
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Thunderous Strike |
+| 2 | Hurricane Visage |
+| 3 | Shared Wards |
+| 4 | Shocking Burst |
+| 5 | Crystal Blast |
+| **Ult** | **Raging Storm** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Medium | **Quickened** |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapon | **Lightning staff** | **Quickened** |
+
+**What she brings you**
+
+- Shared Wards — shield
+- Entomb — crowd control + heals
+- Trickster's Trap — crowd control
+
+**Housekeeping**
+
+- **Racial — Cunning:** +crit chance, +damage done
+- **Perk — Ember's Intuition:** **more gold when pickpocketing**
+- **Rapport:** Thieves Guild heist dailies, Mages Guild dailies, High Isle delve dailies, pickpocketing guards, fencing stolen goods, **looting thieves troves and safeboxes**
+
+!!! warning "Don't get caught stealing with Ember out"
+    She loses rapport for it and she never forgets.
+
+---
+
+### Mirri Elendis — STAMINA DPS
+*Solid stamina damage, and a surprisingly strong healer per ArzyeL's ratings.*
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Slayer's Blade |
+| 2 | Life Absorption |
+| 3 | Swift Assault |
+| 4 | Spinning Steel |
+| 5 | Razor Cape |
+| **Ult** | **Impeccable Shot** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Medium | **Quickened** |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapons | Two 1H (axe / dagger) | **Quickened** |
+
+**What she brings you**
+
+- Masque of Torment — Fear
+- Shadow Slash — Off Balance
+
+**Housekeeping**
+
+- **Racial — Dynamic:** +damage done, +healing done
+- **Perk — Mirri's Expertise:** **better extra-loot chance from treasure map chests**
+- **Rapport:** Fighters Guild dailies, Vvardenfell Ashlander Relics dailies, **excavating antiquities**, entering Daedric delves and public dungeons
+
+---
+
+### Bastian Hallix — TANK / BUFFER
+
+**Bar order**
+
+| # | Skill |
+|---|---|
+| 1 | Provoke *(the taunt)* |
+| 2 | Drake's Blood |
+| 3 | On Guard |
+| 4 | Ritual of Salvation |
+| 5 | Kindle |
+| **Ult** | **Unleashed Rage** |
+
+**Gear**
+
+| Slot | What to wear | Trait |
+|---|---|---|
+| 5 armor pieces | Heavy | **Bolstered** |
+| Necklace + 2 rings | — | **Quickened** |
+| Weapons | 1H + shield | **Quickened** |
+
+**What he brings you**
+
+- **Searing Weapons** — boosts your light **and** heavy attack damage
+- Basalt Barrier — shield
+- Fiery Flail — Off Balance
+- Blazing Grasp, Crushing Claws — crowd control
+
+**Housekeeping**
+
+- **Racial — Tough:** +max health, +damage done
+- **Perk — Bastian's Insight:** chance to improve potions looted from monsters
+- **Rapport:** Mages Guild dailies, scrying antiquities, looting Psijic portals, killing cultists and bandits
+
+---
+
+## 4. WHO TO BRING — BY SITUATION
 
 | What you're doing | Companion | Why |
 |---|---|---|
@@ -152,7 +411,7 @@ Keep this as a saved **Armory** loadout and swap to it for farming and companion
 
 ---
 
-## 4. CHEAT SHEET — SKILL BARS AT A GLANCE
+## 5. CHEAT SHEET — SKILL BARS AT A GLANCE
 
 | Companion | Role | Bar order (1→5, then Ult) |
 |---|---|---|
@@ -165,4 +424,8 @@ Keep this as a saved **Armory** loadout and swap to it for farming and companion
 | Mirri | Stam DPS | Slayer's Blade, Life Absorption, Swift Assault, Spinning Steel, Razor Cape / **Impeccable Shot** |
 | Bastian | Tank | Provoke, Drake's Blood, On Guard, Ritual of Salvation, Kindle / **Unleashed Rage** |
 
-*Source: ArzyeL Best Companions Builds (June 2026) and Companion Tier List (2026). Skill bars and gear traits verified; the "who to bring by situation" table is my own synthesis from the verified perk descriptions.*
+---
+
+*Source: ArzyeL Best Companions Builds (June 2026) and Companion Tier List (2026). Skill bars and gear traits verified there; the "who to bring by situation" table is my own synthesis from the verified perk descriptions.*
+
+*Recruitment quest names and locations verified 2026-08-21 against ZOS/Bethesda official support articles (A Moonlit Shadow, Tower Full of Trouble), UESP, ArzyeL and Alcast. Companion recruitment has been stable across patches — these are not U49/U50-sensitive — but in-game tooltips and your quest journal override this page.*
