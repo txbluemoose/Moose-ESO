@@ -13,8 +13,12 @@
   }
 
   var STORE = "eso-planner-v1";
+  var TOKEN_KEY = "eso-planner-token";
+  var GIST_FILE = "eso-characters.json";
   var WEIGHTS = ["", "Light", "Medium", "Heavy", "—"];
   var state = loadState();
+  var syncMsg = null;      // {text, level} shown in the sync card
+  var syncBusy = false;
 
   // ---- storage ------------------------------------------------------------
 
@@ -35,6 +39,64 @@
 
   function newId() {
     return "c" + Math.random().toString(36).slice(2, 9);
+  }
+
+  /* The token lives under its own key so "clear planner data" and "forget
+     token" stay independent of each other. */
+  function getToken() {
+    try { return window.localStorage.getItem(TOKEN_KEY) || ""; } catch (e) { return ""; }
+  }
+
+  function setToken(t) {
+    try {
+      if (t) window.localStorage.setItem(TOKEN_KEY, t);
+      else window.localStorage.removeItem(TOKEN_KEY);
+    } catch (e) {}
+  }
+
+  /* Mark a character as changed so a pull can tell which side is newer. */
+  function touch(ch) {
+    if (ch) ch.updated = Date.now();
+  }
+
+  function gh(path, opts) {
+    opts = opts || {};
+    opts.headers = Object.assign({
+      "Accept": "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      "Authorization": "Bearer " + getToken()
+    }, opts.headers || {});
+    return fetch("https://api.github.com" + path, opts).then(function (r) {
+      return r.json().then(function (body) { return { r: r, body: body }; },
+                           function () { return { r: r, body: {} }; });
+    }).then(function (out) {
+      if (!out.r.ok) {
+        var msg = out.body && out.body.message ? out.body.message : "HTTP " + out.r.status;
+        if (out.r.status === 401) msg = "GitHub rejected the token (401). Check you pasted it whole and it hasn't expired.";
+        if (out.r.status === 404) msg = "Not found (404) — either the Gist ID is wrong, or the token doesn't have the Gists permission.";
+        var e = new Error(msg); e.status = out.r.status; throw e;
+      }
+      return out.body;
+    });
+  }
+
+  function rosterPayload() {
+    return JSON.stringify({ v: 1, savedAt: new Date().toISOString(), chars: state.chars }, null, 1);
+  }
+
+  function mergeChars(remote) {
+    var byId = {}, added = 0, updated = 0;
+    state.chars.forEach(function (c) { byId[c.id] = c; });
+    remote.forEach(function (rc) {
+      if (!rc || !rc.id) return;
+      var lc = byId[rc.id];
+      if (!lc) { state.chars.push(rc); added++; return; }
+      if ((rc.updated || 0) > (lc.updated || 0)) {
+        Object.keys(rc).forEach(function (k) { lc[k] = rc[k]; });
+        updated++;
+      }
+    });
+    return { added: added, updated: updated };
   }
 
   // ---- helpers ------------------------------------------------------------
@@ -421,6 +483,47 @@
     return lines.join("\n");
   }
 
+  function renderSyncCard() {
+    var tok = getToken();
+    var gid = (state.sync && state.sync.gistId) || "";
+    var last = state.sync && state.sync.lastSync;
+
+    var status = "";
+    if (syncMsg) {
+      status = '<p><span class="ep-pill ep-' + esc(syncMsg.level) + '">' +
+        (syncMsg.level === "bad" ? "error" : syncMsg.level === "ok" ? "done" : "…") +
+        "</span> " + esc(syncMsg.text) + "</p>";
+    } else if (last) {
+      status = '<p class="ep-muted">Last synced ' + esc(new Date(last).toLocaleString()) + ".</p>";
+    }
+
+    return '<div class="ep-card"><h3>7 · Sync across devices</h3>' +
+      '<p class="ep-muted">Pushes your characters to a <strong>secret Gist</strong> so they follow you to your phone. ' +
+      "Use a GitHub token with the <strong>Gists</strong> permission and nothing else — if it ever leaks, the damage is limited to your gists and can't touch this site.</p>" +
+      status +
+      '<div class="ep-row">' +
+        '<div class="ep-field"><label for="ep-token">GitHub token (gists scope)</label>' +
+          '<input type="password" id="ep-token" data-act="token" value="' + esc(tok) + '" placeholder="github_pat_… or ghp_…" autocomplete="off"></div>' +
+        '<div class="ep-field"><label for="ep-gist">Gist ID</label>' +
+          '<input type="text" id="ep-gist" data-act="gistId" value="' + esc(gid) + '" placeholder="paste the ID from the gist URL"></div>' +
+      "</div>" +
+      '<div class="ep-row" style="margin-top:.6rem">' +
+        '<div><button data-act="push"' + (syncBusy || !tok ? " disabled" : "") + ">Push to Gist</button></div>" +
+        '<div><button data-act="pull"' + (syncBusy || !tok || !gid ? " disabled" : "") + ">Pull from Gist</button></div>" +
+        '<div><button class="ep-ghost" data-act="createGist"' + (syncBusy || !tok || gid ? " disabled" : "") + ">Create a new Gist</button></div>" +
+        (tok ? '<div><button class="ep-ghost" data-act="forgetToken">Forget token</button></div>' : "") +
+      "</div>" +
+      '<details style="margin-top:.8rem"><summary>How to make the token</summary>' +
+      "<ol class=\"ep-need\">" +
+        "<li>GitHub → Settings → Developer settings → <strong>Personal access tokens</strong> → <em>Tokens (classic)</em>.</li>" +
+        "<li>Generate new token. Tick <strong>gist</strong> — and only <strong>gist</strong>. Leave every other box unchecked.</li>" +
+        "<li>Copy it into the box above, then press <strong>Create a new Gist</strong>. That makes the secret gist and remembers its ID.</li>" +
+        "<li>On your phone: open this page, paste the same token <em>and</em> the Gist ID, then press <strong>Pull from Gist</strong>.</li>" +
+      "</ol>" +
+      '<p class="ep-muted">Push overwrites the gist with what\'s in this browser. Pull merges the gist in, keeping whichever copy of each character was edited most recently — so a character deleted on one device comes back on a pull. Delete it on both, or push from the device that\'s right.</p>' +
+      "</details></div>";
+  }
+
   function render() {
     var html = renderCharacterCard();
     var ch = activeChar();
@@ -443,6 +546,8 @@
       }
     }
 
+    html += renderSyncCard();
+
     html += '<datalist id="ep-sets">' + (DATA.sets || []).map(function (s) {
       return '<option value="' + esc(s) + '">';
     }).join("") + "</datalist>";
@@ -461,14 +566,88 @@
     ch.gear[slot][field] = value;
   }
 
+  function runSync(act) {
+    syncBusy = true;
+    syncMsg = { text: act === "pull" ? "Pulling…" : "Talking to GitHub…", level: "idle" };
+    render();
+
+    var done = function (text, level) {
+      syncBusy = false;
+      syncMsg = { text: text, level: level };
+      saveState();
+      render();
+    };
+
+    var job;
+    if (act === "createGist") {
+      var files = {};
+      files[GIST_FILE] = { content: rosterPayload() };
+      job = gh("/gists", {
+        method: "POST",
+        body: JSON.stringify({ description: "ESO Loadout Planner — characters", public: false, files: files })
+      }).then(function (g) {
+        state.sync = state.sync || {};
+        state.sync.gistId = g.id;
+        state.sync.lastSync = Date.now();
+        done("Secret gist created. ID " + g.id + " — copy it to your other devices.", "ok");
+      });
+    } else if (act === "push") {
+      var f2 = {};
+      f2[GIST_FILE] = { content: rosterPayload() };
+      job = gh("/gists/" + encodeURIComponent(state.sync.gistId), {
+        method: "PATCH",
+        body: JSON.stringify({ files: f2 })
+      }).then(function () {
+        state.sync.lastSync = Date.now();
+        done("Pushed " + state.chars.length + " character" + (state.chars.length === 1 ? "" : "s") + " to the gist.", "ok");
+      });
+    } else {
+      job = gh("/gists/" + encodeURIComponent(state.sync.gistId), { method: "GET" }).then(function (g) {
+        var file = g.files && g.files[GIST_FILE];
+        if (!file) throw new Error("That gist has no " + GIST_FILE + " in it.");
+        var parsed = JSON.parse(file.content);
+        var remote = (parsed && parsed.chars) || [];
+        var res = mergeChars(remote);
+        if (!state.activeId && state.chars.length) state.activeId = state.chars[0].id;
+        state.sync.lastSync = Date.now();
+        done("Pulled: " + res.added + " new, " + res.updated + " updated, " +
+             (remote.length - res.added - res.updated) + " already current.", "ok");
+      });
+    }
+
+    job.catch(function (e) {
+      syncBusy = false;
+      syncMsg = { text: String(e && e.message ? e.message : e), level: "bad" };
+      render();
+    });
+  }
+
   root.addEventListener("click", function (ev) {
     var btn = ev.target.closest("button");
     if (!btn) return;
     var act = btn.getAttribute("data-act");
     var ch = activeChar();
 
+    if (act === "push" || act === "pull" || act === "createGist") {
+      if (!getToken()) { syncMsg = { text: "Paste a token first.", level: "bad" }; render(); return; }
+      if (act !== "createGist" && !(state.sync && state.sync.gistId)) {
+        syncMsg = { text: "Paste the Gist ID first, or create a new gist.", level: "bad" }; render(); return;
+      }
+      if (act === "push" && !window.confirm("Overwrite the gist with the " + state.chars.length +
+          " character(s) in this browser?")) return;
+      runSync(act);
+      return;
+    }
+    if (act === "forgetToken") {
+      setToken("");
+      syncMsg = { text: "Token removed from this browser.", level: "ok" };
+      render();
+      return;
+    }
+
     if (act === "addChar") {
       var c = { id: newId(), name: "New character", buildId: "", setup: 0, variant: 0, useComp: null, comp: "", gear: {} };
+      touch(c);
       state.chars.push(c);
       state.activeId = c.id;
     } else if (act === "delChar" && ch) {
@@ -478,6 +657,7 @@
     } else if (act === "matchRow" && ch) {
       var build = buildById(ch.buildId), setup = currentSetup(ch, build);
       var slot = btn.getAttribute("data-slot");
+      touch(ch);
       setup.rows.forEach(function (r) {
         if (r.slot !== slot) return;
         setField(ch, r.slot, "set", targetSet(r, ch.variant || 0));
@@ -485,6 +665,7 @@
         setField(ch, r.slot, "trait", r.trait === "—" ? "" : r.trait);
       });
     } else if (act === "fillAll" && ch) {
+      touch(ch);
       var b2 = buildById(ch.buildId), s2 = currentSetup(ch, b2);
       s2.rows.forEach(function (r) {
         setField(ch, r.slot, "set", targetSet(r, ch.variant || 0));
@@ -493,6 +674,7 @@
       });
     } else if (act === "clearAll" && ch) {
       if (!window.confirm("Clear every gear entry for this character?")) return;
+      touch(ch);
       ch.gear = {};
     } else {
       return;
@@ -506,9 +688,19 @@
     var act = t.getAttribute("data-act");
     var ch = activeChar();
 
-    if (act === "pickChar") {
+    if (act === "token") {
+      setToken(t.value.trim());
+      syncMsg = null;
+      render();
+      return;
+    } else if (act === "gistId") {
+      state.sync = state.sync || {};
+      state.sync.gistId = t.value.trim();
+      syncMsg = null;
+    } else if (act === "pickChar") {
       state.activeId = t.value;
     } else if (act === "pickBuild" && ch) {
+      touch(ch);
       ch.buildId = t.value;
       ch.setup = 0;
       ch.variant = 0;
@@ -524,6 +716,7 @@
       ch.comp = t.value;
     } else if (t.getAttribute("data-slot") && ch) {
       setField(ch, t.getAttribute("data-slot"), t.getAttribute("data-f"), t.value);
+      touch(ch);
       saveState();
       // Re-render so the needs list tracks typing, but keep focus where it was.
       var slot = t.getAttribute("data-slot"), f = t.getAttribute("data-f");
@@ -544,6 +737,7 @@
     if (!ch) return;
     if (t.getAttribute("data-act") === "rename") {
       ch.name = t.value;
+      touch(ch);
       saveState();
       var sel = root.querySelector("#ep-char");
       if (sel) {
