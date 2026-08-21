@@ -39,6 +39,7 @@ Every class, both stat pools (her stamina bars are bow/ranged where the class al
 
 ## Reference
 
+- [Loadout Planner](loadout-planner.md) — pick a character and build, track what you're wearing, see what's left to finish each set
 - [Companions](shared/companions.md) — all eight: where to pick up each recruitment quest, plus verified bars and gear
 - [Race & Class Pairings](shared/races.md) — best race per class, and class per race (the smallest dial)
 - [Gear Slot Math](shared/gear-math.md) — mythic vs 2-piece monster set, and why the helm is a stat pick

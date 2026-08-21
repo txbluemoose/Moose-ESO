@@ -27,6 +27,8 @@ jobs:
         run: pip install mkdocs-material
       - name: Check home page is up to date
         run: python scripts/check_index_links.py
+      - name: Regenerate planner data from the guides
+        run: python scripts/build_planner_data.py
       - name: Build site
         run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v3

@@ -1,0 +1,120 @@
+/* Loadout Planner — scoped to #eso-planner so it can't leak into the guides. */
+
+#eso-planner { margin-top: 1.2rem; }
+
+#eso-planner .ep-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .4rem;
+  padding: .9rem 1rem;
+  margin: 0 0 1rem;
+  background: var(--md-code-bg-color);
+}
+
+#eso-planner .ep-card > h3:first-child { margin-top: 0; }
+
+#eso-planner .ep-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  align-items: flex-end;
+}
+
+#eso-planner .ep-field { display: flex; flex-direction: column; gap: .25rem; flex: 1 1 14rem; }
+#eso-planner .ep-field > label {
+  font-size: .68rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  opacity: .75;
+  font-weight: 700;
+}
+
+#eso-planner select,
+#eso-planner input[type="text"] {
+  font: inherit;
+  font-size: .76rem;
+  padding: .38rem .5rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: .25rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  width: 100%;
+  min-width: 0;
+}
+
+#eso-planner button {
+  font: inherit;
+  font-size: .72rem;
+  font-weight: 600;
+  padding: .38rem .7rem;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: .25rem;
+  background: transparent;
+  color: var(--md-primary-fg-color);
+  cursor: pointer;
+  white-space: nowrap;
+}
+#eso-planner button:hover { background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); }
+#eso-planner button.ep-ghost { border-color: var(--md-default-fg-color--lighter); color: var(--md-default-fg-color--light); }
+#eso-planner button.ep-ghost:hover { background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color); }
+#eso-planner button.ep-mini { padding: .2rem .45rem; font-size: .65rem; }
+
+#eso-planner .ep-toggle { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+#eso-planner .ep-toggle label { display: flex; align-items: center; gap: .35rem; font-size: .78rem; cursor: pointer; }
+
+#eso-planner table { font-size: .74rem; width: 100%; }
+#eso-planner table th, #eso-planner table td { padding: .35rem .5rem; vertical-align: middle; }
+#eso-planner .ep-scroll { overflow-x: auto; }
+
+/* The tracker needs room: set names are long and get typed into. */
+#eso-planner table.ep-track { min-width: 48rem; }
+#eso-planner table.ep-track td:nth-child(2) { min-width: 9rem; }
+#eso-planner table.ep-track td:nth-child(3) { min-width: 12rem; }
+#eso-planner table.ep-track td:nth-child(4) { min-width: 6.5rem; }
+#eso-planner table.ep-track td:nth-child(5) { min-width: 8rem; }
+
+#eso-planner .ep-target { opacity: .82; font-size: .72rem; }
+#eso-planner .ep-slot { font-weight: 700; white-space: nowrap; }
+
+#eso-planner .ep-pill {
+  display: inline-block;
+  padding: .1rem .45rem;
+  border-radius: 1rem;
+  font-size: .66rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+#eso-planner .ep-ok   { background: #2e7d3222; color: #2e7d32; }
+#eso-planner .ep-warn { background: #ef6c0022; color: #ef6c00; }
+#eso-planner .ep-bad  { background: #c6282822; color: #c62828; }
+#eso-planner .ep-idle { background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light); }
+
+[data-md-color-scheme="slate"] #eso-planner .ep-ok   { background: #66bb6a22; color: #81c784; }
+[data-md-color-scheme="slate"] #eso-planner .ep-warn { background: #ffa72622; color: #ffb74d; }
+[data-md-color-scheme="slate"] #eso-planner .ep-bad  { background: #ef535022; color: #e57373; }
+
+#eso-planner .ep-bars { display: flex; flex-wrap: wrap; gap: 1rem; }
+#eso-planner .ep-bar { flex: 1 1 18rem; min-width: 0; }
+#eso-planner .ep-bar h4 { margin: 0 0 .35rem; font-size: .78rem; }
+#eso-planner .ep-bar ol { margin: 0; padding-left: 1.4rem; font-size: .76rem; }
+#eso-planner .ep-bar li { margin: .12rem 0; }
+#eso-planner .ep-ult { margin-top: .35rem; font-size: .76rem; }
+
+#eso-planner .ep-need { margin: 0; padding-left: 1.1rem; font-size: .78rem; }
+#eso-planner .ep-need li { margin: .3rem 0; }
+#eso-planner .ep-muted { opacity: .7; font-size: .76rem; }
+
+#eso-planner .ep-shop {
+  width: 100%;
+  min-height: 7rem;
+  font-family: var(--md-code-font-family, monospace);
+  font-size: .72rem;
+  padding: .5rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: .25rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+}
+
+@media (max-width: 45rem) {
+  #eso-planner .ep-field { flex: 1 1 100%; }
+}
