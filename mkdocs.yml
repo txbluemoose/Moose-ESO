@@ -46,6 +46,7 @@ markdown_extensions:
 
 extra_css:
   - assets/extra.css
+  - assets/planner.css
 
 nav:
   - Home: index.md
@@ -98,6 +99,7 @@ nav:
           - Stamina (daggers): one-bar-builds/one-bar-arcanist.md
           - Magicka (staff): one-bar-builds/one-bar-arcanist-magicka.md
       - Werewolf (Pack Leader): one-bar-builds/werewolf.md
+  - Loadout Planner: loadout-planner.md
   - Companions: shared/companions.md
   - Race & Class: shared/races.md
   - Gear Slot Math: shared/gear-math.md
