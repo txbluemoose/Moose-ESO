@@ -11,16 +11,53 @@
 
 ## Skills — One Bar (Bow)
 
-1. **Endless Hail** (morph of Volley, *Bow*) — a rain of arrows on the ground; her AoE and her "tag the whole pack" button. Drop it and keep shooting.
+| # | Skill | What it does |
+|---|---|---|
+| 1 | **Endless Hail**<br>*morph of Volley, Bow* | A rain of arrows on the ground — her AoE and her "tag the whole pack" button. Drop it and keep shooting. *(See the Major Breach note below — this is the slot that changes if she ever earns Razor Caltrops.)* |
+| 2 | **Poison Injection**<br>*morph of Poison Arrow, Bow* | Poison DoT dealing **up to +120% more to enemies under 50% health** — her execute. Things melt below half. |
+| 3 | **Hurricane**<br>*morph of Lightning Form, Storm Calling* | **Major Resolve** (her armour) plus a physical AoE that grows the longer it's up. Recast it to keep the armour. |
+| 4 | **Critical Surge**<br>*morph of Surge, Storm Calling* | **Major Brutality & Sorcery** (her damage buff — no potion needed) and **heals her ~3,300 every time she crits, once a second**. This is her whole survivability engine. |
+| 5 | **Bound Armaments**<br>*morph of Bound Armor, Daedric Summoning* | **Major Savagery** just for being slotted — big crit chance, which feeds Critical Surge's heals. Her light attacks also build stacks she can fire off for bonus damage. |
+| **Ult** | **Greater Storm Atronach**<br>*morph of Summon Storm Atronach, Daedric Summoning* | A lightning giant that hits hard and stuns. **Her husband can activate its Charged Lightning synergy for Major Berserk**, so it's a duo button too. |
 
-    **The one real gap on this bar — worth knowing:** she has **no Major Breach**, so every enemy keeps ~5,948 more armor than it needs to. That's a bigger damage loss than any gear choice on this page, and it's not fixable with a Crusher glyph (flat armor debuff — a different, smaller thing). The fix is **Razor Caltrops** (morph of Caltrops, *Alliance War > Assault*) in this slot: a ground AoE DoT that also applies Major Breach, stamina-based and not scribed, so it fits her rules. The catch is that it unlocks through the **Assault** line, which means ranking it up in Cyrodiil or Battlegrounds. **If she's willing to earn it, take it — it's the single biggest upgrade available to this build.** If not, Endless Hail is the right call and the sheet works as written. (Elemental Susceptibility, the usual free answer, is a Destruction Staff skill — unavailable on a bow.)
-2. **Poison Injection** (morph of Poison Arrow, *Bow*) — poison DoT that deals **up to +120% more to enemies under 50% health** — her execute; things melt below half ✅
-3. **Hurricane** (morph of Lightning Form, *Storm Calling*) — **Major Resolve** (her armor) + a physical AoE that grows the longer it's up; recast it to keep the armor ✅
-4. **Critical Surge** (morph of Surge, *Storm Calling*) — **Major Brutality/Sorcery** (her damage buff, no potion needed) + **heals her ~3300 every time she crits, once a second**. This is her whole survivability engine ✅
-5. **Bound Armaments** (morph of Bound Armor, *Daedric Summoning*) — grants **Major Savagery** (big crit chance → feeds Critical Surge's heals) just by being slotted; her light attacks also build stacks she can fire off for bonus damage ✅
-- **Ult: Greater Storm Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — a lightning giant that hits hard and stuns; **her husband can activate its Charged Lightning synergy for Major Berserk**, so it's a duo button too ✅
+*Nothing on this bar is scribed — she doesn't scribe, and she doesn't need to. Every skill here comes straight off the bow or her class lines. Morphs are cross-checked against ESO-Hub / UESP / Alcast (U50); anything marked ⚠️ elsewhere on this page still needs an in-game tooltip check.*
 
-*Nothing on this bar is scribed — she doesn't scribe, and she doesn't need to. Every skill here comes straight off the bow or her class lines.*
+!!! warning "The one real gap on this bar — she has no Major Breach"
+    Every enemy keeps **~5,948 more armour** than it needs to. That's a bigger damage loss than any gear choice on this page, and a Crusher glyph does **not** fix it — that's a flat armour debuff, a different and smaller thing.
+
+    **The fix is Razor Caltrops** (morph of Caltrops, *Alliance War → Assault*) in slot 1: a ground AoE DoT that also applies Major Breach. It's stamina-based and not scribed, so it fits her rules. The catch is the **Assault** line — it unlocks by ranking up in Cyrodiil or Battlegrounds.
+
+    **If she's willing to earn it, take it — it's the single biggest upgrade available to this build.** If not, Endless Hail is the right call and the sheet works exactly as written.
+
+    Elemental Susceptibility, the usual free answer, is a **Destruction Staff** skill and unavailable on a bow — unless she picks up a back bar.
+
+### Optional back bar — only if she wants Major Breach
+
+**She does not need this bar.** The sheet above is complete and the one-bar rule still stands — this is an opt-in add-on for dungeon bosses and anything tanky, and she can leave the back bar empty forever without breaking a thing.
+
+The entire reason to pick it up is the gap flagged above: **Elemental Susceptibility is a Destruction Staff skill**, so a staff on the back bar hands her Major Breach without the Cyrodiil grind that Razor Caltrops needs.
+
+**Back bar (Ice Staff) — swap over, press one or two things, swap straight back:**
+
+| # | Skill | What it does |
+|---|---|---|
+| 1 | **Elemental Susceptibility**<br>*morph of Weakness to Elements, Destruction Staff* | **Major Breach** — the ~5,948 armour shred she's missing. **Currently free to cast**, which is what makes it viable on a stamina build. |
+| 2 | **Elemental Blockade**<br>*morph of Wall of Elements, Destruction Staff* | Ground DoT. On an **ice** staff its Chilled procs also apply **Minor Brittle**. Optional — see the Magicka warning below. |
+
+**Leave slots 3–5 empty, or put anything there she likes.** Do *not* park a skill there for a "while slotted" bonus — those only work on the **active** bar, so a skill sitting on the back bar while she fights on the front does nothing at all.
+
+!!! warning "Destruction Staff skills cost Magicka — and she's a stamina build"
+    **Elemental Susceptibility is free to cast on the current patch**, which is the only reason this works for her. Elemental Blockade is not — it's a real Magicka cost against a small pool, so treat it as a nice-to-have and drop it the moment her Magicka is the thing running out. Conservation of Energy (her Class Mastery pick) refunds Magicka too, which softens it.
+
+    **⚠️ Update 51 breaks this.** It's on PTS now and gives Elemental Susceptibility a **3,240 Magicka cost**. When U51 lands, re-check whether this bar is still worth carrying on a stamina build — Razor Caltrops may become the better answer after all.
+
+**The gear consequence — she needs a second weapon.** Deadly Strike is currently boots + necklace + ring 1 + **bow (2 pieces)** = 5. Weapon set bonuses only count while that weapon is **drawn**, so the moment she swaps to a non-Deadly-Strike staff she drops to 3 pieces and loses the 5-piece. The fix is simple: get a **Deadly Strike ice staff** so the 5-piece holds on both bars. Same Cyrodiil vendor / guild-trader set as the rest — cheap, and no farming.
+
+**Does she have the skill line?** If this is the same Sorcerer as her [Magicka pet build](one-bar-sorcerer.md), Destruction Staff is already ranked and she can slot this today. If it's a separate character, the line needs levelling first — which is a real cost to weigh against just running the one bar.
+
+**How to play it:** exactly as written above, plus — on a boss worth the trouble — swap back, cast Elemental Susceptibility, swap forward, and carry on. That's it. No rotation change.
+
+---
 
 ### Class Mastery (pure class — pick 2)
 - **Font of Power** — grants **+11% Weapon Damage** for 10s whenever she uses any Sorc ability. Her biggest damage pick, costs nothing defensive. ✅
@@ -160,6 +197,7 @@ Buy every passive in a line she has a skill slotted from; priorities if points a
 - **Wants a pet?** Swap **Bound Armaments → Summon Volatile Familiar** (morph of Summon Unstable Familiar, *Daedric Summoning*) for a lightning pet she can pulse. It costs Magicka and parses a touch lower on a stamina build, but she likes pets — it's a fine comfort swap, not a mistake.
 - **Really rough fight?** Swap Endless Hail → **Hardened Ward** (morph of Conjured Ward, *Daedric Summoning*) for a big shield; between the Ward, Critical Surge, and Pale Order she becomes very hard to kill.
 - Heavy-CC content is a bow one-bar's one weakness (stuns interrupt her). **Immovability potions** handle it, or **Precognition** ult (*Psijic Order*) for the handful of solo-impossible stuns.
+- **Back bar is optional, and that's deliberate.** Her one-bar rule stands; the back bar above exists only to solve the Major Breach gap and is safe to ignore. Don't let a future revision quietly turn this sheet into a two-bar build.
 - **Not scribed anywhere** — deliberately. If a future guide ever puts a scribed skill on her bar, it needs a non-scribed alternative called out inline (household rule).
 
 *Source: household-constructed — no published one-bar pure-class bow Stam Sorc exists to copy. Nearest published relatives (all Oakensoul, none pure-class-bow): Alcast's one-bar dual-wield Stam Sorc and Hack the Minotaur's two-hander "Thunder Lord"; ArzyeL's one-bar Stam Sorc bow subclasses and is unusable here. Individual morphs from ESO-Hub / UESP / Alcast (U50); Class Mastery from Alcast's U50 page. Skills marked ⚠️ need an in-game tooltip check. Revised 2026-08-18.*

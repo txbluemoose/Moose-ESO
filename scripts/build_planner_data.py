@@ -31,6 +31,17 @@ def is_sep(line):
     return bool(re.fullmatch(r"\|[\s:|-]+\|", line.strip()))
 
 
+def skill_name(cell):
+    """"**Endless Hail**<br>*morph of Volley, Bow*" -> "Endless Hail (morph of Volley, Bow)"."""
+    parts = [strip_md(x) for x in re.split(r"<br\s*/?>", cell)]
+    parts = [x for x in parts if x]
+    if not parts:
+        return ""
+    if len(parts) == 1:
+        return parts[0]
+    return parts[0] + " (" + "; ".join(parts[1:]) + ")"
+
+
 def pieces_for_slot(slot):
     """How many set pieces this gear row is worth.
 
@@ -179,6 +190,27 @@ def parse_guide(path):
                     })
                 if setup["rows"]:
                     guide["gear"].append(setup)
+                i = nxt
+                continue
+
+            # single-bar skill table: | # | Skill | What it does |
+            if len(low) >= 2 and low[0] == "#" and low[1] == "skill" and "bar" in heading.lower():
+                skills, ult = [], ""
+                for r in rows:
+                    if len(r) < 2:
+                        continue
+                    name = skill_name(r[1])
+                    if not name:
+                        continue
+                    if strip_md(r[0]).lower().startswith("ult"):
+                        ult = name
+                    else:
+                        skills.append(name)
+                if skills or ult:
+                    guide["bars"].append({
+                        "name": heading,
+                        "columns": [{"label": heading, "skills": skills, "ult": ult}],
+                    })
                 i = nxt
                 continue
 
