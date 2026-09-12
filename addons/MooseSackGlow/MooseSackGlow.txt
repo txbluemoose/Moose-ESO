@@ -1,0 +1,8 @@
+## Title: Moose Sack Glow
+## Author: Moose-ESO
+## Version: 0.1.0
+## APIVersion: 101050 101051
+## SavedVariables: MooseSackGlowVars
+## Description: Remembers where heavy sacks are and puts a glowing marker on the spot. Teachable to any other interactable.
+
+MooseSackGlow.lua

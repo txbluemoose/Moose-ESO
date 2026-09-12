@@ -42,6 +42,7 @@ Medium armor is the stealth weight (sneak cost and stealth movement passives).
 - **HarvestRoute** — turns a route into live turn-by-turn navigation; auto-inserts newly found nodes into the tour optimally; SmartPath reduces zigzagging
 - **Lost Treasure** — puts survey and treasure map dig sites directly on the map
 - **Minion** — addon manager
+- **[Moose Sack Glow](sack-glow-addon.md)** — ours (`addons/` in this repo): glowing markers on heavy sack spots you've already found. Can't light up the sack itself — nothing can except Zerith-Var.
 
 Limitation: the addon API exposes harvest-node respawn state but **not container state**, so chest pins show all known locations regardless of whether one is currently there.
 

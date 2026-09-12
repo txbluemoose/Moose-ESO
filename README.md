@@ -13,6 +13,8 @@ Living build documents for a husband and his wife, covering two playstyles — f
 ├── README.md
 ├── templates/
 │   └── class-guide-template.md       # skeleton for adding a new class
+├── addons/                           # ESO add-ons written for these two (PC only)
+│   └── MooseSackGlow/                # glowing markers on known heavy sack spots
 └── docs/                             # everything here is published to the site
     ├── index.md                      # landing page
     ├── full-builds/
