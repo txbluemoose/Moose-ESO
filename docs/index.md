@@ -23,6 +23,7 @@ Every class, both stat pools (his main is the Magicka DK; melee is the household
 - **Necromancer** — [Magicka](full-builds/necromancer.md) · [Stamina](full-builds/stamina-necromancer.md)
 - **Arcanist** — [Stamina](full-builds/arcanist.md) · [Magicka](full-builds/magicka-arcanist.md)
 - **Werewolf** — [Berserker](full-builds/werewolf.md) — solo/group DPS
+- **Tank** — [Accolade — One Bar, Oakensoul](full-builds/dragonknight-tank-oakensoul.md) — one bar, Oakensoul, tanks *and* solos
 
 ## One-bar builds
 
