@@ -125,6 +125,24 @@ For current trial parses, use the live group Stam Sorc builds at **hyperioxes.co
 
 Stam Sorc is a strong bursty duelist — Streak mobility, Crystal Weapon burst, and Critical Surge self-healing all carry straight from PvE. Verified directionally against **Alcast's U50 Stamina Sorcerer PvP** build; **metas rotate seasonally**, so confirm current pieces before spending gold — this is directional, not a copy-paste.
 
+### PvP bar
+
+| Front Bar (Dual Wield) | Back Bar (Bow) |
+|---|---|
+| 1. Rending Slashes (morph of Twin Slashes, *Dual Wield*) — bleed pressure | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + growing AoE |
+| 2. Crystal Weapon (morph of Crystal Shard, *Dark Magic*) — armour-shredding burst | 2. Poison Injection (morph of Poison Arrow, *Bow*) — the execute DoT |
+| 3. Critical Surge (morph of Surge, *Storm Calling*) — Major Brutality **and** heal-on-crit | 3. Endless Hail (morph of Volley, *Bow*) — ranged ground pressure |
+| 4. Hardened Ward (morph of Conjured Ward, *Daedric Summoning*) — shield | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |
+| 5. Deadly Cloak (morph of Blade Cloak, *Dual Wield*) — Major Evasion + AoE damage | 5. Razor Caltrops (morph of Caltrops, *Alliance War → Assault*) — Major Breach + snare |
+| **Ult:** Greater Storm Atronach (morph of Summon Storm Atronach, *Daedric Summoning*) — burst + stun | **Ult:** Precognition (*Psijic Order*) — the unblockable stun |
+
+*Bound Armaments (morph of Bound Armor, *Daedric Summoning*) goes in front slot 5 over Deadly Cloak if you want Major Savagery and the light-attack stacks instead of Major Evasion.*
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Stamina Sorcerer PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | **Streak / Bolt Escape** (best escape in the game), **Crystal Weapon → Dizzying/Executioner** burst combos, **Hurricane** for the passive AoE + Major Resolve, **Critical Surge** healing, and **Hardened Ward** shield stacking off the Daedric Summoning line |

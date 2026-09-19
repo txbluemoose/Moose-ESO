@@ -122,6 +122,25 @@ The group rotation differs enough that I won't guess it here — check the curre
 
 Warden PvP staples translate well from this kit. Verified against Alcast's U50 **Stamina Warden "Assault"** build; season metas rotate, so confirm current pieces before investing.
 
+### PvP bar
+
+| Front Bar (Dual Wield or Two-Handed) | Back Bar (Bow) |
+|---|---|
+| 1. Deep Fissure (morph of Scorch, *Animal Companions*) — delayed burst + Major Breach / Minor Vulnerability | 1. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) — ground AoE + snare |
+| 2. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) — burst heal scaling off **max health** | 2. Growing Swarm (morph of Swarm, *Animal Companions*) — ranged DoT that spreads |
+| 3. Shimmering Shield (morph of Crystallized Shield, *Winter's Embrace*) — eats projectiles | 3. Lotus Blossom (morph of Lotus Flower, *Green Balance*) — Major Savagery + heal on light attack |
+| 4. Bull Netch (morph of Betty Netch, *Animal Companions*) — Major Brutality **and** a purge every few seconds | 4. Living Trellis (*Green Balance*) — heal-over-time plus a burst heal on expiry |
+| 5. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time | 5. Silver Leash (*Fighters Guild*) — the pull, for dragging someone off a keep wall |
+| **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — brawler ult, personal damage + Major Protection | **Ult:** Precognition (*Psijic Order*) — the unblockable stun |
+
+!!! note "Polar Wind and Arctic Blast are the same skill"
+    They're both morphs of **Arctic Wind**, so you can only run one. The solo build takes **Arctic Blast** for the instant heal-and-stun; PvP takes **Polar Wind** for the bigger max-health-scaled burst heal.
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Stamina Warden PvP build, **"Assault"**. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | Deep Fissure burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Bull Netch purge, Arctic Blast as an instant self-heal + stun morph, Northern Storm as a brawler ult |

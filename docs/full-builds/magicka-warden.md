@@ -131,6 +131,22 @@ The group Mag Warden rotation (heavier on Sub Assault / Cliff Racer weaving and 
 
 Warden PvP translates well from this chassis. Verified against **Alcast's U50 Magicka Warden PvP build, "Frostcloak"**; season set metas rotate, so confirm current pieces on the live page before spending gold.
 
+### PvP bar
+
+| Front Bar (Inferno Staff) | Back Bar (Restoration Staff) |
+|---|---|
+| 1. Screaming Cliff Racer (morph of Dive, *Animal Companions*) — spammable, sets Off Balance | 1. Frozen Armor (morph of Frost Cloak, *Winter's Embrace*) — Major Resolve |
+| 2. Deep Fissure (morph of Scorch, *Animal Companions*) — delayed burst + Major Breach / Minor Vulnerability | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) — ground AoE + snare |
+| 3. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) — burst heal scaling off **max health** | 3. Fetcher Infection (morph of Swarm, *Animal Companions*) — ranged DoT |
+| 4. Shimmering Shield (morph of Crystallized Shield, *Winter's Embrace*) — eats projectiles; Cyrodiil's natural habitat | 4. Enchanted Growth (morph of Fungal Growth, *Green Balance*) — burst heal + Major Mending |
+| 5. Blue Betty (morph of Betty Netch, *Animal Companions*) — Major Sorcery **and** a purge every few seconds | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
+| **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — brawler ult, personal damage + Major Protection | **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — the bear, for sustained pressure |
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Magicka Warden PvP build, **"Frostcloak"**. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | **Polar Wind** becomes your money burst heal (max-health scaling is PvP gold), **Deep Fissure** burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Blue Betty purge, Northern Storm as a brawler ult, Frozen Armor for resolve |

@@ -130,6 +130,25 @@ Same character, different job: the group brings the heals, buffs, and debuffs, s
 
 Necromancer PvP wants burst, hard CC, and a bigger health pool than PvE. Your Colossus is a genuine teamfight ultimate (AoE stun + Major Vulnerability), and Spirit Guardian's 10% transfer is quietly excellent under focus fire.
 
+### PvP bar
+
+| Front Bar (Inferno Staff or Dual Wield) | Back Bar (Restoration Staff) |
+|---|---|
+| 1. Ricochet Skull (morph of Flame Skull, *Grave Lord*) — spammable that bounces to extra targets | 1. Detonating Siphon (morph of Shocking Siphon, *Grave Lord*) — DoT + sustain off a corpse |
+| 2. Blighted Blastbones (morph of Sacrificial Bones, *Grave Lord*) — burst **and Major Defile**, brutal against enemy healers | 2. Skeletal Archer (morph of Skeletal Mage, *Grave Lord*) — free damage, and a corpse when it dies |
+| 3. Resistant Flesh (morph of Render Flesh, *Living Death*) — burst heal | 3. Braided Tether (morph of Restoring Tether, *Living Death*) — heal-over-time tether |
+| 4. Spirit Guardian (morph of Spirit Mender, *Living Death*) — **10% of incoming damage transferred** plus a heal; quietly excellent under focus fire | 4. Avid Boneyard (morph of Boneyard, *Grave Lord*) — ground AoE |
+| 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach | 5. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — zone control |
+| **Ult:** Glacial Colossus (morph of Frozen Colossus, *Grave Lord*) — **AoE stun** + Major Vulnerability | **Ult:** Ravenous Goliath (morph of Bone Goliath Transformation, *Bone Tyrant*) — huge health and heals, the "don't die" button |
+
+!!! warning "Only Glacial Colossus stuns"
+    Pestilent Colossus applies Major Vulnerability but **does not stun**. In PvP the stun is most of the value — take Glacial.
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Magicka Necromancer PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | Spirit Guardian mitigation, Resistant Flesh burst heal, Blighted Blastbones' Major Defile (huge against enemy healers), Colossus for the stun |

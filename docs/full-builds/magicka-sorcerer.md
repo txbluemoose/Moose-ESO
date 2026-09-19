@@ -111,6 +111,24 @@ For trial parses, check the current Sorc DPS builds at **hyperioxes.com/eso/sorc
 
 MagSorc is a PvP classic and still top-tier. Verified against Alcast's U50 **Mag Sorc PvP** build; metas rotate seasonally, so confirm current pieces before investing gold.
 
+### PvP bar
+
+| Front Bar (Inferno Staff) | Back Bar (Lightning or Resto Staff) |
+|---|---|
+| 1. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — your burst, proc-fished off other casts | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + growing AoE |
+| 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Sorcery **and** heal-on-crit | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) — ground pressure |
+| 3. Hardened Ward (morph of Conjured Ward, *Daedric Summoning*) — the shield you stack behind | 3. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — zone control |
+| 4. Ball of Lightning (*Storm Calling*) — the teleport escape, and it eats projectiles | 4. Harness Magicka (*Light Armor*) ⚠️ — shield that returns Magicka when hit by spells |
+| 5. Rune Cage (*Dark Magic*) ⚠️ — the hard stun that sets up a Fragments combo | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
+| **Ult:** Greater Storm Atronach (morph of Summon Storm Atronach, *Daedric Summoning*) — burst + stun | **Ult:** Precognition (*Psijic Order*) — the unblockable stun |
+
+*Streak (the other Bolt Escape morph, *Storm Calling*) replaces Ball of Lightning if you want the AoE stun on your escape rather than the projectile absorb.*
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Magicka Sorcerer PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | Crystal Fragments burst timing (proc-fishing off your other casts), **Hardened Ward** shield stacking, **Streak / Ball of Lightning** mobility (Storm Calling's teleport line is the best escape in the game), Dark Magic's **Rune Cage** stun, and **Harness Magicka** (shield + magicka back when hit by spells). Your PvE core — Frags proc-fishing plus Critical Surge healing — translates directly |

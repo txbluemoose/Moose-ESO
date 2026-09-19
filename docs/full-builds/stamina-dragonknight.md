@@ -132,6 +132,24 @@ Same character, different job: the group provides Major Breach, buffs, and heals
 
 DK came out of the U49/U50 rework strong. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
 
+### PvP bar
+
+| Front Bar (Two-Handed) | Back Bar (1H + Shield or Bow) |
+|---|---|
+| 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) — spammable burst | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve |
+| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) — pressure DoT | 2. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) — Major Brutality |
+| 3. Blood of the Green Dragon (morph of Dragon Blood, *Draconic Power*) — burst heal + Major Endurance | 3. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — the PvP heal-over-time |
+| 4. Carve (morph of Cleave, *Two-Handed*) — bleed DoT and Ultimate generation | 4. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) — Major Breach + flame DoT |
+| 5. Petrify (*Earthen Heart*) ⚠️ — snare-then-stun before a Magma Fist burst | 5. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — sustain |
+| **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) — gap-close + stun | **Ult:** Corrosive Armor (*Earthen Heart*) — caps every incoming hit at 6% max health |
+
+*Magma Fist (morph of Superheated Ward, *Earthen Heart*) goes in slot 4 over Carve if you want the stun-and-burst opener instead of the bleed.*
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Stamina Dragonknight PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Swap — Blood of the Green Dragon** over Blood of the Elder Dragon | The recovery and Major Endurance keep you alive under pressure |

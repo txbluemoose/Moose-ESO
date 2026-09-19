@@ -139,6 +139,22 @@ This is a directional adaptation, not a tested raid parse — for a progression 
 
 Templar came through the U49/U50 rework as a premier brawler — Jabs pressure, layered self-healing, and Purifying Light burst. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
 
+### PvP bar
+
+| Front Bar (Dual Wield) | Back Bar (Bow or 1H + Shield) |
+|---|---|
+| 1. Biting Jabs (morph of Puncturing Strikes, *Aedric Spear*) — spammable, and it grants **Major Brutality & Sorcery** | 1. Restoring Focus (morph of Rune Focus, *Restoring Light*) — Major Resolve + Sacred Ground |
+| 2. Purifying Light (*Dawn's Wrath*) ⚠️ — the other Backlash morph; the delayed blast **heals you** when it lands | 2. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) — purge + heal |
+| 3. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) — burst heal | 3. Vampire's Bane (morph of Sun Fire, *Dawn's Wrath*) — DoT + snare |
+| 4. Living Dark (*Dawn's Wrath*) ⚠️ — Eclipse morph; passive heal-and-snare whenever you're attacked | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |
+| 5. Radiant Glory (morph of Radiant Destruction, *Dawn's Wrath*) — the long-range execute | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — immobilize + Minor Force |
+| **Ult:** Everlasting Sweep (morph of Radial Sweep, *Aedric Spear*) — AoE damage **and** heal | **Ult:** Solar Prison (morph of Nova, *Dawn's Wrath*) — group Major Maim zone |
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Stamina Templar PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | Biting Jabs pressure (Judgment's Brand still fires), Honor the Dead burst heal, Restoring Focus resolve, Everlasting Sweep for AoE heal-and-damage |
