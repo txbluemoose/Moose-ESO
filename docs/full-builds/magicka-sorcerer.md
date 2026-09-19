@@ -95,7 +95,15 @@ Play it as **two sweeps**, not an 11-step list:
 
 ## 3. GROUP CONTENT — adaptation notes
 
-Works as-is in normal/vet 4-mans. For optimized group play: drop Pale Order for the 3rd Sul-Xan jewelry, drop Elemental Susceptibility (tanks provide breach), and Calculated Defense becomes interesting since its 6% weapon/spell damage buff applies to your whole group. For trial parses, check the current Sorc DPS builds at hyperioxes.com/eso/sorcerer-builds — the one-bar heavy attack pet sorc there does 112k+ and is also the build on your wife's new sheet, so you'd match her playstyle in trials if you ever wanted.
+Works as-is in normal/vet 4-mans. For optimized group play:
+
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Pale Order** → the 3rd Sul-Xan jewelry piece | A group healer covers the heal |
+| **Elemental Susceptibility** | Comes off | Tanks provide Major Breach |
+| **Class Mastery** | **Calculated Defense** becomes interesting | Its 6% weapon/spell damage buff applies to your whole group |
+
+For trial parses, check the current Sorc DPS builds at **hyperioxes.com/eso/sorcerer-builds** — the one-bar heavy attack pet sorc there does 112k+ and is also the build on your wife's sheet, so you'd match her playstyle in trials if you ever wanted.
 
 ---
 
@@ -103,13 +111,15 @@ Works as-is in normal/vet 4-mans. For optimized group play: drop Pale Order for 
 
 MagSorc is a PvP classic and still top-tier. Verified against Alcast's U50 **Mag Sorc PvP** build; metas rotate seasonally, so confirm current pieces before investing gold.
 
-**What carries over:** Crystal Fragments burst timing (proc-fishing off your other casts), **Hardened Ward** shield stacking, **Streak / Ball of Lightning** mobility (Storm Calling's teleport line is the best escape in the game), Dark Magic's Rune Cage stun, and **Harness Magicka** (shield + magicka back when hit by spells). Your PvE core (Frags proc-fishing + Critical Surge healing) translates directly.
-
-**Setup:** **Light armor**, ~30k health, **Impen** traits, shield-stacking backed by **Bastion** CP.
-
-**Sets (Alcast U50):** **Crafty Alfiq** + **Bright-Throat's Boast** — two max-magicka / damage stat sets that fuel bigger shields and burst, both cheap overland farms — plus **Maw of the Infernal** (monster set). Lean tankier with a survival mythic (**Gaze of Sithis** or **Torc of Tonal Constancy**) if you want.
-
-**PvP CP:** Blue — Ironclad + Duelist's Rebuff in for Deadly Aim + Fighting Finesse. Red — Boundless Vitality, Fortified, **Bastion** (shields!), Pain's Refuge.
+| | PvP setup |
+|---|---|
+| **Carries over** | Crystal Fragments burst timing (proc-fishing off your other casts), **Hardened Ward** shield stacking, **Streak / Ball of Lightning** mobility (Storm Calling's teleport line is the best escape in the game), Dark Magic's **Rune Cage** stun, and **Harness Magicka** (shield + magicka back when hit by spells). Your PvE core — Frags proc-fishing plus Critical Surge healing — translates directly |
+| **Armour & stats** | **Light armor**, ~30k health, **Impen** traits, shield-stacking backed by **Bastion** CP |
+| **Sets** | **Crafty Alfiq** + **Bright-Throat's Boast** — two max-magicka / damage stat sets that fuel bigger shields and burst, both cheap overland farms |
+| **Monster set** | **Maw of the Infernal** |
+| **Mythic** | Optional — **Gaze of Sithis** or **Torc of Tonal Constancy** if you want to lean tankier |
+| **CP — Blue** | **Ironclad + Duelist's Rebuff** in, for Deadly Aim + Fighting Finesse |
+| **CP — Red** | Boundless Vitality, Fortified, **Bastion** (shields!), Pain's Refuge |
 
 *Source: [Alcast U50 Magicka Sorcerer PvP build](https://alcasthq.com/eso-magicka-sorcerer-pvp-build1/). Season metas rotate — the live page and in-game tooltips override.*
 

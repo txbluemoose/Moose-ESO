@@ -118,12 +118,15 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 Same character, different job: the group brings the heals, buffs, and debuffs, so you drop self-sufficiency for damage — and Necromancer earns its raid spot by handing the *whole group* a damage buff.
 
 ### Key changes from the solo build
-- **Drop Ring of the Pale Order** — healers exist; complete your 3rd jewelry piece of the weapon/proc set instead
-- **Colossus is now a group buff, not just your panic button** — Pestilent Colossus applies **Major Vulnerability** (everyone's damage on that target goes up 10%). Coordinate it with the group's burn phases; a well-timed Colossus is why raids invite a Necro DD
-- **Swap Avid Boneyard → Unnerving Boneyard** if the group needs the Major Breach, or drop Boneyard entirely for a slotted DoT — the group's debuffers usually cover penetration, so this frees a slot
-- **Spirit Guardian can stay** — even in a group its 10% transfer + heal is cheap insurance, and it keeps a Grave Lord/Living Death balance; drop it only if you need the slot for a group buff
-- **Body set shifts to a group DPS set** — keep Corpseburster if the fight has constant adds/corpses; otherwise a trial two-piece + a shared-uptime set. Point to the live source below rather than guessing a trial parse
-- Skeletal Archer stays for the free damage and the corpse it leaves on death
+
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → complete your 3rd jewelry piece of the weapon/proc set | Healers exist |
+| **Colossus** | Now a **group buff**, not just your panic button — coordinate it with the group's burn phases | Pestilent Colossus applies **Major Vulnerability**: everyone's damage on that target goes up 10%. A well-timed Colossus is why raids invite a Necro DD |
+| **Avid Boneyard → Unnerving Boneyard** | Swap if the group needs Major Breach — or drop Boneyard entirely for a slotted DoT | The group's debuffers usually cover penetration, so this frees a slot |
+| **Spirit Guardian** | Can stay — drop it only if you need the slot for a group buff | Even in a group its 10% transfer + heal is cheap insurance, and it keeps a Grave Lord / Living Death balance |
+| **Body set** | Shifts to a group DPS set — keep **Corpseburster** if the fight has constant adds/corpses, otherwise a trial two-piece + a shared-uptime set | Point at the live source below rather than guessing a trial parse |
+| **Skeletal Archer** | Stays | Free damage, and the corpse it leaves on death |
 
 *Reference: adapt the live Hyperioxes group Necromancer DPS build for exact bars and trial sets before a progression run — group set metas shift with each trial and patch.*
 
@@ -133,8 +136,13 @@ Same character, different job: the group brings the heals, buffs, and debuffs, s
 
 Necromancer PvP wants burst, hard CC, and a bigger health pool than PvE. Your Colossus is a genuine teamfight ultimate (AoE stun + Major Vulnerability), and Spirit Guardian's 10% transfer is quietly excellent under focus fire.
 
-**What carries over:** Spirit Guardian mitigation, Resistant Flesh burst heal, Blighted Blastbones' Major Defile (huge against enemy healers), Colossus for the burst (take the **Glacial** morph if you want its stun — Pestilent doesn't stun).
-**What changes:** heavier armor or 5-1-1, **Impen** on all armor, ~30k+ health, tri-stat/Health enchants; add a corpse-based burst heal and a stun-break-friendly kit. Sets rotate every season — a survival mythic (Gaze of Sithis or Torc of Tonal Constancy) plus a proc/damage body set is the usual frame.
+| | PvP setup |
+|---|---|
+| **Carries over** | Spirit Guardian mitigation, Resistant Flesh burst heal, Blighted Blastbones' Major Defile (huge against enemy healers), Colossus for the burst — take the **Glacial** morph if you want its stun, since **Pestilent doesn't stun** |
+| **Armour & stats** | Heavier armor or 5-1-1, **Impen** on all armor, ~30k+ health, tri-stat/Health enchants |
+| **Kit additions** | A corpse-based burst heal, and a stun-break-friendly kit |
+| **Sets** | A proc/damage body set — the usual frame |
+| **Mythic** | **Gaze of Sithis** or **Torc of Tonal Constancy** |
 
 *Season metas rotate — verify current pieces against Alcast's live U50 Stamina Necromancer PvP page and your in-game tooltips before spending gold.*
 

@@ -122,13 +122,17 @@ Your documented DK stamina shortfall was diagnosed as **light-attack weaving gap
 Same character, different job: the group hands you buffs, debuffs, and dedicated heals, so you trade self-sufficiency for damage.
 
 ### Key changes from the solo build
-- **Drop Ring of the Pale Order** — healers exist. Complete a real 5-piece damage set (a trial set) in the mythic's place, or a second body set.
-- **Siphoning Attacks can come off** for a pure DoT or buff skill — the group heals you and hands you sustain, and Relentless Focus + Killer's Blade still cover you. Keep it if the fight is chaotic.
-- **Dark Shade / Shadowy Disguise stay** — Minor Maim and Minor Protection are still free personal mitigation, and Shadowy Disguise's guaranteed crit is a parse gain, not just a defensive.
-- Barbed Trap stays (Minor Force is a group crit-damage buff if no one else brings it; drop it if someone does).
-- Soul Harvest stays as the execute ult; it also applies a debuff that helps the group's burn.
 
-**Do not guess a raid rotation from this page.** Point yourself at the live **Hyperioxes group Stamina Nightblade DPS build** and copy its bar and set list before a progression run — that's the authoritative source, and it changes between updates.
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → a real 5-piece damage set (a trial set) in its place, or a second body set | Healers exist |
+| **Siphoning Attacks** | Can come off for a pure DoT or buff skill | The group heals you and hands you sustain, and Relentless Focus + Killer's Blade still cover you. Keep it if the fight is chaotic |
+| **Dark Shade / Shadowy Disguise** | Stay | Minor Maim and Minor Protection are still free personal mitigation, and Shadowy Disguise's guaranteed crit is a parse gain, not just a defensive |
+| **Barbed Trap** | Stays — drop it only if someone else brings Minor Force | Minor Force is a group crit-damage buff if no one else supplies it |
+| **Soul Harvest** | Stays as the execute ult | It also applies a debuff that helps the group's burn |
+
+!!! warning "Do not guess a raid rotation from this page"
+    Point yourself at the live **Hyperioxes group Stamina Nightblade DPS build** and copy its bar and set list before a progression run — that's the authoritative source, and it changes between updates.
 
 ---
 
@@ -136,14 +140,16 @@ Same character, different job: the group hands you buffs, debuffs, and dedicated
 
 Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exactly what small-scale and solo PvP want. Your PvE chassis translates, but PvP wants burst, hard CC, and a bigger health pool. This section is **directional** — verify against Alcast's current U50 Stamina Nightblade PvP build, and remember **PvP set metas rotate every season**, so confirm current pieces on the live page before spending gold.
 
-**What carries over:** Surprise Attack burst, Killer's Blade execute (deadly in PvP — it opens under 50%), Shadowy Disguise (the cloak *is* the class), Siphoning Attacks sustain, Soul Harvest / Soul Tether burst ultimates.
-
-**What changes:**
-- **Shadowy Disguise → Dark Cloak** (the other Shadow Cloak morph) is often the PvP pick — it's a burst *heal* on cast rather than an invisibility, and can't be broken by AoE/detection. Weigh cloak vs. heal for the campaign you're in.
-- **Mass Hysteria** (Shadow) for reliable AoE fear/CC.
-- Heavier armor or a 5/1/1 pushed toward Heavy, ~30k+ health, **Impen** trait on all armor, Health/tri-stat enchants.
-
-**Sets (Alcast framework, verify current meta):** a **proc or weapon-damage set** you own (**Deadly Strike** is a legitimate stat option already in your bags) + **Rallying Cry** back bar (the PvP survival staple) + a **monster set** (Balorgh for ultimate-scaling burst) + a **survival mythic** (Ring of the Pale Order still works, or a no-block tank mythic like Gaze of Sithis for a heavier setup).
+| | PvP setup |
+|---|---|
+| **Carries over** | Surprise Attack burst, Killer's Blade execute (deadly in PvP — it opens under 50%), Shadowy Disguise (the cloak *is* the class), Siphoning Attacks sustain, Soul Harvest / Soul Tether burst ultimates |
+| **Swap — Shadowy Disguise → Dark Cloak** *(the other Shadow Cloak morph)* | Often the PvP pick: a burst **heal** on cast rather than an invisibility, and it can't be broken by AoE/detection. Weigh cloak vs. heal for the campaign you're in |
+| **Swap in — Mass Hysteria** *(Shadow)* | Reliable AoE fear/CC |
+| **Armour & stats** | Heavier armor, or a 5/1/1 pushed toward Heavy; ~30k+ health, **Impen** on all armor, Health/tri-stat enchants |
+| **Front bar set** | A proc or weapon-damage set you own — **Deadly Strike** is a legitimate stat option already in your bags |
+| **Back bar set** | **Rallying Cry** — the PvP survival staple |
+| **Monster set** | **Balorgh** for ultimate-scaling burst |
+| **Mythic** | **Ring of the Pale Order** still works, or a no-block tank mythic like **Gaze of Sithis** for a heavier setup |
 
 *Season metas rotate — the live Alcast page and your in-game tooltips override this section.*
 

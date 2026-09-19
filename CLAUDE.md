@@ -46,7 +46,8 @@ Follow these when editing or adding guides.
 4. **Skill line passives get their own section** above CP. Rule of thumb stated in each: buy every passive in every line you have a skill slotted from.
 5. **Flag confidence.** If something wasn't verified against a current source, say so in the text. Guides carry a source line at the bottom with the revision date.
 6. Cheat sheets (wife) are shorter and more prescriptive than guides (husband). Guides include fallback ladders and situational swaps; cheat sheets give one answer.
-7. **Adding a page = update the home page too.** Every new guide must be linked from `docs/index.md` (the landing page) *and* the `mkdocs.yml` nav. CI enforces the home-page link (`scripts/check_index_links.py`) — the build fails if any docs page isn't on the home page, so it can't silently go stale.
+7. **Group-content and PvP sections are tables, not prose** (his preference, 2026-09-19). Group content uses a three-column delta table — `| What changes | Do this | Why |` — because the section is a diff against the solo build. PvP uses a two-column setup table with labelled rows: *Carries over*, one row per skill swap, then *Armour & stats*, *Sets*, *Monster set*, *Mythic*, *CP — Blue*, *CP — Red*. Anything that isn't tabular (the intro paragraph, "check the live build before a progression run", the source line) stays as prose around the table. Don't convert these back to bullet lists.
+8. **Adding a page = update the home page too.** Every new guide must be linked from `docs/index.md` (the landing page) *and* the `mkdocs.yml` nav. CI enforces the home-page link (`scripts/check_index_links.py`) — the build fails if any docs page isn't on the home page, so it can't silently go stale.
 
 ## Verification rules
 

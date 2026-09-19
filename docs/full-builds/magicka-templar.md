@@ -117,13 +117,16 @@ The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Degeneration, E
 
 Same character, different job: the group brings buffs, debuffs, and a healer, so you drop self-sufficiency for damage.
 
-- **Drop Ring of the Pale Order** — a healer exists; complete a third jewelry piece of your damage set instead (a full Deadly Strike / trial-set jewelry line).
-- **Drop Honor the Dead and Quick Cloak** — the healer covers you, and the group provides Major Evasion sources. Slot a group utility skill, and flip Luminous Shards → **Blazing Spear** (in a group someone else takes the synergy, so the damage morph wins).
-- **Ritual of Retribution stays** — it's now a group heal *and* your Bastion of Light engine; Spear Shards stacks more Sacred Ground on top.
-- **Elemental Susceptibility comes off** — the group's debuffers already supply Major Breach. Put Vampire's Bane or Solar Barrage back in that slot. **Degeneration stays** unless someone else is supplying Major Sorcery.
-- **Puncturing Sweep can flip to Biting Jabs** if the group's healing is solid and you want the Major Brutality/Sorcery buff instead of the lifesteal — but Sweep's heal costs you almost nothing, so keeping it is fine.
-- **Everlasting Sweep** stays as your spammed ult; **Solar Prison / Solar Disturbance** is a group Major Maim zone for burn phases.
-- Deadly Strike remains strong for grouped Templar (channel + DoT), but a trial weapon/jewelry set (Ansuul's Torment, Sanity's Edge, in fights where you interrupt something every ~30s) edges it.
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → a third jewelry piece of your damage set (a full Deadly Strike / trial-set jewelry line) | A healer exists |
+| **Honor the Dead & Quick Cloak** | Drop both → slot a group utility skill | The healer covers you, and the group provides Major Evasion sources |
+| **Luminous Shards → Blazing Spear** | Flip to the damage morph | In a group someone else takes the synergy, so the damage morph wins |
+| **Ritual of Retribution** | Stays | It's now a group heal *and* your Bastion of Light engine; Spear Shards stacks more Sacred Ground on top |
+| **Elemental Susceptibility** | Comes off → put **Vampire's Bane** or **Solar Barrage** in that slot | The group's debuffers already supply Major Breach. **Degeneration stays** unless someone else supplies Major Sorcery |
+| **Puncturing Sweep → Biting Jabs** | Optional flip | If the group's healing is solid and you want the Major Brutality/Sorcery buff instead of the lifesteal — but Sweep's heal costs you almost nothing, so keeping it is fine |
+| **Ultimates** | **Everlasting Sweep** stays as your spammed ult; **Solar Prison / Solar Disturbance** for burn phases | Solar Prison is a group Major Maim zone |
+| **Weapon/jewelry set** | Deadly Strike stays strong, but a trial set (**Ansuul's Torment**, Sanity's Edge) edges it | In fights where you interrupt something every ~30s |
 
 This is a directional adaptation, not a tested raid parse — for a progression trial, verify bars against the **live Hyperioxes group Templar DPS build** before the run rather than trusting this section.
 
@@ -133,17 +136,19 @@ This is a directional adaptation, not a tested raid parse — for a progression 
 
 Templar came through the U49/U50 rework as a premier brawler — Sweep pressure, layered self-healing, and Purifying Light burst. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
 
-**What carries over:** Puncturing Sweep pressure and lifesteal (Judgment's Brand still fires), Honor the Dead burst heal, Channeled Focus resolve, Everlasting Sweep for AoE heal-and-damage.
+| | PvP setup |
+|---|---|
+| **Carries over** | Puncturing Sweep pressure and lifesteal (Judgment's Brand still fires), Honor the Dead burst heal, Channeled Focus resolve, Everlasting Sweep for AoE heal-and-damage |
+| **Swap in — Purifying Light** *(the other Backlash morph, Dawn's Wrath)* | Your burst — it heals you when the delayed blast lands, so your combo is also a heal |
+| **Swap in — Living Dark** *(Eclipse morph, Dawn's Wrath)* | Passive heal-and-snare when attacked |
+| **Swap in — Ritual of Rebirth / Breath of Life** | An extra burst heal in the healer role |
+| **Armour & stats** | Heavier armor or a 5/1/1 split, ~30k+ health, **Impen** on all armor, Health/tri-stat enchants |
+| **Front bar set** | A damage set you own (**Deadly Strike** is a legitimate stat option) or a proc set |
+| **Back bar set** | **Rallying Cry** — the PvP survival staple |
+| **Monster set** | **Balorgh** for ultimate-scaling burst |
+| **Mythic** | **Gaze of Sithis** for a max-tank no-block build, or keep **Pale Order** for the raw self-heal |
 
-**What changes:**
-- **Purifying Light** (the other Backlash morph, *Dawn's Wrath*) becomes your burst — it heals you when the delayed blast lands, so your combo is also a heal
-- **Living Dark** (Eclipse morph, *Dawn's Wrath*) for the passive heal-and-snare when attacked
-- **Ritual of Rebirth / Breath of Life** as an extra burst heal in the healer role
-- Heavier armor or a 5/1/1 split, ~30k+ health, **Impen** on all armor, Health/tri-stat enchants
-
-**Sets:** metas rotate every season — treat this as directional. A damage set you own (**Deadly Strike** is a legitimate stat option) or a proc set on the front bar, **Rallying Cry** on the back bar (the PvP survival staple), a monster set (Balorgh for ultimate-scaling burst), and a survival mythic (Gaze of Sithis for a max-tank no-block build, or keep Pale Order for the raw self-heal).
-
-*Source: cross-check the current Alcast U50 Templar PvP build before spending gold — season metas rotate, and the live page plus in-game tooltips override.*
+*Metas rotate every season — treat the sets as directional. Cross-check the current Alcast U50 Templar PvP build before spending gold; the live page plus in-game tooltips override.*
 
 ---
 

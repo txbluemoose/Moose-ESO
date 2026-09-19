@@ -108,7 +108,16 @@ Play it as **two sweeps**, not a 12-step list:
 
 ## 3. GROUP CONTENT — adaptation notes
 
-Works as-is in normal/vet 4-mans. To optimize for a real group: **drop Pale Order** for the 3rd Deadly Strike / trial-set jewelry (a group healer covers the heal), **drop Poison Injection or Barbed Trap** for whatever penetration the tanks *don't* already provide, and lean **Font of Power** over Calculated Defense on the Class Mastery (its group Weapon/Spell Damage matters less when you're already stacking raid buffs). Swap the Heavy piece back to Medium for the 6 Medium / 1 Light instanced split once you don't need the survivability. For current trial parses, use the live group Stam Sorc builds at hyperioxes.com/eso/sorcerer-builds rather than this solo sheet.
+Works as-is in normal/vet 4-mans. To optimize for a real group:
+
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Pale Order** → the 3rd Deadly Strike / trial-set jewelry | A group healer covers the heal |
+| **Poison Injection or Barbed Trap** | Drop whichever covers penetration the tanks *already* provide | No point double-supplying it |
+| **Class Mastery** | Lean **Font of Power** over Calculated Defense | Calculated Defense's group Weapon/Spell Damage matters less when you're already stacking raid buffs |
+| **Armour weight** | Swap the Heavy piece back to Medium — the 6 Medium / 1 Light instanced split | Once you don't need the extra survivability |
+
+For current trial parses, use the live group Stam Sorc builds at **hyperioxes.com/eso/sorcerer-builds** rather than this solo sheet.
 
 ---
 
@@ -116,11 +125,14 @@ Works as-is in normal/vet 4-mans. To optimize for a real group: **drop Pale Orde
 
 Stam Sorc is a strong bursty duelist — Streak mobility, Crystal Weapon burst, and Critical Surge self-healing all carry straight from PvE. Verified directionally against **Alcast's U50 Stamina Sorcerer PvP** build; **metas rotate seasonally**, so confirm current pieces before spending gold — this is directional, not a copy-paste.
 
-**What carries over:** **Streak / Bolt Escape** (best escape in the game), **Crystal Weapon → Dizzying/Executioner** burst combos, **Hurricane** for the passive AoE + Major Resolve, **Critical Surge** healing, and **Hardened Ward** shield stacking off the Daedric Summoning line.
-
-**Setup (directional):** ~30k health, **Impen** traits, a burst proc set + a defensive/recovery set, and a survival mythic if you want to lean tanky.
-
-**PvP CP:** Blue — swap toward Ironclad + Duelist's Rebuff. Red — Boundless Vitality, Fortified, **Bastion** (for Ward), Pain's Refuge.
+| | PvP setup |
+|---|---|
+| **Carries over** | **Streak / Bolt Escape** (best escape in the game), **Crystal Weapon → Dizzying/Executioner** burst combos, **Hurricane** for the passive AoE + Major Resolve, **Critical Surge** healing, and **Hardened Ward** shield stacking off the Daedric Summoning line |
+| **Armour & stats** | ~30k health, **Impen** traits |
+| **Sets** | A burst proc set + a defensive/recovery set |
+| **Mythic** | A survival mythic, if you want to lean tanky |
+| **CP — Blue** | Swap toward **Ironclad + Duelist's Rebuff** |
+| **CP — Red** | Boundless Vitality, Fortified, **Bastion** (for Ward), Pain's Refuge |
 
 *Source: Alcast U50 Stamina Sorcerer PvP build — season metas rotate; the live page and in-game tooltips override. (Alcast is WebFetch-blocked here; search-snippet-level only — treat as directional.)*
 
