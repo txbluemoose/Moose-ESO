@@ -12,6 +12,19 @@ You need this to judge a source. **Anything written before the relevant date is 
 | **U50** | **8 June 2026** | **Class Mastery** system (why both players are pure class), the **Werewolf overhaul** (form timer replaced with an Ultimate upkeep), Challenge Difficulty, PvP Veterancy. **This is the baseline for every guide here.** |
 | **U51** | PTS now — **21 September** | Nowhere Vault opens. **Elemental Susceptibility gains a 3240 Magicka cost** (it's free on live), which hits several bars here — especially the stamina builds. |
 
+!!! danger "Update 51 lands 28 September 2026 (PC) — this whole repo is written for U50"
+    Confirmed 2026-09-19. Console follows roughly two weeks later. U51 **finishes the hybridization project**: it consolidates **Mundus Stones**, the **Major/Minor buff system**, **class passives** and **Alchemy**. That is not a normal balance patch — it touches the layer nearly every guide here is built on.
+
+    **Re-verify after it lands, in this order:**
+
+    | Priority | What to check | Why |
+    |---|---|---|
+    | 1 | **Mundus Stones** on every guide | They're being consolidated — The Thief / The Lover / The Lady picks may not mean what they did |
+    | 2 | **Major/Minor buff sources** | Every "X grants Major Y" line in every guide, and every Oakensoul overlap on the tank sheet |
+    | 3 | **Class passives** | Includes the Class Mastery picks on all 14 pure-class builds |
+    | 4 | **Elemental Susceptibility** | Gains a **3,240 Magicka cost** — already flagged; it's load-bearing on her Stam Sorc's optional back bar |
+    | 5 | **PvP bars and sets** | Constructed against U50; PvP metas rotate on patch boundaries anyway |
+
 ## How to spot a stale source
 
 Every one of these bit us, and each cost a real correction:

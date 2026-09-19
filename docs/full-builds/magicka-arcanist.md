@@ -145,6 +145,25 @@ The solo build clears normal and vet 4-mans as-is. For optimized group DPS:
 
 Directional only — **PvP metas rotate every season**, so confirm current pieces before you invest. Verified in shape against **Alcast's U50 Magicka Arcanist PvP** build.
 
+### PvP bar
+
+| Front Bar (Inferno Staff) | Back Bar (Lightning or Restoration Staff) |
+|---|---|
+| 1. Cephaliarch's Flail (morph of Abyssal Impact, *Herald of the Tome*) — spammable that **heals on hit** and builds Crux | 1. Pragmatic Fatecarver (morph of Fatecarver, *Herald of the Tome*) — the 22m beam, and it **shields you while channelling** |
+| 2. Fulminating Rune (morph of The Imperfect Ring, *Herald of the Tome*) — delayed burst you detonate on your timing | 2. Inspired Scholarship (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — Major Sorcery + Crux generation |
+| 3. Evolving Runemend (morph of Runemend, *Curative Runeforms*) — burst heal | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
+| 4. Cruxweaver Armor (morph of Fatewoven Armor, *Soldier of Apocrypha*) — Major Resolve + Minor Breach on whoever hits you | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — zone control |
+| 5. Runic Sunder (morph of Runic Jolt, *Soldier of Apocrypha*) — Minor Breach and a heal; the taunt is dead weight in PvP, the rest isn't | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — immobilize + Minor Force |
+| **Ult:** Flawless Dawnbreaker (morph of Dawnbreaker, *Fighters Guild*) — Weapon/Spell Damage just for being slotted | **Ult:** The Languid Eye (morph of The Unblinking Eye, *Herald of the Tome*) — sustained beam pressure |
+
+!!! warning "Cephaliarch's Flail and Tentacular Dread are the same skill"
+    Both are morphs of **Abyssal Impact**, so you can only run one — the PvP notes above mention both, but it's an either/or. **Flail** is the pick here (a spammable that heals). Take **Tentacular Dread** instead if you want ranged burst plus an immobilize, which suits the ranged variant well.
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Magicka Arcanist PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | **Cephaliarch's Flail**'s heal-on-hit and **Pragmatic Fatecarver**'s shield are already PvP-shaped — a spammable that heals and a beam that shields you is exactly what wins fights. The **22m beam range** makes this variant strong backline pressure |

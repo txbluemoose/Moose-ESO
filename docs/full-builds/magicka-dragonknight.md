@@ -137,6 +137,24 @@ Rotation concept: keep DoTs and buffs rolling exactly like solo, but your filler
 
 DK came out of the U49/U50 rework strong — community consensus puts it among the best PvP classes right now. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health. Verified against Alcast's U50 **Mag DK "Blaze"** build; PvP set metas rotate every season, so confirm current pieces on the live page before spending gold.
 
+### PvP bar
+
+| Front Bar (Dual Wield or 1H + Shield) | Back Bar (Inferno Staff) |
+|---|---|
+| 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) — spammable burst off Seething Fury | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve |
+| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) — pressure DoT | 2. Incinerate (morph of Inferno, *Ardent Flame*) — DoT + the free crit buff |
+| 3. Blood of the Green Dragon (morph of Dragon Blood, *Draconic Power*) — burst heal off max health | 3. Volcanic Ward (morph of Superheated Ward, *Earthen Heart*) — shield + 10% off the next hit |
+| 4. Fleetstep Wings (*Draconic Power*) ⚠️ — 50% projectile mitigation, snare/root immunity, Major Expedition | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — sustain |
+| 5. Petrify (*Earthen Heart*) ⚠️ — snare-then-stun, your setup for a whip combo | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
+| **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) — gap-close + stun | **Ult:** Corrosive Armor (*Earthen Heart*) — caps every incoming hit at 6% max health |
+
+*Swap **Fleetstep Wings → Protect the Brood** (the other morph) when you're grouped — it extends projectile mitigation and Minor Protection to allies instead of giving you snare immunity.*
+
+!!! warning "These bars are household-constructed, not copied from a published build"
+    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+
+    **Nearest published reference:** Alcast's U50/U51 Mag DK **"Blaze"**. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+
 | | PvP setup |
 |---|---|
 | **Carries over** | Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve |
