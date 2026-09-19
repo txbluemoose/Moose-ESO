@@ -115,13 +115,16 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 
 Same character, different job: the group provides Major Breach, buffs, and heals, so you drop self-sufficiency for damage.
 
-- **Drop Ring of the Pale Order** — healers exist. Complete a third jewelry piece of your damage set in that slot instead.
-- **Disintegrating Dragonfire's Major Breach is redundant** if a tank/support provides it — you can keep it for the flame DoT, or swap toward more group-relevant damage.
-- **Cauterize → Incinerate** — you're not the healer; take the damage morph back (same crit buff).
-- **Blood of the Elder Dragon may come off** for another DoT or a group utility slot — the healer covers you.
-- **Standard of Might stays** — in a group it's also a damage-taken debuff zone that pairs with burn phases.
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → a third jewelry piece of your damage set in that slot | Healers exist |
+| **Disintegrating Dragonfire** | Keep it for the flame DoT, or swap toward more group-relevant damage | Its **Major Breach is redundant** if a tank/support provides it |
+| **Cauterize → Incinerate** | Take the damage morph back | You're not the healer — same crit buff either way |
+| **Blood of the Elder Dragon** | May come off for another DoT or a group utility slot | The healer covers you |
+| **Standard of Might** | Stays | In a group it's also a damage-taken debuff zone that pairs with burn phases |
 
-**Point to the live build before a progression run** — the current Hyperioxes group Stamina Dragonknight DPS list (166k parse in U50) is the reference; verify bars in-game rather than trusting a static table here.
+!!! warning "Point to the live build before a progression run"
+    The current **Hyperioxes group Stamina Dragonknight DPS list** (166k parse in U50) is the reference — verify bars in-game rather than trusting a static table here.
 
 ---
 
@@ -129,10 +132,17 @@ Same character, different job: the group provides Major Breach, buffs, and heals
 
 DK came out of the U49/U50 rework strong. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
 
-- **Blood of the Green Dragon** over Blood of the Elder Dragon — the recovery and Major Endurance keep you alive under pressure.
-- **Petrify** (*Earthen Heart*) for setup CC before a Magma Fist / Executioner burst.
-- **Heavier armor or 5/1/1, ~30k+ health, Impen** on all armor, tri-stat/Health enchants.
-- **Sets:** a stat/weapon-damage set on the front (**Deadly Strike** is a legitimate option you own) + a survival set (Rallying Cry) + a monster set + a survival mythic. **PvP set metas rotate every season** — confirm current pieces on Alcast's live U50 Stamina Dragonknight PvP page before spending gold.
+| | PvP setup |
+|---|---|
+| **Swap — Blood of the Green Dragon** over Blood of the Elder Dragon | The recovery and Major Endurance keep you alive under pressure |
+| **Swap in — Petrify** *(Earthen Heart)* | Setup CC before a Magma Fist / Executioner burst |
+| **Armour & stats** | Heavier armor or 5/1/1, ~30k+ health, **Impen** on all armor, tri-stat/Health enchants |
+| **Front bar set** | A stat/weapon-damage set — **Deadly Strike** is a legitimate option you own |
+| **Back bar set** | A survival set — **Rallying Cry** |
+| **Monster set** | Your pick |
+| **Mythic** | A survival mythic |
+
+**PvP set metas rotate every season** — confirm current pieces on Alcast's live U50 Stamina Dragonknight PvP page before spending gold.
 
 *Directional only. Metas rotate seasonally — the live page and in-game tooltips override.*
 

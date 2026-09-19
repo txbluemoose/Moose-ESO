@@ -105,10 +105,16 @@ Think of it as **"lay the ground, then live on the front bar."**
 
 ## 3. GROUP CONTENT (dungeons/trials) — adaptation notes
 
-Solo build works fine in normal/vet 4-mans as-is. For optimized group DPS:
-- Drop Pale Order (healers exist) → complete 3rd Sul-Xan jewelry
-- Deep Fissure already covers Major Breach, so Elemental Susceptibility is **not** on the bar for Breach — it's there for the **status effects** (Burning/Chilled/Concussed), which are what feed Wild Adaptation and Force of Nature. That means a tank supplying Major Breach doesn't free the slot; only losing the status-effect engine would. Drop Deep Fissure's breach role if debuffers cover it, and check the current Warden DPS build at hyperioxes.com/eso/warden-builds before a progression trial — the group rotation differs enough that I won't guess it here
-- Northern Storm stays excellent (personal damage + Major Protection through trial mechanics)
+The solo build works fine in normal/vet 4-mans as-is. For optimized group DPS:
+
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Pale Order** → complete your 3rd Sul-Xan jewelry piece | Healers exist |
+| **Elemental Susceptibility** | **Keep it** — a tank supplying Major Breach does *not* free this slot | Deep Fissure already covers Breach, so Susceptibility is on the bar for the **status effects** (Burning/Chilled/Concussed), which feed Wild Adaptation and Force of Nature. Only losing the status-effect engine would free it |
+| **Deep Fissure's breach role** | Drop it if debuffers cover Major Breach | Redundant once the group supplies it |
+| **Northern Storm** | Stays excellent | Personal damage + Major Protection through trial mechanics |
+
+The group rotation differs enough that I won't guess it here — check the current Warden DPS build at **hyperioxes.com/eso/warden-builds** before a progression trial.
 
 ---
 
@@ -116,13 +122,16 @@ Solo build works fine in normal/vet 4-mans as-is. For optimized group DPS:
 
 Warden PvP staples translate well from this kit. Verified against Alcast's U50 **Stamina Warden "Assault"** build; season metas rotate, so confirm current pieces before investing.
 
-**What carries over:** Deep Fissure burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Bull Netch purge, Arctic Blast as an instant self-heal + stun morph, Northern Storm as a brawler ult. **Polar Wind** (Winter's Embrace) becomes your burst heal — max-health scaling, PvP gold.
-
-**Setup:** **Heavy armor**, ~30k health, **Impen** traits, Health/tri-stat enchants — high burst and mobility while staying tanky.
-
-**Sets (Alcast "Assault"):** **Clever Alchemist** + **New Moon Acolyte** — both dump a huge amount of Weapon Damage, which scales your damage *and* your heals — plus **Balorgh** (monster set, ultimate-scaling burst). Note: ArzyeL's current Stam Warden PvP is a *subclassing* build, so it's **not for you** — subclassing disables Class Mastery. Alcast's Assault is the pure-class-compatible reference.
-
-**PvP CP:** Blue — Ironclad + Duelist's Rebuff in for Deadly Aim + Fighting Finesse. Red — Boundless Vitality, Fortified, Bastion (Shimmering Shield + Bastion is a real combo), Pain's Refuge.
+| | PvP setup |
+|---|---|
+| **Carries over** | Deep Fissure burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Bull Netch purge, Arctic Blast as an instant self-heal + stun morph, Northern Storm as a brawler ult |
+| **Swap in — Polar Wind** *(Winter's Embrace)* | Your burst heal — max-health scaling, PvP gold |
+| **Armour & stats** | **Heavy armor**, ~30k health, **Impen** traits, Health/tri-stat enchants — high burst and mobility while staying tanky |
+| **Sets** | **Clever Alchemist** + **New Moon Acolyte** — both dump a huge amount of Weapon Damage, which scales your damage *and* your heals |
+| **Monster set** | **Balorgh** — ultimate-scaling burst |
+| **CP — Blue** | **Ironclad + Duelist's Rebuff** in, for Deadly Aim + Fighting Finesse |
+| **CP — Red** | Boundless Vitality, Fortified, **Bastion** (Shimmering Shield + Bastion is a real combo), Pain's Refuge |
+| **⚠️ Constraint** | ArzyeL's current Stam Warden PvP is a *subclassing* build, so it's **not for you** — subclassing disables Class Mastery. Alcast's "Assault" is the pure-class-compatible reference |
 
 *Sources: [Alcast U50 Stam Warden "Assault" PvP build](https://alcasthq.com/eso-stamina-warden-pvp-build/) (+ [ArzyeL Stam Warden PvP](https://arzyelbuilds.com/eso-stamina-warden-pvp-build/), a subclassing variant). Season metas rotate — the live pages and in-game tooltips override.*
 

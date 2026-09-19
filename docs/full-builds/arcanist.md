@@ -117,10 +117,15 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 
 The solo build clears normal and vet 4-mans as-is. For optimized group DPS:
 
-- **Drop Pale Order** (a group has healers) → complete a **3rd Deadly Strike or Ansuul's jewelry** in the Ring 2 slot. This is the single biggest group DPS gain.
-- **Drop the self-provided debuffs the group already covers** — Elemental Susceptibility's Major Breach and much of your penetration come free from the tank/support in a coordinated group, so that back-bar slot opens up. **Don't guess the group rotation from this page** — the group build reorganizes the whole back bar; check the live **Hyperioxes U50 Stamina Arcanist DPS build (~154k)** before a progression trial and mirror its bars.
-- **Fatecarver stays king** in groups — full-damage AoE at range with no falloff is elite in stack-and-beam trials.
-- Keep **Inspired Scholarship** (personal Major Brutality/Sorcery) unless your group guarantees it another way.
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Pale Order** → complete a **3rd Deadly Strike or Ansuul's jewelry** in the Ring 2 slot | A group has healers. **This is the single biggest group DPS gain.** |
+| **Self-applied debuffs** | Drop the ones the group already covers — Elemental Susceptibility's Major Breach, and much of your penetration | A coordinated tank/support supplies them free, which opens that back-bar slot |
+| **Fatecarver** | Keep — it stays king in groups | Full-damage AoE at range with no falloff is elite in stack-and-beam trials |
+| **Inspired Scholarship** | Keep | Personal Major Brutality/Sorcery — unless your group guarantees it another way |
+
+!!! warning "Don't guess the group rotation from this page"
+    The group build reorganizes the whole back bar. Check the live **Hyperioxes U50 Stamina Arcanist DPS build (~154k)** before a progression trial and mirror its bars.
 
 ---
 
@@ -128,11 +133,15 @@ The solo build clears normal and vet 4-mans as-is. For optimized group DPS:
 
 Directional only — **PvP metas rotate every season**, so confirm current pieces before you invest. Verified in shape against **Alcast's U50 Stamina Arcanist PvP** build.
 
-**What carries over:** Cephaliarch's Flail's heal-on-hit and Pragmatic Fatecarver's shield are already PvP-shaped — a spammable that heals and a burst that shields you is exactly what wins duels. **Cruxweaver Armor** for Major Resolve + attacker Minor Breach, **Tentacular Dread** as a ranged burst + immobilize (setup for the kill), and **The Languid Eye** as a pressure ult.
-
-**Setup:** **Heavy armor**, ~30k+ health, **Impen** traits, Health / tri-stat enchants — Arcanist wants to brawl behind its shield, not glass-cannon.
-
-**Sets:** the current PvP meta leans on Weapon-Damage-and-survival sets (Alcast's page carries the live list — it changes with the season). Whatever you pick, **stay pure class** — any PvP build that subclasses is off the table for you, because subclassing disables Class Mastery.
+| | PvP setup |
+|---|---|
+| **Carries over** | **Cephaliarch's Flail**'s heal-on-hit and **Pragmatic Fatecarver**'s shield are already PvP-shaped — a spammable that heals and a burst that shields you is exactly what wins duels |
+| **Cruxweaver Armor** | Major Resolve + Minor Breach on attackers |
+| **Tentacular Dread** | Ranged burst + immobilize — the setup for the kill |
+| **The Languid Eye** | Pressure ultimate |
+| **Armour & stats** | **Heavy armor**, ~30k+ health, **Impen** traits, Health / tri-stat enchants — Arcanist wants to brawl behind its shield, not glass-cannon |
+| **Sets** | The meta leans on Weapon-Damage-and-survival sets; Alcast's page carries the live list and it changes with the season |
+| **⚠️ Constraint** | **Stay pure class** — any PvP build that subclasses is off the table, because subclassing disables Class Mastery |
 
 *Source: Alcast U50 Stamina Arcanist PvP build (alcasthq.com). Season metas rotate — the live page and in-game tooltips override this section.*
 

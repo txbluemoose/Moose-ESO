@@ -123,11 +123,13 @@ Same class, same masteries, same melee cone — but built around **Puncturing Sw
 
 Same character, different job: the group brings buffs, debuffs, and a healer, so you drop self-sufficiency for damage.
 
-- **Drop Ring of the Pale Order** — a healer exists; complete a third jewelry piece of your damage set instead (a full Deadly Strike / trial-set jewelry line).
-- **Drop Honor the Dead and Warding Contingency** — the healer covers you. Slot **Blazing Spear** (a second Sacred Ground tile + group synergy) and a group utility skill in their place.
-- **Ritual of Retribution stays** — it's now a group heal *and* your Bastion of Light engine; Blazing Spear stacks more Sacred Ground on top.
-- **Everlasting Sweep** stays as your spammed ult; **Solar Prison / Solar Disturbance** is a group Major Maim zone for burn phases.
-- Deadly Strike remains strong for grouped Templar (channel + DoT), but a trial weapon/jewelry set (Ansuul's Torment, Sanity's Edge, in fights where you interrupt something every ~30s) edges it.
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → a third jewelry piece of your damage set (a full Deadly Strike / trial-set jewelry line) | A healer exists |
+| **Honor the Dead & Warding Contingency** | Drop both → slot **Blazing Spear** (a second Sacred Ground tile + group synergy) and a group utility skill | The healer covers you |
+| **Ritual of Retribution** | Stays | It's now a group heal *and* your Bastion of Light engine; Blazing Spear stacks more Sacred Ground on top |
+| **Ultimates** | **Everlasting Sweep** stays as your spammed ult; **Solar Prison / Solar Disturbance** for burn phases | Solar Prison is a group Major Maim zone |
+| **Weapon/jewelry set** | Deadly Strike stays strong, but a trial set (**Ansuul's Torment**, Sanity's Edge) edges it | In fights where you interrupt something every ~30s |
 
 This is a directional adaptation, not a tested raid parse — for a progression trial, verify bars against the **live Hyperioxes group Templar DPS build** before the run rather than trusting this section.
 
@@ -137,17 +139,19 @@ This is a directional adaptation, not a tested raid parse — for a progression 
 
 Templar came through the U49/U50 rework as a premier brawler — Jabs pressure, layered self-healing, and Purifying Light burst. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health.
 
-**What carries over:** Biting Jabs pressure (Judgment's Brand still fires), Honor the Dead burst heal, Restoring Focus resolve, Everlasting Sweep for AoE heal-and-damage.
+| | PvP setup |
+|---|---|
+| **Carries over** | Biting Jabs pressure (Judgment's Brand still fires), Honor the Dead burst heal, Restoring Focus resolve, Everlasting Sweep for AoE heal-and-damage |
+| **Swap in — Purifying Light** *(the other Backlash morph, Dawn's Wrath)* | Your burst — it heals you when the delayed blast lands, so your combo is also a heal |
+| **Swap in — Living Dark** *(Eclipse morph, Dawn's Wrath)* | Passive heal-and-snare when attacked |
+| **Swap in — Ritual of Rebirth / Breath of Life** | An extra burst heal in the healer role |
+| **Armour & stats** | Heavier armor or a 5/1/1 split, ~30k+ health, **Impen** on all armor, Health/tri-stat enchants |
+| **Front bar set** | A damage set you own (**Deadly Strike** is a legitimate stat option) or a proc set |
+| **Back bar set** | **Rallying Cry** — the PvP survival staple |
+| **Monster set** | **Balorgh** for ultimate-scaling burst |
+| **Mythic** | **Gaze of Sithis** for a max-tank no-block build, or keep **Pale Order** for the raw self-heal |
 
-**What changes:**
-- **Purifying Light** (the other Backlash morph, *Dawn's Wrath*) becomes your burst — it heals you when the delayed blast lands, so your combo is also a heal
-- **Living Dark** (Eclipse morph, *Dawn's Wrath*) for the passive heal-and-snare when attacked
-- **Ritual of Rebirth / Breath of Life** as an extra burst heal in the healer role
-- Heavier armor or a 5/1/1 split, ~30k+ health, **Impen** on all armor, Health/tri-stat enchants
-
-**Sets:** metas rotate every season — treat this as directional. A damage set you own (**Deadly Strike** is a legitimate stat option) or a proc set on the front bar, **Rallying Cry** on the back bar (the PvP survival staple), a monster set (Balorgh for ultimate-scaling burst), and a survival mythic (Gaze of Sithis for a max-tank no-block build, or keep Pale Order for the raw self-heal).
-
-*Source: cross-check the current Alcast U50 Templar PvP build before spending gold — season metas rotate, and the live page plus in-game tooltips override.*
+*Metas rotate every season — treat the sets as directional. Cross-check the current Alcast U50 Templar PvP build before spending gold; the live page plus in-game tooltips override.*
 
 ---
 

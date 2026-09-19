@@ -116,10 +116,14 @@ Think of it as **"lay the ground, then live on the front bar."**
 ## 3. GROUP CONTENT (dungeons/trials) — adaptation notes
 
 The solo build clears normal/vet 4-mans as-is. For optimized group DPS:
-- **Drop Ring of the Pale Order** — healers exist; complete your 3rd Sul-Xan jewelry piece instead
-- **Drop Elemental Susceptibility and Deep Fissure's breach role** if tanks/debuffers already provide Major Breach and Minor Vulnerability — that frees two slots for more damage
-- **Northern Storm stays excellent** (personal damage + Major Protection through trial mechanics)
-- The group Mag Warden rotation (heavier on Sub Assault / Cliff Racer weaving and trial buff sets) differs enough that I won't guess it here — check the current Warden DPS build at **hyperioxes.com/eso/dps/magicka-warden-build** before a progression trial
+
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → complete your 3rd Sul-Xan jewelry piece | Healers exist |
+| **Elemental Susceptibility & Deep Fissure's breach role** | Drop both if tanks/debuffers already provide Major Breach and Minor Vulnerability | Frees two slots for more damage |
+| **Northern Storm** | Stays excellent | Personal damage + Major Protection through trial mechanics |
+
+The group Mag Warden rotation (heavier on Sub Assault / Cliff Racer weaving and trial buff sets) differs enough that I won't guess it here — check the current Warden DPS build at **hyperioxes.com/eso/dps/magicka-warden-build** before a progression trial.
 
 ---
 
@@ -127,11 +131,13 @@ The solo build clears normal/vet 4-mans as-is. For optimized group DPS:
 
 Warden PvP translates well from this chassis. Verified against **Alcast's U50 Magicka Warden PvP build, "Frostcloak"**; season set metas rotate, so confirm current pieces on the live page before spending gold.
 
-**What carries over:** **Polar Wind** becomes your money burst heal (max-health scaling is PvP gold), **Deep Fissure** burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Blue Betty purge, Northern Storm as a brawler ult, Frozen Armor for resolve.
-
-**Setup ("Frostcloak"):** **Light armor** — not Heavy — with **Impen** traits, built around roughly **50k Magicka and 30k Health**. The survivability comes from the enormous magicka pool feeding shields and heals, not from armor weight.
-
-**Sets:** **Necropotence** + **Bright-Throat's Boast** + **Kjalnar's Nightmare** (monster set). Note: builds that *subclass* are **not for you** — subclassing disables Class Mastery. Stick to pure-class-compatible references.
+| | PvP setup |
+|---|---|
+| **Carries over** | **Polar Wind** becomes your money burst heal (max-health scaling is PvP gold), **Deep Fissure** burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Blue Betty purge, Northern Storm as a brawler ult, Frozen Armor for resolve |
+| **Armour & stats** | **Light armor** — *not* Heavy — with **Impen** traits, built around roughly **50k Magicka and 30k Health**. The survivability comes from the enormous magicka pool feeding shields and heals, not from armor weight |
+| **Sets** | **Necropotence** + **Bright-Throat's Boast** |
+| **Monster set** | **Kjalnar's Nightmare** |
+| **⚠️ Constraint** | Builds that *subclass* are **not for you** — subclassing disables Class Mastery. Stick to pure-class-compatible references |
 
 *Source: [Alcast U50 Magicka Warden PvP "Frostcloak"](https://alcasthq.com/eso-magicka-warden-build-pvp/). Season metas rotate — the live page and in-game tooltips override.*
 

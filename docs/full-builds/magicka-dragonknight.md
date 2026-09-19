@@ -105,15 +105,18 @@ Everything above is the **melee** build. If you'd rather fight from range — in
 
 ## 2. TRIALS & GROUP DUNGEONS
 
-Same character, different job: the group provides buffs, debuffs, and heals, so you drop self-sufficiency for damage. Two options — the **Breath DK** (Engulfing Dragonfire channel, ~152k parse, easy to play, great AoE, closest feel to your old Fatecarver) or the **Regular DK** (Magma Fist/Molten Whip stacking, higher ceiling, harder). Recommendation: Breath DK.
+Same character, different job: the group provides buffs, debuffs, and heals, so you drop self-sufficiency for damage. Two options — the **Breath DK** (Engulfing Dragonfire channel, ~152k parse, easy to play, great AoE, closest feel to your old Fatecarver) or the **Regular DK** (Magma Fist/Molten Whip stacking, higher ceiling, harder). Recommendation: **Breath DK**.
 
 ### Key changes from the solo build
-- **Drop Ring of the Pale Order** — healers exist; complete your 3rd jewelry piece of the weapon set instead
-- **Engulfing Dragonfire replaces Disintegrating Dragonfire** — tanks provide Major Breach in groups, so you take the channel morph (ramps +5%/tick to +50%; always max damage while Take Flight is active)
-- **Elemental Susceptibility comes off** — group debuffers cover it; Camouflaged Hunter (Fighters Guild) and Banner Bearer (scribed: Magic / Cavalier's Charge / Heroism) go on
-- Ansuul's Torment (Sanity's Edge trial) beats Sul-Xan on weapons/jewelry in fights where you can interrupt something every 30s
-- Searing Claw over Burning Embers (damage morph — you're not the healer)
-- Standard of Might stays as your back bar ult — in groups it's also a group damage-taken debuff zone and pairs with trial burn phases
+
+| What changes | Do this | Why |
+|---|---|---|
+| **Mythic** | Drop **Ring of the Pale Order** → complete your 3rd jewelry piece of the weapon set | Healers exist |
+| **Breath morph** | **Disintegrating → Engulfing Dragonfire** | Tanks provide Major Breach in groups, so take the channel morph — it ramps +5%/tick to +50%, and is always max damage while Take Flight is active |
+| **Elemental Susceptibility** | Comes off → **Camouflaged Hunter** (*Fighters Guild*) and **Banner Bearer** (scribed: Magic / Cavalier's Charge / Heroism) go on | Group debuffers cover it |
+| **Weapon/jewelry set** | **Ansuul's Torment** (Sanity's Edge) over Sul-Xan | Wins in fights where you can interrupt something every 30s |
+| **Claw morph** | **Searing Claw** over Burning Embers | Damage morph — you're not the healer |
+| **Back bar ult** | **Standard of Might** stays | In groups it's also a group damage-taken debuff zone, and it pairs with trial burn phases |
 
 ### Reference two-bar layout (verify against the live Breath DK guide before a progression run)
 
@@ -134,17 +137,19 @@ Rotation concept: keep DoTs and buffs rolling exactly like solo, but your filler
 
 DK came out of the U49/U50 rework strong — community consensus puts it among the best PvP classes right now. Your PvE chassis translates, but PvP wants burst, hard CC, and bigger health. Verified against Alcast's U50 **Mag DK "Blaze"** build; PvP set metas rotate every season, so confirm current pieces on the live page before spending gold.
 
-**What carries over:** Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve.
-
-**What changes:**
-- **Blood of the Green Dragon** (Draconic) becomes your burst heal — the U50 morph heals off max health per tick, exactly what a PvP DK wants
-- **Petrify** (Earthen Heart) got reworked into a snare-then-stun — set up CC before a whip combo
-- **Protect the Brood / Fleetstep Wings** — projectile eating and snare removal, both PvP gold
-- Heavier armor or 5-1-1, ~30k+ health, **Impen** trait on all armor, Health/tri-stat enchants
-
-**Sets (Alcast "Blaze" U50 framework):** a **damage set on the front bar** (your **Deadly Strike** is a legitimate stat option you already own) + **Rallying Cry** on the back bar (huge Weapon/Spell Damage + the PvP survival staple) + a **monster set** (**Balorgh** for ultimate-scaling burst, **Magma Incarnate** for sustain) + a **survival mythic** — **Gaze of Sithis** for a max-tank light-armor / no-block setup, or **Torc of Tonal Constancy** for no-proc sustain campaigns.
-
-**PvP CP slottables:** Blue — Deadly Aim OUT; take Ironclad + Duelist's Rebuff (or Untamed Aggression) alongside Master-at-Arms / Wrathful Strikes. Red — Boundless Vitality, Fortified, Pain's Refuge, Bastion.
+| | PvP setup |
+|---|---|
+| **Carries over** | Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve |
+| **Swap in — Blood of the Green Dragon** *(Draconic Power)* | Your burst heal. The U50 morph heals off max health per tick — exactly what a PvP DK wants |
+| **Swap in — Petrify** *(Earthen Heart)* | Reworked into a snare-then-stun — set up CC before a whip combo |
+| **Swap in — Protect the Brood / Fleetstep Wings** | Projectile eating and snare removal, both PvP gold |
+| **Armour & stats** | Heavier armor or 5-1-1, ~30k+ health, **Impen** on all armor, Health/tri-stat enchants |
+| **Front bar set** | A damage set — your **Deadly Strike** is a legitimate stat option you already own |
+| **Back bar set** | **Rallying Cry** — huge Weapon/Spell Damage and the PvP survival staple |
+| **Monster set** | **Balorgh** for ultimate-scaling burst, or **Magma Incarnate** for sustain |
+| **Mythic** | **Gaze of Sithis** for a max-tank light-armor / no-block setup, or **Torc of Tonal Constancy** for no-proc sustain campaigns |
+| **CP — Blue** | Deadly Aim **out**; take **Ironclad + Duelist's Rebuff** (or Untamed Aggression) alongside Master-at-Arms / Wrathful Strikes |
+| **CP — Red** | Boundless Vitality, Fortified, Pain's Refuge, Bastion |
 
 *Source: [Alcast U50 Mag DK "Blaze" PvP build](https://alcasthq.com/eso-magicka-dragonknight-burst-build-pvp/). Season metas rotate — the live page and in-game tooltips override.*
 
