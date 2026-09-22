@@ -1,7 +1,7 @@
 # ESO Companion Reference — All Eight
 ### Shared reference for every character in the household
 
-**Verified against:** ArzyeL Best Companions Builds (June 22, 2026) + Companion Tier List (2026). Recruitment quests and locations verified 2026-08-21 against ZOS official support pages, UESP, ArzyeL and Alcast.
+**Verified against:** ArzyeL Best Companions Builds (June 22, 2026) + Companion Tier List (2026). Recruitment quests and locations verified 2026-08-21 against ZOS official support pages, UESP, ArzyeL and Alcast. Companion armour-line bonuses and the trait/weight split verified 2026-09-22 against ESO-Hub's companion skill pages and UESP.
 
 ---
 
@@ -34,6 +34,27 @@ Keep this as a saved **Armory** loadout and swap to it for farming and companion
 **Gear notes:** companions use their own Companion Gear (not player sets), max quality Epic (gold only from events), and it only drops while a companion is summoned. It's tradable, so buy what you're missing from guild traders — it's cheap.
 
 **Key traits:** Bolstered (−damage taken, tanks) • Soothing (+healing done, healers) • Aggressive (+damage, DPS) • Quickened (−cooldowns) • Vigorous (+max health) • Prolific (+resources)
+
+### Why the armour weights are what they are
+
+**Weight and trait do two different jobs, and this is the bit that isn't obvious.** The **trait** sets the stat. The **weight** unlocks a companion armour skill line — and that only happens at **5 pieces of the same weight**, which is why every build below is "all one weight" rather than a mix.
+
+Per piece equipped, the three lines give:
+
+| Weight | What the line gives (per piece) |
+|---|---|
+| **Light** | +1% healing **done** · −5% Break Free cooldown |
+| **Medium** | +1% **damage** done · −5% Roll Dodge cooldown |
+| **Heavy** | +1% healing **received** · +1% damage blocked |
+
+At five pieces that's **+5%** of whichever one you picked. So the weights aren't about toughness — they're about which job the companion gets better at.
+
+!!! question "So why is the healer in Light and not Heavy?"
+    Because **Light is the only weight that makes a healer better at healing.** Light's +5% healing *done* boosts every heal Sharp casts — on you **and** on himself. Heavy's +5% healing *received* only boosts heals landing on him, which is a strict subset of the same thing. For a healer, Light dominates Heavy; there's no trade to weigh.
+
+    **If the healer keeps dying, the lever is the trait, not the weight.** Traits are **not** locked to armour weight — Bolstered is available on Light. So swap some or all of his Soothing pieces to **Bolstered** (−damage taken) and keep him in Light. That buys survivability without giving up the healing-done line, which going Heavy would.
+
+    Heavy earns its place on **tanks**, where +damage blocked matters (they're the ones actually blocking) and their job isn't output.
 
 ---
 
