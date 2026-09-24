@@ -57,13 +57,18 @@ It is also the reason the "should I run a damage mythic instead" question always
 !!! note "Open question: do Companions count as grouped allies?"
     The tooltip explicitly *permits* Companion healing, but it's never been clear whether an active Companion also triggers the −4% reduction. You run Isobel most of the time, so this is worth five minutes: note your Pale Order healing with her out, dismiss her, compare. **⚠️ Confirm in-game.** If she does count you're playing at 16% instead of 20% — still miles ahead of anything else, so it changes the number and not the verdict.
 
-### Oakensoul Ring — hers, and only hers
+### Oakensoul Ring — hers, and one build of yours
 
 **While equipped you cannot weapon swap.** In exchange you permanently hold a wall of buffs: Major Brutality, Major Sorcery, Major Savagery, Major Prophecy, Major Resolve, Minor Berserk, Minor Courage, Minor Force, Minor Protection, Minor Mending, Minor Fortitude, Minor Intellect, Minor Endurance, Minor Heroism, Minor Slayer, Minor Aegis, and **Empower**.
 
 **Why it's right for her:** the drawback is a bar lock, and she plays one bar by choice. She is paying *nothing* for it. On her pet/heavy-attack Sorcerer it's better than that — **Empower** is a large boost to heavy attack damage, which is the whole engine of that build, and it's a buff she'd otherwise have no way to keep up. That's the sanctioned reason her Sorc breaks the Pale-Order-everywhere rule.
 
-**Why it's wrong for you:** you run two bars deliberately, and Oakensoul would delete the back bar. You'd be trading a whole bar of skills — buffs, heals, ultimate — for buffs you mostly already generate yourself. Don't.
+**Why it's wrong for your DPS characters:** you run two bars deliberately, and Oakensoul would delete the back bar. You'd be trading a whole bar of skills — buffs, heals, ultimate — for buffs you mostly already generate yourself. Don't.
+
+!!! note "The one exception on your side — added 2026-09-23"
+    The [Accolade hybrid tank](../full-builds/dragonknight-tank-oakensoul.md) is **built around Oakensoul** and is one-bar by design, so the bar lock costs it nothing either. If you ever build that character you want a second Oakensoul — or you swap the one ring between characters, since mythics are bind-on-pickup to the *account*, not the character.
+
+    This page originally read "hers, and only hers." That was right when it was written and stopped being right when the tank guide landed. Both statements hold: Oakensoul is wrong for a two-bar DPS and right for a one-bar build, whoever is playing it.
 
 !!! note "The one-bar Sorc still isn't unkillable"
     Oakensoul gives her Minor Protection and Major Resolve, but no *healing*. That build leans on its pets and its heavy attacks for sustain, which is why her Sorc sheet is the only one where the survivability margin is thinner than the rest. If she ever finds it dying, the answer is Pale Order back on — not a different mythic.
@@ -224,9 +229,10 @@ You already own the only mythic that matters, so treat this as a list of side qu
 
 1. **Finish Prowler's Talisman's four gems.** No scrying, no leads, no expiry clock — four pieces of Season One content you'd enjoy anyway. It makes your thieving loadout meaningfully better and costs nothing you're using elsewhere. This is the only item on this page with a clear "do it now."
 2. **Nothing else, for her.** She has Pale Order on everything and Oakensoul on the Sorc. That's the complete correct answer for a one-bar, no-scribing player, and no mythic on this page improves either sheet. Her Antiquities time is better spent on furnishings and motifs.
-3. **Rourken Steamguards**, if you ever want a second combat mythic. It's the only one that pays you for the thing you already do — standing in melee and blocking — instead of asking you to change how you fight. It still loses to Pale Order solo, but it's the right item to have in the bank for the day you're in a group where Pale Order reads 0%.
-4. **Shattered Paths Signet**, purely as a group-content option. It's the current damage king and its leads are permanently farmable in Coldharbour and City of Ash II. Only relevant when you're grouped — and even then, check [Gear Slot Math](gear-math.md) first, because a 2-piece monster set is often the simpler answer.
-5. **The Shadow Queen's Cowl**, if the thieving bug bites harder. It overlaps Prowler's Talisman rather than stacking with it, so pick one; the Cowl is stronger for pure heist work, the Talisman is free and already half done.
+3. **Rourken Steamguards**, if you ever want a second combat mythic. It's the only one that pays you for the thing you already do — standing in melee and blocking — instead of asking you to change how you fight. It still loses to Pale Order solo, but it's the right item to have in the bank for the day you're in a group where Pale Order reads 0%. **Note as of 2026-09-23:** you now duo dungeons with her and two Companions, so that day has arrived — but the answer there is still a **2-piece monster set**, not a mythic. See [Gear Slot Math](gear-math.md).
+4. **Oakensoul**, but only if you actually build the [Accolade tank](../full-builds/dragonknight-tank-oakensoul.md). Don't dig it "to have it" — it does nothing for any character you currently play.
+5. **Shattered Paths Signet**, purely as a group-content option. It's the current damage king and its leads are permanently farmable in Coldharbour and City of Ash II. Only relevant when you're grouped — and even then, check [Gear Slot Math](gear-math.md) first, because a 2-piece monster set is often the simpler answer.
+6. **The Shadow Queen's Cowl**, if the thieving bug bites harder. It overlaps Prowler's Talisman rather than stacking with it, so pick one; the Cowl is stronger for pure heist work, the Talisman is free and already half done.
 
 **Everything else on this page is a trap for this household**, and usually for the same two reasons: it costs you Pale Order, or its downside lands on a resource you're already short of. The two most painful near-misses are worth naming, because both *look* perfect on paper:
 
