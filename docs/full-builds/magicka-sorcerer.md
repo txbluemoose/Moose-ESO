@@ -148,11 +148,24 @@ MagSorc is a PvP classic and still top-tier. Verified against Alcast's U50 **Mag
 At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the order you actually unlock it** — the tree opens outward from the center, so buy top to bottom and every row is reachable by the time you get to it (connector stars come before the deeper stars they gate). The **`Slot`** line names the active stars for that tree — buy those as soon as the tree lets you reach them, and fill the passives as you path through. Exact node adjacency shifts a little with which stars you pick, so glance at the in-game tree to confirm.
 
 !!! tip "This table is a priority list, not the whole tree"
-    The Warfare tree alone has **46 stars**, and unlocking **every passive plus the four most expensive slottables runs to roughly 520 points**. Four slottables account for 200 of that, so **about 320 points of Warfare passives exist** — considerably more than the handful of passive rows named below. This table lists the stars that matter most *for this build*, in the order you reach them. It is not the complete tree.
+    **Warfare has 48 stars — 35 slottable, 13 passive.** Maxing all 13 Warfare passives costs **320 points**; four slottables cost 200. **Fitness has 41 stars — 28 slottable, 13 passive**, totalling **342 points** of passives. The table below names what matters most *for this build*, in the order you reach them. It is not the whole tree.
 
-    **Which settles one recurring question: buy the remaining passives before any "swap option" row.** A passive works every second of every fight. A fifth slottable does nothing at all unless you un-slot something for it. And because re-slotting is **free** out of combat, and a full respec costs only **3,000 gold**, there is no reason to pre-buy a configuration you merely *might* want later — buy it when you need it.
+    **These Warfare passives are not in the table below, and two of them are large:**
 
-    ⚠️ The 520 figure comes from a community source rather than patch notes. Treat it as the right order of magnitude, not an exact budget.
+    | Passive | Max | What it does |
+    |---|---|---|
+    | **War Mage** | 30 | **+100 Weapon and Spell Damage to Magical attacks** — Magic, Flame, Frost, Shock |
+    | **Mighty** | 30 | **+100 Weapon and Spell Damage to Martial attacks** — Physical, Poison, Disease, Bleed |
+    | **Flawless Ritual** | 40 | +30% per stage chance to apply a **Magical** status effect |
+    | **Battle Mastery** | 40 | +30% per stage chance to apply a **Martial** status effect |
+
+    Take **whichever of War Mage / Mighty matches your damage type**, plus the matching status-effect star. Check your own tooltips — the damage type is not always what the resource pool implies. **Both Dragonknights deal Flame (Magical) since U49**, the stamina one included.
+
+    Fitness also leaves out **Tireless Guardian** (Block costs 20 less Stamina per stage, max 20), **Savage Defense** (Bash costs 45 less per stage, max 30) and **Fortification** (+2% damage blocked per stage, max 30) — all of which earn their place if you block a lot in melee.
+
+    **The rule that follows: remaining passives outrank every "swap option" row.** A passive works every second of every fight; a fifth slottable does nothing at all unless you un-slot something for it. And because re-slotting is **free** out of combat and a full respec costs only **3,000 gold**, there is no reason to pre-buy a configuration you merely *might* want later — buy it when you need it.
+
+    *Star costs and effects verified 2026-09-26 against esodecoded.com's datamined star pages.*
 
 ### 🔵 BLUE (Warfare)
 
