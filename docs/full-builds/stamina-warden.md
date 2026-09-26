@@ -218,10 +218,12 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
 | 14 | **Force of Nature** | **SLOT** (50) — base/overland | 660 penetration per status effect (up to 3300) — this build stacks status effects constantly, so it caps fast. This is the **base/overland** slot (with The Thief); swap it out for Wrathful Strikes in instanced content, where The Lover covers penetration. Buy it as early as the tree lets you reach it |
-| 15 | **Reaving Blows** | buy (50), swap option | heals off direct damage |
-| 16 | Ironclad / Duelist's Rebuff / Enduring Resolve / Unassailable | buy (50), swap options | direct / single-target / DoT / AoE mitigation for specific fights |
+| 15 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
+| 16 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 17 | **Reaving Blows** | buy (50), swap option | heals off direct damage |
+| 18 | Ironclad / Duelist's Rebuff / Enduring Resolve / Unassailable | buy (50), swap options | direct / single-target / DoT / AoE mitigation for specific fights |
 
-*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.*
 
 ### 🔴 RED (Fitness)
 
@@ -238,12 +240,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 7 | **Bloody Renewal** | **SLOT** (50) | 1500 stamina on kills |
 | 8 | Defiance | buy max | mitigation |
 | 9 | Mystic Tenacity | buy max | less stun/fear time |
-| 10 | Celerity | buy (50), swap option | movement-heavy fights |
-| 11 | Bracing Anchor | buy (50), swap option | block-heavy fights |
-| 12 | Siphoning Spells | buy (50), swap option | magicka sustain in add-heavy fights |
-| 13 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
+| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 12 | Celerity | buy (50), swap option | movement-heavy fights |
+| 13 | Bracing Anchor | buy (50), swap option | block-heavy fights |
+| 14 | Siphoning Spells | buy (50), swap option | magicka sustain in add-heavy fights |
+| 15 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
 
-*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps toward 1800.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.*
 
 ### 🟢 GREEN (Craft)
 

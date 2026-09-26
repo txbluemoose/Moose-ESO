@@ -263,6 +263,8 @@ This tank leans **much** harder into the damage tree than a conventional tank do
 | 7 | Eldritch Insight | buy max (20) | max Magicka — all 64 attributes are here |
 | 8 | Tireless Discipline | buy max (20) | max Stamina for blocking |
 | 9 | Hardy / Elemental Aegis / Preparation | buy max | mitigation cluster; also the connectors you path through |
+| 10 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
+| 11 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
 
 ### 🔴 RED (Fitness)
 
@@ -277,6 +279,8 @@ This tank leans **much** harder into the damage tree than a conventional tank do
 | 5 | Tumbling | buy max | cheaper dodge rolls |
 | 6 | **Siphoning Spells** | **SLOT** (50) | Magicka back when enemies die — the author's default |
 | 7 | Defiance / Mystic Tenacity | buy max | mitigation, shorter stuns |
+| 8 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
+| 9 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
 
 **Slot 6 swaps:** **Bracing Anchor** if survivability is the problem in group content, or **Bloody Renewal** if it's Stamina rather than Magicka running out.
 

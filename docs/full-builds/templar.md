@@ -216,11 +216,13 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Reaving Blows** | buy (50), swap option | heals off direct damage; stacks with Pale Order + Bastion for absurd solo healing |
-| 15 | Thaumaturge | buy (50), swap option | boosts your DoTs (Ritual, Vampire's Bane, Blockade) on DoT-heavy fights |
-| 16 | Ironclad / Duelist's Rebuff | buy (50), swap options | −direct / −single-target damage for a boss that hits like a truck |
+| 14 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
+| 15 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 16 | **Reaving Blows** | buy (50), swap option | heals off direct damage; stacks with Pale Order + Bastion for absurd solo healing |
+| 17 | Thaumaturge | buy (50), swap option | boosts your DoTs (Ritual, Vampire's Bane, Blockade) on DoT-heavy fights |
+| 18 | Ironclad / Duelist's Rebuff | buy (50), swap options | −direct / −single-target damage for a boss that hits like a truck |
 
-*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 come online by 1600–1800 as per-fight slottable swaps — no regrinding.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.*
 
 ### 🔴 RED (Fitness)
 
@@ -237,12 +239,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
 | 8 | Defiance | buy max | mitigation |
 | 9 | Mystic Tenacity | buy max | less stun/fear time |
-| 10 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights (a second sustain lever) |
-| 11 | Siphoning Spells | buy (50), swap option | magicka back on kills for the few magicka skills on the bar |
-| 12 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
-| 13 | Pain's Refuge + Bastion | buy (50), swap options | the PvP defensive pair |
+| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
+| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 12 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights (a second sustain lever) |
+| 13 | Siphoning Spells | buy (50), swap option | magicka back on kills for the few magicka skills on the bar |
+| 14 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
+| 15 | Pain's Refuge + Bastion | buy (50), swap options | the PvP defensive pair |
 
-*Items 1–9 ≈ your 1200 budget; 10–13 fill toward 1800. Note on your **open stamina issue:** the diagnosis stands — it's light-attack weaving gaps and late casts, not gear. Jabs is a channel, which *widens* the weave window and eats stamina fast, so the fix is discipline (a light attack between every cast) plus the off-hand Absorb Stamina enchant and Rejuvenation slotted — not a bigger recovery set.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.**open stamina issue:** the diagnosis stands — it's light-attack weaving gaps and late casts, not gear. Jabs is a channel, which *widens* the weave window and eats stamina fast, so the fix is discipline (a light attack between every cast) plus the off-hand Absorb Stamina enchant and Rejuvenation slotted — not a bigger recovery set.*
 
 ### 🟢 GREEN (Craft)
 

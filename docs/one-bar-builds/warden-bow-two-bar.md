@@ -143,11 +143,13 @@ At CP 1250 she has ~417 points per color; ~533 at 1600. **Each table is in the o
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Reaving Blows** | buy (50), swap option | heals her off direct damage — stacks with Pale Order |
-| 15 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
-| 16 | Enduring Resolve | buy (50), swap option | −DoT damage for DoT-heavy fights |
+| 14 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
+| 15 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 16 | **Reaving Blows** | buy (50), swap option | heals her off direct damage — stacks with Pale Order |
+| 17 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
+| 18 | Enduring Resolve | buy (50), swap option | −DoT damage for DoT-heavy fights |
 
-*Items 1–13 ≈ her 1250 budget; 14–16 take her to 1600.*
+*Everything above the swap-option rows is the 1250 budget; the swap rows come online later.*
 
 ### 🔴 RED (Fitness)
 
@@ -164,12 +166,14 @@ At CP 1250 she has ~417 points per color; ~533 at 1600. **Each table is in the o
 | 7 | **Bloody Renewal** | **SLOT** (50) | stamina on kills |
 | 8 | Defiance | buy max | mitigation |
 | 9 | Mystic Tenacity | buy max | less stun/fear time |
-| 10 | Bracing Anchor | buy (50), swap option | block-heavy fights |
-| 11 | Celerity | buy (50), swap option | movement-heavy fights |
-| 12 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
-| 13 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight demands it |
+| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
+| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 12 | Bracing Anchor | buy (50), swap option | block-heavy fights |
+| 13 | Celerity | buy (50), swap option | movement-heavy fights |
+| 14 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+| 15 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight demands it |
 
-*Items 1–9 ≈ her 1250 budget; 10–13 fill her out to 1600.*
+*Everything above the swap-option rows is the 1250 budget; the swap rows come online later.*
 
 ### 🟢 GREEN (Craft)
 

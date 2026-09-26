@@ -220,11 +220,13 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
 | 12 | Elemental Aegis | buy max | −elemental damage |
 | 13 | Preparation | buy max | −damage, always on |
-| 14 | **Reaving Blows** | buy (50), swap option | heals off direct damage; stacks with Pale Order for absurd solo healing |
-| 15 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
-| 16 | Enduring Resolve / Unassailable / Duelist's Rebuff | buy (50), swap options | DoT / AoE / single-target mitigation for specific fights |
+| 14 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
+| 15 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 16 | **Reaving Blows** | buy (50), swap option | heals off direct damage; stacks with Pale Order for absurd solo healing |
+| 17 | Ironclad | buy (50), swap option | −direct damage; in for Wrathful Strikes on hard hitters |
+| 18 | Enduring Resolve / Unassailable / Duelist's Rebuff | buy (50), swap options | DoT / AoE / single-target mitigation for specific fights |
 
-*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 come online by 1600–1800, when you swap slottables per fight with zero regrinding.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.*
 
 ### 🔴 RED (Fitness)
 
@@ -241,12 +243,14 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls (deeper star) |
 | 8 | Defiance | buy max | mitigation |
 | 9 | Mystic Tenacity | buy max | less stun/fear time (opens once Tumbling / Sprinter + Hasty are in) |
-| 10 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
-| 11 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights |
-| 12 | Rejuvenation / Siphoning Spells | buy (50), swap options | recovery if a fight out-drains Soul of Flame |
-| 13 | Pain's Refuge + Bastion | buy (50), swap options | the PvP defensive pair |
+| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
+| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 12 | Bracing Anchor | buy (50), swap option | block-heavy fights (in for Expert Evasion) |
+| 13 | Bloody Renewal | buy (50), swap option | resources on kills — add-heavy fights |
+| 14 | Rejuvenation / Siphoning Spells | buy (50), swap options | recovery if a fight out-drains Soul of Flame |
+| 15 | Pain's Refuge + Bastion | buy (50), swap options | the PvP defensive pair |
 
-*Items 1–9 ≈ your 1200 budget; 10–13 are fight-specific swaps you fill toward 1800. PvP slot: Boundless Vitality • Fortified • Pain's Refuge • Bastion.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.*
 
 ### 🟢 GREEN (Craft)
 
