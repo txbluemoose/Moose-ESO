@@ -147,16 +147,18 @@ Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exac
 | 1. Surprise Attack (morph of Veiled Strike, *Assassination*) — the burst spammable, applies Major Fracture | 1. Relentless Focus (morph of Grim Focus, *Assassination*) — Major Savagery & Prophecy while slotted |
 | 2. Rending Slashes (morph of Twin Slashes, *Dual Wield*) — bleed pressure | 2. Poison Injection (morph of Poison Arrow, *Bow*) — the execute DoT |
 | 3. Killer's Blade (morph of Assassin's Blade, *Assassination*) — execute, opens at **50%** | 3. Refreshing Path (morph of Path of Darkness, *Shadow*) — heal-over-time + Major Expedition |
-| 4. Dark Cloak (*Shadow*) ⚠️ — the burst heal morph of Shadow Cloak | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |
+| 4. Dark Cloak (morph of Shadow Cloak, *Shadow*) — heals **853/sec over 3s, scaling off Max Health** and **+150% while Bracing** | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |
 | 5. Mass Hysteria (morph of Aspect of Terror, *Shadow*) — reliable AoE fear | 5. Siphoning Attacks (morph of Siphoning Strikes, *Siphoning*) — sustain while slotted |
 | **Ult:** Soul Harvest (morph of Death Stroke, *Assassination*) — execute ult + Major Defile | **Ult:** Bolstering Darkness (morph of Consuming Darkness, *Shadow*) — the escape/mitigation ult |
 
 *Take **Shadowy Disguise** over Dark Cloak if you want the invisibility and its guaranteed crit instead of the heal. **Carve** (morph of Cleave, *Dual Wield*) can replace Rending Slashes for Ultimate generation.*
 
-!!! warning "These bars are household-constructed, not copied from a published build"
-    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+!!! note "How these bars were built"
+    **The arrangement is ours; the skills are verified.** No published PvP bar was copied — these were assembled from skills already verified elsewhere in this guide, using standard PvP structure (pressure, burst, heal and CC on the front; buffs, shield, mobility on the back).
 
-    **Nearest published reference:** Alcast's U50/U51 Stamina Nightblade PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+    **Re-checked 2026-09-26** against ESO-Hub's individual skill pages, once network access to the source sites was restored. Every skill's name, skill line and effect is confirmed current; several descriptions were corrected in that pass, and a base skill that had been slotted in place of a morph was fixed.
+
+    **Nearest published reference:** Alcast's U50/U51 Stamina Nightblade PvP build. Compare against it before spending gold, and treat these bars as a tested-by-nobody starting point rather than a parse-proven list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
 
 | | PvP setup |
 |---|---|

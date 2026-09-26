@@ -144,16 +144,20 @@ DK came out of the U49/U50 rework strong — community consensus puts it among t
 | 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) — spammable burst off Seething Fury | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve |
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) — pressure DoT | 2. Incinerate (morph of Inferno, *Ardent Flame*) — DoT + the free crit buff |
 | 3. Blood of the Green Dragon (morph of Dragon Blood, *Draconic Power*) — burst heal off max health | 3. Volcanic Ward (morph of Superheated Ward, *Earthen Heart*) — shield + 10% off the next hit |
-| 4. Fleetstep Wings (*Draconic Power*) ⚠️ — 50% projectile mitigation, snare/root immunity, Major Expedition | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — sustain |
-| 5. Petrify (*Earthen Heart*) ⚠️ — snare-then-stun, your setup for a whip combo | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
+| 4. Fleetstep Wings (*Draconic Power*) — **knocks back and stuns** enemies around you, then 50% projectile mitigation, snare/root immunity and Major Expedition | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — sustain |
+| 5. Shattering Rocks (morph of Petrify, *Earthen Heart*) — 4s **unblockable** stun, then 1,379 Flame Damage and a **2,760 heal**; applies Minor Breach | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) — gap-close + stun | **Ult:** Corrosive Armor (*Earthen Heart*) — caps every incoming hit at 6% max health |
+
+*Take **Fossilize** instead of Shattering Rocks if you'd rather have the 4-second immobilise after the stun than the damage and the heal — better for holding someone still, worse for staying alive.*
 
 *Swap **Fleetstep Wings → Protect the Brood** (the other morph) when you're grouped — it extends projectile mitigation and Minor Protection to allies instead of giving you snare immunity.*
 
-!!! warning "These bars are household-constructed, not copied from a published build"
-    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+!!! note "How these bars were built"
+    **The arrangement is ours; the skills are verified.** No published PvP bar was copied — these were assembled from skills already verified elsewhere in this guide, using standard PvP structure (pressure, burst, heal and CC on the front; buffs, shield, mobility on the back).
 
-    **Nearest published reference:** Alcast's U50/U51 Mag DK **"Blaze"**. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+    **Re-checked 2026-09-26** against ESO-Hub's individual skill pages, once network access to the source sites was restored. Every skill's name, skill line and effect is confirmed current; several descriptions were corrected in that pass, and a base skill that had been slotted in place of a morph was fixed.
+
+    **Nearest published reference:** Alcast's U50/U51 Mag DK **"Blaze"**. Compare against it before spending gold, and treat these bars as a tested-by-nobody starting point rather than a parse-proven list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
 
 | | PvP setup |
 |---|---|

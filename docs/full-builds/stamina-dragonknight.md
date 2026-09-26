@@ -140,15 +140,19 @@ DK came out of the U49/U50 rework strong. Your PvE chassis translates, but PvP w
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) — pressure DoT | 2. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) — Major Brutality |
 | 3. Blood of the Green Dragon (morph of Dragon Blood, *Draconic Power*) — burst heal + Major Endurance | 3. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — the PvP heal-over-time |
 | 4. Carve (morph of Cleave, *Two-Handed*) — bleed DoT and Ultimate generation | 4. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) — Major Breach + flame DoT |
-| 5. Petrify (*Earthen Heart*) ⚠️ — snare-then-stun before a Magma Fist burst | 5. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — sustain |
+| 5. Shattering Rocks (morph of Petrify, *Earthen Heart*) — 4s **unblockable** stun, then 1,379 Flame Damage and a **2,760 heal**; sets up a Magma Fist burst | 5. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — sustain |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) — gap-close + stun | **Ult:** Corrosive Armor (*Earthen Heart*) — caps every incoming hit at 6% max health |
+
+*Take **Fossilize** instead of Shattering Rocks if you'd rather have the 4-second immobilise after the stun than the damage and the heal — better for holding someone still, worse for staying alive.*
 
 *Magma Fist (morph of Superheated Ward, *Earthen Heart*) goes in slot 4 over Carve if you want the stun-and-burst opener instead of the bleed.*
 
-!!! warning "These bars are household-constructed, not copied from a published build"
-    Every source site we trust for PvP — Alcast, Hyperioxes, ESO-Hub — is unreachable from the tooling that maintains these guides, so no published PvP bar could be read and transcribed. **Every skill below is one already verified elsewhere in this guide**, assembled into a PvP bar using standard PvP structure (pressure + burst + heal + CC on the front, buffs + shield + mobility on the back). Anything marked ⚠️ is a skill whose *base skill* we could not confirm — the skill and its line are right, the "morph of" attribution needs an in-game check.
+!!! note "How these bars were built"
+    **The arrangement is ours; the skills are verified.** No published PvP bar was copied — these were assembled from skills already verified elsewhere in this guide, using standard PvP structure (pressure, burst, heal and CC on the front; buffs, shield, mobility on the back).
 
-    **Nearest published reference:** Alcast's U50/U51 Stamina Dragonknight PvP build. Compare against it before you spend gold, and treat these bars as a starting point rather than a parse-tested list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
+    **Re-checked 2026-09-26** against ESO-Hub's individual skill pages, once network access to the source sites was restored. Every skill's name, skill line and effect is confirmed current; several descriptions were corrected in that pass, and a base skill that had been slotted in place of a morph was fixed.
+
+    **Nearest published reference:** Alcast's U50/U51 Stamina Dragonknight PvP build. Compare against it before spending gold, and treat these bars as a tested-by-nobody starting point rather than a parse-proven list. **Update 51 (28 Sept 2026) reworks the Major/Minor buff system, Mundus Stones and class passives** — re-verify after it lands.
 
 | | PvP setup |
 |---|---|
