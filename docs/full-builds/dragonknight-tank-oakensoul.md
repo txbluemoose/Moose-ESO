@@ -228,6 +228,13 @@ Buy every passive in every line you have a skill slotted from. For this build th
 
 This tank leans **much** harder into the damage tree than a conventional tank does. That's the whole point.
 
+!!! tip "This table is a priority list, not the whole tree"
+    The Warfare tree alone has **46 stars**, and unlocking **every passive plus the four most expensive slottables runs to roughly 520 points**. Four slottables account for 200 of that, so **about 320 points of Warfare passives exist** — considerably more than the handful of passive rows named below. This table lists the stars that matter most *for this build*, in the order you reach them. It is not the complete tree.
+
+    **Which settles one recurring question: buy the remaining passives before any "swap option" row.** A passive works every second of every fight. A fifth slottable does nothing at all unless you un-slot something for it. And because re-slotting is **free** out of combat, and a full respec costs only **3,000 gold**, there is no reason to pre-buy a configuration you merely *might* want later — buy it when you need it.
+
+    ⚠️ The 520 figure comes from a community source rather than patch notes. Treat it as the right order of magnitude, not an exact budget.
+
 ### 🔵 BLUE (Warfare)
 
 **Slot (4):** Wrathful Strikes · Fighting Finesse · Biting Aura · Master-at-Arms
