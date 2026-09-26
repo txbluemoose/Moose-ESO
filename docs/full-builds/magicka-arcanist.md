@@ -225,9 +225,11 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 13 | Preparation | buy max | −damage, always on |
 | 14 | **Biting Aura** | buy (50), instanced swap | +AoE damage — swap in for a slotted star on trash-heavy / AoE fights (the beam is AoE) |
 | 15 | **Thaumaturge** | buy (50), rarely | +**DoT** damage only. ⚠️ **It does not buff Fatecarver** — a channel's ticks are direct damage, not damage-over-time. Slot it only if your bar ever goes genuinely DoT-heavy. (The thing that *does* buff channels is **Deadly Strike**, which you're already wearing.) |
-| 16 | Ironclad / Duelist's Rebuff / Enduring Resolve | buy (50), swap options | direct / single-target / DoT mitigation for specific nasty fights |
+| 16 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
+| 17 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 18 | Ironclad / Duelist's Rebuff / Enduring Resolve | buy (50), swap options | direct / single-target / DoT mitigation for specific nasty fights |
 
-*Items 1–13 ≈ your 1200 budget (400/tree). Items 14–16 fill in by 1600–1800. **Master-at-Arms stays slotted** — the beam is direct damage. Biting Aura is the per-fight swap for trash-heavy pulls.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.**Master-at-Arms stays slotted** — the beam is direct damage. Biting Aura is the per-fight swap for trash-heavy pulls.*
 
 ### 🔴 RED (Fitness)
 
@@ -244,11 +246,13 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 7 | **Bastion** | **SLOT** (50) | **+shield strength — directly buffs the Fatecarver shield you live inside.** Earns its slot here more than on almost any other household build. |
 | 8 | Defiance | buy max | mitigation |
 | 9 | Mystic Tenacity | buy max | less stun time (stuns interrupt your beam — this matters) |
-| 10 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight out-drains you |
-| 11 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
-| 12 | Celerity | buy (50), swap option | movement-heavy fights |
+| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
+| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 12 | Siphoning Spells | buy (50), swap option | magicka sustain if a fight out-drains you |
+| 13 | Pain's Refuge | buy (50), swap option | −damage while debuffed — nasty-boss swap |
+| 14 | Celerity | buy (50), swap option | movement-heavy fights |
 
-*Items 1–9 ≈ your 1200 budget; 10–12 are fight-specific swaps toward 1800.*
+*Everything above the swap-option rows is the 1200 budget; the swap rows come online later.*
 
 ### 🟢 GREEN (Craft)
 
