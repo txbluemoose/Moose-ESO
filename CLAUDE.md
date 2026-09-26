@@ -18,7 +18,7 @@ A set of living build guides for two players (a husband and his wife) in The Eld
 ## The two players
 
 ### Husband
-- CP ~1093 and climbing (was 1039 earlier; check before writing CP tables)
+- **CP ~1240** and climbing (1039 → 1093 → 1240 over 2026; check before writing CP tables). At 1240 that's ~413 points per tree, which completes rows 1–13 of his Blue table with ~10 spare — the 50-point "swap option" rows stay out of reach until roughly CP 1600. He and his wife (~1250) are now effectively the same budget.
 - Main: **Magicka Dragonknight**, pure class (uses Class Mastery, no subclassing)
 - Alts in progress: Stamina Warden, Magicka Sorcerer
 - **Plays melee — up close, all content, survivability first.** Dual daggers / medium armor is the household default for his characters; staff or bow is the *ranged option*, not the default. Each melee full-build guide has a separate ranged/bow sibling for when he wants range (Mag DK → Ranged, Mag Sorc → Ranged, Stam Warden → Bow). *(This reverses an earlier note that had him "preferring two staves." Determined 2026-08-15 via an explicit playstyle pass — he normally plays up close — and the Full Builds were restructured to melee-main + ranged-variant to match. Don't re-pitch two staves as the default; it's the documented alternative now, not the baseline.)*
