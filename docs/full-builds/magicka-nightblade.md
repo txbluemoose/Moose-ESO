@@ -21,7 +21,7 @@ Pick 2. Subclassing disables this whole system and costs you both mastery passiv
 
 - **An Eye for Exploitation** — up to +1250 Weapon/Spell Damage based on the *target's* missing health, **and reduces your damage taken up to 12% based on your *attacker's* missing health**. The single best "kick ass and not die" mastery in the game: it ramps your damage into execute *and* your mitigation as the fight goes on. Non-negotiable first pick.
 - **Above and Beyond** — flat +25% Critical Damage **and Healing** at all times (raises your crit cap too). The healing half multiplies every layered NB heal you run — Swallow Soul, Sap Essence, Killer's Blade, Siphoning Attacks. Pure "don't die" glue that also parses.
-- **Cutthroat's Focus** — applies a damage-taken debuff to enemies. Max-damage swap over Above and Beyond when you're safe and want the room to die faster. ⚠️ The **5%** figure often quoted for that debuff is unconfirmed — check the mastery's in-game tooltip.
+- **Cutthroat's Focus** — **verified 2026-09-26:** the **5%** is correct, but the trigger is easy to miss. Activating a Nightblade ability **while bracing** gives you a 0.3s dodge window; **dodging** an attack is what raises that attacker's damage taken by **5% for 5s** (20s against monsters). It is a block-cast passive, not a free damage swap.
 - **Nocturnal Inspiration** — upgrades Hemorrhage to generate Ultimate on crit. Feeds Soul Harvest / Soul Tether faster; better in ultimate-hungry PvP than in solo.
 
 ---

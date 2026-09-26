@@ -21,7 +21,7 @@
 ### Class Mastery (pure class — pick 2)
 - **An Eye for Exploitation** — up to +1250 Weapon/Spell Damage based on the target's missing health **and reduces her damage taken up to 12%** based on her attacker's missing health. Ramps both her damage *and* her mitigation as the fight goes — the single best "don't die" mastery.
 - **Above and Beyond** — +25% Critical Damage **and Healing** at all times. The healing half makes Siphoning Attacks, Killer's Blade, and the spectral bow's heal all hit harder. Pure survivability glue that also parses.
-- *Max-damage swap:* trade Above and Beyond → **Cutthroat's Focus** (applies a damage-taken debuff to enemies — ⚠️ the **5%** figure often quoted for it is unconfirmed, so check the in-game tooltip) when a fight isn't threatening.
+- *Max-damage swap:* trade Above and Beyond → **Cutthroat's Focus** (verified 2026-09-26 — the **5%** is correct, but it only fires when she **dodges**, and the dodge comes from casting a Nightblade ability **while bracing**; a block-cast passive, not a free damage swap) when a fight isn't threatening.
 
 *The five Nightblade masteries are **An Eye for Exploitation, Above and Beyond, Cutthroat's Focus, Nocturnal Inspiration, and Share the Spoils**; Share the Spoils is a group Magicka/Stamina + Ultimate passive, so it does nothing for her solo. In-game tooltips override.*
 

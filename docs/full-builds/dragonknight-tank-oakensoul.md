@@ -28,7 +28,7 @@ The author is unusually clear about the trade, and it's worth repeating before y
 
 | # | Skill | What it does |
 |---|---|---|
-| 1 | **Goading Throw**<br>*scribed grimoire — Shield Throw, One Hand and Shield*<br>⚠️ scripts: Taunt / Lingering Torment / Maim | Single-target damage, a DoT, **the taunt**, and a 10% enemy damage reduction. The most efficient taunt available here because you already have Major and Minor Breach from elsewhere. |
+| 1 | **Goading Throw**<br>*scribed grimoire — Shield Throw, One Hand and Shield*<br>scripts: **Taunt** / Lingering Torment / Maim | Single-target damage, a DoT, **the taunt**, and a 10% enemy damage reduction. The most efficient taunt available here because you already have Major and Minor Breach from elsewhere. |
 | 2 | **Burning Embers**<br>*morph of Searing Strike, Ardent Flame* | Flex slot. Direct flame damage, a flame DoT, a **burst heal plus a heal over time**, and the Burning status. Procs **Combustion** (restores Magicka and Stamina) and applies **Traumatic Burns** — +5% flame damage taken, for the whole group. |
 | 3 | **Chains of Dominance**<br>*morph of Chains of Flame, Draconic Power* | The build's engine. Pulls adds in; applies **Major Cowardice**; taunts anything untaunted; applies Burning; procs Combustion; gives the group **Minor Brutality**. |
 | 4 | **Razor Caltrops**<br>*morph of Caltrops, Alliance War → Assault* | **Major Breach** — your core tank responsibility. AoE DoT and a slow, and it's what **activates Powerful Assault** for you and the group. |
@@ -75,7 +75,7 @@ Weave light attacks between casts and block heavies and mechanics on reaction. O
 5. **Chain** the archers and mages in, on top of the Caltrops
 6. **Talons** again to lock the new arrivals, and pick up any remaining taunts
 
-**When resources get low:** spend your Ultimate (it refunds resources through the Dragonknight's ultimate-use passive ⚠️ — the transcript garbles the passive's name), and use the **"heavy after a heavy"** trick — land a heavy attack immediately after the boss lands one on you. That's the safest window to drop block and recover.
+**When resources get low:** spend your Ultimate — that triggers **The Storm Voice** (*Draconic Power*), which restores **16 Health, Magicka and Stamina per point of Ultimate spent, plus 6 more per Dragonknight ability slotted**, and use the **"heavy after a heavy"** trick — land a heavy attack immediately after the boss lands one on you. That's the safest window to drop block and recover.
 
 ---
 
@@ -286,4 +286,4 @@ Not specified in the source. Household default applies: **Steed's Blessing** slo
 
 ---
 
-*Source: The Tank Club, "Accolade" Dragonknight Hybrid Tank Build (2026) — reproduced from the author's video walkthrough, transcript supplied by the player 2026-09-14. Skill-line attributions (Shield Throw → One Hand and Shield; Soul Burst → Soul Magic), Archdruid Devyric's 1- and 2-item bonuses, Corrosive Armor and Hearth and Home tooltips verified against ESO-Hub/UESP on 2026-09-14. ⚠️ flags mark transcript ambiguities — the Goading Throw scripts and the ultimate-refund passive's name — which need confirming at the Scribing altar and on the skill tree. The build's own author does not name the trial it soloed. Set bonuses for War Machine and Powerful Assault, and both sets' armour-weight restrictions, verified against ESO-Hub/UESP on 2026-09-15 — that pass produced the overland and solo tuning above. In-game tooltips override everything here.*
+*Source: The Tank Club, "Accolade" Dragonknight Hybrid Tank Build (2026) — reproduced from the author's video walkthrough, transcript supplied by the player 2026-09-14. Skill-line attributions (Shield Throw → One Hand and Shield; Soul Burst → Soul Magic), Archdruid Devyric's 1- and 2-item bonuses, Corrosive Armor and Hearth and Home tooltips verified against ESO-Hub/UESP on 2026-09-14. Both transcript ambiguities were resolved 2026-09-26 against ESO-Hub: the **Taunt** focus script is what turns Shield Throw into **Goading Throw**, and the ultimate-refund passive is **The Storm Voice**. The transcript's "Storm voice" was accurate, not a mis-hearing. The build's own author does not name the trial it soloed. Set bonuses for War Machine and Powerful Assault, and both sets' armour-weight restrictions, verified against ESO-Hub/UESP on 2026-09-15 — that pass produced the overland and solo tuning above. In-game tooltips override everything here.*
