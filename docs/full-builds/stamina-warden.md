@@ -210,16 +210,16 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 4 | **Wrathful Strikes** | buy (50), **instanced SLOT** | flat damage on everything — this is the *instanced* slot, in for Force of Nature once you're on The Lover |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | armor penetration |
-| 7 | Eldritch Insight | buy max (20) | max magicka |
-| 8 | Tireless Discipline | buy max (20) | max stamina |
-| 9 | Blessed | buy max (20) | your heals hit harder |
-| 10 | Quick Recovery | buy max (20) | healing received |
-| 11 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
-| 12 | Elemental Aegis | buy max | −elemental damage |
-| 13 | Preparation | buy max | −damage, always on |
-| 14 | **Force of Nature** | **SLOT** (50) — base/overland | 660 penetration per status effect (up to 3300) — this build stacks status effects constantly, so it caps fast. This is the **base/overland** slot (with The Thief); swap it out for Wrathful Strikes in instanced content, where The Lover covers penetration. Buy it as early as the tree lets you reach it |
-| 15 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
-| 16 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 7 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage** — War Mage for **Magical** (Magic/Flame/Frost/Shock), Mighty for **Martial** (Physical/Poison/Disease/Bleed). Same **Extended Might** cluster as Piercing above, so you're already standing there. **Both DKs are Flame → War Mage.** |
+| 8 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Also Extended Might; take the one matching the star above |
+| 9 | Eldritch Insight | buy max (20) | max magicka |
+| 10 | Tireless Discipline | buy max (20) | max stamina |
+| 11 | Blessed | buy max (20) | your heals hit harder |
+| 12 | Quick Recovery | buy max (20) | healing received |
+| 13 | Hardy | buy max | −direct damage (Staving Death cluster; minimum connectors to path in) |
+| 14 | Elemental Aegis | buy max | −elemental damage |
+| 15 | Preparation | buy max | −damage, always on |
+| 16 | **Force of Nature** | **SLOT** (50) — base/overland | 660 penetration per status effect (up to 3300) — this build stacks status effects constantly, so it caps fast. This is the **base/overland** slot (with The Thief); swap it out for Wrathful Strikes in instanced content, where The Lover covers penetration. Buy it as early as the tree lets you reach it |
 | 17 | **Reaving Blows** | buy (50), swap option | heals off direct damage |
 | 18 | Ironclad / Duelist's Rebuff / Enduring Resolve / Unassailable | buy (50), swap options | direct / single-target / DoT / AoE mitigation for specific fights |
 
@@ -235,13 +235,13 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 | 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | resource recovery |
 | 4 | Hero's Vigor | buy max | max health |
-| 5 | Tumbling | buy max | cheaper dodge rolls |
-| 6 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
-| 7 | **Bloody Renewal** | **SLOT** (50) | 1500 stamina on kills |
-| 8 | Defiance | buy max | mitigation |
-| 9 | Mystic Tenacity | buy max | less stun/fear time |
-| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
-| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 5 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** A central star, reachable this early, and the best answer to a melee build bleeding Stamina on defence |
+| 6 | **Fortification** | buy max (30) | +2% damage blocked per stage — also central. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this group |
+| 7 | Tumbling | buy max | cheaper dodge rolls |
+| 8 | Sprinter + Hasty | minimum points | connectors to reach deeper stars |
+| 9 | **Bloody Renewal** | **SLOT** (50) | 1500 stamina on kills |
+| 10 | Defiance | buy max | mitigation |
+| 11 | Mystic Tenacity | buy max | less stun/fear time |
 | 12 | Celerity | buy (50), swap option | movement-heavy fights |
 | 13 | Bracing Anchor | buy (50), swap option | block-heavy fights |
 | 14 | Siphoning Spells | buy (50), swap option | magicka sustain in add-heavy fights |

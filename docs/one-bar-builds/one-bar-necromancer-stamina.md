@@ -123,15 +123,15 @@ Buy every passive in every line she has a skill slotted from:
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | penetration — her main source, since she has no Major Breach skill on the bar |
-| 7 | Tireless Discipline | buy max (20) | max stamina — her primary pool |
-| 8 | Eldritch Insight | buy max (20) | max magicka (a few class skills cost it) |
-| 9 | Blessed | buy max (20) | her heals — Spirit Guardian, Grave Robber — hit harder |
-| 10 | Quick Recovery | buy max (20) | healing received |
-| 11 | Hardy | buy max | −damage (Staving Death cluster; minimum connectors to path in) |
-| 12 | Elemental Aegis | buy max | −elemental damage |
-| 13 | Preparation | buy max | −damage, always on |
-| 14 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
-| 15 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 7 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage** — War Mage for **Magical** (Magic/Flame/Frost/Shock), Mighty for **Martial** (Physical/Poison/Disease/Bleed). Same **Extended Might** cluster as Piercing above, so you're already standing there. **Both DKs are Flame → War Mage.** |
+| 8 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Also Extended Might; take the one matching the star above |
+| 9 | Tireless Discipline | buy max (20) | max stamina — her primary pool |
+| 10 | Eldritch Insight | buy max (20) | max magicka (a few class skills cost it) |
+| 11 | Blessed | buy max (20) | her heals — Spirit Guardian, Grave Robber — hit harder |
+| 12 | Quick Recovery | buy max (20) | healing received |
+| 13 | Hardy | buy max | −damage (Staving Death cluster; minimum connectors to path in) |
+| 14 | Elemental Aegis | buy max | −elemental damage |
+| 15 | Preparation | buy max | −damage, always on |
 | 16 | Reaving Blows | buy (50), swap option | heals off direct damage — stacks with Pale Order and corpse explosions |
 | 17 | Deadly Aim | buy (50), swap option | boosts her single-target DoTs (Poison Injection, Siphon) |
 | 18 | Ironclad | buy (50), swap option | hard-fight mitigation swap |
@@ -148,13 +148,13 @@ Buy every passive in every line she has a skill slotted from:
 | 2 | **Fortified** | **SLOT** (50) | armor |
 | 3 | **Rejuvenation** | **SLOT** (50) | recovery — she has no sustain skill, so this genuinely matters for her |
 | 4 | Hero's Vigor | buy max | max health |
-| 5 | Tumbling | buy max | cheaper dodge rolls |
-| 6 | Sprinter + Hasty | minimum points | connectors only |
-| 7 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
-| 8 | Defiance | buy max | mitigation |
-| 9 | Mystic Tenacity | buy max | less stun/fear time |
-| 10 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
-| 11 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 5 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** A central star, reachable this early, and the best answer to a melee build bleeding Stamina on defence |
+| 6 | **Fortification** | buy max (30) | +2% damage blocked per stage — also central. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this group |
+| 7 | Tumbling | buy max | cheaper dodge rolls |
+| 8 | Sprinter + Hasty | minimum points | connectors only |
+| 9 | **Expert Evasion** | **SLOT** (50) | cheaper, stronger dodge rolls |
+| 10 | Defiance | buy max | mitigation |
+| 11 | Mystic Tenacity | buy max | less stun/fear time |
 | 12 | Siphoning Spells | buy (50), swap option | more recovery for long fights |
 | 13 | Pain's Refuge | buy (50), swap option | nasty-boss mitigation |
 | 14 | Celerity | buy (50), swap option | movement fights |
