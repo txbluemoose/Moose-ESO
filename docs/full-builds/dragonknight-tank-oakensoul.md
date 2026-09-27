@@ -260,11 +260,11 @@ This tank leans **much** harder into the damage tree than a conventional tank do
 | 4 | **Fighting Finesse** | **SLOT** (50) | bigger crits, and The Thief is feeding crit chance |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | penetration, on top of Archdruid's 1,487 |
-| 7 | Eldritch Insight | buy max (20) | max Magicka — all 64 attributes are here |
-| 8 | Tireless Discipline | buy max (20) | max Stamina for blocking |
-| 9 | Hardy / Elemental Aegis / Preparation | buy max | mitigation cluster; also the connectors you path through |
-| 10 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage.** War Mage covers **Magical** damage (Magic/Flame/Frost/Shock); Mighty covers **Martial** (Physical/Poison/Disease/Bleed). Take the one matching your damage type — check tooltips, not the resource pool. **Both DKs are Flame → War Mage.** |
-| 11 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage chance to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Pair it with whichever you took above |
+| 7 | **War Mage** *or* **Mighty** | buy max (30) | **+100 Weapon and Spell Damage** — War Mage for **Magical** (Magic/Flame/Frost/Shock), Mighty for **Martial** (Physical/Poison/Disease/Bleed). Same **Extended Might** cluster as Piercing above, so you're already standing there. **Both DKs are Flame → War Mage.** |
+| 8 | **Flawless Ritual** *or* **Battle Mastery** | buy max (40) | +30% per stage to apply a status effect — Flawless Ritual for **Magical**, Battle Mastery for **Martial**. Also Extended Might; take the one matching the star above |
+| 9 | Eldritch Insight | buy max (20) | max Magicka — all 64 attributes are here |
+| 10 | Tireless Discipline | buy max (20) | max Stamina for blocking |
+| 11 | Hardy / Elemental Aegis / Preparation | buy max | mitigation cluster; also the connectors you path through |
 
 ### 🔴 RED (Fitness)
 
@@ -276,11 +276,11 @@ This tank leans **much** harder into the damage tree than a conventional tank do
 | 2 | **Fortified** | **SLOT** (50) | armour, feeding the 27k resistance target |
 | 3 | **Rejuvenation** | **SLOT** (50) | recovery across the board |
 | 4 | Hero's Vigor | buy max | max Health |
-| 5 | Tumbling | buy max | cheaper dodge rolls |
-| 6 | **Siphoning Spells** | **SLOT** (50) | Magicka back when enemies die — the author's default |
-| 7 | Defiance / Mystic Tenacity | buy max | mitigation, shorter stuns |
-| 8 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** The best single answer to a melee build bleeding Stamina on defence |
-| 9 | **Fortification** | buy max (30) | +2% damage blocked per stage. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this cluster if you bash often |
+| 5 | **Tireless Guardian** | buy max (20) | Block costs **20 less Stamina per stage — up to 400 less per block.** A central star, reachable this early, and the best answer to a melee build bleeding Stamina on defence |
+| 6 | **Fortification** | buy max (30) | +2% damage blocked per stage — also central. **Savage Defense** (−45 Stamina per stage off Bash, max 30) is the third of this group |
+| 7 | Tumbling | buy max | cheaper dodge rolls |
+| 8 | **Siphoning Spells** | **SLOT** (50) | Magicka back when enemies die — the author's default |
+| 9 | Defiance / Mystic Tenacity | buy max | mitigation, shorter stuns |
 
 **Slot 6 swaps:** **Bracing Anchor** if survivability is the problem in group content, or **Bloody Renewal** if it's Stamina rather than Magicka running out.
 
