@@ -10,9 +10,9 @@
 ## Skills — One Bar (Inferno Staff)
 
 1. **Swallow Soul** (morph of Strife, *Siphoning*) — THE button. Ranged spammable that **heals her for 35% of the damage inflicted, every 2 seconds for 10 seconds** (her only — it doesn't heal allies), and stays up as long as she recasts. Her whole survival engine.
-2. **Merciless Resolve** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage (and a heal if the target's close). Grants **Major Savagery and Major Prophecy** (+2629 Weapon and Spell Critical) just for being slotted.
+2. **Merciless Resolve** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage (and a heal if the target's close). Grants **Major Savagery** (+2629 Weapon and Critical) just for being slotted.
 3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — applies **Major Breach** on its own, so her hits land harder (the Penetrating Magic passive — buy it, see below — stacks on top by letting her staff abilities partially ignore resistance). *This is the non-scribed stand-in for Wield Soul — she doesn't scribe, and this staff skill does the same Major Breach job.*
-4. **Sap Essence** (morph of Drain Power, *Siphoning*) — AoE hit that **heals her and nearby allies per enemy struck** and grants **Major Brutality and Major Sorcery** (weapon *and* spell damage). Her crowd button and a second heal layer. *Single target only? Swap to Barbed Trap (morph of Trap Beast, Fighters Guild) for a DoT + Minor Force instead.*
+4. **Sap Essence** (morph of Drain Power, *Siphoning*) — AoE hit that **heals her and nearby allies per enemy struck** and grants **Major Brutality** (weapon *and* spell damage). Her crowd button and a second heal layer. *Single target only? Swap to Barbed Trap (morph of Trap Beast, Fighters Guild) for a DoT + Minor Force instead.*
 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) — **invisibility for 3 seconds**, and her next direct-damage attack within those 3s is a **guaranteed crit**; while slotted she also gets **Minor Protection** (−5% damage taken), plus **Major Resolve** (armor) via the Shadow Barrier passive. Her burst-and-brace button. *Prefers a pure heal here? Dark Cloak (the other morph) heals on cast instead of granting invisibility.*
 - **Ult: Soul Tether** (morph of Soul Shred, *Siphoning*) — close-range AoE burst centered on **her** that **heals her** and stuns everything around her — an "everything around me dies" panic ult, not a ranged one *(confirm range in-game)*.
 
@@ -29,7 +29,7 @@
 1. **Shadowy Disguise → Elemental Susceptibility** on the target to open (cloak buff + Major Breach)
 2. **Weave light attacks** to build Merciless stacks; throw a **heavy attack** now and then to refill magicka (she likes heavy attacks — this build rewards them)
 3. **Spam Swallow Soul** — keep recasting it, the heal-over-time never falls off and every hit tops her up
-4. **Sap Essence** whenever 2+ enemies are on her (AoE heal + Major Brutality/Sorcery)
+4. **Sap Essence** whenever 2+ enemies are on her (AoE heal + Major Brutality)
 5. Fire the **spectral bow** (Merciless) at 5 stacks; drop **Soul Tether** when she's surrounded or low
 6. Taking damage? **Swallow Soul more** — the heal scales with the damage she's doing.
 
@@ -61,7 +61,7 @@
 ### Endgame version
 Swap the **Order's Wrath body → Tide-Born Wildstalker** (Gold Road overland — the Hyperioxes magicka NB pick, more damage), keep Deadly Strike on boots/jewelry/staff, keep **Slimecraw** head and **Ring of the Pale Order**. That's the only change; the bar and playstyle are identical.
 
-**Mundus:** The Thief (crit). **Attributes:** 64 Magicka, shift toward Health if she's struggling. **Food:** Bewitched Sugar Skulls (tri-stat, max survivability). **Potions:** Spell Power potions (Cornflower + Lady's Smock + Water Hyacinth). **Race:** whatever she already is — race is the smallest dial in any build and costs money to change.
+**Mundus:** The Thief (crit). **Attributes:** 64 Magicka, shift toward Health if she's struggling. **Food:** Bewitched Sugar Skulls (tri-stat, max survivability). **Potions:** Increase Power potions (Cornflower + Lady's Smock + Water Hyacinth). **Race:** whatever she already is — race is the smallest dial in any build and costs money to change.
 
 ---
 

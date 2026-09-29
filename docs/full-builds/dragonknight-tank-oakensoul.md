@@ -118,7 +118,7 @@ Weave light attacks between casts and block heavies and mechanics on reaction. O
 **Mundus:** **The Thief.** The author tested The Shadow and found the extra crit damage worth less than the crit chance here.
 **Attributes:** **all 64 into Magicka** — it raises damage *and* carries the Chains spam and self-healing through solo fights.
 **Food:** **Bewitched Sugar Skulls.** Recovery-focused foods were tested and performed worse.
-**Potions:** standard tri-stat tank potions. The build already has Major Prophecy from Oakensoul, so spell power potions are wasted — spend the slot on sustain.
+**Potions:** standard tri-stat tank potions. The build already has Major Savagery from Oakensoul, so spell power potions are wasted — spend the slot on sustain.
 **Race:** **Nord** if you might ever take this toward veteran hard modes (resistances, max stats, ultimate generation — the resistances buy you freedom in traits and CP). **Imperial** is the stronger pick for the content this build actually targets, for max stats and cheaper abilities.
 
 **What the author's character sheet looks like, fully buffed** — useful as a target, not a requirement:

@@ -56,12 +56,12 @@
 Oakensoul grants a pile of major buffs permanently in exchange for locking her to one bar — which she wasn't using anyway. It's THE one-bar mythic. This is the household's one **Oakensoul** build — the heavy-attack style needs its buffs. Every other sheet of hers runs Pale Order; don't copy this ring choice to them.
 
 ### Crafted starter (until the dungeon gear drops — her husband makes all of it)
-Order's Wrath (chest/hands/belt/legs/boots) + Highland Sentinel (head/shoulders/jewelry ×3) + Assassin's Guile Lightning Staff (Precise, Shock). Parses 84.8k — already plenty for anything the two of them duo. Until she has Oakensoul, use Spell Power potions.
+Order's Wrath (chest/hands/belt/legs/boots) + Highland Sentinel (head/shoulders/jewelry ×3) + Assassin's Guile Lightning Staff (Precise, Shock). Parses 84.8k — already plenty for anything the two of them duo. Until she has Oakensoul, use Increase Power potions.
 
 **Mundus:** The Thief
 **Attributes:** 64 Magicka
 **Food:** Artaeum Pickled Fish Bowl (budget: Solitude Salmon-Millet Soup)
-**Potions:** Armor potions once she has Oakensoul; Spell Power potions before that; Immovability potions for stun-heavy fights
+**Potions:** Armor potions once she has Oakensoul; Increase Power potions before that; Immovability potions for stun-heavy fights
 **Race:** whatever she has — Khajiit is best for 4-man content, and the total race spread is only ~5%
 
 ---

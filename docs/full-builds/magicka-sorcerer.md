@@ -25,8 +25,8 @@
 | Front Bar (Daggers*) | Back Bar (Ice Staff) |
 |---|---|
 | 1. Traveling Knife (scribed grimoire, *Soul Magic*; scripts: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
-| 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) | 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Sorcery + **heal on every crit, once per second** |
-| 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery/Prophecy passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status engine |
+| 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) | 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Brutality + **heal on every crit, once per second** |
+| 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status engine |
 | 4. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — cast on proc only | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — **run the Ice version** |
 | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — Minor Force |
 | **Ult: Power Overload** (morph of Overload, *Storm Calling*) — **parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the real ultimate; constant Concussion → Minor Vulnerability |
@@ -116,7 +116,7 @@ MagSorc is a PvP classic and still top-tier. Verified against Alcast's U50 **Mag
 | Front Bar (Inferno Staff) | Back Bar (Lightning or Resto Staff) |
 |---|---|
 | 1. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — your burst, proc-fished off other casts | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + growing AoE |
-| 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Sorcery **and** heal-on-crit | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) — ground pressure |
+| 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Brutality **and** heal-on-crit | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) — ground pressure |
 | 3. Hardened Ward (morph of Conjured Ward, *Daedric Summoning*) — the shield you stack behind | 3. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — zone control |
 | 4. Ball of Lightning (*Storm Calling*) — the teleport escape, and it eats projectiles | 4. Harness Magicka (*Light Armor*) — 3,718 damage shield for 6s (capped at 50% Max Health) that returns Magicka when you're hit by spells |
 | 5. Rune Cage (*Dark Magic*) — 3s **unblockable** stun plus 1,799 Magic Damage if it runs full duration; sets up a Fragments combo | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |

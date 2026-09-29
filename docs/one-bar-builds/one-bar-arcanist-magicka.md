@@ -13,7 +13,7 @@
 
 1. **Cephaliarch's Flail** (morph of Abyssal Impact, *Herald of the Tome*) — AoE spammable; generates Crux, **heals her on any hit**, and slaps a +5% damage-taken debuff on everything it touches
 2. **Pragmatic Fatecarver** (morph of Fatecarver, *Herald of the Tome*) — THE beam. Spends Crux, full damage in AoE out to 22m with no falloff, dirt cheap, and **wraps her in a big damage shield the whole channel**
-3. **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — grants **Major Sorcery** (spell damage) while slotted — her damage buff, no potion needed — plus heavy damage and a guaranteed Crux when the beam ends
+3. **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — grants **Major Brutality** (spell damage) while slotted — her damage buff, no potion needed — plus heavy damage and a guaranteed Crux when the beam ends
 4. **Cruxweaver Armor** (morph of Fatewoven Armor, *Soldier of Apocrypha*) — **Major Resolve** (her armor) + Minor Breach on attackers + a Crux whenever she's hit
 5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free to cast; applies **Major Breach** (her solo penetration) + status effects. **No scribing needed** — she casts it straight off the staff
 - **Ult: The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — can be fired **while beaming** without interrupting the channel
@@ -66,7 +66,7 @@ Same idea as her stamina Arcanist sheet (this one uses the Order's Wrath + Deadl
 **Mundus:** The Thief (crit) → The Lady for brutal content
 **Attributes:** 64 Magicka; shift toward Health when struggling
 **Food:** Clockwork Citrus Filet (Max Magicka + recovery) — Fatecarver is so cheap she rarely needs recovery food
-**Potions:** Spell Power potions (Lady's Smock + Corn Flower + Namira's Rot); tri-stat if she wants the safety
+**Potions:** Increase Power potions (Lady's Smock + Corn Flower + Namira's Rot); tri-stat if she wants the safety
 **Race:** whatever she is — the spread is ~5% (Khajiit for crit + survivability, High Elf for pure damage if it ever comes up)
 
 ---

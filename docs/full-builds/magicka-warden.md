@@ -43,7 +43,7 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 - **Deep Fissure** — delayed burst that applies **Major AND Minor Breach** (your armor shred, no group needed). Fire it on cooldown; the resurface hit is big.
 - **Fetcher Infection** — a DoT that also applies **Minor Vulnerability** (+5% damage taken on the target), and every second cast hits 60% harder. Cheap, long, refresh on the blink.
 - **Polar Wind** — burst heal that **scales off your max Health**, not the target's — your panic button, and it gets stronger the tankier you build.
-- **Blue Betty** — magicka back over time (your sustain), **Major Sorcery** (spell damage), and every 5s it either purges a debuff off you or buffs your damage. It lives on the back bar because it's a ~20s cast-and-forget, not something you press in the fight.
+- **Blue Betty** — magicka back over time (your sustain), **Major Brutality** (spell damage), and every 5s it either purges a debuff off you or buffs your damage. It lives on the back bar because it's a ~20s cast-and-forget, not something you press in the fight.
 - **Winter's Revenge** — ground DoT with an elevated status-proc chance; enormous when it's stacking Chilled procs (which feed Wild Adaptation).
 - **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed plus **Major Breach**. It does **not** give Minor Magickasteal — that's **Elemental Drain**, the *other* morph of Weakness to Elements. Its real job here is *feeding status effects* to Wild Adaptation and keeping Major Breach at near-100% uptime between Deep Fissure casts.
 - **Elemental Blockade** — ice ground DoT; with the ice staff it keeps everything Chilled (Minor Brittle via Glacial Presence passive).
@@ -108,7 +108,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 **Mundus:** The Thief (crit) default → The Atronach if a fight out-drains Blue Betty → The Lady for the nastiest content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for one-shot fights (only ~−5% damage, and Polar Wind heals harder for it)
 **Food:** Witchmother's Potent Brew (Max Magicka + recovery) or Bewitched Sugar Skulls (tri-stat, tankier)
-**Potions:** Spell Power potions (Lady's Smock + Corn Flower + Namira's Rot); tri-stat for the safety
+**Potions:** Increase Power potions (Lady's Smock + Corn Flower + Namira's Rot); tri-stat for the safety
 **Race:** whatever the character already is — the spread is ~5% and a change costs real money. Nord for the hardest HM soloing (~5–7% mitigation); Dark Elf/High Elf/Khajiit are +3.5% damage if you'd rather kick more ass than not die.
 
 ---
@@ -139,7 +139,7 @@ Warden PvP translates well from this chassis. Verified against **Alcast's U50 Ma
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) — delayed burst + Major Breach / Minor Vulnerability | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) — ground AoE + snare |
 | 3. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) — burst heal scaling off **max health** | 3. Fetcher Infection (morph of Swarm, *Animal Companions*) — ranged DoT |
 | 4. Shimmering Shield (morph of Crystallized Shield, *Winter's Embrace*) — eats projectiles; Cyrodiil's natural habitat | 4. Enchanted Growth (morph of Fungal Growth, *Green Balance*) — burst heal + Major Mending |
-| 5. Blue Betty (morph of Betty Netch, *Animal Companions*) — Major Sorcery **and** a purge every few seconds | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
+| 5. Blue Betty (morph of Betty Netch, *Animal Companions*) — Major Brutality **and** a purge every few seconds | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
 | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — brawler ult, personal damage + Major Protection | **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — the bear, for sustained pressure |
 
 !!! note "How these bars were built"

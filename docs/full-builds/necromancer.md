@@ -45,7 +45,7 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
 - **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It lives on the back bar next to Spirit Guardian — bar-swap and press it the instant your health dips.
 - **Blighted Blastbones** — your skeleton. Runs at the target, explodes for Disease damage, applies **Major Defile** (cuts their healing), and **leaves a corpse** — the fuel for everything else.
-- **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery/Prophecy** (crit), and **+3% damage while slotted**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
+- **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery** (crit), and **+3% damage while slotted**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
 - **Avid Boneyard** — AoE ground DoT that consumes a corpse for +30% damage, applies Minor Vulnerability, and spawns the **Grave Robber synergy** you can activate yourself for a chunk of damage *and* a heal. Another layer in the heal stack.
 - **Ricochet Skull** — your cheap spammable and a corpse generator (every third cast makes a corpse). It's the weakest single button in U50, but its job here is corpse fuel and filler, not raw parse.
 - **Skeletal Archer** — a second pet that ticks free damage and, on death, leaves *another* corpse. Fits the summoner fantasy and feeds the machine.
@@ -102,7 +102,7 @@ Everything above is magicka. The **[Stamina Necromancer](stamina-necromancer.md)
 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo → The Lady (resistances) only for brutal one-shot content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for the nastiest fights (Cycle Unending actually *rewards* the extra health with more damage, so this costs you less than it looks)
-**Food:** Bewitched Sugar Skulls (tri-stat). **Potions:** Spell Power potions (Lady's Smock + Corn Flower + Namira's Rot) — spell damage, crit, and magicka in one.
+**Food:** Bewitched Sugar Skulls (tri-stat). **Potions:** Increase Power potions (Lady's Smock + Corn Flower + Namira's Rot) — spell damage, crit, and magicka in one.
 **Race note:** Necromancer's own passives + Pale Order carry your survivability, so race is the smallest dial as always. High Elf / Dark Elf are the ~3.5% damage picks; **Argonian** is the standout survivability race here (its potion-boost passive makes your Spell Power pots heal and restore more) if the old stamina/sustain gremlin ever follows you over from the DK. Default answer stays "whatever the character already is."
 
 ---
@@ -296,3 +296,8 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 **Craft Telvanni Efficiency** (5pc crafted) and wear it in a dedicated Armory loadout when the companion is doing real work — it halves their ability cooldowns. Swap back to Corpseburster when you're carrying.
 
 Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
+
+!!! info "U51 changed the Colossus ultimates"
+    All three Colossus morphs now cost **150 Ultimate instead of 175**, and hit harder — Glacial and Frozen by 12.5%, Pestilent by 12.5% / 18% / 23% across its three hits. **Pestilent now guarantees Diseased only on its final hit**, not every hit.
+
+    ZOS has said the damage increases are **temporary and revert in Update 52** in favour of larger PvE-only bonuses — the cheaper cost is the part to plan around.

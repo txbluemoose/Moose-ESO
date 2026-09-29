@@ -50,11 +50,11 @@ This is your bread and butter. The damage engine is the **Corpseburster** set: e
 - **Spirit Guardian** — the cornerstone. A summoned ghost transfers **10% of all incoming damage** to itself and heals you on a timer. Keep it up 100% of the time; it's the closest thing this game has to a passive 10% damage reduction with a heal stapled on.
 - **Resistant Flesh** — on-demand burst heal that *also* grants you Major Resolve (armor). It lives on the back bar next to Spirit Guardian — bar-swap and press it the instant your health dips.
 - **Blighted Blastbones** — your skeleton (the stamina-cost morph; the old "Stalking" morph no longer exists post-U41). Charges the target, explodes for big single-target disease damage, applies **Major Defile** (cuts their healing), and **leaves a corpse** — the fuel for everything else. Recast it on every cooldown; it's a pseudo-spammable as much as a summon.
-- **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery/Prophecy** (crit), and the corpse **explodes when the tether ends**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
+- **Detonating Siphon** — consumes a corpse to lay a damage tether, gives you **Major Savagery** (crit), and the corpse **explodes when the tether ends**. With the Corpseburster set this is effectively your hardest-hitting button whenever a corpse is up.
 - **Avid Boneyard** — AoE ground DoT that consumes a corpse for +30% damage, applies Minor Vulnerability, and spawns the **Grave Robber synergy you can activate yourself** for a chunk of damage *and* a heal. This is the Necromancer heal source that magicka gets from its ice-staff utility — on stamina it lives right here, so keep it slotted.
 - **Venom Skull** — your cheap Poison spammable and a corpse generator (every third cast makes a corpse). It's the weakest single button in U50, but its job here is corpse fuel and filler, not raw parse.
 - **Deadly Cloak** — a spinning AoE DoT that *also* reduces the AoE damage you take. Pure "kick ass and not die": it feeds Corpseburster, Deadly Strike boosts it, and the mitigation is exactly what a melee character standing in the pile wants. (Swap to Skeletal Archer here if you'd rather run a second pet on the front bar — see swaps.)
-- **Skeletal Archer** — a second pet that ticks free damage and, on death, leaves *another* corpse. **Verified 2026-09-26:** it grants you **Major Brutality and Sorcery** (+20% Weapon and Spell Damage) for its 20s, hits for 464 Physical every 2s with **each attack 15% stronger than the last**, and **creates a corpse on death while you are in combat**. It does **not** grant Physical Penetration or Stamina Recovery — that earlier claim was wrong.
+- **Skeletal Archer** — a second pet that ticks free damage and, on death, leaves *another* corpse. **Verified 2026-09-26:** it grants you **Major Brutality** (+20% Weapon and Spell Damage) for its 20s, hits for 464 Physical every 2s with **each attack 15% stronger than the last**, and **creates a corpse on death while you are in combat**. It does **not** grant Physical Penetration or Stamina Recovery — that earlier claim was wrong.
 - **Pestilent Colossus** — big AoE ultimate that stuns and applies **Major Vulnerability** (enemies take +10% damage). Your "delete the room / survive this" button — and a genuine group buff (see Section 3).
 
 ### Situational swaps (with skill line sources)
@@ -108,7 +108,7 @@ The whole thing is a sweep, not a script: keep a corpse on the ground, keep the 
 **Mundus:** The Thief (crit) default → The Lover (penetration) if you're under-penetrated in solo (and running Avid Boneyard rather than Unnerving) → The Lady (resistances) only for brutal one-shot content
 **Attributes:** 64 Stamina default → 32/32 Health/Stamina when struggling → 64 Health for the nastiest fights (Cycle Unending actually *rewards* the extra health with more damage, so this costs you less than it looks)
 **Food:** Bewitched Sugar Skulls (tri-stat) — or Artaeum Takeaway Broth (max Stamina + Health + Stamina recovery) if the old sustain gremlin bites here
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) — weapon damage, crit, and stamina in one.
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood) — weapon damage, crit, and stamina in one.
 **Race note:** Necromancer's own passives + Pale Order carry your survivability, so race is the smallest dial as always. Khajiit / Orc are the ~3.5% damage picks; **Redguard** is the standout if the old stamina-sustain gremlin ever follows you over from the DK (its Adrenaline Rush passive is the only real stamina-sustain racial in the game); **Argonian** is the survivability answer (its potion-boost passive makes your Weapon Power pots heal and restore more). Default answer stays "whatever the character already is."
 
 ---
@@ -302,3 +302,8 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 **Craft Telvanni Efficiency** (5pc crafted) and wear it in a dedicated Armory loadout when the companion is doing real work — it halves their ability cooldowns. Swap back to Corpseburster when you're carrying.
 
 Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
+
+!!! info "U51 changed the Colossus ultimates"
+    All three Colossus morphs now cost **150 Ultimate instead of 175**, and hit harder — Glacial and Frozen by 12.5%, Pestilent by 12.5% / 18% / 23% across its three hits. **Pestilent now guarantees Diseased only on its final hit**, not every hit.
+
+    ZOS has said the damage increases are **temporary and revert in Update 52** in favour of larger PvE-only bonuses — the cheaper cost is the part to plan around.

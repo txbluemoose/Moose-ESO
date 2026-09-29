@@ -43,13 +43,13 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 *\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina goes straight at your one known sustain gap — see the CP note). Inferno back bar powers Elemental Blockade (which displays as "Blockade of Fire") and pairs its flame damage with Vampire's Bane; a bow back bar is a fine swap (Endless Hail + Razor Caltrops) if you'd rather, but the staff keeps Blockade rolling with less GCD cost.*
 
 **What each does (and why it fits "don't die"):**
-- **Biting Jabs** — your spammable, a melee cone that hits up to 6. It's the strongest solo Templar spammable in U50 *because* it feeds Judgment's Brand. Jabs also hands you **Major Brutality and Major Sorcery** (+20% Weapon and Spell Damage for 10s) just for casting it — verified against ESO-Hub / Fextralife, not a guess. The other morph, **Puncturing Sweep**, drops that buff package and heals you for 25% of the damage instead — that's the healing-over-damage swap (see the Magicka alternative below).
+- **Biting Jabs** — your spammable, a melee cone that hits up to 6. It's the strongest solo Templar spammable in U50 *because* it feeds Judgment's Brand. Jabs also hands you **Major Brutality** (+20% Weapon and Spell Damage for 10s) just for casting it — verified against ESO-Hub / Fextralife, not a guess. The other morph, **Puncturing Sweep**, drops that buff package and heals you for 25% of the damage instead — that's the healing-over-damage swap (see the Magicka alternative below).
 - **Radiant Glory** — execute; its bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%. Cheap, and it **heals you** for a slice of the damage. A Templar's execute is also a heal.
 - **Ritual of Retribution** — your Sacred Ground. It's a ground DoT, it **cleanses up to 2 harmful effects on cast**, and it's the tile that keeps **Bastion of Light** healing you every second. Stand in it.
 - **Barbed Trap** — DoT plus **Minor Force** (+10% crit damage) while slotted; a permanent damage amp for one button.
 - **Quick Cloak** — Major Evasion (−20% AoE damage taken) for the whole medium-armor melee profile. Requires two one-handers, which you have.
 - **Restoring Focus** — Major Resolve (armor), **Stamina recovery, and a small health tick** while you stand in the rune. Rune Focus's other morph, **Channeled Focus**, returns Magicka instead — right on the magicka build, wrong here: on a stamina bar the recovery needs to land in the pool you actually run dry, which is exactly the documented stamina shortfall. The handful of magicka skills you still cast (Ritual, Vampire's Bane, Honor the Dead) ride on Rejuvenation, Restoring Spirit, and weaving.
-- **Vampire's Bane** — a long-duration flame DoT that also gives you **Major Savagery + Major Prophecy** (Weapon and Spell crit) just for casting it. Free crit.
+- **Vampire's Bane** — a long-duration flame DoT that also gives you **Major Savagery + Major Savagery** (Weapon and Spell crit) just for casting it. Free crit.
 - **Elemental Blockade** (it reads "Blockade of Fire" on a flame staff) — ground DoT; refreshes status effects and holds enemies in your damage zones.
 - **Warding Contingency** — the scribed Contingency grimoire scripted to throw up a **damage shield when you take a hit**. You have scribing (Gold Road), so this is free value. *No scribing, or unsure of the script? Use **Living Dark** (morph of Eclipse, Dawn's Wrath) — it heals you and snares attackers when you're struck, same "don't die" job from a class line.*
 - **Honor the Dead** — full-panel **burst heal** that partially refunds its magicka when you cast it below ~half health. Your panic button.
@@ -60,7 +60,7 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 - **Living Dark** — *Templar > Dawn's Wrath* (morph of Eclipse) — the non-scribed replacement for Warding Contingency; heals-and-snares when hit
 - **Luminous Shards** — *Templar > Aedric Spear* (morph of Spear Shards) — **the sustain swap aimed straight at your stamina problem.** Same Sacred Ground contribution as Blazing Spear (more Bastion of Light uptime), but its synergy returns **3960 Stamina and Magicka** and, solo, you press it yourself. The live U50 solo build runs this morph; take it over Blazing Spear unless you're grouped and want the raw damage synergy
 - **Blazing Spear** — *Templar > Aedric Spear* (the other Spear Shards morph) — the damage-synergy version of the same tile; great on trash packs when sustain isn't the problem
-- **Puncturing Sweep** — *Templar > Aedric Spear* (the other Jabs morph) — trade Jabs' Major Brutality/Sorcery for a 25%-of-damage heal when a fight is trying to kill you (this is the Magicka alternative's spammable)
+- **Puncturing Sweep** — *Templar > Aedric Spear* (the other Jabs morph) — trade Jabs' Major Brutality for a 25%-of-damage heal when a fight is trying to kill you (this is the Magicka alternative's spammable)
 - **Elemental Susceptibility** — *Destruction Staff* (morph of Weakness to Elements) — Minor Breach/Brittle for a tanky boss with no group to debuff it
 - **Resolving Vigor** — *Alliance War > Assault* — a stamina-cost burst-heal-over-time for invulnerability phases where Pale Order can't heal you (earn AP in Battlegrounds/Cyrodiil)
 - **Precognition** ult — *Psijic Order guild line (Summerset)* — mandatory for a few solo-impossible stuns
@@ -108,7 +108,7 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 **Mundus:** The Thief default → The Lover if your penetration is short → The Lady for the nastiest content
 **Attributes:** 64 Stamina default → 32/32 Health/Stamina when struggling → 64 Health for one-shot fights (only ~−5% damage)
 **Food:** Braised Rabbit with Spring Vegetables (max Stamina + recovery), or Bewitched Sugar Skulls for the tri-stat health buffer on hard content
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Weapon Damage + crit + stamina return
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Weapon Damage + crit + stamina return
 **Race note:** Race is the smallest dial in the build (~5% spread) and costs real money to change — default to whatever the character already is. If you ever *do* re-roll and want to lean into the documented stamina gap, **Redguard** is the only race with a real stamina-sustain passive.
 
 ### The Magicka Templar alternative (survivability-leaning)
@@ -143,7 +143,7 @@ Templar came through the U49/U50 rework as a premier brawler — Jabs pressure, 
 
 | Front Bar (Dual Wield) | Back Bar (Bow or 1H + Shield) |
 |---|---|
-| 1. Biting Jabs (morph of Puncturing Strikes, *Aedric Spear*) — spammable, and it grants **Major Brutality & Sorcery** | 1. Restoring Focus (morph of Rune Focus, *Restoring Light*) — Major Resolve + Sacred Ground |
+| 1. Biting Jabs (morph of Puncturing Strikes, *Aedric Spear*) — spammable, and it grants **Major Brutality** | 1. Restoring Focus (morph of Rune Focus, *Restoring Light*) — Major Resolve + Sacred Ground |
 | 2. Purifying Light (morph of Backlash, *Dawn's Wrath*) — 1,161 Magic Damage on cast, marks for 6s, then bursts for 1,285 — and the burst **heals you** | 2. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) — purge + heal |
 | 3. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) — burst heal | 3. Vampire's Bane (morph of Sun Fire, *Dawn's Wrath*) — DoT + snare |
 | 4. Living Dark (morph of Eclipse, *Dawn's Wrath*) — a 10s sphere that lashes back at anyone who damages you, **snaring them 40%**, and heals you | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |
@@ -292,7 +292,7 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 
 ---
 
-*Sources: Hyperioxes U50 Stamina Templar Solo build (soloed vet HM Cradle of Shadows, ~69.4k) and U50 Magicka Templar Solo build (soloed vet HM March of Sacrifices, ~67.4k). Skill morphs and lines verified vs ESO-Hub / UESP / Fextralife U50 tooltips; Class Mastery names verified vs ESO-Hub / Alcast U50 Class Mastery lists. Warding Contingency scripts flagged to confirm in-game. **Biting Jabs' Major Brutality + Major Sorcery (+20% Weapon/Spell Damage, 10s) is verified vs ESO-Hub / Fextralife — not a flagged claim.** Restoring Focus (not Channeled Focus) is the stamina morph of Rune Focus and is the base-bar pick here. PvP is directional — cross-check the current Alcast U50 Templar PvP page, metas rotate seasonally. In-game tooltips override any guide. Revision date: 2026-08-18.*
+*Sources: Hyperioxes U50 Stamina Templar Solo build (soloed vet HM Cradle of Shadows, ~69.4k) and U50 Magicka Templar Solo build (soloed vet HM March of Sacrifices, ~67.4k). Skill morphs and lines verified vs ESO-Hub / UESP / Fextralife U50 tooltips; Class Mastery names verified vs ESO-Hub / Alcast U50 Class Mastery lists. Warding Contingency scripts flagged to confirm in-game. **Biting Jabs' Major Brutality + Major Brutality (+20% Weapon/Spell Damage, 10s) is verified vs ESO-Hub / Fextralife — not a flagged claim.** Restoring Focus (not Channeled Focus) is the stamina morph of Rune Focus and is the base-bar pick here. PvP is directional — cross-check the current Alcast U50 Templar PvP page, metas rotate seasonally. In-game tooltips override any guide. Revision date: 2026-08-18.*
 
 ---
 

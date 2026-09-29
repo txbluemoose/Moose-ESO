@@ -15,7 +15,7 @@
 2. **Winter's Revenge** (morph of Impaling Shards, *Winter's Embrace*) — ground DoT that spikes off Chilled procs; drop it on the pack.
 3. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ice ground DoT; with the ice staff it keeps everything Chilled. Cast it from the staff, no scribing.
 4. **Polar Wind** (morph of Arctic Wind, *Winter's Embrace*) — her heal. Scales off her **max Health**, so it heals huge — this is the panic button.
-5. **Blue Betty** (morph of Betty Netch, *Animal Companions*) — magicka back over time (her sustain), **Major Sorcery** (spell damage, no potion needed), and it purges a debuff off her every few seconds. Cast once, forget it (~20s).
+5. **Blue Betty** (morph of Betty Netch, *Animal Companions*) — magicka back over time (her sustain), **Major Brutality** (spell damage, no potion needed), and it purges a debuff off her every few seconds. Cast once, forget it (~20s).
 - **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking up to 450**, **and Major Protection (−10% damage taken)** through scary mechanics.
 
 *Wants a pet instead of the storm? **Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — summon the bear and it fights on its own, and being slotted adds crit damage via Advanced Species. Northern Storm is the tankier answer (Major Protection); the bear is the fun one. Either is fine.*
@@ -77,7 +77,7 @@ Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — i
 **Mundus:** The Thief (crit) → The Lady for brutal content
 **Attributes:** 64 Magicka (shift toward Health if she's getting one-shot — Polar Wind heals harder for it)
 **Food:** Witchmother's Potent Brew (Max Magicka + recovery) or Clockwork Citrus Filet
-**Potions:** Spell Power potions (Lady's Smock + Corn Flower + Namira's Rot); tri-stat for safety
+**Potions:** Increase Power potions (Lady's Smock + Corn Flower + Namira's Rot); tri-stat for safety
 **Race:** whatever she is — the spread is ~5% (High Elf leans damage, Breton/Nord lean tanky)
 
 ---

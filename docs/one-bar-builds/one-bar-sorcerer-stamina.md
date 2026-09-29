@@ -16,7 +16,7 @@
 | 1 | **Endless Hail**<br>*morph of Volley, Bow* | A rain of arrows on the ground — her AoE and her "tag the whole pack" button. Drop it and keep shooting. *(See the Major Breach note below — this is the slot that changes if she ever earns Razor Caltrops.)* |
 | 2 | **Poison Injection**<br>*morph of Poison Arrow, Bow* | Poison DoT dealing **up to +120% more to enemies under 50% health** — her execute. Things melt below half. |
 | 3 | **Hurricane**<br>*morph of Lightning Form, Storm Calling* | **Major Resolve** (her armour) plus a physical AoE that grows the longer it's up. Recast it to keep the armour. |
-| 4 | **Critical Surge**<br>*morph of Surge, Storm Calling* | **Major Brutality & Sorcery** (her damage buff — no potion needed) and **heals her ~3,300 every time she crits, once a second**. This is her whole survivability engine. |
+| 4 | **Critical Surge**<br>*morph of Surge, Storm Calling* | **Major Brutality** (her damage buff — no potion needed) and **heals her ~3,300 every time she crits, once a second**. This is her whole survivability engine. |
 | 5 | **Bound Armaments**<br>*morph of Bound Armor, Daedric Summoning* | **Major Savagery** just for being slotted — big crit chance, which feeds Critical Surge's heals. Her light attacks also build stacks she can fire off for bonus damage. |
 | **Ult** | **Greater Storm Atronach**<br>*morph of Summon Storm Atronach, Daedric Summoning* | A lightning giant that hits hard and stuns. **Her husband can activate its Charged Lightning synergy for Major Berserk**, so it's a duo button too. |
 
@@ -107,7 +107,7 @@ Same bones as her **Magicka Arcanist** sheet — **5 Order's Wrath + 5 Deadly St
 **Mundus:** The Thief (crit) → The Lady for brutal content
 **Attributes:** 64 Stamina; shift toward Health when struggling
 **Food:** a Stamina + recovery dish (Lava Foot Soup-and-Saltrice; Artaeum Takeaway Broth for tri-stat safety)
-**Potions:** Weapon Power potions (Dragonthorn + Blessed Thistle + Wormwood → Weapon Crit + Weapon Power + stamina back); Immovability potions for stun-heavy fights
+**Potions:** Increase Power potions (Dragonthorn + Blessed Thistle + Wormwood → Weapon Crit + Weapon Power + stamina back); Immovability potions for stun-heavy fights
 **Race:** whatever she is — the spread is ~5% (Redguard is the only real stamina-sustain race if it ever comes up, but not worth a paid change)
 
 ---

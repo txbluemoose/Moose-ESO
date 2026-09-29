@@ -32,10 +32,10 @@
 **What each does:**
 - **Wield Soul** — spammable that restores 600 Stam+Mag per cast AND provides Major Resolve. Sustain and armor from your spammable.
 - **Deep Fissure** — big hit + Major AND Minor Breach (your armor shred, no group needed)
-- **Bull Netch** — stamina over time, Major Brutality/Sorcery, and constant debuff purging
+- **Bull Netch** — stamina over time, Major Brutality, and constant debuff purging
 - **Arctic Blast** — 20s AoE DoT that procs Chilled; doubles as a self-heal with no enemies around
 - **Soul Burst** — AoE spammable DoT + Minor Resolve
-- **Lotus Blossom** — Major Savagery/Prophecy + passive healing on every light/heavy attack (feeds Glacial Obstinance)
+- **Lotus Blossom** — Major Savagery + passive healing on every light/heavy attack (feeds Glacial Obstinance)
 - **Winter's Revenge** — ground DoT with elevated status-proc chance; massive with Chilled procs
 - **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed every 7.5s, feeding Wild Adaptation stacks, plus Minor Vulnerability and Minor Maim via the procs
 - **Every Animal Companions skill slotted = +5% crit damage each** (Advanced Species passive) — that's why Wild Guardian just sits there

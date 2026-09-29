@@ -38,13 +38,13 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 **What each does:**
 - **Cephaliarch's Flail** — your spammable. Generates Crux, **heals you on any hit**, and applies a **+5% damage-taken debuff** to everything it touches. Heal source #2 (Pale Order is #1). It's a point-blank AoE, but at range you just Flail the target in front of you and beam — you don't need to hug it.
 - **Pragmatic Fatecarver** — THE beam, and your defining ranged tool. Spends Crux, full damage in AoE out to **~22m with no falloff**, dirt cheap, and **grants a big damage shield the entire time you channel**. The shield *is* your defense — when a fight gets scary, beam more.
-- **Inspired Scholarship** — grants **Major Sorcery while slotted on either bar** (your always-on Spell Damage — no potion needed for it), pulses extra damage every 3s, and feeds Crux. Slot it and it keeps working while you're on the back bar.
+- **Inspired Scholarship** — grants **Major Brutality while slotted on either bar** (your always-on Spell Damage — no potion needed for it), pulses extra damage every 3s, and feeds Crux. Slot it and it keeps working while you're on the back bar.
 - **Fulminating Rune** — a delayed rune-explosion DoT that also generates Crux, so your front bar keeps the beam fed between channels. Pure damage-and-Crux filler.
 - **Cruxweaver Armor** — **Major Resolve** (your armor), **Minor Breach on attackers**, and a Crux whenever you're hit. Erudite's Rigor turns it into a sustain + healing engine too.
 - **Elemental Susceptibility** — free to cast; applies **Major Breach** (your solo penetration — no group to hand it to you), Minor Magickasteal, and status effects.
 - **Elemental Blockade** — ground DoT under the boss. Both Deadly Strike (channeled/DoT) and the Thaumaturge CP star love it. A **Lightning** Blockade also procs Concussion (off-balance) for the Off-Balance passive; an **Ice** Blockade trades a little damage for Minor Brittle + block-cost cheese if you'd rather have the safety.
 - **Evolving Runemend** — burst heal **plus a heal-over-time** — your heal-on-cast layer, so a heal source keeps ticking even when you're not landing hits or taking damage. On a **resto** back bar it scales off your healing done and hits noticeably harder; that's the survivability-leaning reason to run resto over a second damage staff.
-- **Camouflaged Hunter** — passive **Major Savagery & Prophecy** (crit) just for being slotted, plus Minor Berserk on flank crits. Reliable crit uptime without potions.
+- **Camouflaged Hunter** — passive **Major Savagery** (crit) just for being slotted, plus Minor Berserk on flank crits. Reliable crit uptime without potions.
 - **Barbed Trap** — **Minor Force** (+10% crit damage) for its duration plus a bleed; set it under the boss on your back-bar sweep.
 
 **Which ultimate on the front bar.** The live Hyperioxes build splits it: **Flawless Dawnbreaker** front bar for **overland** (its passive Weapon/Spell Damage bonus is always-on value while you're clearing trash you'll never ult on), and **The Languid Eye** for **instanced content** — dungeons, arenas, trials. Languid Eye isn't just a better ult there; it's a **Herald of the Tome ability**, so slotting it adds another **+1,240 penetration** through **Splintered Secrets**. Ultimate is shared across bars, so the back bar always carries The Languid Eye and you're never more than a swap from firing it mid-beam.
@@ -103,7 +103,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 **Mundus:** The Thief (crit) default → **The Lady** (spell/physical resist) or **The Lord** (max health) for brutal content — the survivability dial.
 **Attributes:** 64 Magicka default → shift to **32 Mag / 32 Health**, then 64 Health for the nastiest fights (only a few % damage lost, a lot of effective HP gained).
 **Food:** Bewitched Sugar Skulls (tri-stat) default → **Clockwork Citrus Filet** (max magicka + recovery) if a fight ever out-drains you, though Fatecarver is cheap enough you rarely need it.
-**Potions:** Spell Power potions (Lady's Smock + Corn Flower + Namira's Rot) for uptime → **tri-stat / Heroism potions** as the survivability alt when a fight is a damage race in the wrong direction.
+**Potions:** Increase Power potions (Lady's Smock + Corn Flower + Namira's Rot) for uptime → **tri-stat / Heroism potions** as the survivability alt when a fight is a damage race in the wrong direction.
 **Race:** whatever the character already is — race is the smallest dial in the build (~5% spread) and costs real money to change. If it ever comes up: High Elf / Dark Elf / Khajiit lean damage, **Nord / Imperial / Breton** lean survivability.
 
 ---
@@ -134,7 +134,7 @@ The solo build clears normal and vet 4-mans as-is. For optimized group DPS:
 | **Mythic** | Drop **Pale Order** → complete a **3rd Deadly Strike or Ansuul's jewelry** in the Ring 2 slot | A group has healers. **This is the single biggest group DPS gain.** |
 | **Self-applied debuffs** | Drop the ones the group already covers — Elemental Susceptibility's Major Breach, and much of your penetration | A coordinated tank/support supplies them free, which opens that back-bar slot |
 | **Fatecarver** | Keep — it stays king in groups | Full-damage AoE at range with no falloff is elite in stack-and-beam trials, and as the ranged Magicka variant this is exactly the seat you want |
-| **Inspired Scholarship** | Keep | Personal Major Sorcery — unless your group guarantees it another way |
+| **Inspired Scholarship** | Keep | Personal Major Brutality — unless your group guarantees it another way |
 
 !!! warning "Don't guess the group rotation from this page"
     The group build reorganizes the whole back bar. Check the live **Hyperioxes U50 group Arcanist DPS build (~154k)** before a progression trial and mirror its bars.
@@ -150,7 +150,7 @@ Directional only — **PvP metas rotate every season**, so confirm current piece
 | Front Bar (Inferno Staff) | Back Bar (Lightning or Restoration Staff) |
 |---|---|
 | 1. Cephaliarch's Flail (morph of Abyssal Impact, *Herald of the Tome*) — spammable that **heals on hit** and builds Crux | 1. Pragmatic Fatecarver (morph of Fatecarver, *Herald of the Tome*) — the 22m beam, and it **shields you while channelling** |
-| 2. Fulminating Rune (morph of The Imperfect Ring, *Herald of the Tome*) — delayed burst you detonate on your timing | 2. Inspired Scholarship (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — Major Sorcery + Crux generation |
+| 2. Fulminating Rune (morph of The Imperfect Ring, *Herald of the Tome*) — delayed burst you detonate on your timing | 2. Inspired Scholarship (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — Major Brutality + Crux generation |
 | 3. Evolving Runemend (morph of Runemend, *Curative Runeforms*) — burst heal | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
 | 4. Cruxweaver Armor (morph of Fatewoven Armor, *Soldier of Apocrypha*) — Major Resolve + Minor Breach on whoever hits you | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — zone control |
 | 5. Runic Sunder (morph of Runic Jolt, *Soldier of Apocrypha*) — Minor Breach and a heal; the taunt is dead weight in PvP, the rest isn't | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — immobilize + Minor Force |
@@ -290,3 +290,6 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 **Alternatives worth knowing:** **Azandar (Tank)** brings Major *and* Minor Vulnerability (best-rated companion for Infinite Archive); **Zerith-Var (Tank)** applies Major Breach, which can free your Elemental Susceptibility slot in duo play.
 
 Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
+
+!!! warning "U51 narrowed Inspired Scholarship"
+    **Tome-bearer's Inspiration and its morphs now trigger only from Arcanist skill damage**, not from every class ability damage event. Its uptime depends on how much of your bar is actually Arcanist — worth checking on a dummy before a progression run.
