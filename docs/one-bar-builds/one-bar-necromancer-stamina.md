@@ -11,9 +11,9 @@
 
 1. **Poison Injection** (morph of Poison Arrow, *Bow*) — her ranged spammable: a strong Poison DoT that hits *much* harder as the enemy drops below 50% (a built-in execute). Deadly Strike (gear below) supercharges the DoT
 2. **Blighted Blastbones** (morph of Sacrificial Bones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse** to blow up. The stamina-cost morph, so it feeds off her main pool. Recast whenever it's back
-3. **Skeletal Archer** (morph of Skeletal Mage, *Grave Lord*) — a second pet. Ticks free damage and leaves a corpse when it dies. **Verified 2026-09-26:** it grants you **Major Brutality and Sorcery** (+20% Weapon and Spell Damage) for its 20s, hits for 464 Physical every 2s with **each attack 15% stronger than the last**, and **creates a corpse on death while you are in combat**. It does **not** grant Physical Penetration or Stamina Recovery — that earlier claim was wrong.
+3. **Skeletal Archer** (morph of Skeletal Mage, *Grave Lord*) — a second pet. Ticks free damage and leaves a corpse when it dies. **Verified 2026-09-26:** it grants you **Major Brutality** (+20% Weapon and Spell Damage) for its 20s, hits for 464 Physical every 2s with **each attack 15% stronger than the last**, and **creates a corpse on death while you are in combat**. It does **not** grant Physical Penetration or Stamina Recovery — that earlier claim was wrong.
 4. **Spirit Guardian** (morph of Spirit Mender, *Living Death*) — the ghost pet. Transfers **10% of all incoming damage** to itself and heals her on a timer. Her main "don't die" button — keep it up always
-5. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery/Prophecy); the corpse explodes when it ends
+5. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery); the corpse explodes when it ends
 - **Ult: Pestilent Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE smash that makes everything take +10% damage (Major Vulnerability); each smash hits harder than the last. Swap to **Glacial Colossus** (same base, *Grave Lord*) if she wants the stun as a panic button — only the Glacial morph stuns, on its final smash
 
 *Four Grave Lord abilities are on the bar on purpose — Blastbones, Skeletal Archer, Detonating Siphon **and the Pestilent Colossus ultimate, which is also a Grave Lord ability**. Corpseburster (endgame gear below) grows **+10% per slotted Grave Lord ability**, so that's **+40%**, not +30%. **Nothing here is scribed**, so there's no grimoire to hunt down a substitute for. Want more AoE for trash packs? Swap Poison Injection → **Endless Hail** (morph of Volley, *Bow*) — a ground DoT that Deadly Strike also loves; keep Poison Injection for bosses. Want an extra self-heal instead of a spammable? Swap Detonating Siphon → **Avid Boneyard** (morph of Boneyard, *Grave Lord*) — press its Grave Robber synergy for a burst that heals her.*
@@ -68,7 +68,7 @@ Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive)
 **Mundus:** The Thief (crit) — The Lady for brutal content
 **Attributes:** 64 Stamina; shift toward Health when struggling (Cycle Unending, if slotted, even pays her back for it)
 **Food:** Artaeum Takeaway Broth (max Stamina + Health + Stamina recovery — covers her sustain, since she runs no sustain skill)
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood)
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood)
 **Race:** whatever she already is — Khajiit/Orc for damage, Redguard or Argonian for sustain/survivability
 
 ---
@@ -198,3 +198,8 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 **Duo tip:** if her husband is running Isobel as tank, run Sharp-as-Night or a DPS companion instead — two tanks waste aggro.
 
 Full details for all eight companions: see `../shared/companions.md`.
+
+!!! info "U51 changed the Colossus ultimates"
+    All three Colossus morphs now cost **150 Ultimate instead of 175**, and hit harder — Glacial and Frozen by 12.5%, Pestilent by 12.5% / 18% / 23% across its three hits. **Pestilent now guarantees Diseased only on its final hit**, not every hit.
+
+    ZOS has said the damage increases are **temporary and revert in Update 52** in favour of larger PvE-only bonuses — the cheaper cost is the part to plan around.

@@ -38,9 +38,9 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 **What each does:**
 - **Cephaliarch's Flail** — your melee spammable. Generates Crux, **heals you on any hit**, and applies a **+5% damage-taken debuff** to everything it hits. This is heal source #2 (Pale Order is #1).
 - **Pragmatic Fatecarver** — THE beam. Spends Crux, full damage in AoE out to ~22m with no falloff, dirt cheap, and **grants a big damage shield the entire time you channel**. The shield *is* your defense — when a fight gets scary, beam more.
-- **Inspired Scholarship** — grants **Major Brutality & Sorcery while slotted on either bar** (your always-on Weapon Damage — no potion needed for it), pulses extra damage every 3s, and feeds Crux. Slot it and it works even while you're on the back bar.
+- **Inspired Scholarship** — grants **Major Brutality while slotted on either bar** (your always-on Weapon Damage — no potion needed for it), pulses extra damage every 3s, and feeds Crux. Slot it and it works even while you're on the back bar.
 - **Quick Cloak** — Dual Wield AoE DoT that also grants **Major Evasion (−20% AoE damage taken)** and a burst of speed. Melee damage *and* mitigation in one button — exactly the trade this build wants.
-- **Camouflaged Hunter** — passive **Major Savagery & Prophecy** (crit) while slotted, plus Minor Berserk on flank crits. Reliable crit uptime without leaning on potions. *(Its Minor Berserk doesn't overlap with anything else you run — Slimecraw only grants Minor Berserk at 2 pieces, and you only wear 1. You slot Hunter for the crit buff; the Berserk is a clean bonus on top.)*
+- **Camouflaged Hunter** — passive **Major Savagery** (crit) while slotted, plus Minor Berserk on flank crits. Reliable crit uptime without leaning on potions. *(Its Minor Berserk doesn't overlap with anything else you run — Slimecraw only grants Minor Berserk at 2 pieces, and you only wear 1. You slot Hunter for the crit buff; the Berserk is a clean bonus on top.)*
 - **Cruxweaver Armor** — **Major Resolve** (your armor), **Minor Breach on attackers**, and a Crux whenever you're hit. Erudite's Rigor turns it into a sustain + healing engine too.
 - **Elemental Susceptibility** — free to cast; applies **Major Breach** (your solo penetration — no group to hand it to you), Minor Magickasteal, and status effects.
 - **Elemental Blockade** — ground DoT under the boss; both Deadly Strike (channeled/DoT) and the Thaumaturge CP star love it.
@@ -108,7 +108,7 @@ Think of it as **two sweeps, not a checklist.** Your whole job is: keep Crux flo
 **Mundus:** The Thief (crit) default → **The Lady** (physical/spell resist) or **The Lord** (max health) for brutal content — the survivability dial.
 **Attributes:** 64 Stamina default → shift to **32 Stam / 32 Health**, then 64 Health for the nastiest fights (only a few % damage lost, a lot of effective HP gained).
 **Food:** Braised Rabbit (crit + tri-stat) default → **Orzorga's Smoked Bear Haunch** (max health + recovery) when you want the safety margin.
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) for uptime → **tri-stat / Heroism potions** as the survivability alt when a fight is a damage race in the wrong direction.
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood) for uptime → **tri-stat / Heroism potions** as the survivability alt when a fight is a damage race in the wrong direction.
 **Race:** whatever the character already is — race is the smallest dial in the build (~5% spread) and costs real money to change. If it ever comes up: Khajiit / Dark Elf lean damage, **Nord / Imperial** lean survivability, and **Redguard** is the only race with a real stamina-sustain passive (relevant only if sustain is still a problem after the Absorb Stamina glyph).
 
 ---
@@ -122,7 +122,7 @@ The solo build clears normal and vet 4-mans as-is. For optimized group DPS:
 | **Mythic** | Drop **Pale Order** → complete a **3rd Deadly Strike or Ansuul's jewelry** in the Ring 2 slot | A group has healers. **This is the single biggest group DPS gain.** |
 | **Self-applied debuffs** | Drop the ones the group already covers — Elemental Susceptibility's Major Breach, and much of your penetration | A coordinated tank/support supplies them free, which opens that back-bar slot |
 | **Fatecarver** | Keep — it stays king in groups | Full-damage AoE at range with no falloff is elite in stack-and-beam trials |
-| **Inspired Scholarship** | Keep | Personal Major Brutality/Sorcery — unless your group guarantees it another way |
+| **Inspired Scholarship** | Keep | Personal Major Brutality — unless your group guarantees it another way |
 
 !!! warning "Don't guess the group rotation from this page"
     The group build reorganizes the whole back bar. Check the live **Hyperioxes U50 Stamina Arcanist DPS build (~154k)** before a progression trial and mirror its bars.
@@ -138,7 +138,7 @@ Directional only — **PvP metas rotate every season**, so confirm current piece
 | Front Bar (Dual Wield) | Back Bar (Bow or Staff) |
 |---|---|
 | 1. Cephaliarch's Flail (morph of Abyssal Impact, *Herald of the Tome*) — spammable that **heals on hit** and builds Crux | 1. Pragmatic Fatecarver (morph of Fatecarver, *Herald of the Tome*) — the beam, and it **shields you while channelling** |
-| 2. Fulminating Rune (morph of The Imperfect Ring, *Herald of the Tome*) — delayed burst you detonate on your timing | 2. Inspired Scholarship (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — Major Brutality & Sorcery + Crux generation |
+| 2. Fulminating Rune (morph of The Imperfect Ring, *Herald of the Tome*) — delayed burst you detonate on your timing | 2. Inspired Scholarship (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — Major Brutality + Crux generation |
 | 3. Evolving Runemend (morph of Runemend, *Curative Runeforms*) — burst heal | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
 | 4. Cruxweaver Armor (morph of Fatewoven Armor, *Soldier of Apocrypha*) — Major Resolve + Minor Breach on whoever hits you | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |
 | 5. Quick Cloak (morph of Blade Cloak, *Dual Wield*) — Major Evasion | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — immobilize + Minor Force |
@@ -295,3 +295,6 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 **Alternatives worth knowing:** **Azandar (Tank)** brings Major *and* Minor Vulnerability (best-rated companion for Infinite Archive); **Zerith-Var (Tank)** applies Major Breach, which can free your Elemental Susceptibility slot in duo play.
 
 Full details for all eight companions, including farming perks and gear traits: see `../shared/companions.md`.
+
+!!! warning "U51 narrowed Inspired Scholarship"
+    **Tome-bearer's Inspiration and its morphs now trigger only from Arcanist skill damage**, not from every class ability damage event. Its uptime depends on how much of your bar is actually Arcanist — worth checking on a dummy before a progression run.

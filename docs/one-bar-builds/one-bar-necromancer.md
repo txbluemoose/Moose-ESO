@@ -11,7 +11,7 @@
 
 1. **Ricochet Skull** (morph of Flame Skull, *Grave Lord*) — cheap spammable and filler; every third cast makes a corpse to blow up
 2. **Blighted Blastbones** (morph of Sacrificial Bones, *Grave Lord*) — the skeleton. Charges in, explodes, cuts enemy healing (Major Defile), and **leaves a corpse**
-3. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery/Prophecy) and **+3% damage while it's on the bar**
+3. **Detonating Siphon** (morph of Shocking Siphon, *Grave Lord*) — eats a corpse for her biggest hit + gives her crit (Major Savagery) and **+3% damage while it's on the bar**
 4. **Avid Boneyard** (morph of Boneyard, *Grave Lord*) — AoE on the ground that eats a corpse; press the **Grave Robber synergy** it spawns for a burst of damage that **heals her**
 5. **Spirit Guardian** (morph of Spirit Mender, *Living Death*) — the ghost pet. Transfers **10% of all incoming damage** to itself and heals her on a timer. Her main "don't die" button — keep it up always
 - **Ult: Glacial Colossus** (morph of Frozen Colossus, *Grave Lord*) — giant AoE stun that makes everything take +10% damage (Major Vulnerability)
@@ -69,7 +69,7 @@ Swap the 5 **Order's Wrath** body pieces to **Corpseburster** (Infinite Archive)
 **Mundus:** The Thief (crit) — The Lady for brutal content
 **Attributes:** 64 Magicka; shift toward Health when struggling (Cycle Unending, if slotted, even pays her back for it)
 **Food:** Clockwork Citrus Filet (max Magicka + Health + Magicka recovery — covers her sustain)
-**Potions:** Spell Power potions (Lady's Smock + Corn Flower + Namira's Rot)
+**Potions:** Increase Power potions (Lady's Smock + Corn Flower + Namira's Rot)
 **Race:** whatever she already is — High Elf/Dark Elf for damage, Argonian or Breton for survivability/sustain
 
 ---
@@ -198,3 +198,8 @@ One-bar builds have fewer defensive tools, so a **tank or healer companion** cov
 **Duo tip:** if her husband is running Isobel as tank, run Sharp-as-Night or a DPS companion instead — two tanks waste aggro.
 
 Full details for all eight companions: see `../shared/companions.md`.
+
+!!! info "U51 changed the Colossus ultimates"
+    All three Colossus morphs now cost **150 Ultimate instead of 175**, and hit harder — Glacial and Frozen by 12.5%, Pestilent by 12.5% / 18% / 23% across its three hits. **Pestilent now guarantees Diseased only on its final hit**, not every hit.
+
+    ZOS has said the damage increases are **temporary and revert in Update 52** in favour of larger PvE-only bonuses — the cheaper cost is the part to plan around.

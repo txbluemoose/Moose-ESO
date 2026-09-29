@@ -11,14 +11,14 @@
 
 1. **Puncturing Sweep** (morph of Puncturing Strikes, *Aedric Spear*) — THE button. AoE spear cone, **heals her for 25% of the damage done**, boosted by the Judgment's Brand mastery. Her spammable, her main heal, her whole game.
 2. **Radiant Glory** (morph of Radiant Destruction, *Dawn's Wrath*) — her finisher: bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%; **also heals her** for ~15% of the damage. Cheap, deletes low targets.
-3. **Solar Barrage** (morph of Solar Flare, *Dawn's Wrath*) — a 22-second AoE DoT that **follows her** wherever she stands, raises her **damage done with class abilities by 5%** (Puncturing Sweep, Radiant Glory, the ultimate — nearly her whole bar), and counts as **Sacred Ground**, so it feeds the Bastion of Light heartbeat heal alongside her Ritual circle. One button, three wins. It also procs **Illuminate → Minor Sorcery** just for sitting on a Dawn's Wrath bar.
+3. **Solar Barrage** (morph of Solar Flare, *Dawn's Wrath*) — a 22-second AoE DoT that **follows her** wherever she stands, raises her **damage done with class abilities by 5%** (Puncturing Sweep, Radiant Glory, the ultimate — nearly her whole bar), and counts as **Sacred Ground**, so it feeds the Bastion of Light heartbeat heal alongside her Ritual circle. One button, three wins. It also procs **Illuminate → Minor Brutality** just for sitting on a Dawn's Wrath bar.
 4. **Channeled Focus** (morph of Rune Focus, *Restoring Light*) — drops a rune for **Major Resolve** (armor) + Magicka recovery. Her sustain and her mitigation in one button. *(Rune Focus's other morph is Restoring Focus, which returns Stamina instead — Channeled is the right one on a magicka bar.)*
 5. **Ritual of Retribution** (morph of Cleansing Ritual, *Restoring Light*) — ground DoT that **cleanses 2 debuffs on cast** and — with Bastion of Light below — heals her every second she stands in it. Stand in it.
 - **Ult: Everlasting Sweep** (morph of Radial Sweep, *Aedric Spear*) — spinning AoE that **heals her** and stretches longer per enemy hit; it also keeps Bastion of Light's Sacred Ground alive. Damage and heal in one ultimate.
 
 *Nothing here is scribed — Templar needs no scribing, which suits her perfectly. Staff choice is taste: Lightning for the AoE heavy-attack splash, Inferno for a touch more single-target; Puncturing Sweep is a melee cone either way, so she plays it at short range — a melee-range exception that's safe by design, since the cone heals her as it hits.*
 
-> **What she gives up by taking Puncturing Sweep:** the other morph, **Biting Jabs**, grants **Major Brutality and Major Sorcery** (+20% Weapon and Spell Damage for 10 seconds). Puncturing Sweep does **not** — it trades that buff for the 25% lifesteal. That's the right trade for her, but it means nothing on this bar supplies Major Sorcery, so her Spell Power potions are carrying it. If she'd rather have the buff on the bar than off it, the fix is **Degeneration** (morph of Entropy, *Mages Guild*) — a 22-second DoT that grants Major Brutality and Major Sorcery, and **it isn't scribed**, so it's legal on her sheet. It would have to come in for Solar Barrage or Radiant Glory; five slots is five slots, and this cheat sheet's answer is to keep the heal and the class-damage buff and let the potion cover Major Sorcery.
+> **What she gives up by taking Puncturing Sweep:** the other morph, **Biting Jabs**, grants **Major Brutality** (+20% Weapon and Spell Damage for 10 seconds). Puncturing Sweep does **not** — it trades that buff for the 25% lifesteal. That's the right trade for her, but it means nothing on this bar supplies Major Brutality, so her Increase Power potions are carrying it. If she'd rather have the buff on the bar than off it, the fix is **Degeneration** (morph of Entropy, *Mages Guild*) — a 22-second DoT that grants Major Brutality, and **it isn't scribed**, so it's legal on her sheet. It would have to come in for Solar Barrage or Radiant Glory; five slots is five slots, and this cheat sheet's answer is to keep the heal and the class-damage buff and let the potion cover Major Brutality.
 
 *Swap worth knowing: **Power of the Light** (morph of Backlash, *Dawn's Wrath*) — a big delayed-blast hit that applies **Sundered**. ⚠️ Note: Sundered is a status effect that applies **Minor Breach to the enemy** (it lowers their armor) — it does **not** hand her Weapon or Spell Damage; an older version of this sheet said it did. It's a fine single-target damage slot in place of Solar Barrage, but Barrage's class-damage buff and Sacred Ground tick are worth more on a bar this short.*
 
@@ -69,7 +69,7 @@ The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Rin
 **Mundus:** The Thief (The Lady for brutal content)
 **Attributes:** 64 Magicka (shift some to Health if she's getting one-shot)
 **Food:** Artaeum Pickled Fish Bowl (max Magicka + recovery), or Solitude Salmon-Millet Soup on a budget
-**Potions:** Spell Power potions (Cornflower + Lady's Smock + Water Hyacinth)
+**Potions:** Increase Power potions (Cornflower + Lady's Smock + Water Hyacinth)
 **Race:** the smallest dial in the build — leave it as whatever she already is
 
 ---
@@ -79,7 +79,7 @@ The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Rin
 Rule of thumb at her CP: **buy every passive in every line she has a skill slotted from.** Priority if points are short:
 
 - **Aedric Spear** (Puncturing Sweep, Everlasting Sweep) — all 4; Piercing Spear (crit damage) and Spear Wall (mitigation on Sweep) — HIGH
-- **Dawn's Wrath** (Radiant Glory, Solar Barrage) — all 4; **Illuminate** (Minor Sorcery from a slotted Dawn's Wrath ability), **Enduring Rays** (longer DoTs — Solar Barrage), and Restoring Spirit (cheaper abilities = sustain) — HIGH
+- **Dawn's Wrath** (Radiant Glory, Solar Barrage) — all 4; **Illuminate** (a **2,974 Armor** group buff from a slotted Dawn's Wrath ability — U51 replaced its old Minor Brutality), **Enduring Rays** (longer DoTs — Solar Barrage), and Restoring Spirit (cheaper abilities = sustain) — HIGH
 - **Restoring Light** (Channeled Focus, Ritual of Retribution) — all 4; Master Ritualist, Sacred Ground, and Light Weaver feed her heal engine — HIGH
 - **Destruction Staff:** Tri Focus (heavy-attack splash on Lightning), Penetrating Magic, Ancient Knowledge, Elemental Force — HIGH
 - **Light Armor:** Prodigy, Concentration (crit + penetration) — HIGH; Medium/Heavy stat passives for her single pieces

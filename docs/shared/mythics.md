@@ -59,7 +59,7 @@ It is also the reason the "should I run a damage mythic instead" question always
 
 ### Oakensoul Ring — hers, and one build of yours
 
-**While equipped you cannot weapon swap.** In exchange you permanently hold a wall of buffs: Major Brutality, Major Sorcery, Major Savagery, Major Prophecy, Major Resolve, Minor Berserk, Minor Courage, Minor Force, Minor Protection, Minor Mending, Minor Fortitude, Minor Intellect, Minor Endurance, Minor Heroism, Minor Slayer, Minor Aegis, and **Empower**.
+**While equipped you cannot weapon swap.** In exchange you permanently hold a wall of buffs: Major Brutality, Major Brutality, Major Savagery, Major Savagery, Major Resolve, Minor Berserk, Minor Courage, Minor Force, Minor Protection, Minor Mending, Minor Fortitude, Minor Intellect, Minor Endurance, Minor Heroism, Minor Slayer, Minor Aegis, and **Empower**.
 
 **Why it's right for her:** the drawback is a bar lock, and she plays one bar by choice. She is paying *nothing* for it. On her pet/heavy-attack Sorcerer it's better than that — **Empower** is a large boost to heavy attack damage, which is the whole engine of that build, and it's a buff she'd otherwise have no way to keep up. That's the sanctioned reason her Sorc breaks the Pale-Order-everywhere rule.
 

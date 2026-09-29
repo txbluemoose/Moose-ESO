@@ -12,7 +12,30 @@ You need this to judge a source. **Anything written before the relevant date is 
 | **U50** | **8 June 2026** | **Class Mastery** system (why both players are pure class), the **Werewolf overhaul** (form timer replaced with an Ultimate upkeep), Challenge Difficulty, PvP Veterancy. **This is the baseline for every guide here.** |
 | **U51** | PTS now — **21 September** | Nowhere Vault opens. **Elemental Susceptibility gains a 3240 Magicka cost** (it's free on live), which hits several bars here — especially the stamina builds. |
 
-!!! danger "Update 51 lands 28 September 2026 (PC) — this whole repo is written for U50"
+!!! success "Update 51 is live (28 September 2026, PC) — first pass done 2026-09-29"
+    **Done repo-wide, verified against the U51 notes:**
+
+    | Change | What we did |
+    |---|---|
+    | **Major/Minor Sorcery removed** — Brutality now grants **both** Weapon and Spell Damage | 86 replacements across 29 files; no mention of Sorcery or Prophecy remains |
+    | **Major/Minor Prophecy removed** — Savagery now grants **both** Weapon and Spell Critical Chance | as above |
+    | **Illuminate** no longer grants Minor Sorcery | now a **2,974 Armor** group buff — fixed on both Templar one-bars |
+    | **Alchemy consolidation** — Weapon/Spell Power → **Increase Power**, Weapon/Spell Critical → **Critical** | 33 renames across 25 files |
+    | **Core of Flame** restores **12%** of missing Magicka/Stamina, not 15% | corrected on the Stamina DK |
+    | **Engulfing Dragonfire** costs 3,510 (was 3,780) and **cuts damage taken 15% while channelling** | added to her DK sheet — a straight buff to her main button |
+    | **Colossus** ultimates cost **150** instead of 175 | noted on all four Necromancer sheets, with the U52 revert warning |
+    | **Tome-bearer's Inspiration** triggers only from **Arcanist** skill damage | flagged on both Arcanist guides |
+
+    **Still to do — these need a per-guide pass, not a sweep:**
+
+    - **Nightblade** is the most affected class. **Relentless Focus now breaks Stealth/Invisibility.** **Shadowy Disguise's guaranteed crit no longer applies to proc attacks** — which is most of why the guides slot it as a parse gain. Born From Shadow went 10s → 15s. Strife/Swallow Soul were reworked to scale with current Health.
+    - **DK PvP bars:** **Shatterspike Mantle now grants damage done *to monsters*** instead of all damage, so it does far less in PvP. **Molten Whip's Seething Fury bonus is halved in PvP.**
+    - **Proc rules changed:** proc attacks no longer gain Sneak's bonus damage or guaranteed crits, and **Molten Weapons (Igneous Weapons) and Tome-bearer's Inspiration damage now count as proc events**.
+    - **Mundus worth re-evaluating:** **The Warrior now grants both Weapon and Spell Damage**, so it is live for magicka builds for the first time. The Apprentice became an XP/Inspiration stone and is no longer a damage option (we never recommended it).
+    - **Sorcerer:** Crystal Weapon has 3 charges; **Conservation of Energy restores 1.5% instead of 2%** (her Stam Sorc mastery pick); Blood Magic heals 3%/6% instead of 5%/10%.
+    - **Warden:** Fetcher Infection's second cast +75%; Arctic Blast +20% per tick. **Templar:** Balanced Warrior reworked.
+
+!!! danger "Superseded — kept for the record: the pre-release warning"
     Confirmed 2026-09-19. Console follows roughly two weeks later. U51 **finishes the hybridization project**: it consolidates **Mundus Stones**, the **Major/Minor buff system**, **class passives** and **Alchemy**. That is not a normal balance patch — it touches the layer nearly every guide here is built on.
 
     **Re-verify after it lands, in this order:**

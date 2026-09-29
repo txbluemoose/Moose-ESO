@@ -11,7 +11,7 @@
 *(Pure class — no subclass. Fulminating Rune is replaced since that came from the Arcanist line she dropped when she went pure class.)*
 
 ### Main Bar (Lightning Staff)
-1. **Engulfing Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — THE button. Channeled fire breath, ramps up damage every tick
+1. **Engulfing Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — THE button. Channeled fire breath, ramps up damage every tick. **U51 made it better on both counts:** it costs 3,510 Magicka instead of 3,780, and it now **reduces damage taken by 15% while she's channelling** — so the button she holds down most is also a defensive one
 2. **Incinerate** (morph of Inferno, *Ardent Flame*) — fiery pulse every 5s + free crit buffs just for being slotted
 3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve (armor) + a DoT + bonus damage on every tick; replaces Fulminating Rune
 4. **Blood of the Green Dragon** (morph of Dragon Blood, *Draconic Power*) — burst heal off her max health + Major Fortitude; her panic button
@@ -66,7 +66,7 @@
 **Mundus:** The Thief
 **Attributes:** 64 Magicka (shift some to Health if she's getting one-shot)
 **Food:** Artaeum Pickled Fish Bowl, or Solitude Salmon-Millet Soup on a budget
-**Potions:** Spell Power potions (Cornflower + Lady's Smock + Water Hyacinth)
+**Potions:** Increase Power potions (Cornflower + Lady's Smock + Water Hyacinth)
 
 ---
 

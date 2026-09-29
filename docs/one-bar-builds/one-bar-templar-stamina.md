@@ -5,14 +5,14 @@
 **Verified against:** **no published one-bar Stamina Templar build exists** — this sheet is *our* one-bar adaptation of the U50 Hyperioxes **two-bar** Stamina Templar solo build (Jabs spammable + Judgment's Brand). That build's vet HM Cradle of Shadows clear was done on two bars with skills this sheet doesn't have room for, so it is **not** a claim about this bar; don't read it as one. What *is* verified here are the skills, morphs and skill lines (ESO-Hub / UESP U50 tooltips) and the Class Mastery picks (ESO-Hub / Alcast U50) — the five-slot bar itself is our call. It's the **Stamina sibling** of her [One-Bar Magicka Templar cheat sheet](one-bar-templar.md) — same class, same masteries, weapon and stat pool swapped.
 **Playstyle:** point the spear-cone at things and hold the button. **This one is melee** — Biting Jabs is an up-close cone, so it's an exception to her usual ranged/staff preference. But it's a *safe* melee: she plants her Ritual of Retribution circle under her feet and jabs from inside it, healed by the tile + Honor the Dead + the Class Mastery heartbeat + Pale Order all at once. She almost never has to leave the healing zone, which is why it's still a forgiving one-bar despite being melee.
 
-> **Note on the spammable's heal:** Biting Jabs grants **Major Brutality and Major Sorcery** — +20% Weapon and Spell Damage for 10 seconds, verified against ESO-Hub / Fextralife, so treat it as settled — plus Minor Berserk *(the Minor Berserk half is the one worth confirming in-game)*. What it does **not** do is lifesteal. The healing on this bar is *layered* (Ritual tile, Honor the Dead, Bastion of Light, Radiant Glory execute, Pale Order). If she wants the spammable *itself* to heal, the one-button swap is **Puncturing Sweep** (same base skill) — it heals 25% of the damage it does, trading the weapon/spell-damage buff for raw lifesteal. For her survivability-first profile that swap is completely legitimate; the Jabs version below just parses a little higher.
+> **Note on the spammable's heal:** Biting Jabs grants **Major Brutality** — +20% Weapon and Spell Damage for 10 seconds, verified against ESO-Hub / Fextralife, so treat it as settled — plus Minor Berserk *(the Minor Berserk half is the one worth confirming in-game)*. What it does **not** do is lifesteal. The healing on this bar is *layered* (Ritual tile, Honor the Dead, Bastion of Light, Radiant Glory execute, Pale Order). If she wants the spammable *itself* to heal, the one-button swap is **Puncturing Sweep** (same base skill) — it heals 25% of the damage it does, trading the weapon/spell-damage buff for raw lifesteal. For her survivability-first profile that swap is completely legitimate; the Jabs version below just parses a little higher.
 
 ---
 
 ## Skills — One Bar (Dual Wield)
 
-1. **Biting Jabs** (morph of Puncturing Strikes, *Aedric Spear*) — THE button. Melee spear cone, hits up to 6, grants her **Major Brutality + Major Sorcery** (+20% Weapon and Spell Damage, 10s) and Minor Berserk, and feeds the Judgment's Brand mastery. Her spammable and her damage buff in one. *(Swap to **Puncturing Sweep** if she wants heal-on-hit instead — see the note above.)*
-2. **Radiant Glory** (morph of Radiant Destruction, *Dawn's Wrath*) — her execute, and a heal in the same button: the damage scales up as the target drops below 50% health and hits hardest under ~30%, and it **heals her for 15% of the damage done**. Both live solo Templar builds treat this as core rather than optional, and on a survivability-first bar an execute that heals is exactly the right kind of button. It also procs **Illuminate → Minor Sorcery** just for sitting on her bar.
+1. **Biting Jabs** (morph of Puncturing Strikes, *Aedric Spear*) — THE button. Melee spear cone, hits up to 6, grants her **Major Brutality + Major Brutality** (+20% Weapon and Spell Damage, 10s) and Minor Berserk, and feeds the Judgment's Brand mastery. Her spammable and her damage buff in one. *(Swap to **Puncturing Sweep** if she wants heal-on-hit instead — see the note above.)*
+2. **Radiant Glory** (morph of Radiant Destruction, *Dawn's Wrath*) — her execute, and a heal in the same button: the damage scales up as the target drops below 50% health and hits hardest under ~30%, and it **heals her for 15% of the damage done**. Both live solo Templar builds treat this as core rather than optional, and on a survivability-first bar an execute that heals is exactly the right kind of button. It also procs **Illuminate → Minor Brutality** just for sitting on her bar.
 3. **Honor the Dead** (morph of Rushed Ceremony, *Restoring Light*) — full-panel **burst heal** that refunds part of its cost when she casts it below half health. Her panic button. *(Rushed Ceremony's other morph, **Breath of Life**, is the same skill if she prefers a faster group-friendly heal — either works.)*
 4. **Ritual of Retribution** (morph of Cleansing Ritual, *Restoring Light*) — ground DoT that **cleanses 2 debuffs on cast** and — with Bastion of Light below — heals her every second she stands in it. This is the circle she lives in.
 5. **Solar Barrage** (morph of Solar Flare, *Dawn's Wrath*) — an AoE DoT that **follows her** and grants **+5% damage done with class abilities** (buffs Jabs, Radiant Glory, the ult). Also counts as Sacred Ground for the mastery heal.
@@ -31,7 +31,7 @@
 ## How to play it
 1. **Ritual of Retribution** down first — that glowing circle is where she stands the whole fight
 2. **Solar Barrage** up (the DoT follows her, so she only recasts it when it fades)
-3. **Biting Jabs** over and over from inside the circle — it keeps Major Brutality/Sorcery up on its own
+3. **Biting Jabs** over and over from inside the circle — it keeps Major Brutality up on its own
 4. **Radiant Glory** as the target drops below half health — it hits hardest under ~30% and heals her while it finishes them
 5. Re-drop the Ritual circle and Solar Barrage whenever they fade
 6. Taking damage? **Honor the Dead** to top off — but she's already healing from the Ritual tile + Bastion + Pale Order, so it's rarely needed
@@ -69,7 +69,7 @@ The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Rin
 **Mundus:** The Thief (The Lady for brutal content)
 **Attributes:** 64 Stamina (shift some to Health if she's getting one-shot)
 **Food:** Braised Rabbit with Spring Vegetables (max Stamina + recovery), or Bewitched Sugar Skulls for the tri-stat buffer on hard content
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Weapon Damage + crit + stamina return
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Weapon Damage + crit + stamina return
 **Race:** the smallest dial in the build — leave it as whatever she already is
 
 ---
@@ -79,7 +79,7 @@ The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Rin
 Rule of thumb at her CP: **buy every passive in every line she has a skill slotted from.** Priority if points are short:
 
 - **Aedric Spear** (Biting Jabs) — all 4; Piercing Spear (crit damage) and Spear Wall (mitigation on Jabs) — HIGH
-- **Dawn's Wrath** (Radiant Glory, Solar Barrage) — all 4; **Illuminate** (Minor Sorcery from a slotted Dawn's Wrath ability), **Enduring Rays** (longer Solar Barrage), and Restoring Spirit (cheaper abilities = sustain) — HIGH
+- **Dawn's Wrath** (Radiant Glory, Solar Barrage) — all 4; **Illuminate** (a **2,974 Armor** group buff from a slotted Dawn's Wrath ability — U51 replaced its old Minor Brutality), **Enduring Rays** (longer Solar Barrage), and Restoring Spirit (cheaper abilities = sustain) — HIGH
 - **Restoring Light** (Honor the Dead, Ritual of Retribution) — all 4; Master Ritualist, Sacred Ground, and Light Weaver feed her heal engine — HIGH
 - **Dual Wield:** Twin Blade and Blunt + the flat damage passives — HIGH
 - **Medium Armor:** Dexterity, Agility — HIGH; Light/Heavy stat passives for her single pieces
@@ -185,7 +185,7 @@ Rule of thumb at her CP: **buy every passive in every line she has a skill slott
 - Content with frequent stuns is her one weakness (any one-bar's is) — **Mystic Tenacity** (red CP) and, for the rare solo-impossible stun, the **Precognition** ult (*Psijic Order*) if she ever levels it.
 - Pairs cleanly with her husband's Templar or DK: he draws the hits, she plants her Ritual circle and jabs the room.
 
-*Source: **our** one-bar adaptation of the U50 Hyperioxes **two-bar** Stamina Templar solo build (Jabs + Judgment's Brand). There is no published one-bar Stamina Templar, and that build's vet HM Cradle of Shadows clear is a two-bar result — it is not a claim about this five-slot bar. Skill morphs and lines verified vs ESO-Hub / UESP U50 tooltips — Solar Barrage confirmed as a morph of Solar Flare (Dawn's Wrath), Solar Prison as a morph of Nova, Biting Jabs and Puncturing Sweep as the two morphs of Puncturing Strikes, and Restoring Focus / Channeled Focus as the two morphs of **Rune Focus** (Restoring is the stamina one). Biting Jabs' Major Brutality + Major Sorcery verified vs ESO-Hub / Fextralife. Class Mastery vs ESO-Hub / Alcast U50. In-game tooltips override any guide. Revision date: 2026-08-18.*
+*Source: **our** one-bar adaptation of the U50 Hyperioxes **two-bar** Stamina Templar solo build (Jabs + Judgment's Brand). There is no published one-bar Stamina Templar, and that build's vet HM Cradle of Shadows clear is a two-bar result — it is not a claim about this five-slot bar. Skill morphs and lines verified vs ESO-Hub / UESP U50 tooltips — Solar Barrage confirmed as a morph of Solar Flare (Dawn's Wrath), Solar Prison as a morph of Nova, Biting Jabs and Puncturing Sweep as the two morphs of Puncturing Strikes, and Restoring Focus / Channeled Focus as the two morphs of **Rune Focus** (Restoring is the stamina one). Biting Jabs' Major Brutality + Major Brutality verified vs ESO-Hub / Fextralife. Class Mastery vs ESO-Hub / Alcast U50. In-game tooltips override any guide. Revision date: 2026-08-18.*
 
 ---
 

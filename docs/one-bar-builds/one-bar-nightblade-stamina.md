@@ -9,7 +9,7 @@
 
 ## Skills — One Bar (Bow)
 
-1. **Relentless Focus** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage. Grants **Major Savagery and Major Prophecy** (+2629 Weapon and Spell Critical) while slotted, so it's always pulling weight. *(This is the **stamina** morph — Merciless Resolve is the magicka sibling on her Magicka bar; she's stamina, so Relentless.)*
+1. **Relentless Focus** (morph of Grim Focus, *Assassination*) — light attacks build 5 stacks, then fire a spectral bow for big damage. Grants **Major Savagery** (+2629 Weapon and Critical) while slotted, so it's always pulling weight. *(This is the **stamina** morph — Merciless Resolve is the magicka sibling on her Magicka bar; she's stamina, so Relentless.)*
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — ranged poison DoT that deals **up to 120% more damage under 50% health** — her single-target damage and her execute pressure, all from max range.
 3. **Endless Hail** (morph of Volley, *Bow*) — a rain of arrows on the ground; her AoE and her "tag the whole pack" button. Drop it and keep shooting.
 4. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) — Disease-damage execute that deals up to **400% more damage under 50% target health** and **heals her for 2399 if the enemy dies within 2 seconds**. Free heal on every trash mob, and it opens far earlier than 25% — that number belongs to the base skill, Assassin's Blade. *Short-range — she has to be close-ish to fire it. Wants to stay fully ranged? Swap to **Impale** (the other morph, 35m) — but Impale doesn't heal, so keep Killer's Blade unless a fight forces her out.*
@@ -63,7 +63,7 @@
 ### Endgame version
 The crafted setup clears everything. If she ever wants the last few %, swap the **Order's Wrath body → a trial DoT set** (e.g. Sul-Xan's Torment, Rockgrove) and keep Deadly Strike on bow/jewelry/boots, **Slimecraw** head, and **Ring of the Pale Order**. Bar and playstyle don't change.
 
-**Mundus:** The Thief (crit). **Attributes:** 64 Stamina, shift toward Health if she's struggling. **Food:** Bewitched Sugar Skulls (tri-stat, max survivability). **Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Siphoning Attacks covers most of her sustain. **Race:** whatever she already is — race is the smallest dial in any build and costs money to change (Redguard is the only real stamina-sustain race if it ever comes up).
+**Mundus:** The Thief (crit). **Attributes:** 64 Stamina, shift toward Health if she's struggling. **Food:** Bewitched Sugar Skulls (tri-stat, max survivability). **Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood) — Siphoning Attacks covers most of her sustain. **Race:** whatever she already is — race is the smallest dial in any build and costs money to change (Redguard is the only real stamina-sustain race if it ever comes up).
 
 ---
 

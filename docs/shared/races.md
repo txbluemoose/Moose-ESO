@@ -109,7 +109,7 @@ Combat-relevant passives only, in plain terms. **Exact values change rarely but 
 | **Breton** | Max Magicka; increased Spell Resistance; Magicka Recovery; reduced Magicka ability cost | **Magicka sustain + spell resist.** The caster's Redguard. |
 | **Imperial** | Max Health & Stamina; **restore Health/Stamina** on ability use; **−6% cost on all abilities**; Healing Done | **Hybrid sustain + survivability.** Cost reduction on both pools. |
 | **Argonian** | Max Health & Magicka; **potions restore Health/Magicka/Stamina and hit harder**; Healing Done & Received; Disease/Poison resist | **Potion sustain + healing.** Survivability-first; leans on potions. |
-| **Wood Elf** (Bosmer) | Max Stamina; Stamina Recovery; Weapon Critical; reduced roll-dodge cost; Poison/Disease resist | **Stamina DPS with sustain + dodge.** Nimble, forgiving stamina race. |
+| **Wood Elf** (Bosmer) | Max Stamina; Stamina Recovery; Critical; reduced roll-dodge cost; Poison/Disease resist | **Stamina DPS with sustain + dodge.** Nimble, forgiving stamina race. |
 
 ---
 

@@ -46,16 +46,16 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 **Why every one of these keeps you alive:**
 - **Concealed Weapon** — your melee spammable, dealing Magic Damage. Strike an enemy **from their flank** and you set them **Off Balance**; when you leave Sneak or invisibility **in combat you gain +10% damage with this ability for 15 seconds**; and while it's slotted you gain **Minor Expedition**. It does **not** stun. Cheap, hits hard, and the out-of-cloak window is what pairs it with your burst.
 - **Swallow Soul** — the ranged heal-spammable: it **heals you for 35% of the damage inflicted, every 2 seconds for 10 seconds** (you only — it doesn't heal allies), and you keep it rolling by recasting. This is your survival engine when you'd rather kite than knife-fight — and the reason the staff bar is a full ranged loadout, not a swap-and-back.
-- **Merciless Resolve** — light-attack weaving builds 5 stacks, then fires the Assassin's Scourge spectral bow for big burst. While slotted it grants **Major Savagery and Major Prophecy** (+2629 Weapon and Spell Critical), and that buff works **while slotted on either bar** — one front-bar slot covers both, so there's no reason to duplicate it on the back bar. This skill *rewards* the exact weaving discipline your DK was struggling with.
+- **Merciless Resolve** — light-attack weaving builds 5 stacks, then fires the Assassin's Scourge spectral bow for big burst. While slotted it grants **Major Savagery** (+2629 Weapon and Critical), and that buff works **while slotted on either bar** — one front-bar slot covers both, so there's no reason to duplicate it on the back bar. This skill *rewards* the exact weaving discipline your DK was struggling with.
 - **Killer's Blade** — Disease-damage execute that deals up to **400% more damage to enemies under 50% health** and **heals you for 2399 if the enemy dies within 2 seconds**. Free layered heal on every trash mob, and it opens far earlier than you'd think. (The 25% figure belongs to the *base* skill, Assassin's Blade.)
-- **Sap Essence** — AoE hit that **heals you and nearby allies per enemy struck** and grants **Major Brutality and Major Sorcery** (weapon *and* spell damage — your damage buff, no potion needed). Crowd control button and a second heal layer in one.
+- **Sap Essence** — AoE hit that **heals you and nearby allies per enemy struck** and grants **Major Brutality** (weapon *and* spell damage — your damage buff, no potion needed). Crowd control button and a second heal layer in one.
 - **Shadowy Disguise** — **3 seconds of invisibility**, and your next direct-damage attack within those 3s is a **guaranteed critical**; while slotted you also gain **Minor Protection** (−5% damage taken), and **Major Resolve** via the Shadow Barrier passive. Your burst-and-brace button; leaving it in combat also arms Concealed Weapon's +10% damage window.
 - **Siphoning Attacks** — while slotted on either bar, **heals you 1250 Health and restores 200 Magicka and 200 Stamina, once per second**. It's a while-slotted passive — nothing to cast, nothing to refresh — and it's the sustain skill this build was previously missing entirely.
 - **Refreshing Path** — a heal-over-time you stand in, plus **Major Expedition** to reposition. Pure layered survivability on the ranged bar.
 - **Soul Tether** (back-bar ult) is your "survive this" button — AoE damage that **heals you** and stuns; Soul Harvest (front) is your DPS/execute ult with big ultimate return on kills and a Major Defile debuff on the target.
 
 **Morph / scribing notes:**
-- **Swallow Soul** is the *magicka* morph of Strife (**heals you for 35% of the damage inflicted, every 2 seconds for 10 seconds** — self only); **Merciless Resolve** is the *magicka* morph of Grim Focus (Relentless Focus is the stamina morph you'd run on the stamblade). Both Grim Focus morphs grant Major Savagery and Major Prophecy while slotted on either bar — neither grants Minor Berserk.
+- **Swallow Soul** is the *magicka* morph of Strife (**heals you for 35% of the damage inflicted, every 2 seconds for 10 seconds** — self only); **Merciless Resolve** is the *magicka* morph of Grim Focus (Relentless Focus is the stamina morph you'd run on the stamblade). Both Grim Focus morphs grant Major Savagery while slotted on either bar — neither grants Minor Berserk.
 - **Siphoning Attacks** vs **Leeching Strikes** (the two morphs of Siphoning Strikes): only Siphoning Attacks returns resources. Leeching Strikes heals more — 1800 Health per second — but returns **no** Magicka or Stamina, so on a magicka build that wants sustain, take Siphoning Attacks.
 - **Ulfsild's Contingency** needs Scribing (Gold Road), which you have. If you ever want that slot non-scribed, use **Sap Essence** off the back bar too, or **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) for Minor Force — both drop into that slot cleanly.
 
@@ -75,11 +75,11 @@ Don't read this as a 12-step list — it's a **sweep**. Top to bottom, then back
 2. Back bar for two seconds → **Elemental Susceptibility → Refreshing Path → Ulfsild's**, then swap to daggers (or *stay* on the staff and spam **Swallow Soul** if you want to fight ranged). **Siphoning Attacks** needs no press — it ticks while slotted
 3. **Shadowy Disguise** for the burst/brace window — then strike out of it, where the next direct-damage hit is a guaranteed crit and Concealed Weapon picks up its +10% damage window
 4. **Concealed Weapon** as your melee spammable filler (hit the **flank** to set Off Balance); **Swallow Soul** as the ranged spammable filler when you kite
-5. **Sap Essence** whenever 2+ enemies are on you (AoE heal + Major Brutality/Sorcery refresh)
+5. **Sap Essence** whenever 2+ enemies are on you (AoE heal + Major Brutality refresh)
 6. **Killer's Blade** the moment anything drops under 50%
 7. **Soul Harvest** as your damage ultimate; **Soul Tether** when you need the heal-and-stun
 
-**Pre-buff before a pull:** Refreshing Path → Elemental Susceptibility → Ulfsild's on the staff bar, swap to daggers, open with Shadowy Disguise → Concealed Weapon (guaranteed crit out of the cloak, plus its +10% damage window). Sap Essence for Major Brutality/Sorcery if you didn't get it from a potion.
+**Pre-buff before a pull:** Refreshing Path → Elemental Susceptibility → Ulfsild's on the staff bar, swap to daggers, open with Shadowy Disguise → Concealed Weapon (guaranteed crit out of the cloak, plus its +10% damage window). Sap Essence for Major Brutality if you didn't get it from a potion.
 
 ### Sustain note — this build funds your weaving problem
 Your documented DK stamina shortfall was diagnosed as **light-attack weaving gaps**, not skill costs. This is a *magicka* Nightblade, so stamina isn't the drain here — but the same discipline pays off: **Merciless Resolve turns your light attacks into a healing burst**, **Swallow Soul** returns 35% of its damage as healing, and **Siphoning Attacks** hands you 200 Magicka and 200 Stamina every second just for being slotted. If sustain ever dips, the cause is the same one — you're skipping light attacks between skills — not gear. A **heavy attack on the staff bar** refills magicka in a pinch; the off-hand **Absorb Magicka** dagger enchant is the backstop.
@@ -115,7 +115,7 @@ Your documented DK stamina shortfall was diagnosed as **light-attack weaving gap
 **Mundus:** The Thief default (crit) → The Lover for penetration in the medium/light mix → The Lady only for brutal content.
 **Attributes:** 64 Magicka default → shift toward Health when a fight is out-damaging your heals (only ~5% damage lost per big shift).
 **Food:** Bewitched Sugar Skulls (tri-stat — max survivability). Clockwork Citrus Filet if you want more magicka recovery on top.
-**Potions:** Spell Power potions (Cornflower + Lady's Smock + Water Hyacinth). Between Swallow Soul, Sap Essence, and the Absorb Magicka enchant you rarely need Tri-Restoration potions — if you do, it's a weaving problem, not a potion problem.
+**Potions:** Increase Power potions (Cornflower + Lady's Smock + Water Hyacinth). Between Swallow Soul, Sap Essence, and the Absorb Magicka enchant you rarely need Tri-Restoration potions — if you do, it's a weaving problem, not a potion problem.
 **Race note:** Race is the smallest dial in any build (~5% spread) and costs money to change — run whatever the character already is. If it ever genuinely comes up, **High Elf** is the magicka-damage pick and **Breton** the magicka-sustain/cost-reduction one; Khajiit is the crit-damage pick if you'd rather kick more ass than not die.
 
 ---
@@ -130,7 +130,7 @@ Same character, different job: the group hands you buffs, debuffs, and dedicated
 |---|---|---|
 | **Mythic** | Drop **Ring of the Pale Order** → a real 5-piece damage set (a trial set) in its place, or a second body set | Healers exist |
 | **Spammable** | **Swallow Soul → Concealed Weapon-only**, or a pure DoT | The group heals you, and Merciless + Killer's Blade still cover you. Keep Swallow Soul if the fight is chaotic |
-| **Sap Essence** | Stays | Major Brutality/Sorcery is a personal damage buff even in a group, and the heal-per-enemy (which also lands on allies) is free |
+| **Sap Essence** | Stays | Major Brutality is a personal damage buff even in a group, and the heal-per-enemy (which also lands on allies) is free |
 | **Shadowy Disguise / Refreshing Path** | Stay | Minor Protection and the HoT are still free personal mitigation, and Shadowy Disguise's guaranteed crit is a parse gain, not just a defensive |
 | **Siphoning Attacks** | Can come off for a pure DoT | Once the group is feeding you sustain |
 | **Elemental Susceptibility** | Comes off → **Barbed Trap** (Minor Force crit-damage buff), a scribed **Banner Bearer**, or a pure DoT | If a group debuffer already applies Major Breach. Keep a Breach source if nobody brings it |
@@ -149,9 +149,9 @@ Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exac
 
 | Front Bar (Dual Wield or Inferno Staff) | Back Bar (Inferno Staff) |
 |---|---|
-| 1. Concealed Weapon (morph of Veiled Strike, *Assassination*) — the out-of-cloak burst spammable | 1. Merciless Resolve (morph of Grim Focus, *Assassination*) — Major Savagery & Prophecy while slotted, and the charged proc |
+| 1. Concealed Weapon (morph of Veiled Strike, *Assassination*) — the out-of-cloak burst spammable | 1. Merciless Resolve (morph of Grim Focus, *Assassination*) — Major Savagery while slotted, and the charged proc |
 | 2. Swallow Soul (morph of Strife, *Siphoning*) — damage that heals you | 2. Refreshing Path (morph of Path of Darkness, *Shadow*) — heal-over-time + Major Expedition |
-| 3. Killer's Blade (morph of Assassin's Blade, *Assassination*) — execute, opens at **50%** | 3. Sap Essence (morph of Drain Power, *Siphoning*) — Major Sorcery + AoE heal |
+| 3. Killer's Blade (morph of Assassin's Blade, *Assassination*) — execute, opens at **50%** | 3. Sap Essence (morph of Drain Power, *Siphoning*) — Major Brutality + AoE heal |
 | 4. Dark Cloak (morph of Shadow Cloak, *Shadow*) — heals **853/sec over 3s, scaling off Max Health** and **+150% while Bracing**; can't be broken by AoE or detection | 4. Siphoning Attacks (morph of Siphoning Strikes, *Siphoning*) — sustain while slotted |
 | 5. Mass Hysteria (morph of Aspect of Terror, *Shadow*) — reliable AoE fear | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
 | **Ult:** Soul Harvest (morph of Death Stroke, *Assassination*) — execute ult + Major Defile | **Ult:** Bolstering Darkness (morph of Consuming Darkness, *Shadow*) — the escape/mitigation ult |
@@ -229,7 +229,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 |---|---|---|---|
 | 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Concealed Weapon, the spectral bow, Killer's Blade are all direct |
 | 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage — your whole solo game |
-| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (you crit constantly with Major Prophecy up) |
+| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (you crit constantly with Major Savagery up) |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything — safe, no-think pick |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | armor penetration |

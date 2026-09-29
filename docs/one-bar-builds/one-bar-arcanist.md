@@ -63,7 +63,7 @@ Ansuul's Torment (5 body, Sanity's Edge) + Deadly Strike (shoulders/jewelry/weap
 **Mundus:** The Thief (The Lady for brutal content)
 **Attributes:** 64 Stamina; shift toward Health when struggling
 **Food:** Garlic Cod with Potato Crust (Fatecarver is so cheap she doesn't need recovery food)
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood)
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood)
 **Race:** Khajiit for damage (+12% crit damage), Nord for tankiness
 
 ---

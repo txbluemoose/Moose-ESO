@@ -211,7 +211,7 @@ Each companion gets the same four blocks: **bar order** (which is cast priority)
 
 **What they bring you**
 
-- Volcanic Arms — Major Brutality + Major Sorcery
+- Volcanic Arms — Major Brutality + Major Brutality
 - Igneous Armor — Major Resolve + a shield
 - Kindle — heal
 - Haze of Cinders — crowd control + heal

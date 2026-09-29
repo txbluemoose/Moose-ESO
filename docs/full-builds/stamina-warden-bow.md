@@ -16,11 +16,11 @@ Same as the melee Warden: **Wild Adaptation** (Wpn/Spell Dmg per status effect o
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — big poison DoT that ramps as the enemy drops (your execute); reapply ~every 10s
 3. **Endless Hail** (morph of Volley, *Bow*) — rain-of-arrows ground DoT; drop it and forget it
 4. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — a DoT that also grants **Minor Force (+10% crit damage)**, which nothing else on this build provides. Lay it before the pull and re-lay it when it expires
-5. **Bull Netch** (morph of Betty Netch, *Animal Companions*) — stamina sustain, Major Brutality/Sorcery, constant debuff purge
+5. **Bull Netch** (morph of Betty Netch, *Animal Companions*) — stamina sustain, Major Brutality, constant debuff purge
 - **Ult: Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — slotted **only** for the +5% crit damage per Animal Companions skill. That bonus comes from *slotting* the ability, not from summoning it, so **don't summon the bear and don't spend Ultimate on it** — **Northern Storm** on the back bar is the ultimate you actually cast. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game
 
 ### Back bar (Ice Staff) — buffs & ground DoTs
-1. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery/Prophecy + passive heal on light/heavy attacks
+1. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery + passive heal on light/heavy attacks
 2. **Growing Swarm** (morph of Swarm, *Animal Companions*) — a strong bleed DoT that also applies **Minor Vulnerability (+5% damage taken)**, your only source of it, and being an Animal Companions skill it adds another **+5% Critical Damage** through Advanced Species. It replaces Winter's Revenge here — Elemental Blockade already covers the ground-DoT role
 3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status procs
 4. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ground DoT; ice keeps enemies Chilled

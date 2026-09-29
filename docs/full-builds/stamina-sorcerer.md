@@ -38,8 +38,8 @@ Subclassing disables Class Mastery entirely (you'd lose both picks). You are pur
 | 1. **Crystal Weapon** (morph of Crystal Shard, *Dark Magic*) — stamina spammable; second hit **shreds the target's armor** ✅ | 1. **Hurricane** (morph of Lightning Form, *Storm Calling*) — **Major Resolve** + Minor Expedition + a physical AoE that ramps up to +120% damage the longer it's up ✅ |
 | 2. **Rending Slashes** (morph of Twin Slashes, *Dual Wield*) — physical bleed DoT + Minor Maim on the target (they hit *you* softer) ✅ | 2. **Endless Hail** (morph of Volley, *Bow*) — ground physical DoT; carries your back-bar weapon enchant ✅ |
 | 3. **Deadly Cloak** (morph of Blade Cloak, *Dual Wield*) — AoE physical DoT + a defensive line that reduces **area** damage taken. ⚠️ It is *not* Minor Protection (an earlier version said it was) — confirm the exact wording in-game | 3. **Poison Injection** (morph of Poison Arrow, *Bow*) — poison DoT that deals **up to +120% more to enemies under 50% health** — your execute ✅ |
-| 4. **Bound Armaments** (morph of Bound Armor, *Daedric Summoning*) — **Major Savagery/Prophecy** (crit) passively; light/heavy attacks build stacks, **fire at 4** ✅ | 4. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — **free to cast**, applies **Major Breach (−5,948 armor)** plus Burning/Chilled/Concussed. ⚠️ Destruction Staff line, so it only works on a bar with a **destro staff** equipped — see the flag |
-| 5. **Critical Surge** (morph of Surge, *Storm Calling*) — **Major Brutality/Sorcery** + **heals you ~3300 on any crit, once per second** — the survivability core ✅ | 5. **Resolving Vigor** (morph of Vigor, *Assault*) — burst self-heal; Minor Resolve. *Scribed alt if you'd rather: a self-heal grimoire — you have scribing.* ⚠️ |
+| 4. **Bound Armaments** (morph of Bound Armor, *Daedric Summoning*) — **Major Savagery** (crit) passively; light/heavy attacks build stacks, **fire at 4** ✅ | 4. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — **free to cast**, applies **Major Breach (−5,948 armor)** plus Burning/Chilled/Concussed. ⚠️ Destruction Staff line, so it only works on a bar with a **destro staff** equipped — see the flag |
+| 5. **Critical Surge** (morph of Surge, *Storm Calling*) — **Major Brutality** + **heals you ~3300 on any crit, once per second** — the survivability core ✅ | 5. **Resolving Vigor** (morph of Vigor, *Assault*) — burst self-heal; Minor Resolve. *Scribed alt if you'd rather: a self-heal grimoire — you have scribing.* ⚠️ |
 | **Ult: Greater Storm Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — big Shock hit + stun; ally can pop **Charged Lightning** for Major Berserk | **Ult: Greater Storm Atronach** — same ult both bars so it's always ready |
 
 > ⚠️ **Major Breach flag — the one thing to sort out before you build this.**
@@ -101,7 +101,7 @@ Play it as **two sweeps**, not a 12-step list:
 **Mundus:** The Thief (crit) → **The Lady** for brutal content (more resistances alongside Hurricane)
 **Attributes:** 64 Stamina → shift toward Health (only ~−6%) as fights demand
 **Food:** a Stamina + recovery dish (e.g. Lava Foot Soup-and-Saltrice, or Artaeum Takeaway Broth for tri-stat) — Conservation of Energy covers most of your sustain
-**Potions:** Weapon Power potions default (Dragonthorn + Blessed Thistle + Wormwood → Weapon Crit + Weapon Power + stamina return); Immovability pots for stun-heavy fights
+**Potions:** Increase Power potions default (Dragonthorn + Blessed Thistle + Wormwood → Weapon Crit + Weapon Power + stamina return); Immovability pots for stun-heavy fights
 **Race:** whatever the character already is — the spread is ~5%. **Redguard** is the only race with a real stamina-sustain passive if you're ever rerolling and the shortfall persists; otherwise leave it.
 
 ---

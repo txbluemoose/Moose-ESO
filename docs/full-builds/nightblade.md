@@ -44,7 +44,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina is part of the answer to your documented stamina gap — see the sustain note below). The bow back bar exists only to lay Endless Hail + Barbed Trap + Refreshing Path; you swap back to daggers immediately. You spend the fight in melee.*
 
 **Why every one of these keeps you alive:**
-- **Relentless Focus** — light-attack weaving builds 5 stacks, then fires the Assassin's Scourge spectral bow, which **heals you when the target is in melee range** (it is — you're on daggers). While slotted it grants **Major Savagery and Major Prophecy** (+2629 Weapon and Spell Critical). That buff works **while slotted on either bar**, so one front-bar slot covers both bars — don't waste a back-bar slot duplicating it. This skill *rewards* the exact weaving discipline your DK was struggling with.
+- **Relentless Focus** — light-attack weaving builds 5 stacks, then fires the Assassin's Scourge spectral bow, which **heals you when the target is in melee range** (it is — you're on daggers). While slotted it grants **Major Savagery** (+2629 Weapon and Critical). That buff works **while slotted on either bar**, so one front-bar slot covers both bars — don't waste a back-bar slot duplicating it. This skill *rewards* the exact weaving discipline your DK was struggling with.
 - **Siphoning Attacks** — while slotted on either bar, **heals you 1250 Health and restores 200 Magicka and 200 Stamina, once per second**. It's a while-slotted passive — there is nothing to cast and nothing to refresh. This is the class-level fix for your chronic stamina shortfall (see below).
 - **Killer's Blade** — Disease-damage execute that deals up to **400% more damage to enemies under 50% health** and **heals you for 2399 if the enemy dies within 2 seconds**. Free layered heal on every trash mob, and it opens far earlier than you'd think. (The 25% figure belongs to the *base* skill, Assassin's Blade.)
 - **Shadowy Disguise** — **3 seconds of invisibility**, and your next direct-damage attack within those 3s is a **guaranteed critical**; while slotted you also gain **Minor Protection** (−5% damage taken), and **Major Resolve** via the Shadow Barrier passive. Your burst-and-brace button.
@@ -53,7 +53,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 - **Soul Tether** (back-bar ult) is your "survive this" button — AoE damage that **heals you** and stuns; Soul Harvest (front) is your DPS/execute ult with big ultimate return on kills.
 
 **Morph / scribing notes:**
-- **Merciless Resolve** is the *magicka* morph of Grim Focus; **Relentless Focus** is the *stamina* morph (Physical damage bow) — you want Relentless on a stamblade. Both grant Major Savagery and Major Prophecy while slotted on either bar (neither grants Minor Berserk).
+- **Merciless Resolve** is the *magicka* morph of Grim Focus; **Relentless Focus** is the *stamina* morph (Physical damage bow) — you want Relentless on a stamblade. Both grant Major Savagery while slotted on either bar (neither grants Minor Berserk).
 - **Siphoning Attacks** vs **Leeching Strikes**: they are the two morphs of Siphoning Strikes, and only Siphoning Attacks returns resources (1250 Health + 200 Magicka + 200 Stamina per second while slotted). Leeching Strikes heals more — 1800 Health per second — but returns **no** Magicka or Stamina, so it does nothing for your sustain problem. Take Siphoning Attacks.
 - **Ulfsild's Contingency** needs Scribing (Gold Road), which you have. If you ever want that slot non-scribed, **Poison Injection** (morph of Poison Arrow, *Bow*) drops in cleanly — a ranged DoT that ramps hard as the target's health falls.
 
@@ -112,7 +112,7 @@ Your documented DK stamina shortfall was diagnosed as **light-attack weaving gap
 **Mundus:** The Thief default (crit) → The Lover for the medium setup's penetration → The Lady only for brutal content.
 **Attributes:** 64 Stamina default → shift toward Health when a fight is out-damaging your heals (only ~5% damage lost per big shift).
 **Food:** Bewitched Sugar Skulls (tri-stat — max survivability). Artaeum Takeaway Broth if you want more recovery on top.
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood). Between Siphoning Attacks and the Absorb Stamina enchant you should not need Tri-Restoration potions — if you do, it's a weaving problem, not a potion problem.
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood). Between Siphoning Attacks and the Absorb Stamina enchant you should not need Tri-Restoration potions — if you do, it's a weaving problem, not a potion problem.
 **Race note:** Race is the smallest dial in any build (~5% spread) and costs money to change — run whatever the character already is. If it ever genuinely comes up, **Redguard** is the only race with a real stamina-sustain passive; Khajiit is the crit-damage pick if you'd rather kick more ass than not die.
 
 ---
@@ -144,7 +144,7 @@ Nightblade is a perennial PvP powerhouse — cloak, burst, and mobility are exac
 
 | Front Bar (Dual Wield) | Back Bar (Bow) |
 |---|---|
-| 1. Surprise Attack (morph of Veiled Strike, *Assassination*) — the burst spammable, applies Major Fracture | 1. Relentless Focus (morph of Grim Focus, *Assassination*) — Major Savagery & Prophecy while slotted |
+| 1. Surprise Attack (morph of Veiled Strike, *Assassination*) — the burst spammable, applies Major Fracture | 1. Relentless Focus (morph of Grim Focus, *Assassination*) — Major Savagery while slotted |
 | 2. Rending Slashes (morph of Twin Slashes, *Dual Wield*) — bleed pressure | 2. Poison Injection (morph of Poison Arrow, *Bow*) — the execute DoT |
 | 3. Killer's Blade (morph of Assassin's Blade, *Assassination*) — execute, opens at **50%** | 3. Refreshing Path (morph of Path of Darkness, *Shadow*) — heal-over-time + Major Expedition |
 | 4. Dark Cloak (morph of Shadow Cloak, *Shadow*) — heals **853/sec over 3s, scaling off Max Health** and **+150% while Bracing** | 4. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — heal-over-time |

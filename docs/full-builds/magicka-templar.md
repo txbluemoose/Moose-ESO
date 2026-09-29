@@ -43,13 +43,13 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 *\*Dual daggers are the household default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Magicka** (that off-hand Absorb Magicka feeds your magicka pool so Channeled Focus isn't your only sustain lever). Inferno back bar powers Elemental Blockade (which displays as "Blockade of Fire") and Elemental Susceptibility. Puncturing Sweep is a melee cone regardless of weapon, so a two-staff (inferno front) setup also works — you lose Quick Cloak's Major Evasion but keep everything else; it's ~2% behind and squishier, the alternative rather than the default.*
 
 **What each does (and why it fits "don't die"):**
-- **Puncturing Sweep** — your spammable, a melee cone that hits up to 6 and **heals you for 25% of the damage done**. It feeds Judgment's Brand, so doing damage *is* your damage buff *and* your main heal. This is the healing-over-damage morph (the other, **Biting Jabs**, trades the heal for Major Brutality/Sorcery — that's the stamina build's pick, see [templar.md](templar.md)).
+- **Puncturing Sweep** — your spammable, a melee cone that hits up to 6 and **heals you for 25% of the damage done**. It feeds Judgment's Brand, so doing damage *is* your damage buff *and* your main heal. This is the healing-over-damage morph (the other, **Biting Jabs**, trades the heal for Major Brutality — that's the stamina build's pick, see [templar.md](templar.md)).
 - **Radiant Glory** — execute; its bonus damage scales as the target drops below 50% health, and it hits hardest under ~30%. Cheap, and it **heals you** for ~15% of the damage. A Templar's execute is also a heal. (Want the higher-damage morph and don't need the heal? **Radiant Oppression** parses a hair higher — noise here.)
 - **Ritual of Retribution** — your Sacred Ground. Ground DoT that **cleanses up to 2 harmful effects on cast**, and the tile that keeps **Bastion of Light** healing you every second. Stand in it.
 - **Luminous Shards** — a second Sacred Ground tile (more Bastion of Light uptime) that hits the whole pack, and whose synergy you can press yourself in solo play for **3960 Stamina and Magicka**. That self-usable synergy is why the live build runs this morph rather than Blazing Spear (the same base skill, Spear Shards, with a damage synergy instead) — same Sacred Ground contribution, but Luminous is a free resource button on a bar with no other sustain skill. On single-target fights you can drop it for a swap below.
 - **Quick Cloak** — Major Evasion (−20% AoE damage taken) for the whole melee profile. Requires two one-handers, which you have.
 - **Channeled Focus** — Major Resolve (armor) *and* Magicka recovery — it powers your magicka-cost kit (Sweep, Ritual, Degeneration, Honor the Dead) without a dedicated sustain skill — and Luminous Shards' self-usable synergy backs it up.
-- **Degeneration** — a 22-second DoT that grants you **Major Brutality and Major Sorcery** (+20% Weapon and Spell Damage). **This is the slot that fixes a real hole in this build:** Puncturing Sweep, unlike Biting Jabs, does *not* grant that buff, so without Degeneration you have no Major Sorcery source on the bar at all — you'd be relying on potion uptime for your single biggest damage multiplier. It's a Mages Guild skill (not scribed), so it's available to anyone. The live U50 solo MagPlar runs it for exactly this reason.
+- **Degeneration** — a 22-second DoT that grants you **Major Brutality** (+20% Weapon and Spell Damage). **This is the slot that fixes a real hole in this build:** Puncturing Sweep, unlike Biting Jabs, does *not* grant that buff, so without Degeneration you have no Major Brutality source on the bar at all — you'd be relying on potion uptime for your single biggest damage multiplier. It's a Mages Guild skill (not scribed), so it's available to anyone. The live U50 solo MagPlar runs it for exactly this reason.
 - **Elemental Susceptibility** — **core, not situational.** It's effectively free to cast, and it applies **Major Breach: −5948 Armor** on the target. Solo you have no group debuffer handing you that, so this single button is one of the biggest damage increases on the bar — and it keeps status effects rolling with the flame staff.
 - **Elemental Blockade** (it reads "Blockade of Fire" on a flame staff) — ground DoT; refreshes status effects and holds enemies in your damage zones.
 - **Honor the Dead** — full-panel **burst heal** that partially refunds its magicka when you cast it below ~half health. Your panic button.
@@ -59,8 +59,8 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 ### Situational swaps (with skill line sources)
 - **Warding Contingency** — *scribed Contingency grimoire, Soul Magic* (scripts: throw up a damage shield when struck — *confirm scripts in-game*) — you have scribing (Gold Road), so this is free "don't die" value in the Luminous Shards slot on single-target fights. **No scribing or unsure of the script? Use Living Dark below** — same job, from a class line.
 - **Living Dark** — *Templar > Dawn's Wrath* (morph of Eclipse) — heals you and snares attackers when you're struck; the non-scribed defensive slot for single-target fights
-- **Biting Jabs** — *Templar > Aedric Spear* (the other Sweep morph) — trade the 25%-of-damage heal for Major Brutality/Sorcery (+ Minor Berserk — confirm in-game) when a fight isn't threatening your health (this is the stamina build's spammable)
-- **Vampire's Bane** — *Templar > Dawn's Wrath* (morph of Sun Fire) — a long flame DoT that hands you **Major Savagery + Major Prophecy** (Weapon and Spell crit). It came off the base bar because your Spell Power potions already carry Major Prophecy — slot it back (in for Elemental Blockade) on long fights where you're not drinking on cooldown
+- **Biting Jabs** — *Templar > Aedric Spear* (the other Sweep morph) — trade the 25%-of-damage heal for Major Brutality (+ Minor Berserk — confirm in-game) when a fight isn't threatening your health (this is the stamina build's spammable)
+- **Vampire's Bane** — *Templar > Dawn's Wrath* (morph of Sun Fire) — a long flame DoT that hands you **Major Savagery + Major Savagery** (Weapon and Spell crit). It came off the base bar because your Increase Power potions already carry Major Savagery — slot it back (in for Elemental Blockade) on long fights where you're not drinking on cooldown
 - **Solar Barrage** — *Templar > Dawn's Wrath* (morph of Solar Flare) — an AoE DoT that **follows you**, grants **+5% damage done with class abilities**, and counts as Sacred Ground. A fine third Sacred Ground source when you'd rather have it than Blockade
 - **Blazing Spear** — *Templar > Aedric Spear* (the other Spear Shards morph) — the damage-synergy version of Luminous Shards; take it in a group, where someone else is pressing the synergy anyway
 - **Resolving Vigor** — *Alliance War > Assault* — a burst-heal-over-time for invulnerability phases where Pale Order can't heal you (earn AP in Battlegrounds/Cyrodiil)
@@ -68,7 +68,7 @@ This is your bread and butter — the verified U50 solo MagPlar. Melee, up close
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
 
 ### Rotation (priority sweep — refresh whatever is highest, then Sweep as filler)
-1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Degeneration** (Major Brutality/Sorcery up) → 4. **Elemental Susceptibility** (Major Breach on the target) → 5. **Elemental Blockade** → 6. **Luminous Shards** on packs (press the synergy — it's your resource button) → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
+1. **Ritual of Retribution** (stand in it — it's your heal engine) → 2. **Channeled Focus** (Major Resolve up) → 3. **Degeneration** (Major Brutality up) → 4. **Elemental Susceptibility** (Major Breach on the target) → 5. **Elemental Blockade** → 6. **Luminous Shards** on packs (press the synergy — it's your resource button) → 7. **Everlasting Sweep** when it's up → 8. **Puncturing Sweep** as filler forever → 9. **Radiant Glory** below ~30% (it starts scaling at 50%) → 10. **Honor the Dead** only when health dips.
 
 The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Degeneration, Elemental Susceptibility, Blockade) rolling, then hold Puncturing Sweep. Because Sweep feeds Judgment's Brand and heals 25%, and Ritual feeds Bastion of Light, doing damage *is* your buff uptime *and* your healing — you rarely press a heal at all.
 
@@ -108,7 +108,7 @@ The whole game is: keep the DoTs/buffs (Ritual, Channeled Focus, Degeneration, E
 **Mundus:** The Thief default → The Lover if your penetration is short → The Lady for the nastiest content
 **Attributes:** 64 Magicka default → 32/32 Health/Magicka when struggling → 64 Health for one-shot fights (only ~−5% damage)
 **Food:** Witchmother's Potent Brew (max Magicka + recovery), or Bewitched Sugar Skulls for the tri-stat health buffer on hard content
-**Potions:** Spell Power potions (Cornflower + Lady's Smock + Water Hyacinth) — Spell Damage + crit + magicka return
+**Potions:** Increase Power potions (Cornflower + Lady's Smock + Water Hyacinth) — Spell Damage + crit + magicka return
 **Race note:** Race is the smallest dial in the build (~5% spread) and costs real money to change — default to whatever the character already is. High Elf / Breton lean magicka if you ever re-roll, but it's not worth the crowns for the difference.
 
 ---
@@ -123,8 +123,8 @@ Same character, different job: the group brings buffs, debuffs, and a healer, so
 | **Honor the Dead & Quick Cloak** | Drop both → slot a group utility skill | The healer covers you, and the group provides Major Evasion sources |
 | **Luminous Shards → Blazing Spear** | Flip to the damage morph | In a group someone else takes the synergy, so the damage morph wins |
 | **Ritual of Retribution** | Stays | It's now a group heal *and* your Bastion of Light engine; Spear Shards stacks more Sacred Ground on top |
-| **Elemental Susceptibility** | Comes off → put **Vampire's Bane** or **Solar Barrage** in that slot | The group's debuffers already supply Major Breach. **Degeneration stays** unless someone else supplies Major Sorcery |
-| **Puncturing Sweep → Biting Jabs** | Optional flip | If the group's healing is solid and you want the Major Brutality/Sorcery buff instead of the lifesteal — but Sweep's heal costs you almost nothing, so keeping it is fine |
+| **Elemental Susceptibility** | Comes off → put **Vampire's Bane** or **Solar Barrage** in that slot | The group's debuffers already supply Major Breach. **Degeneration stays** unless someone else supplies Major Brutality |
+| **Puncturing Sweep → Biting Jabs** | Optional flip | If the group's healing is solid and you want the Major Brutality buff instead of the lifesteal — but Sweep's heal costs you almost nothing, so keeping it is fine |
 | **Ultimates** | **Everlasting Sweep** stays as your spammed ult; **Solar Prison / Solar Disturbance** for burn phases | Solar Prison is a group Major Maim zone |
 | **Weapon/jewelry set** | Deadly Strike stays strong, but a trial set (**Ansuul's Torment**, Sanity's Edge) edges it | In fights where you interrupt something every ~30s |
 
@@ -142,7 +142,7 @@ Templar came through the U49/U50 rework as a premier brawler — Sweep pressure,
 |---|---|
 | 1. Puncturing Sweep (morph of Puncturing Strikes, *Aedric Spear*) — spammable pressure with lifesteal | 1. Channeled Focus (morph of Rune Focus, *Restoring Light*) — Major Resolve + Magicka sustain |
 | 2. Purifying Light (morph of Backlash, *Dawn's Wrath*) — 1,161 Magic Damage on cast, marks for 6s, then bursts for 1,285 — and the burst **heals you** | 2. Ritual of Retribution (morph of Cleansing Ritual, *Restoring Light*) — purge + heal |
-| 3. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) — burst heal | 3. Degeneration (morph of Entropy, *Mages Guild*) — Major Sorcery + a heal proc |
+| 3. Honor the Dead (morph of Rushed Ceremony, *Restoring Light*) — burst heal | 3. Degeneration (morph of Entropy, *Mages Guild*) — Major Brutality + a heal proc |
 | 4. Living Dark (morph of Eclipse, *Dawn's Wrath*) — a 10s sphere that lashes back at anyone who damages you, **snaring them 40%**, and heals you | 4. Luminous Shards (morph of Spear Shards, *Aedric Spear*) — ranged pressure + a synergy for allies |
 | 5. Radiant Glory (morph of Radiant Destruction, *Dawn's Wrath*) — the long-range execute | 5. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach |
 | **Ult:** Everlasting Sweep (morph of Radial Sweep, *Aedric Spear*) — AoE damage **and** heal | **Ult:** Solar Prison (morph of Nova, *Dawn's Wrath*) — group Major Maim zone |
@@ -202,7 +202,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 |---|---|---|---|
 | 1 | **Master-at-Arms** | **SLOT** (50) | +direct damage — Sweep and Radiant Glory are direct |
 | 2 | **Deadly Aim** | **SLOT** (50) | +single-target damage — your Sweep channel on a boss |
-| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (your Spell Power potions carry the Major crit buffs) |
+| 3 | **Fighting Finesse** | **SLOT** (50) | bigger crits (your Increase Power potions carry the Major crit buffs) |
 | 4 | **Wrathful Strikes** | **SLOT** (50) | flat damage on everything |
 | 5 | Precision | buy max (20) | crit chance |
 | 6 | Piercing | buy max (20) | armor penetration |
@@ -289,7 +289,7 @@ Rule of thumb: **buy every passive in every line you have a skill slotted from.*
 
 ---
 
-*Sources: Hyperioxes U50 Magicka Templar Solo build (soloed vet HM March of Sacrifices, ~67.4k). Skill morphs and lines verified vs ESO-Hub / UESP / Fextralife U50 tooltips; Solar Barrage confirmed as a morph of Solar Flare (Dawn's Wrath), Solar Prison as a morph of Nova, Luminous Shards and Blazing Spear as the two morphs of Spear Shards, and Degeneration as a morph of Entropy (Mages Guild — not scribed). **Puncturing Sweep does not grant Major Brutality/Sorcery — that's Biting Jabs' buff — which is why Degeneration is on the base bar.** Elemental Susceptibility promoted from swap to base bar to match the live build. Class Mastery names verified vs ESO-Hub / Alcast U50 Class Mastery lists. Warding Contingency scripts flagged to confirm in-game. PvP is directional — cross-check the current Alcast U50 Templar PvP page, metas rotate seasonally. In-game tooltips override any guide. Revision date: 2026-08-18.*
+*Sources: Hyperioxes U50 Magicka Templar Solo build (soloed vet HM March of Sacrifices, ~67.4k). Skill morphs and lines verified vs ESO-Hub / UESP / Fextralife U50 tooltips; Solar Barrage confirmed as a morph of Solar Flare (Dawn's Wrath), Solar Prison as a morph of Nova, Luminous Shards and Blazing Spear as the two morphs of Spear Shards, and Degeneration as a morph of Entropy (Mages Guild — not scribed). **Puncturing Sweep does not grant Major Brutality — that's Biting Jabs' buff — which is why Degeneration is on the base bar.** Elemental Susceptibility promoted from swap to base bar to match the live build. Class Mastery names verified vs ESO-Hub / Alcast U50 Class Mastery lists. Warding Contingency scripts flagged to confirm in-game. PvP is directional — cross-check the current Alcast U50 Templar PvP page, metas rotate seasonally. In-game tooltips override any guide. Revision date: 2026-08-18.*
 
 ---
 

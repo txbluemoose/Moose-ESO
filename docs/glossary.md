@@ -11,9 +11,9 @@ A *buff* helps you; a *debuff* weakens an enemy. "Major" is the strong version, 
 | **Major / Minor Breach** | Reduces the target's armor (your penetration) |
 | **Major / Minor Vulnerability** | Target takes more damage from everything (10% / 5%) |
 | **Off Balance** | Stagger state — the enemy takes extra damage from fully-charged heavy attacks |
-| **Major Brutality / Sorcery** | Big boost to your Weapon / Spell Damage |
+| **Major Brutality** | Big boost to your Weapon / Spell Damage |
 | **Minor Brutality / Sorcery** | Smaller boost — +5% Weapon / Spell Damage |
-| **Major Savagery / Prophecy** | Big boost to your Weapon / Spell Critical chance |
+| **Major Savagery** | Big boost to your Weapon / Critical chance |
 | **Major Resolve** | Boosts your armor |
 | **Major / Minor Protection** | Reduces the damage you take |
 | **Major Berserk** | Increases all your damage done |

@@ -16,7 +16,7 @@
 Cast these top-to-bottom at the start of a fight, then swap to the bow and leave this bar alone until an icon blinks (~every 20s).
 
 1. **Bull Netch** (morph of Betty Netch, *Animal Companions*) — stamina back over time, Major Brutality (damage), and it purges a debuff off her every few seconds
-2. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery/Prophecy (crit) **and** a passive heal on every light/heavy attack
+2. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery (crit) **and** a passive heal on every light/heavy attack
 3. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ground DoT; with an ice staff it keeps enemies Chilled
 4. **Growing Swarm** (morph of Swarm, *Animal Companions*) — a strong bleed DoT that also puts **Minor Vulnerability (+5% damage taken)** on the target, which nothing else here provides, and being an Animal Companions skill it adds another **+5% Critical Damage** through Advanced Species. It takes Winter's Revenge's slot — Elemental Blockade already covers the ground-DoT job
 5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach (her armor-shred; solo has no group to provide it)
@@ -78,7 +78,7 @@ Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — i
 **Mundus:** The Thief
 **Attributes:** 64 Stamina (shift some to Health if she's getting one-shot)
 **Food:** Orzorga's Smoked Bear Haunch (or any Max Health + Stamina food)
-**Potions:** Weapon Power potions (Blessed Thistle + Dragonthorn + Wormwood)
+**Potions:** Increase Power potions (Blessed Thistle + Dragonthorn + Wormwood)
 **Race:** whatever she is — Khajiit or Dark Elf lean damage, Nord/Redguard lean tanky; the spread is only ~5%
 
 ---
