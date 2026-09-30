@@ -53,7 +53,7 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 - **Blood of the Elder Dragon** — burst self-heal scaling off your **Max Health** (not your damage stats), which also heals nearby allies and grants **Major Fortitude + Minor Courage**. Your panic button.
 - **Shatterspike Mantle** — **Major Resolve** (your armour), plus a 20s AoE DoT that adds flat damage to all your ticks. *(U51 narrowed that bonus to **damage done to monsters** — no change at all for solo PvE, where everything you fight is a monster, but see the PvP bar.)* This is the mitigation slot the earlier revision of this guide simply didn't have.
 - **Cauterize** — grants **Major Savagery** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Incinerate** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Blood of the Elder Dragon (burst) + Cauterize (HoT) + Pale Order (per-damage).
-- **Igneous Weapons** — Major Brutality + a weapon/spell-damage empower for the group of one that is you.
+- **Igneous Weapons** — Major Brutality + a weapon/spell-damage empower for the group of one that is you. *(U51 reclassified Molten Weapons' damage as a **proc event** — no consequence for the buff, but its damage no longer gets Sneak bonuses or guaranteed crits.)*
 - **Carve** — AoE bleed DoT that also feeds ultimate. A DoT, so Deadly Strike (see §2) supercharges it.
 - *(**Stampede**, **Executioner** and **Deadly Cloak** moved to the swaps below — the builder/spender core plus Major Resolve and Soul of Flame take priority on a 10-slot bar.)*
 

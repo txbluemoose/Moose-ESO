@@ -64,6 +64,7 @@ The entire reason to pick it up is the gap flagged above: **Elemental Susceptibi
 ### Class Mastery (pure class — pick 2)
 - **Font of Power** — grants **+11% Weapon Damage** for 10s whenever she uses any Sorc ability. Her biggest damage pick, costs nothing defensive. ✅
 - **Conservation of Energy** — upgrades Blood Magic so it refunds Stamina *and* Magicka on **any costed ability** (not just crits), roughly **once per second**. **She has no dedicated sustain skill, so this genuinely matters for her** — it keeps her stamina from bottoming out. ✅
+    - ⚠️ **U51 trimmed it: 1.5% of Max Magicka and Stamina per proc instead of 2%**, and it also cut Blood Magic's underlying heal from 5%/10% of Max Health to 3%/6%. That's a ~25% cut to her only sustain engine. It's still the right pick — nothing else on the list addresses sustain at all — but if she starts running dry where she didn't before, this is why, not her rotation.
 - *Tankier swap:* trade Font of Power → **Calculated Defense** (a Max-Health shield every cast) for a scary fight. ⚠️ confirm the numbers in-game.
 
 *Masteries verified vs Alcast's U50 Class Mastery breakdown — confirm live numbers on her bar.*

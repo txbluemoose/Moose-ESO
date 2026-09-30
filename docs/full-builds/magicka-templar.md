@@ -19,7 +19,7 @@ Two Class Mastery Points, not skill points. Subclassing disables this system ent
 | Solo PvE / Group | **Judgment's Brand** | **Bastion of Light** | Devout Guardian replaces Bastion of Light if you'd rather have a repeating damage shield than the flat heal |
 | PvP | **Judgment's Brand** | Steadfast Candescence or Devout Guardian | Steadfast Candescence if you brawl on block; Devout Guardian for the shield |
 
-- **Judgment's Brand** — when Burning Light procs (it procs off Puncturing Sweep constantly), your Templar abilities gain a flat chunk of damage done for ~3s. This is *why* Sweep is the strongest solo Templar spammable in U50 — it's a near-permanent damage buff on your whole kit.
+- **Judgment's Brand** — when Burning Light procs (it procs off Puncturing Sweep constantly), your Templar abilities gain a flat chunk of damage done for ~3s — **1,600 since U51, up from 1,400**. This is *why* Sweep is the strongest solo Templar spammable in U50 — it's a near-permanent damage buff on your whole kit.
 - **Bastion of Light** — your Sacred Ground now also counts while your Nova and Spear Shards are down and while Radial Sweep / Solar Barrage are active, and while Sacred Ground is up you heal ~1498 Health/sec; hit full health in combat and you also bank 2 Ultimate. This is the passive "heartbeat heal" that makes the build unkillable — you'll almost always have Ritual of Retribution or Luminous Shards on the ground under you.
 - *Swaps:* **Devout Guardian** (a repeating ~3.7k damage shield + recovery while on Sacred Ground) and **Steadfast Candescence** (Sacred Ground refreshes while you block, +20% block mitigation) are the block-tank flavors — good in a fight where you eat a big telegraphed hit on block.
 
@@ -264,7 +264,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 Rule of thumb: **buy every passive in every line you have a skill slotted from.** Skill points are abundant. Priority order if you're short:
 
-- **Aedric Spear** (Puncturing Sweep, Luminous Shards, Everlasting Sweep) — all 4; **Piercing Spear** (crit damage) and **Spear Wall** (mitigation on Sweep) are the standouts — HIGH
+- **Aedric Spear** (Puncturing Sweep, Luminous Shards, Everlasting Sweep) — all 4 — HIGH, and two are bigger than this page said. **Spear Wall** grants **Minor Berserk *and* Minor Protection for 6 seconds** on every Aedric Spear activation — on a Sweep spammable that's **+5% damage done and −5% damage taken, permanently**, not just mitigation. **Balanced Warrior** was reworked in U51 to give Armor per Templar ability slotted *and* Weapon/Spell Damage scaled off your total Armor plus a flat amount per Templar ability slotted (no cap) — so a class-heavy bar is now worth damage as well as armour. **Piercing Spear** is +12% Critical Damage while an Aedric Spear ability is slotted
 - **Dawn's Wrath** (Radiant Glory) — all 4; **Illuminate** and **Enduring Rays** (longer DoTs) matter, and **Restoring Spirit** cuts ability costs (helps sustain) — HIGH
 - **Mages Guild** (Degeneration) — **Might of the Guild** (damage while a Mages Guild ability is slotted) and the rest of the line; level it by collecting Lorebooks — HIGH
 - **Restoring Light** (Channeled Focus, Ritual of Retribution, Honor the Dead) — all 4; **Master Ritualist**, **Light Weaver**, and **Sacred Ground** feed your heal engine directly — HIGH

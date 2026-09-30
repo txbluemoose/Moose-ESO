@@ -26,7 +26,7 @@ Cast these top-to-bottom at the start of a fight, then swap to the bow and leave
 1. **Cutting Dive** (morph of Dive, *Animal Companions*) — her spammable; a bleed that's her main filler button
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — a big poison DoT that hits **harder the lower the enemy's health** — her execute; reapply every ~10s
 3. **Endless Hail** (morph of Volley, *Bow*) — a rain-of-arrows ground DoT; drop it on the pack and forget it
-4. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — **her heal AND a stun** — heals off her max health, so it's the panic button. Press it when hurt; press it to peel a nasty add
+4. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — **her heal AND a stun** — **U51 raised its damage ~20% per tick**, so it's a better button than this sheet implied. Heals off her max health, so it's the panic button. Press it when hurt; press it to peel a nasty add
 5. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — a DoT that also gives Minor Force (+10% crit damage); lay it down before a pull
 - **Ult: Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — the **+5% Critical Damage per Animal Companions ability comes from *slotting* them** (Advanced Species), not from summoning, so she gets that bonus the moment it's on the bar. Summoning is a bonus on top: an extra body that fights on its own and takes hits, which is exactly what this sheet wants — so yes, summon it and forget it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game before planning around it
 

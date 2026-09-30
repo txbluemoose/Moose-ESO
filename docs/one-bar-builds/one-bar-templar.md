@@ -78,7 +78,7 @@ The starter *is* the endgame — Deadly Strike + Order's Wrath + Slimecraw + Rin
 
 Rule of thumb at her CP: **buy every passive in every line she has a skill slotted from.** Priority if points are short:
 
-- **Aedric Spear** (Puncturing Sweep, Everlasting Sweep) — all 4; Piercing Spear (crit damage) and Spear Wall (mitigation on Sweep) — HIGH
+- **Aedric Spear** (Puncturing Sweep, Everlasting Sweep) — all 4 — HIGH. Two are worth more than this sheet said: **Spear Wall** gives her **Minor Berserk *and* Minor Protection for 6 seconds** every time she presses an Aedric Spear ability, so on a Sweep spammable it's **+5% damage and −5% damage taken, permanently**; and **Balanced Warrior** (reworked in U51) gives Armor *and* Weapon/Spell Damage scaled off her Armor and the number of Templar skills she has slotted — on a bar this class-heavy, that's free damage. **Piercing Spear** is +12% Critical Damage while an Aedric Spear skill is slotted
 - **Dawn's Wrath** (Radiant Glory, Solar Barrage) — all 4; **Illuminate** (a **2,974 Armor** group buff from a slotted Dawn's Wrath ability — U51 replaced its old Minor Brutality), **Enduring Rays** (longer DoTs — Solar Barrage), and Restoring Spirit (cheaper abilities = sustain) — HIGH
 - **Restoring Light** (Channeled Focus, Ritual of Retribution) — all 4; Master Ritualist, Sacred Ground, and Light Weaver feed her heal engine — HIGH
 - **Destruction Staff:** Tri Focus (heavy-attack splash on Lightning), Penetrating Magic, Ancient Knowledge, Elemental Force — HIGH

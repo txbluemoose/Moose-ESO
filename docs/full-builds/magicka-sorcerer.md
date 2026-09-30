@@ -12,7 +12,7 @@
 
 | Situation | Mastery 1 | Mastery 2 |
 |---|---|---|
-| Default (daggers) | **Static Reverberation** (chance-on-damage shock proc that scales with the target's missing health — huge in execute) | **Conservation of Energy** (Blood Magic works on every costed ability + refunds magicka AND stamina — your sustain engine) |
+| Default (daggers) | **Static Reverberation** (chance-on-damage shock proc that scales with the target's missing health — huge in execute). **U51 reworked it, mostly upward:** the base proc chance went **5% → 20%** and its cooldown **300ms → 100ms**, but it now triggers **only from Sorcerer ability damage** instead of any damage. On this bar that's a clear buff — nearly everything you press is a Sorc ability | **Conservation of Energy** (Blood Magic works on every costed ability + refunds magicka AND stamina — your sustain engine). ⚠️ **U51: 1.5% per proc instead of 2%** |
 | Need survivability | **Calculated Defense** replaces Static Reverberation (max-health shield on every cast) | Conservation of Energy |
 | Staff front bar | **Font of Power** replaces Conservation of Energy (see the [Ranged guide](magicka-sorcerer-ranged.md)) | Static Reverberation |
 

@@ -42,16 +42,23 @@ You need this to judge a source. **Anything written before the relevant date is 
         - **Vengeance** is queueable from the Group and Activity Finder, its damage ability target caps went 3 → 12 (defensive and CC 3 → 6), and **Vengeance Rapid Maneuver** now grants **Minor Gallop** on top of Major Expedition.
         - **Solo Dungeons** arrived: solo March of Sacrifices and Moon Hunter Keep, with optional **Meted Misfortunes** (0 = overland, 1 = normal arena, 2 = vet arena, 3 = harder than either). They drop **dungeon** sets rather than overland ones and pay Undaunted Crests. Worth knowing — it's new solo content that fits this household exactly, and **Pulled Punches no longer excludes heavy-attack builds** (it's a flat −30% damage now), which matters for her Sorcerer.
 
-    **Still to do — these need a per-guide pass, not a sweep:**
+    **Third pass done 2026-09-30 — the per-guide class work:**
 
-    - **Nightblade** is the most affected class. **Relentless Focus now breaks Stealth/Invisibility.** **Shadowy Disguise's guaranteed crit no longer applies to proc attacks** — which is most of why the guides slot it as a parse gain. Born From Shadow went 10s → 15s. Strife/Swallow Soul were reworked to scale with current Health.
-    - **DK PvP bars:** **Shatterspike Mantle now grants damage done *to monsters*** instead of all damage, so it does far less in PvP. **Molten Whip's Seething Fury bonus is halved in PvP.**
-    - **Proc rules changed:** proc attacks no longer gain Sneak's bonus damage or guaranteed crits, and **Molten Weapons (Igneous Weapons) and Tome-bearer's Inspiration damage now count as proc events**.
-    - **Mundus worth re-evaluating:** **The Warrior now grants both Weapon and Spell Damage**, so it is live for magicka builds for the first time. The Apprentice became an XP/Inspiration stone and is no longer a damage option (we never recommended it).
-    - **Sorcerer:** Crystal Weapon has 3 charges; **Conservation of Energy restores 1.5% instead of 2%** (her Stam Sorc mastery pick); Blood Magic heals 3%/6% instead of 5%/10%.
-    - **Warden:** Fetcher Infection's second cast +75%; Arctic Blast +20% per tick. **Templar:** Balanced Warrior reworked.
-    - **Pet damage reclassification:** **Icy Conjurer, Aegis Caller, Scavenging Demise, Coldharbour's Favorite, Mad Tinkerer and Cinders of Anthelmir now deal pet damage.** Only Aegis Caller appears here, and only in upgrade ladders — but if either of them ever gears one, check whether pet damage still feeds **Ring of the Pale Order**, because that would matter a lot.
-    - **Ice Comet** deals ~21% more damage per tick and its snare re-applies on every hit. Nothing slots it (the tank sheet runs Shooting Star for the Ultimate refund), but it's now the damage pick if anyone wants Meteor for damage.
+    | Class | What changed, and what we did |
+    |---|---|
+    | **Nightblade** | Relentless Focus now breaks Stealth/Invisibility; Shadowy Disguise's guaranteed crit no longer applies to proc attacks; Born From Shadow 10s → 15s; Strife/Swallow Soul rescaled to Health. All four guides updated — **and reading the live pages found a buff no guide knew about: Born From Shadow is +15% damage done to monsters, on *both* cloak morphs, triggered when the cloak starts *or* ends.** Also: Relentless Focus fires at **4** stacks not 5, Merciless Resolve heals **50%** of the arrow against 33% for the other morphs, and Swallow Soul heals **33%**, not the 35% four files claimed |
+    | **Dragonknight** | Landslide → 12 stacks, generated every 5s/4s instead of 10s/5s (a straight buff to Inexorable Descent, which both players run). Shatterspike Mantle's bonus damage is **monsters-only** now — no PvE change, but in PvP it's a Major Resolve skill and nothing more. Molten Whip's Seething Fury bonus **halved in PvP** |
+    | **Sorcerer** | Conservation of Energy **2% → 1.5%** and Blood Magic 5%/10% → 3%/6% — a ~25% cut to her Stam Sorc's only sustain engine, now stated on both Sorcerer guides that pick it. **Static Reverberation was reworked mostly upward**: proc chance 5% → 20%, cooldown 300ms → 100ms, but Sorcerer-ability damage only — a clear buff on a class-heavy bar |
+    | **Warden** | Fetcher Infection's second cast **+75%** (was 60%) — big enough to press on cadence rather than on the blink. Arctic Blast **+20% per tick** |
+    | **Templar** | Judgment's Brand **1,400 → 1,600**. **Balanced Warrior reworked**: Armor per Templar ability slotted *and* Weapon/Spell Damage scaled off total Armor plus a flat amount per Templar ability slotted, **no cap** — so a class-heavy bar is now worth damage as well as armour. While checking it, found that **Spear Wall grants Minor Berserk *and* Minor Protection** for 6s on every Aedric Spear activation; all four Templar guides had it down as mitigation only |
+    | **Mundus** | The Warrior now grants **both** Weapon and Spell Damage, so it's live on magicka builds for the first time. Written up once in [Gear slot math](../shared/gear-math.md) rather than churning 34 guides, because the difference against The Thief lands inside the 2–5% band this repo calls noise. The Apprentice is now an XP/Inspiration stone |
+    | **Proc rules** | Proc attacks lost Sneak's bonus damage and guaranteed crits, and **Molten Weapons and Tome-bearer's Inspiration damage now count as proc events** — noted on the three guides that slot them |
+
+    **U51 is now fully read.** All five patch sections plus the class changes have been walked. What remains is not U51 work:
+
+    - **The Nightblade PvP bars** were built against U50 Alcast pages and still carry the "metas rotate" caveat. Worth a pass against a live U51 PvP build, but that's a source-freshness job, not a patch job.
+    - **Two werewolf claims stay flagged as unverified**, not wrong: the "Prowl" stealth opener and whether Rip and Tear taunts while blocking. Neither is on a current tooltip.
+    - **Claw Fury's damage is now classed as direct** while Deadly Strike buffs *channelled* abilities. Flagged on both werewolf pages — it needs a parse in-game, not a source.
 
 !!! danger "Superseded — kept for the record: the pre-release warning"
     Confirmed 2026-09-19. Console follows roughly two weeks later. U51 **finishes the hybridization project**: it consolidates **Mundus Stones**, the **Major/Minor buff system**, **class passives** and **Alchemy**. That is not a normal balance patch — it touches the layer nearly every guide here is built on.
