@@ -37,7 +37,7 @@
 - **Soul Burst** — AoE spammable DoT + Minor Resolve
 - **Lotus Blossom** — Major Savagery + passive healing on every light/heavy attack (feeds Glacial Obstinance)
 - **Winter's Revenge** — ground DoT with elevated status-proc chance; massive with Chilled procs
-- **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed every 7.5s, feeding Wild Adaptation stacks, plus Minor Vulnerability and Minor Maim via the procs
+- **Elemental Susceptibility** — applies Burning + Chilled + Concussed every 7.5s, feeding Wild Adaptation stacks, plus Minor Vulnerability and Minor Maim via the procs. **U51 gave it a 3,240 Magicka cost** — it was free until 28 September 2026. On a stamina build that is the single most expensive thing on your bars; it's still worth the press for a 30-second Breach plus the status engine, but it is no longer a free pre-buff you spam
 - **Every Animal Companions skill slotted = +5% crit damage each** (Advanced Species passive) — that's why Wild Guardian just sits there
 
 *\*Dual daggers are the default (best damage, up-close). Want to fight at range with real bow skills? That's a separate guide → [Stamina Warden — Bow](stamina-warden-bow.md), which leans into Poison Injection / Endless Hail / Cutting Dive. (A plain bow front bar on *this* build is only −4.8% and needs zero skill changes, since it runs no weapon-line front-bar skills. Lightning staff −2.8%, Inferno −3.0%.)*

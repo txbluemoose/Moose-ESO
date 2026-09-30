@@ -19,7 +19,7 @@ Cast these top-to-bottom at the start of a fight, then swap to the bow and leave
 2. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery (crit) **and** a passive heal on every light/heavy attack
 3. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ground DoT; with an ice staff it keeps enemies Chilled
 4. **Growing Swarm** (morph of Swarm, *Animal Companions*) — a strong bleed DoT that also puts **Minor Vulnerability (+5% damage taken)** on the target, which nothing else here provides, and being an Animal Companions skill it adds another **+5% Critical Damage** through Advanced Species. It takes Winter's Revenge's slot — Elemental Blockade already covers the ground-DoT job
-5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach (her armor-shred; solo has no group to provide it)
+5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — **Major Breach**, her armor-shred; solo has no group to provide it. **It is no longer free — Update 51 gave it a 3,240 Magicka cost.** On a stamina sheet that comes out of a pool she barely uses, and it lasts 30 seconds, so it stays worth one press per boss. Skip it on trash.
 - **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking up to 450**, **and Major Protection (−10% damage taken)** through scary mechanics
 
 ### Front bar (Bow) — where she lives

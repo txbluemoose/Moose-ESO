@@ -26,7 +26,7 @@
 |---|---|
 | 1. Traveling Knife (scribed grimoire, *Soul Magic*; scripts: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
 | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) | 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Brutality + **heal on every crit, once per second** |
-| 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status engine |
+| 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach + status engine (**3,240 Magicka since U51** — it used to be free) |
 | 4. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — cast on proc only | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — **run the Ice version** |
 | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — Minor Force |
 | **Ult: Power Overload** (morph of Overload, *Storm Calling*) — **parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the real ultimate; constant Concussion → Minor Vulnerability |
