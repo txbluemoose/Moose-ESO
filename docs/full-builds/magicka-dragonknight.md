@@ -26,16 +26,16 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 ### Skills — Base Setup
 
-| Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
+| Front Bar (Dual Daggers*) | Back Bar (Inferno Staff*) |
 |---|---|
 | 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) |
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
-| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
+| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
 | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
-*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
+*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). **Inferno back bar** — changed from Ice on 2026-09-30; the reasoning is under the gear table. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
 
 
 **Morph notes for your "don't die" goal:**
@@ -57,7 +57,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 ### Rotation (priority sweep — two passes, not a checklist)
 
-1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Incinerate → Shatterspike Mantle.
+1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Incinerate → Shatterspike Mantle. *(Worth one fully-charged heavy attack here while you're on the inferno staff — Tri Focus adds 4,484 Flame over 20s.)*
 2. **Live on the front bar:** whip at 3 Seething Fury stacks, keep Searing Claw / Disintegrating Dragonfire / Ulfsild's / Soul of Flame ticking, Take Flight when it's up, Molten Whip as filler.
 3. Back-bar timers blinking? Swap, re-sweep top to bottom, swap forward. That's the whole loop.
 
@@ -80,9 +80,30 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Front (2 daggers) | — | Charged | Poison + Absorb Stamina | Sul-Xan's Torment |
-| Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff |
+| Back bar (Inferno Staff) | — | Infused | Weapon Damage | Crushing Wall **Inferno** Staff |
 
-*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs); a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. Overland: swap the ice staff → inferno. In-game tooltips override — confirm on your bar.*
+*A staff stays on the back bar — it's what powers Elemental Blockade and Elemental Susceptibility, and a staff-free back bar (S&B or 2H) loses both and isn't worth it on a magicka build.*
+
+!!! warning "The back-bar staff changed from Ice to Inferno — 2026-09-30"
+    **This page used to run an Ice staff here, for a reason that doesn't hold up.** The old note said "Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle." The problem: **Chilled only grants Minor Brittle if a frost staff is on your *active* bar when it lands.** Susceptibility re-applies Chilled every 7.5 seconds — and you're on daggers for all of it. So Minor Brittle was essentially never firing on this build.
+
+    **What Ice was actually costing you.** The Destruction Staff passive **Ancient Knowledge** is element-specific:
+
+    | Staff | Ancient Knowledge gives |
+    |---|---|
+    | **Inferno** | **+12% damage done with damage-over-time and Status Effects** |
+    | Lightning | +12% damage done with direct damage and channelled effects |
+    | Ice | −36% block cost and +20% damage blocked — **no damage at all** |
+
+    On a bar you swap off two seconds after you reach it, Ice's block bonuses did nothing. Meanwhile **your entire kit is flame damage-over-time and Burning status effects** — Searing Claw, Disintegrating Dragonfire, Incinerate, Ulfsild's, Wildfire Embers — which is exactly what the Inferno bonus pays out on. On top of that, **Blockade of Frost explicitly costs more** than Blockade of Fire, and **Blockade of Fire deals bonus damage to Burning enemies**, which post-U49 is everything you fight.
+
+    **What you keep either way:** Chilled's **Minor Maim** is *not* staff-gated, and Concussion's **Minor Vulnerability** isn't either — so Elemental Susceptibility's debuff engine is unaffected by this change. **Tri Focus** also improves: fully-charged Inferno heavy attacks add **4,484 Flame Damage over 20 seconds**, so it's worth one heavy on the staff bar during a pre-buff.
+
+    **What you give up, stated honestly:** an equipped Ice staff makes **blocking cost Magicka instead of Stamina**, at **−36% cost with +20% mitigation**. That is the most direct answer this repo has found to your documented stamina shortfall (the open item in `CLAUDE.md`, and the **Tireless Guardian** / **Savage Defense** CP passives in the Red table) — swap to the staff, eat a known heavy attack for Magicka, swap back. It's awkward mid-fight and you chose damage over it, which is a reasonable call; but if the stamina drain gets worse, **keep an Ice staff in the bank** and treat it as a second armoury loadout rather than re-gearing.
+
+    **The farm note:** Crushing Wall's bonus (+1,250 Wall of Elements damage) is element-agnostic, but the staff itself isn't — so you need a **Crushing Wall *Inferno* staff** from vet Maelstrom, not the Ice one. Until it drops, any Infused inferno staff runs this bar fine; you're only missing the 1,250.
+
+    *⚠️ One flag: the "frost staff must be on the active bar for Minor Brittle" gate is from ESO-Hub's status-effects page, which is the aggregate kind this repo has been burned by. It matches how the mechanic is designed, and it's driving a gear decision — **confirm it on your own bar** by putting Chilled on something with daggers drawn and checking whether Minor Brittle appears. Everything else above is off the individual Destruction Staff skill and passive pages, read 2026-09-30.*
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
