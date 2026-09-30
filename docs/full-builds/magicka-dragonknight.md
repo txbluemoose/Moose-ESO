@@ -161,7 +161,8 @@ DK came out of the U49/U50 rework strong — community consensus puts it among t
 
 | | PvP setup |
 |---|---|
-| **Carries over** | Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve |
+| **Carries over** | Molten Whip burst, Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve |
+| **⚠️ U51 changed two of those** | **Molten Whip's Seething Fury damage bonus is now halved in PvP** — 3-stack whips still hit hard, but not like they did, so don't build the whole burst around them. And **Shatterspike Mantle's bonus damage now applies only to monsters**, so in PvP you're slotting it purely for **Major Resolve** — the DoT's damage bonus does nothing against players. Both still belong on the bar; both do less than this table used to imply. *(U51 notes, 28 Sept 2026.)* |
 | **Swap in — Blood of the Green Dragon** *(Draconic Power)* | Your burst heal. The U50 morph heals off max health per tick — exactly what a PvP DK wants |
 | **Swap in — Petrify** *(Earthen Heart)* | Reworked into a snare-then-stun — set up CC before a whip combo |
 | **Swap in — Protect the Brood / Fleetstep Wings** | Projectile eating and snare removal, both PvP gold |

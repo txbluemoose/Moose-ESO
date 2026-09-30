@@ -13,7 +13,7 @@
 ### Main Bar (Lightning Staff)
 1. **Engulfing Dragonfire** (morph of Dragonfire Breath, *Draconic Power*) — THE button. Channeled fire breath, ramps up damage every tick. **U51 made it better on both counts:** it costs 3,510 Magicka instead of 3,780, and it now **reduces damage taken by 15% while she's channelling** — so the button she holds down most is also a defensive one
 2. **Incinerate** (morph of Inferno, *Ardent Flame*) — fiery pulse every 5s + free crit buffs just for being slotted
-3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve (armor) + a DoT + bonus damage on every tick; replaces Fulminating Rune
+3. **Shatterspike Mantle** (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve (armor) + a DoT + bonus damage on every tick *(U51 narrowed that to damage done **to monsters** — no difference for her, since she doesn't PvP)*; replaces Fulminating Rune
 4. **Blood of the Green Dragon** (morph of Dragon Blood, *Draconic Power*) — burst heal off her max health + Major Fortitude; her panic button
 5. **Burning Embers** (morph of Searing Strike, *Ardent Flame*) — DoT that heals her on cast and every tick
 - **Ult: Take Flight** (morph of Dragon Leap, *Draconic Power*) — big leap; while its buff is active, Engulfing always does MAX damage
@@ -21,7 +21,7 @@
 **Major Breach note:** with the Arcanist line gone, her armor-shred debuff comes from **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — swap it in for Burning Embers against tanky dungeon bosses. For overland/delves she won't miss it; keep Burning Embers there for the healing.
 
 ### Class Mastery (the payoff for going pure class — pick 2)
-- **Inexorable Descent** — 1% more damage/healing/shield per Landslide stack
+- **Inexorable Descent** — 1% more damage/healing/shield per Landslide stack. **U51 raised the cap to 12 stacks and made them generate every 5s (rank 1) or 4s (rank 2)** instead of 10s/5s — a straight buff, and Pyrebrand now feeds it (see the gear notes)
 - **Wildfire Embers** — a stacking Burning DoT, up to 12 stacks at +25% damage each; her breath keeps enemies Burning, so this ramps hard
 - *Survivability alternative:* swap Wildfire Embers → **Resolute Defense** if she's dying while blocking
 
