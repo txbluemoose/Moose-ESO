@@ -61,7 +61,9 @@
 ### Upgrade path (when she feels like earning them)
 1. **Slimecraw helm** — vet Wayrest Sewers I (or undaunted chest luck)
 2. **Deadly Strike** weapons/jewelry — Cyrodiil town quests / guild traders (cheap!)
-3. **Pyrebrand** (5-piece body, DK class set) — drops in the **Infinite Archive**. Its 5-piece makes her light attacks proc a Flame DoT that feeds **Wildfire Embers**, then her fully-charged heavy attacks spend those stacks for a burst of Flame Damage (up to +200% to enemies under 33% health). It's built around the exact Wildfire Embers mastery this bar already runs, so it's a strong damage upgrade for the body slot in place of Tide-Born Wildstalker — keep Pale Order in the ring slot either way. IA is two-player, so she and her husband can farm it together. *(Set bonuses verified vs ESO-Hub / ArzyeL, U50 — in-game tooltip wins.)*
+3. **Pyrebrand** (5-piece body, DK class set) — drops in the **Infinite Archive**. Its 5-piece makes her light attacks proc a Flame DoT that feeds **Wildfire Embers**, then her fully-charged heavy attacks spend those stacks for a burst of Flame Damage (up to +200% to enemies under 33% health). It's built around the exact Wildfire Embers mastery this bar already runs, so it's a strong damage upgrade for the body slot in place of Tide-Born Wildstalker — keep Pale Order in the ring slot either way. IA is two-player, so she and her husband can farm it together.
+
+    **Update 51 made it better for her specifically:** the 5-piece light-attack proc now applies **Landslide as well as Wildfire Embers** (once every 10 seconds). She runs **Inexorable Descent**, which pays 1% more damage, healing *and* shield strength per Landslide stack — so Pyrebrand now feeds *both* of her Class Mastery picks off the same light attack instead of one. That moves it from "strong upgrade" to the clear body-set target. *(5-piece read off ESO-Hub 2026-09-30 — in-game tooltip wins.)*
 
 **Mundus:** The Thief
 **Attributes:** 64 Magicka (shift some to Health if she's getting one-shot)

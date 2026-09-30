@@ -73,7 +73,7 @@ Aim for this. It's cheap, mostly craftable/farmable, and leans on **Deadly Strik
 All **Order's Wrath** (7 pieces) + a crafted stam set on jewelry/weapons (**Tide-Born Wildstalker** or **Briarheart**) until Deadly Strike and Pale Order are farmed. Deadly Strike is cheap from guild traders (Cyrodiil set); Pale Order is from Antiquities.
 
 ### Upgrade
-Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together (the same runs that drop his Warden's Aerie's Cry).
+Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together *(**U51:** its Eagle's Mark now procs off a **Light *or* Heavy** Attack, not light only — so it fires even when she weaves a heavy in for resources)* (the same runs that drop his Warden's Aerie's Cry).
 
 **Mundus:** The Thief
 **Attributes:** 64 Stamina (shift some to Health if she's getting one-shot)

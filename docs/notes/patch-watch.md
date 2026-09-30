@@ -10,7 +10,7 @@ You need this to judge a source. **Anything written before the relevant date is 
 |---|---|---|
 | **U49** | **9 March 2026** | **Dragonknight class refresh** — renamed and *relocated* a long list of abilities, and converted the DK's Poison damage to **Flame**. Also **rescaled antiquity lead expiry by lead quality** (see below) and reworked Two-Handed. |
 | **U50** | **8 June 2026** | **Class Mastery** system (why both players are pure class), the **Werewolf overhaul** (form timer replaced with an Ultimate upkeep), Challenge Difficulty, PvP Veterancy. **This is the baseline for every guide here.** |
-| **U51** | PTS now — **21 September** | Nowhere Vault opens. **Elemental Susceptibility gains a 3240 Magicka cost** (it's free on live), which hits several bars here — especially the stamina builds. |
+| **U51** | **28 September 2026** (PC; console ~2 weeks later) | Finished the hybridization project: **Major/Minor Sorcery and Prophecy removed**, Mundus Stones, class passives and Alchemy consolidated. Also **Elemental Susceptibility gained a 3,240 Magicka cost** (it was free), **re-priced the whole Werewolf line upward**, and changed a long list of item sets. Nowhere Vault opened. |
 
 !!! success "Update 51 is live (28 September 2026, PC) — first pass done 2026-09-29"
     **Done repo-wide, verified against the U51 notes:**
@@ -26,6 +26,22 @@ You need this to judge a source. **Anything written before the relevant date is 
     | **Colossus** ultimates cost **150** instead of 175 | noted on all four Necromancer sheets, with the U52 revert warning |
     | **Tome-bearer's Inspiration** triggers only from **Arcanist** skill damage | flagged on both Arcanist guides |
 
+    **Second pass done 2026-09-30 — the four patch sections the first pass never read:**
+
+    | Section | What we did |
+    |---|---|
+    | **Weapons & Guild Skills** | **Elemental Susceptibility's 3,240 Magicka cost swept across 13 bars in 10 guides** that still called it free — it was load-bearing on the stamina builds, and her Stam Sorc's optional back bar was re-assessed around it. Also corrected two errors found on the way: both Arcanists credited it with Minor Magickasteal (that's **Elemental Drain**), and the Stamina Templar called its Breach *Minor* |
+    | **Werewolf** | Both guides re-read off the live skill pages. Costs roughly tripled; **all six passive names were pre-rework**; **Blood Hunger buffs Rip and Tear's *healing*, not its damage**; Hircine's Fortitude grants **Major Brutality and Major Vitality** while slotted; Hircine's Rage **does** grant Minor Berserk; Rampage **removes** ability costs for 20s; werewolf is Martial damage so the CP tables want **Mighty**, not War Mage |
+    | **Item Sets** | **Pyrebrand** now applies **Landslide** as well as Wildfire Embers — it feeds *both* DK mastery picks, which promotes it on both DK sheets. **Aerie's Cry** procs off Light *or* Heavy Attacks now (4 Warden pages). **Necropotence** is +14% Max Magicka *while a combat pet is up* — flagged on her Magicka Warden PvP row, where a Warden has no pet outside the bear ultimate. **Ansuul's Torment** needs combat to activate. **Dov-rha Sabatons** breaks stealth. **Aetheric Lancer** places its area in front of you. **Death Dealer's Fete** bug fix |
+    | **Scribing** | Nothing lands here: the changes are **Traveling Knife + Pull Focus** (target cap 6) and **Vault + Crusader's Defiance** (no longer cleanses), and no bar in this repo uses either script. The old **Class Mastery** script name is now **Class Flourish** — that's the *script*, not the Class Mastery system both players are pure-class for |
+    | **PvP** | Recorded below rather than written into bars, because none of it changes a loadout |
+
+    !!! note "U51 PvP changes — context, not build changes"
+        - **Battle Spirit now caps damage shields** at 300% of Max Health in groups of 1–4, falling to 220% at 5 players and down to 60% at 12. ZOS says the numbers aren't final. Nothing here stacks shields hard enough to hit it solo or in a 4-man.
+        - **Two- and three-team Battlegrounds merged into a "Big Team Battles" queue** (6v6v6 and 9v9). The competitive queue stays 4v4. New medals reward damage shields and long Major/Minor buffs, and the scoreboard now shows damage, healing and objectives.
+        - **Vengeance** is queueable from the Group and Activity Finder, its damage ability target caps went 3 → 12 (defensive and CC 3 → 6), and **Vengeance Rapid Maneuver** now grants **Minor Gallop** on top of Major Expedition.
+        - **Solo Dungeons** arrived: solo March of Sacrifices and Moon Hunter Keep, with optional **Meted Misfortunes** (0 = overland, 1 = normal arena, 2 = vet arena, 3 = harder than either). They drop **dungeon** sets rather than overland ones and pay Undaunted Crests. Worth knowing — it's new solo content that fits this household exactly, and **Pulled Punches no longer excludes heavy-attack builds** (it's a flat −30% damage now), which matters for her Sorcerer.
+
     **Still to do — these need a per-guide pass, not a sweep:**
 
     - **Nightblade** is the most affected class. **Relentless Focus now breaks Stealth/Invisibility.** **Shadowy Disguise's guaranteed crit no longer applies to proc attacks** — which is most of why the guides slot it as a parse gain. Born From Shadow went 10s → 15s. Strife/Swallow Soul were reworked to scale with current Health.
@@ -34,6 +50,8 @@ You need this to judge a source. **Anything written before the relevant date is 
     - **Mundus worth re-evaluating:** **The Warrior now grants both Weapon and Spell Damage**, so it is live for magicka builds for the first time. The Apprentice became an XP/Inspiration stone and is no longer a damage option (we never recommended it).
     - **Sorcerer:** Crystal Weapon has 3 charges; **Conservation of Energy restores 1.5% instead of 2%** (her Stam Sorc mastery pick); Blood Magic heals 3%/6% instead of 5%/10%.
     - **Warden:** Fetcher Infection's second cast +75%; Arctic Blast +20% per tick. **Templar:** Balanced Warrior reworked.
+    - **Pet damage reclassification:** **Icy Conjurer, Aegis Caller, Scavenging Demise, Coldharbour's Favorite, Mad Tinkerer and Cinders of Anthelmir now deal pet damage.** Only Aegis Caller appears here, and only in upgrade ladders — but if either of them ever gears one, check whether pet damage still feeds **Ring of the Pale Order**, because that would matter a lot.
+    - **Ice Comet** deals ~21% more damage per tick and its snare re-applies on every hit. Nothing slots it (the tank sheet runs Shooting Star for the Ultimate refund), but it's now the damage pick if anyone wants Meteor for damage.
 
 !!! danger "Superseded — kept for the record: the pre-release warning"
     Confirmed 2026-09-19. Console follows roughly two weeks later. U51 **finishes the hybridization project**: it consolidates **Mundus Stones**, the **Major/Minor buff system**, **class passives** and **Alchemy**. That is not a normal balance patch — it touches the layer nearly every guide here is built on.
@@ -61,7 +79,7 @@ Every one of these bit us, and each cost a real correction:
 
 ## Known upcoming
 
-- **Update 51 — September 21** — Nowhere Vault opens (Thieves Guild season content). Nowhere Keys have no use before this date; no reason to farm them hard yet.
+- **Update 52** — no notes yet. One thing is already flagged for it: U51's **Colossus ultimate cost cut (175 → 150) is scheduled to revert**, which affects all four Necromancer sheets.
 
 ## Re-verify checklist after any update
 

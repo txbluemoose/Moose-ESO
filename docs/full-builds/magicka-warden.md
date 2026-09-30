@@ -95,7 +95,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 | Front (2 daggers) | — | Charged | Poison + Absorb Magicka | Sul-Xan's Torment |
 | Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff |
 
-*Aerie's Cry = the Warden class set (Infinite Archive — two-player, farm it alongside your wife's runs). Sul-Xan's Torment = Rockgrove. Crushing Wall = vet Maelstrom Arena. Overland swap: Slimecraw stays; if you can't reach the trial gear yet, see the fallback ladder. *(Don't reach for **Iceheart** here for its damage shield — like every monster set, that's its **2-piece** bonus, and the mythic ring leaves you only one monster slot. At 1 piece you're buying its stat line, nothing more.)* In-game tooltips override — confirm on your bar.*
+*Aerie's Cry = the Warden class set (Infinite Archive — two-player, farm it alongside your wife's runs). **U51 change:** Eagle's Mark now applies from a **Light *or* Heavy** Attack, not light only — so it no longer punishes you for weaving a heavy in for resources. The mark runs 12s, the eagle hits for 857 Physical every 3s, and applying it gives you **Aerie's Call: +10% damage against marked enemies**. Sul-Xan's Torment = Rockgrove. Crushing Wall = vet Maelstrom Arena. Overland swap: Slimecraw stays; if you can't reach the trial gear yet, see the fallback ladder. *(Don't reach for **Iceheart** here for its damage shield — like every monster set, that's its **2-piece** bonus, and the mythic ring leaves you only one monster slot. At 1 piece you're buying its stat line, nothing more.)* In-game tooltips override — confirm on your bar.*
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
@@ -153,7 +153,7 @@ Warden PvP translates well from this chassis. Verified against **Alcast's U50 Ma
 |---|---|
 | **Carries over** | **Polar Wind** becomes your money burst heal (max-health scaling is PvP gold), **Deep Fissure** burst timing, **Shimmering Shield** (projectile-heavy Cyrodiil is its natural habitat), Blue Betty purge, Northern Storm as a brawler ult, Frozen Armor for resolve |
 | **Armour & stats** | **Light armor** — *not* Heavy — with **Impen** traits, built around roughly **50k Magicka and 30k Health**. The survivability comes from the enormous magicka pool feeding shields and heals, not from armor weight |
-| **Sets** | **Necropotence** + **Bright-Throat's Boast** |
+| **Sets** | **Necropotence** + **Bright-Throat's Boast**. ⚠️ **U51 changed Necropotence:** the 5-piece is now **+14% Max Magicka while you have a summoned combat pet active**, replacing a flat Magicka bonus. On a Warden the only combat pet is **Feral Guardian** (the bear ultimate), so on this bar the bonus is **off most of the time** — a percentage of a 50k pool is a lot to leave inactive. Re-check this set against the live Alcast page before you gear it. Flagged 2026-09-30 |
 | **Monster set** | **Kjalnar's Nightmare** |
 | **⚠️ Constraint** | Builds that *subclass* are **not for you** — subclassing disables Class Mastery. Stick to pure-class-compatible references |
 

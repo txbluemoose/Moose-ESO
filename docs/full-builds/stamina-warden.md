@@ -75,7 +75,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 |---|---|---|---|---|---|
 | Head | Medium | Divines | Stamina | Slimecraw | 1pc = 657 Crit Chance. Any monster helm works — you only get its **1-item** stat line, so compare those, not the procs ([why](../shared/gear-math.md)) |
 | Shoulders | Medium | Divines | Stamina | Sul-Xan's Torment | |
-| Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive |
+| Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive. **U51: Eagle's Mark now procs off a Light *or* Heavy Attack**, so heavy-attack weaving no longer skips it |
 | Hands | **Light** | Divines | Stamina | Aerie's Cry | Light in the base/overland 4/3 split |
 | Belt | **Light** | Divines | Stamina | Aerie's Cry | always Light |
 | Legs | Medium | Divines | Stamina | Aerie's Cry | |
