@@ -38,7 +38,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 | 2. **Relentless Focus** (morph of Grim Focus, *Assassination*) | 2. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) |
 | 3. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) | 3. **Refreshing Path** (morph of Path of Darkness, *Shadow*) |
 | 4. **Siphoning Attacks** (morph of Siphoning Strikes, *Siphoning*) | 4. **Dark Shade** (morph of Summon Shade, *Shadow*) |
-| 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) |
+| 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Bleed / Lingering Torment / Resolve) |
 | **Ult:** Soul Harvest (morph of Death Stroke, *Assassination*) | **Ult:** Soul Tether (morph of Soul Shred, *Siphoning*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina is part of the answer to your documented stamina gap — see the sustain note below). The bow back bar exists only to lay Endless Hail + Barbed Trap + Refreshing Path; you swap back to daggers immediately. You spend the fight in melee.*

@@ -32,7 +32,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
+| 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). **Inferno back bar** — changed from Ice on 2026-09-30; the reasoning is under the gear table. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
@@ -42,6 +42,40 @@ This is your bread and butter — the verified U50 solo MagDK.
 - **Burning Embers** (other morph of Searing Claw) heals on cast and every DoT tick — swap it in over Searing Claw whenever you want more healing. Slightly less damage.
 - **Disintegrating Dragonfire** (not Engulfing) is correct for solo — it applies Major Breach, which you have no group to provide.
 - **Ulfsild's Contingency** needs the Scribing system (Gold Road). If you don't have scribing unlocked, use Burning Talons (morph of Dark Talons) in that slot.
+
+### Scribing — what this slot is actually doing (reviewed 2026-10-02)
+
+**Ulfsild's Contingency (Flame / Lingering Torment / Resolve)** is the verified pick, and it does more than "a DoT":
+
+- A **22-second damage-over-time**, and it's your **AoE spammable** — not just a buff you refresh.
+- Grants **Minor Resolve: +2,974 Armor.** That's the survivability half, and it's why the tanky setups keep it.
+- It's a **Mages Guild** grimoire — *not* Soul Magic, which this page said until 2026-10-02. That matters: slotting it feeds **Magicka Controller** (+Max Magicka and Magicka Recovery per Mages Guild ability slotted), so buy the Mages Guild passives. **Mage Adept, Everlasting Magic and Magicka Controller are all high priority; Might of the Guild is low and Persuasive Will isn't needed.**
+- It triggers **when you cast an ability with a cost**, so it feeds itself off your normal rotation.
+- It is also **the first skill to drop** when you need a slot for something situational.
+
+| Script combo | When |
+|---|---|
+| **Flame / Lingering Torment / Resolve** | **Default.** The DoT plus +2,974 Armor |
+| **Flame / Gladiator's Tenacity / Resolve** | Trades the DoT for **damage mitigation** — hard boss fights |
+| **Flame / Class Flourish / Resolve** | **The melee pick, if you can get the script — see below** |
+
+!!! tip "Class Flourish is the script worth chasing for how you play"
+    **Class Flourish** (the U51 rename of the **Class Mastery** signature script) has a different effect per class. On a **Dragonknight** it reads: *for each enemy within 8 metres, up to 6, gain **50 Weapon and Spell Damage** and **reduce your damage taken by 2% plus 1% per enemy** for 5 seconds.*
+
+    In a pack of six that's **+300 Weapon and Spell Damage and −8% damage taken** — damage *and* mitigation, scaled to how many things are swinging at you. On a melee build that stands in the middle of the pack, that is close to a perfect fit for this repo's whole design constraint, and it's better for you than it would be for a ranged build.
+
+    **The cost is real, though.** It's one script, unlocked by combining **50 Class Script Scraps**, and scraps drop from group content: Trials (1 normal / 2 vet), trial weekly coffers (up to 4), trial leaderboards (5), and **Arenas — 1 normal / 3 veteran, once per day per account.** As a mostly-solo player your realistic route is **veteran arena runs at 3 scraps a day**, so roughly a two-and-a-half week habit. You only ever grind it **once per account** — after that you buy it from **Chronicler Firandil** for every alt, which makes it good value across all seven of your characters.
+
+    Until you have it, **Flame / Lingering Torment / Resolve** is the right default.
+
+**Other grimoires worth knowing on this character:**
+
+- **Soul Burst (Pull / Class Flourish / Breach)** — *Soul Magic.* An **8-metre AoE pull** with a 2-second delay that applies **Minor Breach** and grants **Weapon and Spell Damage scaled to the number of enemies hit**. The live solo build slots this **in place of Elemental Susceptibility on trash packs** — it stacks the pack *and* debuffs it, which is two jobs for one slot when you're clearing.
+- **Banner Bearer** — *Alliance War → Support.* This is the **group/trial** answer, not the solo one: Alcast's U51 group Mag DK runs it (as **Magical Banner**) in slot 5 on **both** bars. It's a toggle — activate once and it stays up, draining resources continuously in exchange for large buffs. Already referenced in the Trials section below.
+- **Elemental Explosion** — *Destruction Staff*, so it's slottable on your back bar now that it's a staff. Not in any current DK build; listed so you know it exists.
+- **Traveling Knife** — *Dual Wield*, so it fits your **front** bar. Used on the Mag Sorc and Mag Warden here, not on the DK.
+
+**And the honest counterpoint:** the highest-parsing solo setup **drops scribing from this slot entirely** — **Burning Talons** instead of Ulfsild's is the "Full Damage" build at **80.0k vs 77.0k simulated DPS (+3.8%)**, because Talons does more damage but gives no armour. The tanky setup keeps Ulfsild's and sits at 71.7k (−6.9%). A ~4% swing is inside the noise band this repo uses as a tiebreaker, and +2,974 Armor is not — so **keep Ulfsild's**, and treat Burning Talons as the swap for a fight you're already comfortably clearing. *(Parses and script combos from the live Hyperioxes solo Mag DK build, read 2026-10-02; Class Flourish effect and scrap sources from Alcast's scribing guide.)*
 
 ### Situational swaps (with skill line sources)
 - **Resolving Vigor** — *Alliance War > Assault* (earn Alliance Points in Cyrodiil/BGs/Imperial City) — burst-damage fights and invulnerability phases where Pale Order can't heal you
@@ -102,6 +136,10 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
     **What you give up, stated honestly:** an equipped Ice staff makes **blocking cost Magicka instead of Stamina**, at **−36% cost with +20% mitigation**. That is the most direct answer this repo has found to your documented stamina shortfall (the open item in `CLAUDE.md`, and the **Tireless Guardian** / **Savage Defense** CP passives in the Red table) — swap to the staff, eat a known heavy attack for Magicka, swap back. It's awkward mid-fight and you chose damage over it, which is a reasonable call; but if the stamina drain gets worse, **keep an Ice staff in the bank** and treat it as a second armoury loadout rather than re-gearing.
 
     **The farm note:** Crushing Wall's bonus (+1,250 Wall of Elements damage) is element-agnostic, but the staff itself isn't — so you need a **Crushing Wall *Inferno* staff** from vet Maelstrom, not the Ice one. Until it drops, any Infused inferno staff runs this bar fine; you're only missing the 1,250.
+
+    **⚠️ Softened 2026-10-02 — the live source still runs Ice, and this recommendation was stated too strongly.** Checking the Hyperioxes solo Mag DK build directly: it **confirms the Minor Brittle gate in so many words** ("Minor Brittle for 4 seconds *if you were on your Ice Staff bar while the Chilled effect procced*"), so the reasoning this page used to give really was wrong. But it **still uses a Crushing Wall *Ice* staff for its instanced/trial setup** — accepting that gate — because the ice Blockade's armour shred and constant Chilled uptime are worth it there, and it reserves the **Inferno** staff for the crafted/fallback setup. It also rates **Ancient Knowledge only *medium* priority**, not high, which is a fair check on the +12% argument above: that bonus is **active-bar only**, and you're on daggers for most of the fight, so it mostly applies to the Blockade you cast while standing on the staff bar rather than to your class damage-over-time.
+
+    **Where that leaves it:** Inferno is a defensible pick and it's what's on this page, by his explicit choice. It is **not** the obviously-correct one, and Ice is not "costing you for nothing" — that was an overstatement. If you want to match the tested build for instanced content, Ice is the source's answer and the ice staff also carries the block-cost conversion below. Treat this as a genuine two-way choice and keep whichever staff you prefer; the thing that was definitely wrong was the Minor Brittle claim, and that's fixed either way.
 
     *⚠️ One flag: the "frost staff must be on the active bar for Minor Brittle" gate is from ESO-Hub's status-effects page, which is the aggregate kind this repo has been burned by. It matches how the mechanic is designed, and it's driving a gear decision — **confirm it on your own bar** by putting Chilled on something with daggers drawn and checking whether Minor Brittle appears. Everything else above is off the individual Destruction Staff skill and passive pages, read 2026-09-30.*
 

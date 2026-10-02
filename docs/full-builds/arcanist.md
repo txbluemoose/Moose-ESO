@@ -57,7 +57,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 
 ### Situational swaps (with skill line sources — drop Fulminating Rune first, then Quick Cloak)
 - ⚠️ **Wield Soul** (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Breach) — you have Gold Road, so this is a live option: a DoT + a second Major Breach source if you ever drop the staff back bar. Don't double it with Elemental Susceptibility.
-- **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
+- **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
 - **Tentacular Dread** (morph of Abyssal Impact, *Herald of the Tome*) — the ranged Crux spender: burst + a 3s immobilize, for kiting or when you need to pin a runner.
 - **Runic Sunder** (morph of Runic Jolt, *Soldier of Apocrypha*) — ⚠️ ranged taunt/Minor Maim; pull single targets or peel an add in duo content.
 - **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — your **Minor Force** (+10% crit damage) source plus a bleed; in for Fulminating Rune on any fight worth buffing for. See the note above.

@@ -38,7 +38,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 | 2. **Merciless Resolve** (morph of Grim Focus, *Assassination*) | 2. **Siphoning Attacks** (morph of Siphoning Strikes, *Siphoning*) |
 | 3. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) | 3. **Refreshing Path** (morph of Path of Darkness, *Shadow*) |
 | 4. **Sap Essence** (morph of Drain Power, *Siphoning*) | 4. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) |
-| 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) |
+| 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Bleed / Lingering Torment / Resolve) |
 | **Ult:** Soul Harvest (morph of Death Stroke, *Assassination*) | **Ult:** Soul Tether (morph of Soul Shred, *Siphoning*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Berserker** (Weapon/Spell Damage), off-hand **Absorb Magicka** (your class heals carry you, so the off-hand backstops magicka rather than stamina here). The inferno-staff back bar is where **Swallow Soul** lives: swap to it to lay Refreshing Path + Elemental Susceptibility and — when you want to fight from range instead — camp there and spam Swallow Soul, which heals you for 33% of the damage it inflicts every 2 seconds. That staff bar **is** your ranged option; you don't need a second guide for it.*

@@ -53,7 +53,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 
 ### Situational swaps (with skill line sources — drop Fulminating Rune first, then Elemental Blockade)
 - ⚠️ **Wield Soul** (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Breach) — you have Gold Road, so this is live: a DoT + a second Major Breach source. Don't double it with Elemental Susceptibility.
-- **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
+- **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
 - **Tentacular Dread** (morph of Abyssal Impact, *Herald of the Tome*) — the ranged Crux spender: burst + a 3s immobilize, for kiting or pinning a runner. Note it competes with Flail for the same base skill, so run one or the other.
 - **Runic Sunder** (morph of Runic Jolt, *Soldier of Apocrypha*) — ranged taunt / Minor Maim; pull single targets or peel an add in duo content.
 - **Precognition** (ult, *Psijic Order*) — mandatory for the handful of solo-impossible stun mechanics (Zaan-type fights). Stuns interrupt the beam, so this is your answer to the build's one real weakness.

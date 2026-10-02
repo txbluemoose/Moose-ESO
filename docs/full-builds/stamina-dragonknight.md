@@ -60,7 +60,7 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 ### Situational swaps (with skill line sources)
 - **Incinerate** — *Dragonknight > Ardent Flame* (other morph of Inferno) — trade Cauterize's heal aura back for fireball damage when a fight isn't threatening. Same crit buff either way.
 - **Resolving Vigor** — *Alliance War > Assault* — a strong HoT for burst-damage windows and invulnerability phases where Pale Order can't heal you (no damage going out = no Pale Order heal).
-- **Ulfsild's Contingency** — *scribed grimoire, Soul Magic; scripts: Flame / Lingering Torment / Resolve* — you have scribing (Gold Road), so this is a legitimate slot-5 damage-and-utility option in place of Executioner or Deadly Cloak.
+- **Ulfsild's Contingency** — *scribed grimoire, Mages Guild; scripts: Flame / Lingering Torment / Resolve* — you have scribing (Gold Road), so this is a legitimate slot-5 damage-and-utility option in place of Executioner or Deadly Cloak.
 - **Quick Cloak** — *Dual Wield* (other morph of Blade Cloak) — Major Evasion without the bleed if you want a cheaper defensive; Deadly Cloak is the default because it also adds damage.
 - **Blood of the Green Dragon** — *Dragonknight > Draconic Power* (other morph of Dragon Blood) — swap in over Blood of the Elder Dragon for Major Endurance + stamina recovery when a long fight out-drains you; trades burst-heal size for sustain.
 - **Corrosive Armor** ult — *Dragonknight > Earthen Heart* — caps incoming hits at 6% max HP for 10s; panic ult for one-shot mechanics.

@@ -26,7 +26,7 @@
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
 | 3. Bull Netch (morph of Betty Netch, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Arctic Blast (morph of Arctic Wind, *Winter's Embrace*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Soul Burst (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Force) |
+| 5. Soul Burst (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Frost / Lingering Torment / Force) |
 | **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the 5% crit damage passive only — the bonus comes from **slotting** an Animal Companions ability, not from summoning. Never summon it, never spend ult on it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage + **50 Weapon/Spell Damage per tick, stacking to 450** + **Major Protection (−10% damage taken)** |
 
 **What each does:**
