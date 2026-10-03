@@ -86,6 +86,7 @@ Every one of these bit us, and each cost a real correction:
 
 ## Known upcoming
 
+- **The Nowhere Vault is open** (U51, 28 September 2026). The old note here said Nowhere Keys had no use yet and weren't worth farming — **that's reversed now.** Keys drop from heists, troves, delves, world bosses, treasure chests, favors, dynamic encounters, rumors and solo dungeons, they're tradeable, and the Vault holds the **Gem of Cunning**, the last Prowler's Talisman upgrade. Details in [Mythics](../shared/mythics.md#prowlers-talisman-yours-but-not-for-combat).
 - **Update 52** — no notes yet. One thing is already flagged for it: U51's **Colossus ultimate cost cut (175 → 150) is scheduled to revert**, which affects all four Necromancer sheets.
 
 ## Re-verify checklist after any update
