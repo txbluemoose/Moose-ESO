@@ -79,6 +79,19 @@ The 2026 exception to "all mythics come from Antiquities." **Prowler's Talisman*
 
 What it does: **+5% Pickpocket success**; **Bracing while crouched turns you invisible for 10s, once every 45s** (out of PvP); and stacking stat buffs from combat — up to **1,900 Max Magicka and Stamina** at 10 stacks on critical damage, or up to **160 Health/Magicka/Stamina Recovery** at 10 stacks on non-critical damage. Fully upgraded those become **2,140** and **180**.
 
+!!! success "The Nowhere Vault is open as of Update 51 — the last gem is reachable now"
+    This was the blocker on finishing the Talisman, and it lifted on **28 September 2026** (PC; console ~2 weeks later). The **Gem of Cunning** comes from exploring the **Nowhere Vault**, which didn't exist until U51 — so **Wondrous Nowhere Keys** went from "nothing to spend them on" to "the thing standing between you and a fully-upgraded mythic."
+
+    **How to get in:** claim the **"Invitation to Treasures"** quest **free from the Crown Store**, or just travel to the **Daggerfall Thieves Den** and talk to **Urli**. You need at least one **Wondrous Nowhere Key** in your bags before the portal will open.
+
+    **Where keys come from — and this is why it suits you:** **Heists, Thieves Troves, Delves and World Bosses, Treasure Chests, Favors, Dynamic Encounters, Rumors, and Solo Dungeons.** That is almost exactly your existing non-combat routine — trove runs and chest routes now pay toward the mythic instead of just gold. Keys are also **tradeable**, so you can buy them from a guild trader if you'd rather skip the farm, or sell spares.
+
+    **What's inside:** three **wings**, each a randomized selection and order of rooms, soloable or grouped. **One key opens a room**, and you'll want **spare keys** for the **Nowhere Chests** and **key locks** at the ends of rooms — so don't walk in with exactly one. Rooms are puzzles, traps, stealth and traversal rather than combat: dodging environmental hazards, collecting things while being chased. Every room hides a **secret objective**, and there are two special room types — **Story Rooms** (lore about the Vault) and **Jackpot Rooms** (treasure and resources).
+
+    Because it's barely a combat activity, **this is the one place the Prowler's Talisman loadout is also the correct *content* loadout** — crouch-invisibility and pickpocket bonus, no need to swap back to Pale Order first.
+
+The base Talisman itself comes from **"The Codex Caper"**, the opening quest of the Thieves Guild storyline in **Daggerfall**.
+
 Those combat numbers are real but small, and the item **occupies the same slot as Pale Order**. So the ruling stands from the earlier notes: this is a **thieving and farming loadout**, not a combat one. Put it in a dedicated Armory Assistant slot alongside your gathering kit, wear it for trove runs, chest routes and Thieves Guild dailies, and swap back before you go fight anything. **Finish the four gems** — it's cheap, it's content you enjoy anyway, and the invisibility-on-crouch is genuinely good for heist work.
 
 ---
@@ -116,7 +129,7 @@ Slot, effect in plain language, and whether it earns a place in this household.
 | Mythic | Slot | What it does | Worth it for us? |
 |---|---|---|---|
 | **Gaze of Sithis** | Head | +3,276 Max Health, +1,025 Health Recovery, +4,000 Armor — and your **Block Mitigation drops to 0**. | **No.** A tank item for people who never block. You block. |
-| **Death Dealer's Fete** | Head | Stacks every 2s in combat up to 30 stacks; each stack is +88 to all three max stats (≈+2,640 each at cap). | **No, but honourable mention.** Pure defensive stats with no downside — it just isn't worth 20% lifesteal. |
+| **Death Dealer's Fete** | Head | Stacks every 2s in combat up to 30 stacks; each stack is +88 to all three max stats (≈+2,640 each at cap). *(U51 fixed a bug where it kept the bonuses after stacks decayed — so it's slightly weaker in practice than it used to feel.)* | **No, but honourable mention.** Pure defensive stats with no downside — it just isn't worth 20% lifesteal. |
 | **The Shadow Queen's Cowl** | Head | See guards and witnesses through walls while crouched; pickpocketing a witness stuns them; huge stealth-detection reduction against them. | **Maybe — thieving.** Directly overlaps Prowler's Talisman. Own one or the other for heist nights, not both. |
 | **Bloodlord's Embrace** | Shoulders | Bash an enemy to curse it; when that cursed enemy hits you while you're blocking, you get a large Magicka return. | **No.** Bash-and-block loop; not how either player fights. |
 | **Spaulder of Ruin** | Shoulders | Crouch/Prowl creates a 12m aura giving up to 6 group members +260 Weapon and Spell Damage, at the cost of −70 to all your recoveries per person buffed. | **No.** Group support item, and it punishes your recovery — the exact stat your DK is short on. |
@@ -138,7 +151,7 @@ Slot, effect in plain language, and whether it earns a place in this household.
 | **Stormweaver's Cavort** | Waist | +300 Magicka Recovery; Sprint, Roll Dodge, Bash, Break Free, Sneak and Block all cost **Magicka** instead of Stamina. | **Interesting, and still no.** It would genuinely paper over your DK's stamina gap by moving the drain to Magicka — but it costs Pale Order, and the real fix is weaving, not gear. Filed under "symptom treatment." |
 | **Esoteric Environment Greaves** | Legs | While above 50% Stamina, take **50% less direct damage** — but lose 968 Stamina every time you take direct damage (max once per 0.3s). | **Tempting, and specifically wrong for your DK.** It's the most survivability-shaped mythic in the game, and it's paid for in exactly the resource you're already short of. On a melee character taking constant hits it would drain you in seconds. |
 | **Snow Treaders** | Feet | Immune to cleansable snares and immobilisations in combat — but you can never Sprint. | **PvP niche.** No. |
-| **Dov-rha Sabatons** | Feet | Sprinting stacks Draconic Scales (+660 Armor each, 20 max); stopping releases an 8m shockwave scaled to your stacks plus a damage shield. | **No.** Widely considered the weakest mythic in the game. |
+| **Dov-rha Sabatons** | Feet | Sprinting stacks Draconic Scales (+660 Armor each, 20 max); stopping releases an 8m shockwave scaled to your stacks plus a damage shield. **U51: the shockwave now removes you from Stealth and Invisibility.** | **No.** Widely considered the weakest mythic in the game, and the U51 stealth-break kills the one niche use (sprinting around while concealed). |
 | **Mad God's Dancing Shoes** | Feet | Roll dodging in combat triggers a random effect. ⚠️ the effect table isn't well documented — confirm in-game. | **No.** Randomness again. |
 
 ---
@@ -153,7 +166,7 @@ Everything below is the **lead source** — where the drop comes from. The **dig
 |---|---|
 | **Ring of the Pale Order** | **Alik'r Desert** — Coldrock Diggings delve boss (*Direnni Elegy Loop*) · **Bangkorai** — random treasure chests (*Aurmine Ancestral Signet*) · **Glenumbra** — Bad Man's Hallows public dungeon trash (*Order-Etched Gallery Rail*) · **Wrothgar** — world bosses, needs Orsinium (*Onyx Accent Stones*) · **The Reach / Nighthollow Keep** — a fixed "Ancient Text" on a table, needs Markarth (*Pale Order's Golden Band*) |
 | **Oakensoul Ring** | **High Isle** — Volcanic Vent world events, from the Volcanic Cache (*Igneous Inlay*) · **Stormhaven** — Titanclaw world boss, Mudcrab Beach (*Larimar Gems*) · **Malabal Tor** — any enemy near Velyn Harbor (*Sacred Resin*) · **Glenumbra** — blacksmithing ore nodes (*Stone Shank Frame*) · **Murkmire** — safeboxes/strongboxes (*Petrified Oak Loop*). All five **dig in High Isle**. |
-| **Prowler's Talisman** | **Not an antiquity.** Unlocks from the first Season One Thieves Guild quest; four upgrade gems from Rumors, Dynamic Encounters, the *Racing into Nowhere* quest, and the Nowhere Vault. |
+| **Prowler's Talisman** | **Not an antiquity.** Unlocks from **The Codex Caper**, the opening Thieves Guild quest in **Daggerfall**. Four upgrade gems: **Gem of Deception** (Rumors), **Gem of Agility** (Dynamic Encounters), **Gem of Stealth** (the *Racing into Nowhere* quest), **Gem of Cunning** (the **Nowhere Vault** — open since U51; see the section above). |
 
 ### Greymoor-era
 

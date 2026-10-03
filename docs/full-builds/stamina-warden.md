@@ -26,7 +26,7 @@
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
 | 3. Bull Netch (morph of Betty Netch, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Arctic Blast (morph of Arctic Wind, *Winter's Embrace*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Soul Burst (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Frost / Lingering Torment / Force) |
+| 5. Soul Burst (scribed grimoire, *Soul Magic*; scripts: Bleed / Lingering Torment / Resolve) | 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Frost / Lingering Torment / Force) |
 | **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted for the 5% crit damage passive only — the bonus comes from **slotting** an Animal Companions ability, not from summoning. Never summon it, never spend ult on it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage + **50 Weapon/Spell Damage per tick, stacking to 450** + **Major Protection (−10% damage taken)** |
 
 **What each does:**
@@ -37,7 +37,7 @@
 - **Soul Burst** — AoE spammable DoT + Minor Resolve
 - **Lotus Blossom** — Major Savagery + passive healing on every light/heavy attack (feeds Glacial Obstinance)
 - **Winter's Revenge** — ground DoT with elevated status-proc chance; massive with Chilled procs
-- **Elemental Susceptibility** — free to cast; applies Burning + Chilled + Concussed every 7.5s, feeding Wild Adaptation stacks, plus Minor Vulnerability and Minor Maim via the procs
+- **Elemental Susceptibility** — applies Burning + Chilled + Concussed every 7.5s, feeding Wild Adaptation stacks, plus Minor Vulnerability and Minor Maim via the procs. **U51 gave it a 3,240 Magicka cost** — it was free until 28 September 2026. On a stamina build that is the single most expensive thing on your bars; it's still worth the press for a 30-second Breach plus the status engine, but it is no longer a free pre-buff you spam
 - **Every Animal Companions skill slotted = +5% crit damage each** (Advanced Species passive) — that's why Wild Guardian just sits there
 
 *\*Dual daggers are the default (best damage, up-close). Want to fight at range with real bow skills? That's a separate guide → [Stamina Warden — Bow](stamina-warden-bow.md), which leans into Poison Injection / Endless Hail / Cutting Dive. (A plain bow front bar on *this* build is only −4.8% and needs zero skill changes, since it runs no weapon-line front-bar skills. Lightning staff −2.8%, Inferno −3.0%.)*
@@ -75,7 +75,7 @@ Think of it as **"lay the ground, then live on the front bar."**
 |---|---|---|---|---|---|
 | Head | Medium | Divines | Stamina | Slimecraw | 1pc = 657 Crit Chance. Any monster helm works — you only get its **1-item** stat line, so compare those, not the procs ([why](../shared/gear-math.md)) |
 | Shoulders | Medium | Divines | Stamina | Sul-Xan's Torment | |
-| Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive |
+| Chest | Medium | Divines | Stamina | Aerie's Cry | Warden class set — Infinite Archive. **U51: Eagle's Mark now procs off a Light *or* Heavy Attack**, so heavy-attack weaving no longer skips it |
 | Hands | **Light** | Divines | Stamina | Aerie's Cry | Light in the base/overland 4/3 split |
 | Belt | **Light** | Divines | Stamina | Aerie's Cry | always Light |
 | Legs | Medium | Divines | Stamina | Aerie's Cry | |

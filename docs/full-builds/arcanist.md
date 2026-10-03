@@ -38,11 +38,11 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 **What each does:**
 - **Cephaliarch's Flail** — your melee spammable. Generates Crux, **heals you on any hit**, and applies a **+5% damage-taken debuff** to everything it hits. This is heal source #2 (Pale Order is #1).
 - **Pragmatic Fatecarver** — THE beam. Spends Crux, full damage in AoE out to ~22m with no falloff, dirt cheap, and **grants a big damage shield the entire time you channel**. The shield *is* your defense — when a fight gets scary, beam more.
-- **Inspired Scholarship** — grants **Major Brutality while slotted on either bar** (your always-on Weapon Damage — no potion needed for it), pulses extra damage every 3s, and feeds Crux. Slot it and it works even while you're on the back bar.
+- **Inspired Scholarship** — grants **Major Brutality while slotted on either bar** (your always-on Weapon Damage — no potion needed for it), pulses extra damage every 3s, and feeds Crux. ⚠️ **U51 also reclassified its damage as a *proc event***, which means those pulses don't get Sneak's bonus damage or a guaranteed crit from a cloak, and they count as procs for anything that cares about proc chains. It changes nothing about the buff you slot it for. Slot it and it works even while you're on the back bar.
 - **Quick Cloak** — Dual Wield AoE DoT that also grants **Major Evasion (−20% AoE damage taken)** and a burst of speed. Melee damage *and* mitigation in one button — exactly the trade this build wants.
 - **Camouflaged Hunter** — passive **Major Savagery** (crit) while slotted, plus Minor Berserk on flank crits. Reliable crit uptime without leaning on potions. *(Its Minor Berserk doesn't overlap with anything else you run — Slimecraw only grants Minor Berserk at 2 pieces, and you only wear 1. You slot Hunter for the crit buff; the Berserk is a clean bonus on top.)*
 - **Cruxweaver Armor** — **Major Resolve** (your armor), **Minor Breach on attackers**, and a Crux whenever you're hit. Erudite's Rigor turns it into a sustain + healing engine too.
-- **Elemental Susceptibility** — free to cast; applies **Major Breach** (your solo penetration — no group to hand it to you), Minor Magickasteal, and status effects.
+- **Elemental Susceptibility** — applies **Major Breach** (your solo penetration — no group to hand it to you) and status effects every 7.5s. **U51 gave it a 3,240 Magicka cost** — it used to be free, and on a *stamina* build that's a real bite out of a pool you otherwise ignore. Still worth one press per boss for 30 seconds of −5,948 Armor. *(It does **not** give Minor Magickasteal — that's **Elemental Drain**, the other morph. Corrected 2026-09-30.)*
 - **Elemental Blockade** — ground DoT under the boss; both Deadly Strike (channeled/DoT) and the Thaumaturge CP star love it.
 - **Fulminating Rune** — a second ground DoT / AoE that also generates Crux, so your back bar keeps the beam fed.
 - **Evolving Runemend** — burst heal **plus a 10s heal-over-time** — your heal-on-cast layer, so a heal source keeps ticking even when you're not landing hits or taking damage. Scales off Weapon Damage, so it's strong on this build.
@@ -57,7 +57,7 @@ Subclassing **disables Class Mastery entirely** — never do it. These two are t
 
 ### Situational swaps (with skill line sources — drop Fulminating Rune first, then Quick Cloak)
 - ⚠️ **Wield Soul** (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Breach) — you have Gold Road, so this is a live option: a DoT + a second Major Breach source if you ever drop the staff back bar. Don't double it with Elemental Susceptibility.
-- **Ulfsild's Contingency** (scribed grimoire, *Soul Magic*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
+- **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Frost / Gladiator's Tenacity / Force) — trades a DoT for **8% damage reduction** on the hardest fights.
 - **Tentacular Dread** (morph of Abyssal Impact, *Herald of the Tome*) — the ranged Crux spender: burst + a 3s immobilize, for kiting or when you need to pin a runner.
 - **Runic Sunder** (morph of Runic Jolt, *Soldier of Apocrypha*) — ⚠️ ranged taunt/Minor Maim; pull single targets or peel an add in duo content.
 - **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — your **Minor Force** (+10% crit damage) source plus a bleed; in for Fulminating Rune on any fight worth buffing for. See the note above.
