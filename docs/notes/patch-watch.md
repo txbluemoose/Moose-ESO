@@ -10,7 +10,8 @@ You need this to judge a source. **Anything written before the relevant date is 
 |---|---|---|
 | **U49** | **9 March 2026** | **Dragonknight class refresh** — renamed and *relocated* a long list of abilities, and converted the DK's Poison damage to **Flame**. Also **rescaled antiquity lead expiry by lead quality** (see below) and reworked Two-Handed. |
 | **U50** | **8 June 2026** | **Class Mastery** system (why both players are pure class), the **Werewolf overhaul** (form timer replaced with an Ultimate upkeep), Challenge Difficulty, PvP Veterancy. **This is the baseline for every guide here.** |
-| **U51** | **28 September 2026** (PC; console ~2 weeks later) | Finished the hybridization project: **Major/Minor Sorcery and Prophecy removed**, Mundus Stones, class passives and Alchemy consolidated. Also **Elemental Susceptibility gained a 3,240 Magicka cost** (it was free), **re-priced the whole Werewolf line upward**, and changed a long list of item sets. Nowhere Vault opened. |
+| **U51** | **28 September 2026** (PC; console ~2 weeks later) — **current live patch** | Finished the hybridization project: **Major/Minor Sorcery and Prophecy removed**, Mundus Stones, class passives and Alchemy consolidated. Also **Elemental Susceptibility gained a 3,240 Magicka cost** (it was free), **re-priced the whole Werewolf line upward**, and changed a long list of item sets. Nowhere Vault opened. |
+| **U52** | **PTS — live 19 January 2027** | Templar overhaul, AoE taunts and tank damage, **item trait value changes across the board**, the Necromancer Colossus revert, and Jerall Pass PvP. **Not written into the guides yet** — see its section below. |
 
 !!! success "Update 51 is live (28 September 2026, PC) — first pass done 2026-09-29"
     **Done repo-wide, verified against the U51 notes:**
@@ -84,10 +85,80 @@ Every one of these bit us, and each cost a real correction:
 
 **When sources disagree, go to the official patch notes.** They list renames and relocations explicitly, and nothing else settles it.
 
+## Update 52 — on PTS, live 19 January 2027
+
+!!! warning "Nothing below is written into the guides, deliberately"
+    These are **PTS** numbers read on **2026-10-29** from Hyperioxes' U52 breakdown (his page stamped *Update 52 — 27th October 2026*). PTS values move before they go live — that is exactly the trap in [the staleness rule](#how-to-spot-a-stale-source). **The guides stay on live U51 until U52 actually lands.** This section is the ordered re-verification list for when it does.
+
+    **Live is still Update 51**, and its notes have not been revised since 29 September 2026. The U51 work was re-spot-checked on 2026-10-29 against **eso-skillbook** (a different source from the one used originally): Born From Shadow, Elemental Susceptibility's line and cost, Ulfsild's Contingency being Mages Guild, Relentless Focus, Spear Wall's Minor Berserk, and the renamed werewolf passives all confirmed. No corrections needed.
+
+**Re-verify in this order when U52 lands:**
+
+| Priority | What | Why it's ranked here |
+|---|---|---|
+| 1 | **Templar — both guides, and both one-bars** | The biggest class change in the patch. It touches **7 skills we slot across 4 files** |
+| 2 | **Item traits on every gear table** | Value changes, not renames — the tables stay *correct*, but the recommendations may not. **Charged appears in 25 files, Infused in 32, Nirnhoned in 12, Impen in 15** |
+| 3 | **The Accolade tank sheet** | One Hand and Shield re-scaling changes how its damage is computed, and **Goading Throw** is a Shield Throw script |
+| 4 | **All four Necromancer sheets** | The Colossus revert we already warned about, plus two more Colossus changes |
+| 5 | **Both Dragonknights** | Two buffs, no breakage — safe to leave until last |
+
+### Templar — the real work
+
+- **Enduring Rays is reworked.** It **no longer extends ability durations**. It now grants **+6,600 Armor while a Templar Ultimate is active**, and at rank 2 also raises your **Armor cap** by 6,600. Named in **4 files** — every description of it is wrong the day this lands.
+- **Solar Barrage becomes a toggle**: ticks every 3s, **+65% damage per tick**, and costs **405 Magicka per tick** instead of 2,700 to cast.
+- **Sun Fire / Reflective Light / Vampire's Bane**: cost **3,240** (was 2,970), tick every **3s** (was 2s) for **+66.6% damage per tick**. Their **Major Savagery now lasts 1 minute**. Sun Fire and Reflective Light last **30s** (was 20); Vampire's Bane **45s** (was 30), **60s against monsters**.
+- **Backlash and its morphs**: last **12s** (was 6), **30s against monsters**; one hit instead of an upfront plus an ending hit; cost **3,240** (was 2,160). ZOS says it's *less* total damage but saves global cooldowns. **Power of the Light costs 2,484 Stamina** (the notes misstate this as 3,240 — only Backlash and Purifying Light are 3,240).
+- **Purifying Light** no longer heals every 2s over 10s. It heals you and nearby allies **when its damage hits, once every 6s**.
+- **Prism** now activates from **any Templar skill**, not just Dawn's Wrath.
+- **Balanced Warrior** now *properly* gives **75 Weapon and Spell Damage per Templar ability slotted** — a bug fix, and it confirms the U51 rework we documented was being under-applied.
+
+### Item traits — every gear table in the repo
+
+| Trait | U51 | U52 |
+|---|---|---|
+| **Infused** (armor) | 25% | **40%** |
+| **Nirnhoned** (weapon) | 15% | **20%** |
+| **Decisive** | 55% | **68%** |
+| **Impenetrable** | 127 | **165** |
+| **Precise** | 7.2% | **7.4%** |
+| **Charged** | 235% | **225%** — the only nerf, and our dagger bars use Charged |
+
+*Powered's tooltip stops showing its effect as multiplicative; the effect was always additive. No functional change.*
+
+### Dragonknight — both buffs, nothing breaks
+
+- **Inexorable Descent now makes Landslide stack by 2** per activation, up from 1. That's the **second consecutive buff** to a mastery both players run — U51 already took the cap to 12 stacks and roughly doubled the generation rate.
+- **World in Ruin**'s damage bonus rises to **10%** (from 7% — the notes say 6%, which is wrong).
+
+### Necromancer — the revert we predicted, plus two more
+
+- **Frozen Colossus: the U51 change is reverted.** Back to **175 Ultimate** (from 150) and about **12% less damage**. The warning on all four Necro sheets was correct and can now be stated as fact.
+- **Frozen Colossus** deals **75% more damage to monsters already carrying Major Vulnerability** (on a fresh target only hits 2 and 3 get it).
+- **Pestilent Colossus** starts at **10% bonus damage and gains 10% per hit**, instead of starting at base and gaining 12.5%.
+- ⚠️ **Glacial Colossus applies Major Vulnerability for 12s, down from 17** — **not** part of the revert; it was 17s before U51 too, so this is a new nerf. Ours is the morph noted as the only Colossus that stuns.
+
+### Tanking — the Accolade sheet
+
+- **AoE taunts arrive.** **Unstoppable** and its morphs, **Goading Smash** and **Goading Vault** now taunt **up to 6** enemies that haven't been taunted recently (7-second re-taunt window). The **Tormentor** set taunts everything it damages.
+- ⚠️ **Inner Beast no longer taunts at all** — it **pulls up to 6 enemies** instead. Its range drops to **22m** (from 28) and its cost rises to **3,213 Stamina** (from 2,295).
+- **One Hand and Shield re-scales off resistances:** Puncture, Low Slash and morphs now use Weapon/Spell Damage **+ Physical or Spell Resistance**; **Shield Charge, Power Bash, their morphs, and Shield Throw's damage from non-class scripts** now use **Physical or Spell Resistance + Magicka or Stamina**. **Defensive Posture** scales off **15% of Physical + Spell Resistance** (was 30% of Max Health), capped at 50% Max Health.
+- **Cutting Defense** (Warfare CP) now also adds damage done to monsters based on Max Health plus Armor — but only while your defensive stats exceed your offensive ones.
+- ZOS frames all of this as experimental and says it may be changed or reduced.
+
+### Everything else worth a line
+
+- **Nightblade:** Aspect of Terror, **Mass Hysteria** and Manifestation of Terror apply **Major Cowardice for 13s**, up from 10. Otherwise cosmetic (skill styles on Grim Focus).
+- **Sorcerer:** Overload fixes, the weapon passives Hasty Retreat and Hawk Eye now work under Overload, and **Conservation of Energy no longer dismounts you.**
+- **Onslaught**'s own hit is now **guaranteed to critically strike**.
+- **Werewolf:** passives no longer fail to apply when bought while in form.
+- **Armory now remembers the scribed setup per slot** — so a thieving loadout and a combat loadout can hold different scripts on the same grimoire without a Scholarium trip. Builds saved before U52 inherit whatever you currently have scribed. Noted on the [Thieving page](thieving.md).
+- **No item set we use is changed.** U52 reclassifies eight sets as proc sets (Bahraha's Curse, Leeching Plate, Scourge Harvester, Vicecanon of Venom, Crimson Twilight, Song of Lamae, Defending Warrior, Overwhelming Surge) and reshuffles the non-keystone stat lines on thirteen arena sets — **none of them appear in any build here.**
+- **PvP:** **Jerall Pass**, a new three-sided open-world zone north of Cyrodiil with one keep (Fanthor Keep), a new **Jerall Marks** currency from bounty boards and named bosses, and a vendor selling offence/defence scrolls. Permanently available from **27 January**, the start of **Season 3**.
+
 ## Known upcoming
 
 - **The Nowhere Vault is open** (U51, 28 September 2026). The old note here said Nowhere Keys had no use yet and weren't worth farming — **that's reversed now.** Keys drop from heists, troves, delves, world bosses, treasure chests, favors, dynamic encounters, rumors and solo dungeons, they're tradeable, and the Vault holds the **Gem of Cunning**, the last Prowler's Talisman upgrade. Details in [Mythics](../shared/mythics.md#prowlers-talisman-yours-but-not-for-combat).
-- **Update 52** — no notes yet. One thing is already flagged for it: U51's **Colossus ultimate cost cut (175 → 150) is scheduled to revert**, which affects all four Necromancer sheets.
+- **Update 52 is covered in its own section above.** The Colossus revert we flagged is confirmed in its PTS notes.
 
 ## Re-verify checklist after any update
 
