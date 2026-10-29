@@ -19,14 +19,14 @@ Cast these top-to-bottom at the start of a fight, then swap to the bow and leave
 2. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery (crit) **and** a passive heal on every light/heavy attack
 3. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ground DoT; with an ice staff it keeps enemies Chilled
 4. **Growing Swarm** (morph of Swarm, *Animal Companions*) — a strong bleed DoT that also puts **Minor Vulnerability (+5% damage taken)** on the target, which nothing else here provides, and being an Animal Companions skill it adds another **+5% Critical Damage** through Advanced Species. It takes Winter's Revenge's slot — Elemental Blockade already covers the ground-DoT job
-5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach (her armor-shred; solo has no group to provide it)
+5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — **Major Breach**, her armor-shred; solo has no group to provide it. **It is no longer free — Update 51 gave it a 3,240 Magicka cost.** On a stamina sheet that comes out of a pool she barely uses, and it lasts 30 seconds, so it stays worth one press per boss. Skip it on trash.
 - **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking up to 450**, **and Major Protection (−10% damage taken)** through scary mechanics
 
 ### Front bar (Bow) — where she lives
 1. **Cutting Dive** (morph of Dive, *Animal Companions*) — her spammable; a bleed that's her main filler button
 2. **Poison Injection** (morph of Poison Arrow, *Bow*) — a big poison DoT that hits **harder the lower the enemy's health** — her execute; reapply every ~10s
 3. **Endless Hail** (morph of Volley, *Bow*) — a rain-of-arrows ground DoT; drop it on the pack and forget it
-4. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — **her heal AND a stun** — heals off her max health, so it's the panic button. Press it when hurt; press it to peel a nasty add
+4. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — **her heal AND a stun** — **U51 raised its damage ~20% per tick**, so it's a better button than this sheet implied. Heals off her max health, so it's the panic button. Press it when hurt; press it to peel a nasty add
 5. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) — a DoT that also gives Minor Force (+10% crit damage); lay it down before a pull
 - **Ult: Wild Guardian** (morph of Feral Guardian, *Animal Companions*) — the **+5% Critical Damage per Animal Companions ability comes from *slotting* them** (Advanced Species), not from summoning, so she gets that bonus the moment it's on the bar. Summoning is a bonus on top: an extra body that fights on its own and takes hits, which is exactly what this sheet wants — so yes, summon it and forget it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game before planning around it
 
@@ -73,7 +73,7 @@ Aim for this. It's cheap, mostly craftable/farmable, and leans on **Deadly Strik
 All **Order's Wrath** (7 pieces) + a crafted stam set on jewelry/weapons (**Tide-Born Wildstalker** or **Briarheart**) until Deadly Strike and Pale Order are farmed. Deadly Strike is cheap from guild traders (Cyrodiil set); Pale Order is from Antiquities.
 
 ### Upgrade
-Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together (the same runs that drop his Warden's Aerie's Cry).
+Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together *(**U51:** its Eagle's Mark now procs off a **Light *or* Heavy** Attack, not light only — so it fires even when she weaves a heavy in for resources)* (the same runs that drop his Warden's Aerie's Cry).
 
 **Mundus:** The Thief
 **Attributes:** 64 Stamina (shift some to Health if she's getting one-shot)

@@ -58,7 +58,7 @@
 *Reinforced trait on the chest, Divines on the rest; jewelry runs Weapon Damage glyphs. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
-Ansuul's Torment (5 body, Sanity's Edge) + Deadly Strike (shoulders/jewelry/weapons — cheap on traders!) + Slimecraw head + **Ring of the Pale Order**. Bow works: same set, Sharpened (instanced) or Precise (overland), Absorb Stamina enchant.
+Ansuul's Torment (5 body, Sanity's Edge) + Deadly Strike (shoulders/jewelry/weapons — cheap on traders!) + Slimecraw head + **Ring of the Pale Order**. *(**U51:** Ansuul's now **requires combat to activate**, so you can't interrupt something on the way in and carry the +14% window into the pull — the interrupt has to happen in the fight. The base +7% against monsters is unaffected.)* Bow works: same set, Sharpened (instanced) or Precise (overland), Absorb Stamina enchant.
 
 **Mundus:** The Thief (The Lady for brutal content)
 **Attributes:** 64 Stamina; shift toward Health when struggling

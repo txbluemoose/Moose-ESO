@@ -23,7 +23,7 @@ Subclassing disables the Class Mastery system entirely, and you'd lose both mast
 | PvP | Wildfire Embers | Resolute Defense | Lead From the Front if you dump ultimates in a group |
 
 - **Wildfire Embers** — bonus Flame Damage that stacks up to 12×, +25% per stack; the single biggest damage mastery for any DK, and your poison/flame kit keeps it fed. Note: it does **not** scale with Thaumaturge, which is why your CP leads with Wrathful Strikes (see §5).
-- **Inexorable Descent** — buffs the Landslide passive: more damage done, healing done, and shield strength. Cheap "everything's a little better" pick that also helps you not die.
+- **Inexorable Descent** — buffs the Landslide passive: more damage done, healing done, and shield strength. Cheap "everything's a little better" pick that also helps you not die. **U51 buffed Landslide underneath it:** 12 stacks instead of 10, and stacks generate every **5s at mastery rank 1 / 4s at rank 2** instead of every 10s/5s. They last 6 seconds and decay one at a time. That's a straight buff to this pick — the ceiling is higher and it ramps roughly twice as fast.
 
 ---
 
@@ -51,16 +51,16 @@ Your bread and butter — the verified U50 solo StamDK. Dual daggers front (up-c
 - **Molten Whip** — the **spender**. Seething Fury stacks (from any other Dragonknight cast) give **+5% damage done each, 10s, up to 3** — and crucially that damage buff *survives* the empowered Whip, which itself hits for **+33% per stack**. Never whip twice from empty; land three other DK casts between empowered Whips and it lines up on its own.
 - **Soul of Flame** — the sustain engine, and the reason this build can run all-offence gear. It restores **12% of your missing Stamina *and* Magicka every 2s over 4s**. Hyperioxes says the U50 StamDK is *carried* by it — it's the same skill that trivialises sustain on your Mag DK.
 - **Blood of the Elder Dragon** — burst self-heal scaling off your **Max Health** (not your damage stats), which also heals nearby allies and grants **Major Fortitude + Minor Courage**. Your panic button.
-- **Shatterspike Mantle** — **Major Resolve** (your armour), plus a 20s AoE DoT that adds flat damage to all your ticks. This is the mitigation slot the earlier revision of this guide simply didn't have.
+- **Shatterspike Mantle** — **Major Resolve** (your armour), plus a 20s AoE DoT that adds flat damage to all your ticks. *(U51 narrowed that bonus to **damage done to monsters** — no change at all for solo PvE, where everything you fight is a monster, but see the PvP bar.)* This is the mitigation slot the earlier revision of this guide simply didn't have.
 - **Cauterize** — grants **Major Savagery** (weapon/spell crit) while slotted *and* lays a heal-over-time ember aura on you. This is the household pick over its twin **Incinerate** (same crit buff, but fireball *damage* instead of healing) — you keep the crit and gain a heal layer for a small damage trade. Layered healing = Blood of the Elder Dragon (burst) + Cauterize (HoT) + Pale Order (per-damage).
-- **Igneous Weapons** — Major Brutality + a weapon/spell-damage empower for the group of one that is you.
+- **Igneous Weapons** — Major Brutality + a weapon/spell-damage empower for the group of one that is you. *(U51 reclassified Molten Weapons' damage as a **proc event** — no consequence for the buff, but its damage no longer gets Sneak bonuses or guaranteed crits.)*
 - **Carve** — AoE bleed DoT that also feeds ultimate. A DoT, so Deadly Strike (see §2) supercharges it.
 - *(**Stampede**, **Executioner** and **Deadly Cloak** moved to the swaps below — the builder/spender core plus Major Resolve and Soul of Flame take priority on a 10-slot bar.)*
 
 ### Situational swaps (with skill line sources)
 - **Incinerate** — *Dragonknight > Ardent Flame* (other morph of Inferno) — trade Cauterize's heal aura back for fireball damage when a fight isn't threatening. Same crit buff either way.
 - **Resolving Vigor** — *Alliance War > Assault* — a strong HoT for burst-damage windows and invulnerability phases where Pale Order can't heal you (no damage going out = no Pale Order heal).
-- **Ulfsild's Contingency** — *scribed grimoire, Soul Magic; scripts: Flame / Lingering Torment / Resolve* — you have scribing (Gold Road), so this is a legitimate slot-5 damage-and-utility option in place of Executioner or Deadly Cloak.
+- **Ulfsild's Contingency** — *scribed grimoire, Mages Guild; scripts: Flame / Lingering Torment / Resolve* — you have scribing (Gold Road), so this is a legitimate slot-5 damage-and-utility option in place of Executioner or Deadly Cloak.
 - **Quick Cloak** — *Dual Wield* (other morph of Blade Cloak) — Major Evasion without the bleed if you want a cheaper defensive; Deadly Cloak is the default because it also adds damage.
 - **Blood of the Green Dragon** — *Dragonknight > Draconic Power* (other morph of Dragon Blood) — swap in over Blood of the Elder Dragon for Major Endurance + stamina recovery when a long fight out-drains you; trades burst-heal size for sustain.
 - **Corrosive Armor** ult — *Dragonknight > Earthen Heart* — caps incoming hits at 6% max HP for 10s; panic ult for one-shot mechanics.
@@ -136,7 +136,7 @@ DK came out of the U49/U50 rework strong. Your PvE chassis translates, but PvP w
 
 | Front Bar (Two-Handed) | Back Bar (1H + Shield or Bow) |
 |---|---|
-| 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) — spammable burst | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) — Major Resolve |
+| 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) — spammable burst | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) — **Major Resolve only, in PvP.** U51 made its bonus damage apply to **monsters** instead of all damage, so the DoT's damage boost does nothing against players. Still worth the slot for the armour |
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) — pressure DoT | 2. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) — Major Brutality |
 | 3. Blood of the Green Dragon (morph of Dragon Blood, *Draconic Power*) — burst heal + Major Endurance | 3. Resolving Vigor (morph of Vigor, *Alliance War → Assault*) — the PvP heal-over-time |
 | 4. Carve (morph of Cleave, *Two-Handed*) — bleed DoT and Ultimate generation | 4. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) — Major Breach + flame DoT |

@@ -26,22 +26,56 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 ### Skills — Base Setup
 
-| Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
+| Front Bar (Dual Daggers*) | Back Bar (Inferno Staff*) |
 |---|---|
 | 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) |
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
-| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
+| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
+| 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
-*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). Ice back bar is correct — Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
+*\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). **Inferno back bar** — changed from Ice on 2026-09-30; the reasoning is under the gear table. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
 
 
 **Morph notes for your "don't die" goal:**
 - **Burning Embers** (other morph of Searing Claw) heals on cast and every DoT tick — swap it in over Searing Claw whenever you want more healing. Slightly less damage.
 - **Disintegrating Dragonfire** (not Engulfing) is correct for solo — it applies Major Breach, which you have no group to provide.
 - **Ulfsild's Contingency** needs the Scribing system (Gold Road). If you don't have scribing unlocked, use Burning Talons (morph of Dark Talons) in that slot.
+
+### Scribing — what this slot is actually doing (reviewed 2026-10-02)
+
+**Ulfsild's Contingency (Flame / Lingering Torment / Resolve)** is the verified pick, and it does more than "a DoT":
+
+- A **22-second damage-over-time**, and it's your **AoE spammable** — not just a buff you refresh.
+- Grants **Minor Resolve: +2,974 Armor.** That's the survivability half, and it's why the tanky setups keep it.
+- It's a **Mages Guild** grimoire — *not* Soul Magic, which this page said until 2026-10-02. That matters: slotting it feeds **Magicka Controller** (+Max Magicka and Magicka Recovery per Mages Guild ability slotted), so buy the Mages Guild passives. **Mage Adept, Everlasting Magic and Magicka Controller are all high priority; Might of the Guild is low and Persuasive Will isn't needed.**
+- It triggers **when you cast an ability with a cost**, so it feeds itself off your normal rotation.
+- It is also **the first skill to drop** when you need a slot for something situational.
+
+| Script combo | When |
+|---|---|
+| **Flame / Lingering Torment / Resolve** | **Default.** The DoT plus +2,974 Armor |
+| **Flame / Gladiator's Tenacity / Resolve** | Trades the DoT for **damage mitigation** — hard boss fights |
+| **Flame / Class Flourish / Resolve** | **The melee pick, if you can get the script — see below** |
+
+!!! tip "Class Flourish is the script worth chasing for how you play"
+    **Class Flourish** (the U51 rename of the **Class Mastery** signature script) has a different effect per class. On a **Dragonknight** it reads: *for each enemy within 8 metres, up to 6, gain **50 Weapon and Spell Damage** and **reduce your damage taken by 2% plus 1% per enemy** for 5 seconds.*
+
+    In a pack of six that's **+300 Weapon and Spell Damage and −8% damage taken** — damage *and* mitigation, scaled to how many things are swinging at you. On a melee build that stands in the middle of the pack, that is close to a perfect fit for this repo's whole design constraint, and it's better for you than it would be for a ranged build.
+
+    **The cost is real, though.** It's one script, unlocked by combining **50 Class Script Scraps**, and scraps drop from group content: Trials (1 normal / 2 vet), trial weekly coffers (up to 4), trial leaderboards (5), and **Arenas — 1 normal / 3 veteran, once per day per account.** As a mostly-solo player your realistic route is **veteran arena runs at 3 scraps a day**, so roughly a two-and-a-half week habit. You only ever grind it **once per account** — after that you buy it from **Chronicler Firandil** for every alt, which makes it good value across all seven of your characters.
+
+    Until you have it, **Flame / Lingering Torment / Resolve** is the right default.
+
+**Other grimoires worth knowing on this character:**
+
+- **Soul Burst (Pull / Class Flourish / Breach)** — *Soul Magic.* An **8-metre AoE pull** with a 2-second delay that applies **Minor Breach** and grants **Weapon and Spell Damage scaled to the number of enemies hit**. The live solo build slots this **in place of Elemental Susceptibility on trash packs** — it stacks the pack *and* debuffs it, which is two jobs for one slot when you're clearing.
+- **Banner Bearer** — *Alliance War → Support.* This is the **group/trial** answer, not the solo one: Alcast's U51 group Mag DK runs it (as **Magical Banner**) in slot 5 on **both** bars. It's a toggle — activate once and it stays up, draining resources continuously in exchange for large buffs. Already referenced in the Trials section below.
+- **Elemental Explosion** — *Destruction Staff*, so it's slottable on your back bar now that it's a staff. Not in any current DK build; listed so you know it exists.
+- **Traveling Knife** — *Dual Wield*, so it fits your **front** bar. Used on the Mag Sorc and Mag Warden here, not on the DK.
+
+**And the honest counterpoint:** the highest-parsing solo setup **drops scribing from this slot entirely** — **Burning Talons** instead of Ulfsild's is the "Full Damage" build at **80.0k vs 77.0k simulated DPS (+3.8%)**, because Talons does more damage but gives no armour. The tanky setup keeps Ulfsild's and sits at 71.7k (−6.9%). A ~4% swing is inside the noise band this repo uses as a tiebreaker, and +2,974 Armor is not — so **keep Ulfsild's**, and treat Burning Talons as the swap for a fight you're already comfortably clearing. *(Parses and script combos from the live Hyperioxes solo Mag DK build, read 2026-10-02; Class Flourish effect and scrap sources from Alcast's scribing guide.)*
 
 ### Situational swaps (with skill line sources)
 - **Resolving Vigor** — *Alliance War > Assault* (earn Alliance Points in Cyrodiil/BGs/Imperial City) — burst-damage fights and invulnerability phases where Pale Order can't heal you
@@ -57,7 +91,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 ### Rotation (priority sweep — two passes, not a checklist)
 
-1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Incinerate → Shatterspike Mantle.
+1. **Set the room (back bar):** Elemental Susceptibility → Igneous Weapons → Elemental Blockade → Incinerate → Shatterspike Mantle. *(Worth one fully-charged heavy attack here while you're on the inferno staff — Tri Focus adds 4,484 Flame over 20s.)*
 2. **Live on the front bar:** whip at 3 Seething Fury stacks, keep Searing Claw / Disintegrating Dragonfire / Ulfsild's / Soul of Flame ticking, Take Flight when it's up, Molten Whip as filler.
 3. Back-bar timers blinking? Swap, re-sweep top to bottom, swap forward. That's the whole loop.
 
@@ -80,13 +114,38 @@ Standard of Might is your "survive this mechanic" ultimate (25% damage reduction
 | Necklace + Ring 1 | — | Bloodthirsty | Magical Harm | Sul-Xan's Torment |
 | Ring 2 | — | — (mythic) | — | **Ring of the Pale Order** |
 | Front (2 daggers) | — | Charged | Poison + Absorb Stamina | Sul-Xan's Torment |
-| Back bar (Ice Staff) | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff |
+| Back bar (Inferno Staff) | — | Infused | Weapon Damage | Crushing Wall **Inferno** Staff |
 
-*There's still one staff on the back bar (Ice — it powers Elemental Blockade + Elemental Susceptibility's Chilled procs); a fully staff-free back bar (S&B or 2H) loses that synergy and isn't worth it on a magicka build. Overland: swap the ice staff → inferno. In-game tooltips override — confirm on your bar.*
+*A staff stays on the back bar — it's what powers Elemental Blockade and Elemental Susceptibility, and a staff-free back bar (S&B or 2H) loses both and isn't worth it on a magicka build.*
+
+!!! warning "The back-bar staff changed from Ice to Inferno — 2026-09-30"
+    **This page used to run an Ice staff here, for a reason that doesn't hold up.** The old note said "Ice Blockade + Elemental Susceptibility's Chilled procs apply Minor Breach and Minor Brittle." The problem: **Chilled only grants Minor Brittle if a frost staff is on your *active* bar when it lands.** Susceptibility re-applies Chilled every 7.5 seconds — and you're on daggers for all of it. So Minor Brittle was essentially never firing on this build.
+
+    **What Ice was actually costing you.** The Destruction Staff passive **Ancient Knowledge** is element-specific:
+
+    | Staff | Ancient Knowledge gives |
+    |---|---|
+    | **Inferno** | **+12% damage done with damage-over-time and Status Effects** |
+    | Lightning | +12% damage done with direct damage and channelled effects |
+    | Ice | −36% block cost and +20% damage blocked — **no damage at all** |
+
+    On a bar you swap off two seconds after you reach it, Ice's block bonuses did nothing. Meanwhile **your entire kit is flame damage-over-time and Burning status effects** — Searing Claw, Disintegrating Dragonfire, Incinerate, Ulfsild's, Wildfire Embers — which is exactly what the Inferno bonus pays out on. On top of that, **Blockade of Frost explicitly costs more** than Blockade of Fire, and **Blockade of Fire deals bonus damage to Burning enemies**, which post-U49 is everything you fight.
+
+    **What you keep either way:** Chilled's **Minor Maim** is *not* staff-gated, and Concussion's **Minor Vulnerability** isn't either — so Elemental Susceptibility's debuff engine is unaffected by this change. **Tri Focus** also improves: fully-charged Inferno heavy attacks add **4,484 Flame Damage over 20 seconds**, so it's worth one heavy on the staff bar during a pre-buff.
+
+    **What you give up, stated honestly:** an equipped Ice staff makes **blocking cost Magicka instead of Stamina**, at **−36% cost with +20% mitigation**. That is the most direct answer this repo has found to your documented stamina shortfall (the open item in `CLAUDE.md`, and the **Tireless Guardian** / **Savage Defense** CP passives in the Red table) — swap to the staff, eat a known heavy attack for Magicka, swap back. It's awkward mid-fight and you chose damage over it, which is a reasonable call; but if the stamina drain gets worse, **keep an Ice staff in the bank** and treat it as a second armoury loadout rather than re-gearing.
+
+    **The farm note:** Crushing Wall's bonus (+1,250 Wall of Elements damage) is element-agnostic, but the staff itself isn't — so you need a **Crushing Wall *Inferno* staff** from vet Maelstrom, not the Ice one. Until it drops, any Infused inferno staff runs this bar fine; you're only missing the 1,250.
+
+    **⚠️ Softened 2026-10-02 — the live source still runs Ice, and this recommendation was stated too strongly.** Checking the Hyperioxes solo Mag DK build directly: it **confirms the Minor Brittle gate in so many words** ("Minor Brittle for 4 seconds *if you were on your Ice Staff bar while the Chilled effect procced*"), so the reasoning this page used to give really was wrong. But it **still uses a Crushing Wall *Ice* staff for its instanced/trial setup** — accepting that gate — because the ice Blockade's armour shred and constant Chilled uptime are worth it there, and it reserves the **Inferno** staff for the crafted/fallback setup. It also rates **Ancient Knowledge only *medium* priority**, not high, which is a fair check on the +12% argument above: that bonus is **active-bar only**, and you're on daggers for most of the fight, so it mostly applies to the Blockade you cast while standing on the staff bar rather than to your class damage-over-time.
+
+    **Where that leaves it:** Inferno is a defensible pick and it's what's on this page, by his explicit choice. It is **not** the obviously-correct one, and Ice is not "costing you for nothing" — that was an overstatement. If you want to match the tested build for instanced content, Ice is the source's answer and the ice staff also carries the block-cost conversion below. Treat this as a genuine two-way choice and keep whichever staff you prefer; the thing that was definitely wrong was the Minor Brittle claim, and that's fixed either way.
+
+    *⚠️ One flag: the "frost staff must be on the active bar for Minor Brittle" gate is from ESO-Hub's status-effects page, which is the aggregate kind this repo has been burned by. It matches how the mechanic is designed, and it's driving a gear decision — **confirm it on your own bar** by putting Chilled on something with daggers drawn and checking whether Minor Brittle appears. Everything else above is off the individual Destruction Staff skill and passive pages, read 2026-09-30.*
 
 *Why only one monster piece: Ring of the Pale Order takes the mythic slot, and 12 gear slots only stretch to 5 + 5 + 1 monster + 1 mythic. So the helm is a **pure stat line** — Slimecraw's 2-piece Minor Berserk can never fire here. Slimecraw's 657 Critical Chance is the default because you already own it; if your Offensive Penetration is under the 18,200 cap, a penetration helm (Valkyn Skoria's 1-piece is 1,487 Offensive Penetration) is the better stat. Check your character sheet. See [Gear slot math](../shared/gear-math.md).*
 
-**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. Sul-Xan's Torment = Rockgrove trial. Crushing Wall = Maelstrom Arena staff. *(No monster 2-piece can fire here — the Pale Order mythic leaves room for exactly one monster slot — so this is a straight 1pc stat comparison: Slimecraw's 657 Critical Chance vs Valkyn Skoria's 1,487 Offensive Penetration. Slimecraw is the default because you own it; take Valkyn instead if your character sheet shows you under the penetration cap.)*
+**Where it comes from:** Pyrebrand = DK class set, Infinite Archive. *(**U51 buff worth knowing:** Pyrebrand's 5-piece light-attack proc now applies **Landslide** as well as Wildfire Embers, once every 10s — and you run **Inexorable Descent**, which pays out per Landslide stack. One light attack now feeds both mastery passives. Read off ESO-Hub 2026-09-30.)* Sul-Xan's Torment = Rockgrove trial. Crushing Wall = Maelstrom Arena staff. *(No monster 2-piece can fire here — the Pale Order mythic leaves room for exactly one monster slot — so this is a straight 1pc stat comparison: Slimecraw's 657 Critical Chance vs Valkyn Skoria's 1,487 Offensive Penetration. Slimecraw is the default because you own it; take Valkyn instead if your character sheet shows you under the penetration cap.)*
 
 **Fallback ladder (you don't need trial gear):**
 - Body: Pyrebrand → Tzogvin's Warband (Frostvault, −4%) → **Order's Wrath (−4 to −6%, you own it)** → Tide-Born Wildstalker
@@ -161,7 +220,8 @@ DK came out of the U49/U50 rework strong — community consensus puts it among t
 
 | | PvP setup |
 |---|---|
-| **Carries over** | Molten Whip burst (3-stack Seething Fury whips hit like trucks), Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve |
+| **Carries over** | Molten Whip burst, Soul of Flame sustain, Take Flight engage/stun, Volcanic Ward shields, Shatterspike Mantle resolve |
+| **⚠️ U51 changed two of those** | **Molten Whip's Seething Fury damage bonus is now halved in PvP** — 3-stack whips still hit hard, but not like they did, so don't build the whole burst around them. And **Shatterspike Mantle's bonus damage now applies only to monsters**, so in PvP you're slotting it purely for **Major Resolve** — the DoT's damage bonus does nothing against players. Both still belong on the bar; both do less than this table used to imply. *(U51 notes, 28 Sept 2026.)* |
 | **Swap in — Blood of the Green Dragon** *(Draconic Power)* | Your burst heal. The U50 morph heals off max health per tick — exactly what a PvP DK wants |
 | **Swap in — Petrify** *(Earthen Heart)* | Reworked into a snare-then-stun — set up CC before a whip combo |
 | **Swap in — Protect the Brood / Fleetstep Wings** | Projectile eating and snare removal, both PvP gold |
