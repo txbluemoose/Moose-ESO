@@ -29,9 +29,9 @@ This is your bread and butter — the verified U50 solo MagDK.
 | Front Bar (Dual Daggers*) | Back Bar (Inferno Staff*) |
 |---|---|
 | 1. Molten Whip (morph of Lava Whip, *Ardent Flame*) | 1. Shatterspike Mantle (morph of Earthspike Mantle, *Earthen Heart*) |
-| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) |
+| 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) — **and your crit buff: Major Savagery while slotted on *either* bar** |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
-| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
+| 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — **also interrupts, sets Off Balance and stuns for 2s**, then blasts for 2,760 Flame when it finishes | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
 | 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
@@ -327,6 +327,59 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ---
 
+## Skill line passives
+
+!!! danger "This section did not exist until 2026-11-06"
+    Every other guide in this repo carries one, and this is your main character. Two of the passives below are **direct answers to your documented stamina shortfall**, and the page never named them.
+
+Rule of thumb: **buy every passive in every line you have a skill slotted from.** Skill points are abundant. Priorities below are the live Hyperioxes solo Mag DK build's, effects read off the live skill pages.
+
+### Ardent Flame — all 4, all high priority
+
+- **Combustion** — when you apply Burning to an enemy you restore **225 Magicka *and* 225 Stamina**, once per second. ⚠️ **Read that again:** your entire kit applies Burning, so this is a near-continuous **Stamina** faucet on a build that spends no Stamina on abilities. See the stamina note below.
+- **Traumatic Burns** — direct damage with an Ardent Flame ability makes the target take **+5% Flame Damage** and snares it 30% for 5s. Your whole kit is Flame, so this is close to permanent on anything you're hitting.
+- **Fan the Flames** — **+50% chance to apply Burning and +25% Burning damage**, scaled by **how many Dragonknight abilities you have slotted**. An argument for keeping the bars class-heavy.
+- **A Soul Ablaze** — **+8% Healing Taken.** Multiplies Pale Order, Reaving Blows and Burning Embers all at once.
+
+### Draconic Power — all 4, all high priority
+
+- **Burnished Scales** — **+10% damage blocked.**
+- **World in Ruin** — **+7% damage done with area and over-time attacks.** *(U52 raises this to 10% — see [Patch Watch](../notes/patch-watch.md).)*
+- **Elder Dragon** — activating a Draconic Power ability grants you **and group members Minor Brutality for 20s** (+10% Weapon and Spell Damage), plus up to **700 Health Recovery** scaled to your missing Health. Minor stacks with the **Major** Brutality from Igneous Weapons — you get both.
+- **The Storm Voice** — casting an Ultimate restores **16 Health, Magicka and Stamina per point of Ultimate spent**, **+6 per Dragonknight ability slotted**. Take Flight is cheap and frequent, so this is a real chunk of resources every cast.
+
+### Earthen Heart — all 4, all high priority
+
+- **Heart of Stone** — **+2,974 Armor**, free.
+- **Landslide** — dealing damage grants a stack worth **+1% damage done, up to 12 stacks**, once every 4 seconds; you lose one for every 6 seconds you fail to generate. This is what **Inexorable Descent** (your Class Mastery pick) and **Pyrebrand's** light-attack proc both feed.
+- **Blessing at the Peak** — an Earthen Heart ability in combat generates **3 Ultimate** every 6s **and gives +10% Critical Damage.** The crit damage is the real prize and it's easy to miss in the tooltip.
+- **Mountain Giant** — a **fully-charged Heavy Attack** applies **Off Balance** and restores **1,430 Stamina**, up to once every 0.5s. See both notes below — this passive is doing two jobs you aren't currently collecting.
+
+!!! success "Your stamina shortfall — two class passives attack it directly"
+    The open issue has been "chronic stamina shortfall, diagnosed as light-attack weaving gaps, not skill costs." These two are the root-cause fix, and neither was on this page:
+
+    - **Mountain Giant** returns **1,430 Stamina per fully-charged Heavy Attack**, and the diagnosis was *weaving gaps*. So the fix for the gap and the fix for the stamina are the same action: when you notice a gap, make it a **fully-charged heavy** rather than a light attack. On the inferno back bar that heavy also triggers **Tri Focus** (4,484 Flame over 20s), so it costs you nothing in damage.
+    - **Combustion** returns **225 Stamina per second** while you're applying Burning, which on this kit is almost always. If this feels like it isn't firing, check **Fan the Flames** is bought — it's the Burning-chance passive that keeps Combustion fed.
+
+    Try these before the CP respec (**Tireless Guardian** / **Savage Defense**) and well before any gear change. Neither costs a slot or a point you weren't already spending.
+
+!!! tip "Off Balance — you have two reliable sources and no CP star for it"
+    **Mountain Giant** (fully-charged heavy) and **Soul of Flame** (every cast) both apply **Off Balance**. **Backstabber** in the Blue tree pays extra damage against Off Balance targets and is **not in the table below** — the werewolf guides slot it for exactly one Off Balance source, and you have two. Worth testing against **Fighting Finesse** on a dummy; flagged rather than swapped, because it depends on how reliably you actually heavy-attack.
+
+### Weapons, armour and guilds
+
+- **Dual Wield** (front bar) — all of them. **Focused Killer**, **Ambidextrous**, **Controlled Fury** and **Twin Blade and Blunt** are high priority; **Ruffian** medium. Note the source's warning: the **Focused Killer** and **Ruffian** tooltips are misleading — they buff **Light and Heavy Attacks too**.
+- **Destruction Staff** (inferno back bar) — **Ancient Knowledge** and **Elemental Force** medium, **Penetrating Magic** and **Destruction Expert** low. ⚠️ **Do not unlock Tri Focus** *unless you keep an Ice staff* — it's the one passive the live build tells you to skip, and the ice shield is the only part that matters. *(On your inferno staff it's the heavy-attack Flame DoT instead, which is worth having — so if you've already bought it, it isn't wasted.)*
+- **Medium Armor** (6 pieces) — **Dexterity**, **Wind Walker**, **Agility**, **Athletics** all high. **Improved Sneak** isn't needed here.
+- **Light Armor** (the belt) — **Evocation**, **Spell Warding**, **Prodigy** and **Concentration** are high priority even on one piece; **Grace** is low.
+- **Mages Guild** — **Mage Adept**, **Everlasting Magic** and **Magicka Controller** high. You have a Mages Guild skill slotted, because **Ulfsild's Contingency is a Mages Guild grimoire** — that's what makes these worth buying.
+- **Undaunted** — **Undaunted Command** and **Undaunted Mettle** high. Your 1 Light / 6 Medium split only pays two of Mettle's three tiers; see the gear note.
+- **Alliance War → Support** — **Magicka Aid** medium, and it's the passive **Revealing Flare** triggers if you take that swap.
+- **Psijic Order** — only if you slot **Precognition**; everything there is low priority or not needed otherwise.
+- **Alchemy** — **Medicinal Use** (longer potions). **Racial** — all of them.
+
+---
+
 ## 5. SHOPPING LIST (in priority order)
 
 1. **Scribing unlocked** (Gold Road questline) → Ulfsild's Contingency + Banner Bearer
@@ -339,7 +392,11 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 ---
 
-*Sources: Hyperioxes U50 Magicka Dragonknight Solo Build (verified June 2026), Hyperioxes Breath DK DPS Build, U49/U50 official patch note summaries. PvP section verified vs Alcast Mag DK "Blaze" U50 (set metas rotate seasonally — confirm current pieces). Skill names current as of Update 50; ZOS renames things every class refresh, so trust your in-game tooltips over any guide. Revised 2026-08-16.*
+*Sources: build shape and passive priorities from the live [Hyperioxes solo Magicka Dragonknight build](https://hyperioxes.com/eso/solo/magicka-dragonknight-build); Hyperioxes Breath DK DPS Build for the group layout; PvP section against Alcast's Mag DK "Blaze" (set metas rotate seasonally — confirm current pieces).*
+
+***Full skill verification, 2026-11-06.*** *Every skill on every bar of this page — name, base skill and skill line — was checked against the live Ardent Flame, Draconic Power, Earthen Heart, Destruction Staff, Dual Wield, Fighters Guild, Alliance War and Psijic Order skill lines on [eso-skillbook.com](https://eso-skillbook.com). **All 20 correct; no renames, no wrong lines, no base-skill-where-a-morph-belongs errors.** What the pass did find was three omissions rather than errors: the page had **no skill line passives section at all** (now added), never mentioned that **Incinerate carries Major Savagery**, and never mentioned **Soul of Flame's Off Balance**. Two passives bearing directly on the stamina shortfall — **Combustion** and **Mountain Giant** — were missing with them.*
+
+*Live patch is **Update 51**. Update 52 is on PTS (live 19 January 2027) and raises World in Ruin to 10% and Inexorable Descent's Landslide generation to 2 a tick — recorded in [Patch Watch](../notes/patch-watch.md), deliberately not written in here yet. **In-game tooltips override this page**, and ZOS renames things every class refresh. Revised 2026-11-06.*
 
 ---
 
