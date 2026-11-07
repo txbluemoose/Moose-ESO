@@ -124,7 +124,44 @@ This is the part worth knowing, because it's where the loadout stops being a lis
 - **Safeboxes and heists** — Refuges in the outlaw cities. Safeboxes get **Fortune's Favor's +50% gold**.
 - **Pickpocketing** — **Light Fingers +50%** success, **Prowler's Talisman +5%**, **Cutpurse's Art** for loot quality. Take **Ember** as your companion for the extra gold, and note the standing warning: **she does not forgive getting caught stealing.** Her rapport is the cost of sloppiness.
 - **Treasure chests** — **Locksmith +70%** on forcing locks, **Treasure Hunter** for quality, **Fortune's Favor** for gold.
-- **The Nowhere Vault** — the one place this loadout is also the correct *content* loadout, since the Vault is puzzles, traps and stealth rather than combat. Entry and key sources are in [Mythic Items](../shared/mythics.md#prowlers-talisman-yours-but-not-for-combat); **bring spare Wondrous Nowhere Keys** for the chests and locks inside, not just the one that opens the door.
+- **The Nowhere Vault** — the one place this loadout is also the correct *content* loadout, since the Vault is puzzles, traps and stealth rather than combat. It has **three wings — Arcanum, Cursed Castle and Lunar Path** — and each hides one of the Vault's three Rumors; see the Rumors section below. Entry and key sources are in [Mythic Items](../shared/mythics.md#prowlers-talisman-yours-but-not-for-combat); **bring spare Wondrous Nowhere Keys** for the chests and locks inside, not just the one that opens the door.
+
+## Rumors — the system behind half the key sources
+
+**Rumors arrived with Update 51** and this page listed them as a key source without ever saying what they are. They're a **new quest system with no HUD help and no quest markers** — you find the quest yourself and follow clues. ArzyeL's write-up puts it bluntly: *"Rumors is a new quest system in ESO, that offers no HUD assistance or quest markers!"*
+
+**How to start:** claim **"Rumors Abound"** free from the Crown Store, **or** go to the **Southern Docks in Daggerfall, Glenumbra** and speak to **Tilli the Gossip** — she gives an introductory quest and unlocks your first Rumor, **"The Berliel Heirloom"**.
+
+**Three tiers**, easiest to hardest: **Whisper → Plot → Conspiracy.** At the time of writing there are **10 Whispers, 4 Plots and 4 Conspiracies**, and all three Nowhere Vault Rumors are **Conspiracies**.
+
+**Finding them in the UI:** the Quest Journal has a **dedicated Rumors section**. Entries start **hidden**, and **hovering over one reveals a hint pointing to the location of its first clue** — that's your way in when you're stuck. Every lead and clue you uncover stays recorded there.
+
+**What they pay:** *"upgrading materials, like Gems for The Prowler's Talisman, Pardon Edicts, Wondrous Nowhere Keys that you can use to access the Nowhere Vault and other valuable items."* So Rumors feed both halves of this page — they're a **key source** *and* a **gem source**.
+
+!!! note "Two things not confirmed"
+    No source I could reach states a **daily or weekly cap** on Rumors, or whether individual Rumors are **repeatable**. Also: this repo credits the **Gem of Deception** specifically to Rumors, which comes from itemlevel.net — ArzyeL confirms *gems for the Talisman* drop from Rumors but doesn't name that one. The link is sound; the exact gem name is the less certain half.
+
+### The three Rumors inside the Nowhere Vault
+
+These are the Vault's own Conspiracies, and they're what the Vault's big reward is gated behind. One per wing:
+
+| Rumor | Wing | Room | How it starts |
+|---|---|---|---|
+| **A Cage that Shines** | **Arcanum** | Hunt of the Watchers | Lure the only watcher — Watcher Filtration Gills |
+| **A Cage that Shimmers** | **Cursed Castle** | Gallery of Curios | Use the **Artist's Lens**, above or below the stairs |
+| **A Cage that Sparkles** | **Lunar Path** | Moonlit Isles | Break it for the **Resonating Core** |
+
+Each one solved yields a **Timeward Seal**, collected in that wing's informational room:
+
+| Seal from | Wing | What you use |
+|---|---|---|
+| **Custodian's Repository** | Arcanum | Astralight Lumen → an Astral Tear |
+| **Prison of the Unrepentant** | Cursed Castle | Subjugating Mindspore → Physical Escape |
+| **The Lakehouse** | Lunar Path | Connoisseur's Vision → Creative Transcendence |
+
+**What the three seals are for:** the **Ancient Direnni Quasigriff** mount sits in the **Sage's Trove** behind three locks, and **each Timeward Seal removes one**. With all three gone you interact with the mount to add it to your collection. The Sage's Trove itself opens by completing Vault rooms to repair the **Nexus Orrery**, which also completes the *Invitation to Treasures* quest.
+
+So the Vault has **two** things worth finishing, not one: the **Gem of Cunning** for your Talisman, and the **Quasigriff** behind these three Conspiracies. Worth knowing before you treat the Vault as a one-and-done key sink.
 
 ## Bounty and Heat — the two meters people confuse
 
@@ -142,4 +179,4 @@ From the maintenance notes, unchanged: **HarvestMap + HarvestRoute** for routes 
 
 ---
 
-*Sources: Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29.*
+*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07). Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07.*

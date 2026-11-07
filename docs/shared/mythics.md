@@ -86,9 +86,11 @@ What it does: **+5% Pickpocket success**; **Bracing while crouched turns you inv
 
     **Where keys come from — and this is why it suits you:** **Heists, Thieves Troves, Delves and World Bosses, Treasure Chests, Favors, Dynamic Encounters, Rumors, and Solo Dungeons.** That is almost exactly your existing non-combat routine — trove runs and chest routes now pay toward the mythic instead of just gold. Keys are also **tradeable**, so you can buy them from a guild trader if you'd rather skip the farm, or sell spares.
 
-    **What's inside:** three **wings**, each a randomized selection and order of rooms, soloable or grouped. **One key opens a room**, and you'll want **spare keys** for the **Nowhere Chests** and **key locks** at the ends of rooms — so don't walk in with exactly one. Rooms are puzzles, traps, stealth and traversal rather than combat: dodging environmental hazards, collecting things while being chased. Every room hides a **secret objective**, and there are two special room types — **Story Rooms** (lore about the Vault) and **Jackpot Rooms** (treasure and resources).
+    **What's inside:** three **wings — Arcanum, Cursed Castle and Lunar Path** — each a randomized selection and order of rooms, soloable or grouped. **One key opens a room**, and you'll want **spare keys** for the **Nowhere Chests** and **key locks** at the ends of rooms — so don't walk in with exactly one. Rooms are puzzles, traps, stealth and traversal rather than combat: dodging environmental hazards, collecting things while being chased. Every room hides a **secret objective**, and there are two special room types — **Story Rooms** (lore about the Vault) and **Jackpot Rooms** (treasure and resources).
 
     Because it's barely a combat activity, **this is the one place the Prowler's Talisman loadout is also the correct *content* loadout** — crouch-invisibility and pickpocket bonus, no need to swap back to Pale Order first.
+
+    **There are two prizes in there, not one.** Besides the Gem of Cunning, each wing hides one of the Vault's three **Rumors** (*A Cage that Shines / Shimmers / Sparkles*), and each solved Rumor yields a **Timeward Seal**. Three seals unlock the **Ancient Direnni Quasigriff** mount from the Sage's Trove. Walkthrough on the [Thieving page](../notes/thieving.md#rumors-the-system-behind-half-the-key-sources).
 
 The base Talisman itself comes from **"The Codex Caper"**, the opening quest of the Thieves Guild storyline in **Daggerfall**.
 
@@ -166,7 +168,7 @@ Everything below is the **lead source** — where the drop comes from. The **dig
 |---|---|
 | **Ring of the Pale Order** | **Alik'r Desert** — Coldrock Diggings delve boss (*Direnni Elegy Loop*) · **Bangkorai** — random treasure chests (*Aurmine Ancestral Signet*) · **Glenumbra** — Bad Man's Hallows public dungeon trash (*Order-Etched Gallery Rail*) · **Wrothgar** — world bosses, needs Orsinium (*Onyx Accent Stones*) · **The Reach / Nighthollow Keep** — a fixed "Ancient Text" on a table, needs Markarth (*Pale Order's Golden Band*) |
 | **Oakensoul Ring** | **High Isle** — Volcanic Vent world events, from the Volcanic Cache (*Igneous Inlay*) · **Stormhaven** — Titanclaw world boss, Mudcrab Beach (*Larimar Gems*) · **Malabal Tor** — any enemy near Velyn Harbor (*Sacred Resin*) · **Glenumbra** — blacksmithing ore nodes (*Stone Shank Frame*) · **Murkmire** — safeboxes/strongboxes (*Petrified Oak Loop*). All five **dig in High Isle**. |
-| **Prowler's Talisman** | **Not an antiquity.** Unlocks from **The Codex Caper**, the opening Thieves Guild quest in **Daggerfall**. Four upgrade gems: **Gem of Deception** (Rumors), **Gem of Agility** (Dynamic Encounters), **Gem of Stealth** (the *Racing into Nowhere* quest), **Gem of Cunning** (the **Nowhere Vault** — open since U51; see the section above). |
+| **Prowler's Talisman** | **Not an antiquity.** Unlocks from **The Codex Caper**, the opening Thieves Guild quest in **Daggerfall**. Four upgrade gems: **Gem of Deception** (Rumors), **Gem of Agility** (Dynamic Encounters), **Gem of Stealth** (the *Racing into Nowhere* quest), **Gem of Cunning** (the **Nowhere Vault** — open since U51; see the section above). ⚠️ *The Gem of Deception → Rumors link is from itemlevel.net; ArzyeL confirms Talisman gems drop from Rumors but doesn't name which. Checked 2026-11-07.* |
 
 ### Greymoor-era
 
