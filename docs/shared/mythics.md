@@ -90,7 +90,7 @@ What it does: **+5% Pickpocket success**; **Bracing while crouched turns you inv
 
     Because it's barely a combat activity, **this is the one place the Prowler's Talisman loadout is also the correct *content* loadout** — crouch-invisibility and pickpocket bonus, no need to swap back to Pale Order first.
 
-    **There are two prizes in there, not one.** Besides the Gem of Cunning, each wing hides one of the Vault's three **Rumors** (*A Cage that Shines / Shimmers / Sparkles*), and each solved Rumor yields a **Timeward Seal**. Three seals unlock the **Ancient Direnni Quasigriff** mount from the Sage's Trove. Walkthrough on the [Thieving page](../notes/thieving.md#rumors-the-system-behind-half-the-key-sources).
+    **There are two prizes in there, not one.** Besides the Gem of Cunning, each wing **starts** one of the Vault's three **Rumors** (*A Cage that Shines / Shimmers / Sparkles*) — though a Rumor then **crosses into another wing** to finish, so you can't clear one by clearing a single wing. Each yields a **Timeward Seal**, three seals unlock the **Ancient Direnni Quasigriff** mount from the Sage's Trove, and **each Rumor pays 5 Wondrous Nowhere Keys** on completion. Walkthrough on the [Thieving page](../notes/thieving.md#rumors-the-system-behind-half-the-key-sources).
 
 The base Talisman itself comes from **"The Codex Caper"**, the opening quest of the Thieves Guild storyline in **Daggerfall**.
 

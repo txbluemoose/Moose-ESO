@@ -143,25 +143,52 @@ This is the part worth knowing, because it's where the loadout stops being a lis
 
 ### The three Rumors inside the Nowhere Vault
 
-These are the Vault's own Conspiracies, and they're what the Vault's big reward is gated behind. One per wing:
+These are the Vault's own Conspiracies, and they're what the Vault's big reward is gated behind. Each **starts** in a different wing:
 
-| Rumor | Wing | Room | How it starts |
+| Rumor | Starts in | Room | What begins it |
 |---|---|---|---|
 | **A Cage that Shines** | **Arcanum** | Hunt of the Watchers | Lure the only watcher — Watcher Filtration Gills |
-| **A Cage that Shimmers** | **Cursed Castle** | Gallery of Curios | Use the **Artist's Lens**, above or below the stairs |
+| **A Cage that Shimmers** | **Cursed Castle** | Gallery of Curios | The **Artist's Lens** — see below |
 | **A Cage that Sparkles** | **Lunar Path** | Moonlit Isles | Break it for the **Resonating Core** |
 
-Each one solved yields a **Timeward Seal**, collected in that wing's informational room:
+!!! warning "Correction — a Rumor does not stay in one wing"
+    This page said "one per wing" on 2026-11-07. That's wrong, and it matters for planning a run: **a Rumor starts in one wing and finishes in another.** *A Cage that Shimmers* begins in the **Cursed Castle** and ends at **The Lakehouse in the Lunar Path wing**. So you can't clear a Rumor by clearing a single wing — expect to cross the Vault, which means budgeting keys for rooms in more than one wing. Fixed 2026-11-07.
 
-| Seal from | Wing | What you use |
+**Where the three Timeward Seals are collected** — these are the rooms, not the wings each Rumor started in:
+
+| Seal room | Wing | What you interact with |
 |---|---|---|
 | **Custodian's Repository** | Arcanum | Astralight Lumen → an Astral Tear |
 | **Prison of the Unrepentant** | Cursed Castle | Subjugating Mindspore → Physical Escape |
 | **The Lakehouse** | Lunar Path | Connoisseur's Vision → Creative Transcendence |
 
-**What the three seals are for:** the **Ancient Direnni Quasigriff** mount sits in the **Sage's Trove** behind three locks, and **each Timeward Seal removes one**. With all three gone you interact with the mount to add it to your collection. The Sage's Trove itself opens by completing Vault rooms to repair the **Nexus Orrery**, which also completes the *Invitation to Treasures* quest.
+**What the seals are for:** the **Ancient Direnni Quasigriff** mount sits in the **Sage's Trove** behind three locks, and **breaking a Timeward Seal there removes one**. All three gone, and you interact with the mount to collect it. The Trove itself opens by completing Vault rooms to repair the **Nexus Orrery**, which also completes the *Invitation to Treasures* quest.
 
-So the Vault has **two** things worth finishing, not one: the **Gem of Cunning** for your Talisman, and the **Quasigriff** behind these three Conspiracies. Worth knowing before you treat the Vault as a one-and-done key sink.
+**And each Rumor pays 5 Wondrous Nowhere Keys on completion** — so these part-fund the next run rather than only consuming keys.
+
+So the Vault has **two** things worth finishing, not one: the **Gem of Cunning** for your Talisman, and the **Quasigriff**.
+
+### The Artist's Lens, and the full Shimmers chain
+
+The Lens is **found in the room, not brought into it** — this page named it without saying that:
+
+1. In the **Gallery of Curios**, go to the **eastern** room and interact with **"The Destroyed Painting"**. Read the riddle it gives you.
+2. **Collect the Artist's Lens lying near the painting.**
+3. Go to the **southern** room and **use the Lens under the stairs**. That grants you **Artist's Touch** and starts *A Cage that Shimmers*.
+
+*⚠️ The two sources disagree slightly on step 3: ArzyeL's dedicated Rumor guide says **"under the stairs"**, while its Nowhere Vault overview says **"above or below the stairs."** The dedicated guide is the better bet, but look both places. Whether the Lens is consumed on use isn't stated anywhere I could reach.*
+
+The rest of the chain, since you'll want to know what you're committing to before you start it:
+
+| # | Step | Where |
+|---|---|---|
+| 1 | **Artist's Touch** | The Lens, above |
+| 2 | **Carafe of Salt Water** | **Sinking Courtyard** — interact with the three **Rain Totems** to activate the **Brackish Fountain**, then the fountain itself |
+| 3 | **Connoisseur's Vision** | **Haunted Undercroft** — *Alter the Stew* to bring out the **Stewmaster** boss, then kill her |
+| 4 | **Timeward Seal** | **Lunar Path wing** → clear through to **The Lakehouse** → *Creative Transcendence* |
+| 5 | **Break the seal** | **Sage's Trove** — this finishes the Rumor and pays **5 Wondrous Nowhere Keys** |
+
+Note step 3 is the only **combat** step in the chain, and step 4 is the wing crossing. Nothing in it needs keys beyond the ones that open the rooms you pass through.
 
 ## Bounty and Heat — the two meters people confuse
 
@@ -179,4 +206,4 @@ From the maintenance notes, unchanged: **HarvestMap + HarvestRoute** for routes 
 
 ---
 
-*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07). Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07.*
+*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
