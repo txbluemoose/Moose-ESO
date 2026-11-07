@@ -225,7 +225,7 @@ Note step 3 is the only **combat** step in the chain, and step 4 is the wing cro
 | # | Step | Where | What you do |
 |---|---|---|---|
 | 1 | **Watcher Filtration Gills** | Hunt of the Watchers | Above |
-| 2 | **Fungal Sight** | **Murky Grotto** | With the Gills, interact with the **Toxic Bud**, then **stand on top of it and out-heal the poison**. **Deliberately don't kill the toxic plants, and leave a few enemies alive to drag the trial out** — that's what forces the **Toxic Matron** to appear. Kill her |
+| 2 | **Fungal Sight** | **Murky Grotto** | With the Gills, interact with the **Toxic Bud**, then **stay standing on it and out-heal the poison**. **Don't kill the toxic plants, and don't kill every enemy that spawns** — leaving enemies alive prolongs the trial, and that's what forces the **Toxic Matron** out. Kill her. See the note below |
 | 3 | **Subjugating Mindspore** | **Fungal Chasm** | Fungal Sight reveals **invisible stairs** on the left. Jump onto the green mist, follow it to a small side area, and interact with the Mindspore — the overview calls it "a secret area" |
 | 4 | **Timeward Seal** | **Cursed Castle wing** → **Prison of the Unrepentant** | Clear the wing's challenge rooms to reach it. Entering activates the Mindspore; interact with **Physical Escape** for the seal |
 | 5 | **Break the seal** | **Sage's Trove** | Finishes the Rumor and pays **5 Wondrous Nowhere Keys** |
@@ -233,6 +233,17 @@ Note step 3 is the only **combat** step in the chain, and step 4 is the wing cro
 **Two combat steps here, not one:** the sigil-marked watcher (unnamed in both sources) and the **Toxic Matron**. Shimmers only had the Stewmaster, so this is the fightier of the two.
 
 **Nothing in this Rumor is described as randomly placed** — which is worth saying, because the Shimmers chain's Rain Totems are. No source mentions randomness for the watcher, the Glyph Keys, the Whistle, the Toxic Bud or the Mindspore.
+
+!!! question "The Murky Grotto's toxic plants — what's known, and what isn't"
+    The instruction everywhere is **"do not kill the toxic plants"**, and that's about as far as any source goes. Worth being straight about the gaps, because this is the step most likely to go wrong:
+
+    - **What the plants actually do is not stated** anywhere I could reach — not whether they deal the poison you're out-healing, spawn the enemies, or buff them. The only sourced instruction is to leave them alone.
+    - **It's the surviving *enemies* that prolong the trial**, not the plants — the overview says "leave a few enemies alive to prolong the trial." So the plants and the enemies are two separate "don't kill this" instructions, and only the enemy half has a stated reason.
+    - **No room-clear objective is stated for the Murky Grotto at all.** I went looking specifically for a Hunt-of-the-Watchers-style trap — a room objective that fights the Rumor objective — and **there isn't a documented one**. The trial is the only objective either source describes for the room. That's reassuring but not quite the same as confirmed.
+    - **The Toxic Matron's mechanics are not stated.** Nor is the trial's length, its wave count, how much poison damage you're out-healing, or what happens if you step off the bud or die.
+    - Neither source uses the word **"mushroom"** for anything. In this wing the only plant-like things named are the **Toxic Bud** and the **toxic plants**, both in the Murky Grotto; the **Fungal Chasm** next door has green mist and invisible stairs, not fungal interactables.
+
+    **My own read, not a source:** a step that amounts to *stand still and out-heal poison for a while* plays to this household's whole design. Pale Order, Burning Embers over Searing Claw, and **A Soul Ablaze's +8% Healing Taken** all stack into exactly that, so of the Shines chain's two fights this is the one your build should find easy. The Matron is the unknown.
 
 !!! warning "The guide's Fungal Chasm tip doesn't apply to you"
     For the jumping in the Fungal Chasm, ArzyeL suggests **Streak** (*Storm Calling*) **via Subclassing**. **Both of your characters are pure class** — that's the whole reason you have Class Mastery — so that shortcut is off the table. Expect to do the Fungal Chasm on foot, and budget a little patience for it.
