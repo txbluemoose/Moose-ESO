@@ -183,12 +183,22 @@ The rest of the chain, since you'll want to know what you're committing to befor
 | # | Step | Where |
 |---|---|---|
 | 1 | **Artist's Touch** | The Lens, above |
-| 2 | **Carafe of Salt Water** | **Sinking Courtyard** — interact with the three **Rain Totems** to activate the **Brackish Fountain**, then the fountain itself |
+| 2 | **Carafe of Salt Water** | **Sinking Courtyard** — interact with the three **Rain Totems** to activate the **Brackish Fountain**, then the fountain itself. **The totems spawn in random spots every run** — see below |
 | 3 | **Connoisseur's Vision** | **Haunted Undercroft** — *Alter the Stew* to bring out the **Stewmaster** boss, then kill her |
 | 4 | **Timeward Seal** | **Lunar Path wing** → clear through to **The Lakehouse** → *Creative Transcendence* |
 | 5 | **Break the seal** | **Sage's Trove** — this finishes the Rumor and pays **5 Wondrous Nowhere Keys** |
 
 Note step 3 is the only **combat** step in the chain, and step 4 is the wing crossing. Nothing in it needs keys beyond the ones that open the rooms you pass through.
+
+!!! warning "The Sinking Courtyard has two different sets of three things in it"
+    This trips people up, so keep them separate:
+
+    - **Three Rain Totems** — the **Rumor** objective. **Their locations are random every time**, so there's no map to memorise and no guide can tell you where to walk; you sweep the room looking for them. **You must have Artist's Touch active to interact with them at all** — if you can't see or use them, you skipped the Lens. **Order doesn't matter**: hit all three and the **Brackish Fountain** activates, then interact with it for the **Carafe of Salt Water**.
+    - **Three crystals** — the **room** objective, nothing to do with the Rumor. You destroy them to be allowed to leave, and **they reform**, so move quickly between them.
+
+    **And the room's hazard: don't linger on the sand.** Stand on it too long and you're **teleported back to the entrance** — which on a room you're sweeping for randomly-placed totems is the real time cost.
+
+    *The fountain's position in the room isn't stated in any source I could reach, and neither is how the Sinking Courtyard is reached — it's one of the Cursed Castle wing's four rooms (Gallery of Curios, Sinking Courtyard, Haunted Undercroft, Prison of the Unrepentant), but no source gives the path or says whether the room is randomly rolled.*
 
 ## Bounty and Heat — the two meters people confuse
 
@@ -206,4 +216,4 @@ From the maintenance notes, unchanged: **HarvestMap + HarvestRoute** for routes 
 
 ---
 
-*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
+*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. The Sinking Courtyard detail — random totem placement, the crystals, the sand — is from the Nowhere Vault guide's room-by-room section. Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
