@@ -154,13 +154,15 @@ These are the Vault's own Conspiracies, and they're what the Vault's big reward 
 !!! warning "Correction — a Rumor does not stay in one wing"
     This page said "one per wing" on 2026-11-07. That's wrong, and it matters for planning a run: **a Rumor starts in one wing and finishes in another.** *A Cage that Shimmers* begins in the **Cursed Castle** and ends at **The Lakehouse in the Lunar Path wing**. So you can't clear a Rumor by clearing a single wing — expect to cross the Vault, which means budgeting keys for rooms in more than one wing. Fixed 2026-11-07.
 
-**Where the three Timeward Seals are collected** — these are the rooms, not the wings each Rumor started in:
+**Where the three Timeward Seals are collected.** Each Rumor ends in the **next** wing's informational room — the wings rotate Arcanum → Cursed Castle → Lunar Path → Arcanum:
 
-| Seal room | Wing | What you interact with |
-|---|---|---|
-| **Custodian's Repository** | Arcanum | Astralight Lumen → an Astral Tear |
-| **Prison of the Unrepentant** | Cursed Castle | Subjugating Mindspore → Physical Escape |
-| **The Lakehouse** | Lunar Path | Connoisseur's Vision → Creative Transcendence |
+| Rumor | Starts in | Seal room | Wing | What you interact with |
+|---|---|---|---|---|
+| **A Cage that Shines** | Arcanum | **Prison of the Unrepentant** | Cursed Castle | Subjugating Mindspore → **Physical Escape** |
+| **A Cage that Shimmers** | Cursed Castle | **The Lakehouse** | Lunar Path | Connoisseur's Vision → **Creative Transcendence** |
+| **A Cage that Sparkles** ⚠️ | Lunar Path | **Custodian's Repository** | Arcanum | Astralight Lumen → **an Astral Tear** |
+
+*⚠️ The first two rows are sourced. The third is **inferred** — Custodian's Repository and the Astral Tear are the only informational room and mechanism left over, and the rotation pattern holds for the other two. I haven't read the Sparkles guide yet, so treat that row as a strong guess rather than a fact.*
 
 **What the seals are for:** the **Ancient Direnni Quasigriff** mount sits in the **Sage's Trove** behind three locks, and **breaking a Timeward Seal there removes one**. All three gone, and you interact with the mount to collect it. The Trove itself opens by completing Vault rooms to repair the **Nexus Orrery**, which also completes the *Invitation to Treasures* quest.
 
@@ -200,6 +202,43 @@ Note step 3 is the only **combat** step in the chain, and step 4 is the wing cro
 
     *The fountain's position in the room isn't stated in any source I could reach, and neither is how the Sinking Courtyard is reached — it's one of the Cursed Castle wing's four rooms (Gallery of Curios, Sinking Courtyard, Haunted Undercroft, Prison of the Unrepentant), but no source gives the path or says whether the room is randomly rolled.*
 
+
+### A Cage that Shines — the Arcanum chain
+
+!!! danger "The one mistake that costs you the Rumor"
+    **Hunt of the Watchers has a room objective and a Rumor objective, and finishing the room lets you leave before you've started the Rumor.** ArzyeL's guide says it outright: *"This completes the room but do not leave yet."*
+
+    - **Room:** collect **five Seeker Glyph Keys** while avoiding the watchers, and open the sealed area. *(These are not Wondrous Nowhere Keys — the word "key" is doing two jobs in this vault.)*
+    - **Rumor:** collect the **Shrill Whistle** in the area, then deal with the sigil-marked watcher.
+
+**Starting it, in the Hunt of the Watchers:**
+
+1. Clear the room (the five Seeker Glyph Keys), but **don't walk out**.
+2. **Collect the Shrill Whistle** somewhere in the area. The guide also says to *"search for the sigil on one of the hills"* — it doesn't say whether that's the same sigil as the one over the watcher.
+3. **Lure the one watcher with a sigil above him** to the **runic prison near the room's entrance**.
+4. **Make him vulnerable, then kill him.** He drops the **Watcher Filtration Gills**, and that starts the Rumor.
+
+*⚠️ The two sources disagree on step 4: the dedicated Rumor guide says **use the Shrill Whistle** when he enters the prison area; the Vault overview says **interact with the runic prison** itself. Try the whistle first — that's the dedicated guide, and it explains why you're told to pick the whistle up — and fall back to the prison. Unlike the Shimmers chain, **no starting buff is named** for this one.*
+
+**The rest of the chain:**
+
+| # | Step | Where | What you do |
+|---|---|---|---|
+| 1 | **Watcher Filtration Gills** | Hunt of the Watchers | Above |
+| 2 | **Fungal Sight** | **Murky Grotto** | With the Gills, interact with the **Toxic Bud**, then **stand on top of it and out-heal the poison**. **Deliberately don't kill the toxic plants, and leave a few enemies alive to drag the trial out** — that's what forces the **Toxic Matron** to appear. Kill her |
+| 3 | **Subjugating Mindspore** | **Fungal Chasm** | Fungal Sight reveals **invisible stairs** on the left. Jump onto the green mist, follow it to a small side area, and interact with the Mindspore — the overview calls it "a secret area" |
+| 4 | **Timeward Seal** | **Cursed Castle wing** → **Prison of the Unrepentant** | Clear the wing's challenge rooms to reach it. Entering activates the Mindspore; interact with **Physical Escape** for the seal |
+| 5 | **Break the seal** | **Sage's Trove** | Finishes the Rumor and pays **5 Wondrous Nowhere Keys** |
+
+**Two combat steps here, not one:** the sigil-marked watcher (unnamed in both sources) and the **Toxic Matron**. Shimmers only had the Stewmaster, so this is the fightier of the two.
+
+**Nothing in this Rumor is described as randomly placed** — which is worth saying, because the Shimmers chain's Rain Totems are. No source mentions randomness for the watcher, the Glyph Keys, the Whistle, the Toxic Bud or the Mindspore.
+
+!!! warning "The guide's Fungal Chasm tip doesn't apply to you"
+    For the jumping in the Fungal Chasm, ArzyeL suggests **Streak** (*Storm Calling*) **via Subclassing**. **Both of your characters are pure class** — that's the whole reason you have Class Mastery — so that shortcut is off the table. Expect to do the Fungal Chasm on foot, and budget a little patience for it.
+
+*Two more things the sources conflict or go quiet on: the **Physical Escape's** exact location (the Rumor guide says an adjacent room, the overview says the Prison room itself), and **which** of the Cursed Castle's three challenge rooms step 4 requires — the overview lists Gallery of Curios, Sinking Courtyard and Haunted Undercroft but doesn't say which the Rumor needs.*
+
 ## Bounty and Heat — the two meters people confuse
 
 - **Heat** is short-term: it's why guards are currently interested in you. **Swiftly Forgotten** drops it by 64 every 3 seconds, and **Fade Away** wipes 25% of it when you escape a guard.
@@ -216,4 +255,4 @@ From the maintenance notes, unchanged: **HarvestMap + HarvestRoute** for routes 
 
 ---
 
-*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. The Sinking Courtyard detail — random totem placement, the crystals, the sand — is from the Nowhere Vault guide's room-by-room section. Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
+*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. The Sinking Courtyard detail — random totem placement, the crystals, the sand — is from the Nowhere Vault guide's room-by-room section. The *A Cage that Shines* chain is from [ArzyeL's guide to it](https://arzyelbuilds.com/eso-a-cage-that-shines-rumor/) plus that overview's Arcanum rooms (read 2026-11-07). Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
