@@ -22,7 +22,7 @@ Same as the melee Warden: **Wild Adaptation** (Wpn/Spell Dmg per status effect o
 ### Back bar (Ice Staff) — buffs & ground DoTs
 1. **Lotus Blossom** (morph of Lotus Flower, *Green Balance*) — Major Savagery + passive heal on light/heavy attacks
 2. **Growing Swarm** (morph of Swarm, *Animal Companions*) — a strong bleed DoT that also applies **Minor Vulnerability (+5% damage taken)**, your only source of it, and being an Animal Companions skill it adds another **+5% Critical Damage** through Advanced Species. It replaces Winter's Revenge here — Elemental Blockade already covers the ground-DoT role
-3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status procs
+3. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — Major Breach + status procs. **U51 gave it a 3,240 Magicka cost** — it used to be free. Still worth it (30s of −5,948 Armor for one press), but it's now a real bite out of a stamina build's small Magicka pool, so cast it on bosses, not trash
 4. **Elemental Blockade** (morph of Wall of Elements, *Destruction Staff*) — ground DoT; ice keeps enemies Chilled
 5. **Arctic Blast** (morph of Arctic Wind, *Winter's Embrace*) — your heal + a stun (heals off max health); the panic button
 - **Ult: Northern Storm** (morph of Sleet Storm, *Winter's Embrace*) — AoE + **50 Weapon/Spell Damage per tick, stacking to 450** + **Major Protection (−10% taken)**. This is your real ultimate; spend here, not on the bear

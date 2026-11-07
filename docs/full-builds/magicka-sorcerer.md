@@ -12,7 +12,7 @@
 
 | Situation | Mastery 1 | Mastery 2 |
 |---|---|---|
-| Default (daggers) | **Static Reverberation** (chance-on-damage shock proc that scales with the target's missing health — huge in execute) | **Conservation of Energy** (Blood Magic works on every costed ability + refunds magicka AND stamina — your sustain engine) |
+| Default (daggers) | **Static Reverberation** (chance-on-damage shock proc that scales with the target's missing health — huge in execute). **U51 reworked it, mostly upward:** the base proc chance went **5% → 20%** and its cooldown **300ms → 100ms**, but it now triggers **only from Sorcerer ability damage** instead of any damage. On this bar that's a clear buff — nearly everything you press is a Sorc ability | **Conservation of Energy** (Blood Magic works on every costed ability + refunds magicka AND stamina — your sustain engine). ⚠️ **U51: 1.5% per proc instead of 2%** |
 | Need survivability | **Calculated Defense** replaces Static Reverberation (max-health shield on every cast) | Conservation of Energy |
 | Staff front bar | **Font of Power** replaces Conservation of Energy (see the [Ranged guide](magicka-sorcerer-ranged.md)) | Static Reverberation |
 
@@ -24,11 +24,11 @@
 
 | Front Bar (Daggers*) | Back Bar (Ice Staff) |
 |---|---|
-| 1. Traveling Knife (scribed grimoire, *Soul Magic*; scripts: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
+| 1. Traveling Knife (scribed grimoire, *Dual Wield*; scripts: Magic / Assassin's Misery / Berserk) | 1. Hurricane (morph of Lightning Form, *Storm Calling*) — Major Resolve + AoE |
 | 2. Liquid Lightning (morph of Lightning Splash, *Storm Calling*) | 2. Critical Surge (morph of Surge, *Storm Calling*) — Major Brutality + **heal on every crit, once per second** |
-| 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — free Major Breach + status engine |
+| 3. Bound Armaments (morph of Bound Armor, *Daedric Summoning*) — Major Savagery passively; cast at 4 stacks | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) — Major Breach + status engine (**3,240 Magicka since U51** — it used to be free) |
 | 4. Crystal Fragments (morph of Crystal Shard, *Dark Magic*) — cast on proc only | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) — **run the Ice version** |
-| 5. Ulfsild's Contingency (scribed grimoire, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — Minor Force |
+| 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Shock / Lingering Torment / Resolve) | 5. Barbed Trap (morph of Trap Beast, *Fighters Guild*) — Minor Force |
 | **Ult: Power Overload** (morph of Overload, *Storm Calling*) — **parked, never cast** (slotted for Expert Mage's passive weapon/spell damage) | **Ult: Summon Charged Atronach** (morph of Summon Storm Atronach, *Daedric Summoning*) — the real ultimate; constant Concussion → Minor Vulnerability |
 
 *\*Dual daggers are the default (best damage, up-close). Prefer to stay at range? A **lightning-staff front bar is only −1.2%** — the smallest weapon penalty of any of these builds — and the swaps that come with it (Wield Soul, Font of Power, Bear Haunch food) are spelled out in the separate [Magicka Sorcerer — Ranged](magicka-sorcerer-ranged.md) guide. Bow is −2.9%, Inferno −3.1%.*
@@ -72,7 +72,16 @@ Play it as **two sweeps**, not an 11-step list:
 | Front bar | — | Charged | Poison + Flame | Sul-Xan daggers | melee default |
 | Back bar | — | Infused | Weapon Damage | Crushing Wall **Ice** Staff | vMA — see the note below |
 
-**Why an Ice back bar:** the source builds its Blockade write-up around the **Ice** version — an Ice Blockade also applies **Minor Breach** to Chilled enemies, and they're permanently Chilled thanks to Elemental Susceptibility. That free Minor Breach is worth more than the lightning staff's AoE on the back bar. (Front bar stays as-is; if you'd rather not re-farm, a lightning Crushing Wall still works — you just give up the Minor Breach.)
+**Why an Ice back bar — and one part of the old reasoning was wrong.** The source builds its Blockade write-up around the **Ice** version: **Blockade of Frost snares and reduces the armor of Chilled enemies**, and they're permanently Chilled thanks to Elemental Susceptibility. That armour shred is the real reason, and it holds.
+
+!!! warning "Corrected 2026-09-30 — and worth re-checking against Lightning"
+    This page also credited the ice staff with **Minor Brittle** on Chilled enemies. **Chilled only grants Minor Brittle if a frost staff is on your *active* bar when it lands** — and on this melee build you're on daggers for almost the whole fight, so it was rarely firing. Minor Maim from Chilled and Minor Vulnerability from Concussion are *not* staff-gated, so Elemental Susceptibility's debuff engine is unaffected either way.
+
+    **What that changes:** the **Ancient Knowledge** passive is element-specific — **Lightning gives +12% damage done with direct damage and channelled effects**, **Inferno +12% with damage-over-time and Status Effects**, and **Ice gives block cost and block mitigation only, no damage.** A **lightning** Crushing Wall would also set Concussed enemies **Off Balance** via Blockade of Storms, which feeds **Backstabber** in your Blue CP.
+
+    So Ice vs Lightning here is now a genuine question rather than a settled one: Ice's armour shred against a Lightning staff's +12% and the Off Balance. **Unlike the Dragonknight — which moved to Inferno on 2026-09-30 because its whole kit is flame DoTs and Burning — this build has no such obvious answer, so the Ice default stands until it's parsed.** If you'd rather not re-farm, a lightning Crushing Wall is a perfectly good bar.
+
+    *⚠️ The active-bar gate on Minor Brittle comes from ESO-Hub's status-effects page, an aggregate page of the kind this repo has been burned by. Confirm in-game before acting on it.*
 
 *For instanced, shift Chest and Legs to Light; the head stays the one Medium piece (Slimecraw, or a Medium Valkyn Skoria) for the 6/1 split. In-game tooltips override — confirm on your bar.*
 
@@ -238,7 +247,7 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 ## 6. SHOPPING LIST
 1. **Scribing** (you have it from the DK) — Traveling Knife + Ulfsild's + Wield Soul grimoires cover both weapon variants
 2. **Beacon of Oblivion** — Infinite Archive, Sorc class set (same runs that drop your DK's Pyrebrand — farm both at once)
-3. **Crushing Wall Ice Staff** — vet Maelstrom. Note this is a *different element* from your DK's staff, so the DK farm doesn't hand it to you; you want the Ice version here for the Minor Breach on Chilled enemies (see the gear note). A lightning Crushing Wall is the fallback if you already have one
+3. **Crushing Wall Ice Staff** — vet Maelstrom. Note this is a *different element* from your DK's staff (which is **inferno** as of 2026-09-30), so the DK farm doesn't hand it to you; the Ice version is here for **Blockade of Frost's armour shred on Chilled enemies** — see the gear note, which also explains why a **lightning** Crushing Wall is now a live alternative rather than just a fallback
 4. **Valkyn Skoria** — vet City of Ash II (shared with your DK's instanced setup — one helm serves both if weights align)
 5. **Sul-Xan's Torment** — Rockgrove; Tide-Born crafted covers you at −2 to −6% meanwhile
 6. Pale Order + Slimecraw: account-wide, already yours

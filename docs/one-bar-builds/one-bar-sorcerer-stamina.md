@@ -29,7 +29,7 @@
 
     **If she's willing to earn it, take it — it's the single biggest upgrade available to this build.** If not, Endless Hail is the right call and the sheet works exactly as written.
 
-    Elemental Susceptibility, the usual free answer, is a **Destruction Staff** skill and unavailable on a bow — unless she picks up a back bar.
+    Elemental Susceptibility, the other answer, is a **Destruction Staff** skill and unavailable on a bow — unless she picks up a back bar. It also **stopped being free in Update 51** (3,240 Magicka now), which tilts this further toward Caltrops.
 
 ### Optional back bar — only if she wants Major Breach
 
@@ -41,15 +41,17 @@ The entire reason to pick it up is the gap flagged above: **Elemental Susceptibi
 
 | # | Skill | What it does |
 |---|---|---|
-| 1 | **Elemental Susceptibility**<br>*morph of Weakness to Elements, Destruction Staff* | **Major Breach** — the ~5,948 armour shred she's missing. **Currently free to cast**, which is what makes it viable on a stamina build. |
+| 1 | **Elemental Susceptibility**<br>*morph of Weakness to Elements, Destruction Staff* | **Major Breach** — the ~5,948 armour shred she's missing, for 30 seconds. **Costs 3,240 Magicka since U51** (it was free before 28 September 2026). One press per boss out of a pool she otherwise never touches, so it still works — it's just no longer free. |
 | 2 | **Elemental Blockade**<br>*morph of Wall of Elements, Destruction Staff* | Ground DoT. On an **ice** staff its Chilled procs also apply **Minor Brittle**. Optional — see the Magicka warning below. |
 
 **Leave slots 3–5 empty, or put anything there she likes.** Do *not* park a skill there for a "while slotted" bonus — those only work on the **active** bar, so a skill sitting on the back bar while she fights on the front does nothing at all.
 
 !!! warning "Destruction Staff skills cost Magicka — and she's a stamina build"
-    **Elemental Susceptibility is free to cast on the current patch**, which is the only reason this works for her. Elemental Blockade is not — it's a real Magicka cost against a small pool, so treat it as a nice-to-have and drop it the moment her Magicka is the thing running out. Conservation of Energy (her Class Mastery pick) refunds Magicka too, which softens it.
+    **Update 51 landed and this is the part it changed.** Elemental Susceptibility used to be free; it now costs **3,240 Magicka**. Elemental Blockade always cost Magicka, and on a repeating ground DoT that adds up fast against a small pool.
 
-    **⚠️ Update 51 breaks this.** It's on PTS now and gives Elemental Susceptibility a **3,240 Magicka cost**. When U51 lands, re-check whether this bar is still worth carrying on a stamina build — Razor Caltrops may become the better answer after all.
+    **The verdict after the change: the bar still works, but it is a one-press bar now.** Swap back, cast Susceptibility, swap forward — 3,240 Magicka once per 30 seconds is affordable out of a pool she otherwise never spends, and Conservation of Energy (her Class Mastery pick) refunds some of it. What is *not* affordable is treating the back bar as a second rotation: **drop Elemental Blockade** unless her Magicka is visibly sitting full.
+
+    **And it moves Razor Caltrops up.** Caltrops costs Stamina, lives on the bar she actually fights from, and needs no weapon swap — so if she is willing to rank the Assault line, take Caltrops and skip this bar entirely. The back bar is now the answer for "she won't grind Cyrodiil", not the better answer outright. *(Re-checked 2026-09-30 against the live U51 notes.)*
 
 **The gear consequence — she needs a second weapon.** Deadly Strike is currently boots + necklace + ring 1 + **bow (2 pieces)** = 5. Weapon set bonuses only count while that weapon is **drawn**, so the moment she swaps to a non-Deadly-Strike staff she drops to 3 pieces and loses the 5-piece. The fix is simple: get a **Deadly Strike ice staff** so the 5-piece holds on both bars. Same Cyrodiil vendor / guild-trader set as the rest — cheap, and no farming.
 
@@ -62,6 +64,7 @@ The entire reason to pick it up is the gap flagged above: **Elemental Susceptibi
 ### Class Mastery (pure class — pick 2)
 - **Font of Power** — grants **+11% Weapon Damage** for 10s whenever she uses any Sorc ability. Her biggest damage pick, costs nothing defensive. ✅
 - **Conservation of Energy** — upgrades Blood Magic so it refunds Stamina *and* Magicka on **any costed ability** (not just crits), roughly **once per second**. **She has no dedicated sustain skill, so this genuinely matters for her** — it keeps her stamina from bottoming out. ✅
+    - ⚠️ **U51 trimmed it: 1.5% of Max Magicka and Stamina per proc instead of 2%**, and it also cut Blood Magic's underlying heal from 5%/10% of Max Health to 3%/6%. That's a ~25% cut to her only sustain engine. It's still the right pick — nothing else on the list addresses sustain at all — but if she starts running dry where she didn't before, this is why, not her rotation.
 - *Tankier swap:* trade Font of Power → **Calculated Defense** (a Max-Health shield every cast) for a scary fight. ⚠️ confirm the numbers in-game.
 
 *Masteries verified vs Alcast's U50 Class Mastery breakdown — confirm live numbers on her bar.*

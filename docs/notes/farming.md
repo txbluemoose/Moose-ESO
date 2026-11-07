@@ -10,8 +10,8 @@ Non-combat loadout notes. Combat build barely matters here; CP and passives do t
 
 ## Passives to buy
 
-- **Legerdemain** — Trafficker (faster fence resets), Finders Keepers, Light Fingers. Essential for troves and safeboxes.
-- **Thieves Guild** — Haggling and the rest; raises fence payouts
+- **Legerdemain** — Improved Hiding, Light Fingers, **Trafficker** (more fence interactions a day), Locksmith, Kickback. Essential for safeboxes and chests. *(**Finders Keepers** used to be listed here; it's a **Thieves Guild** passive, not Legerdemain — corrected 2026-10-29. It's the one that makes thieves troves lootable at all, so you do need it, just from the other line.)*
+- **Thieves Guild** — **Finders Keepers** (the gate on thieves troves), **Haggling** (+10% fence value, *not* laundering), Swiftly Forgotten, Clemency, Timely Escape. Full breakdown on the [Thieving page](thieving.md)
 - **Crafting lines' Keen Eye passives** (Blacksmithing/Clothing/Woodworking) — makes nodes visible from much further away. Biggest single time-saver in resource farming.
 
 ## Gear
