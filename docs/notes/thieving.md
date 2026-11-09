@@ -160,9 +160,9 @@ These are the Vault's own Conspiracies, and they're what the Vault's big reward 
 |---|---|---|---|---|
 | **A Cage that Shines** | Arcanum | **Prison of the Unrepentant** | Cursed Castle | Subjugating Mindspore → **Physical Escape** |
 | **A Cage that Shimmers** | Cursed Castle | **The Lakehouse** | Lunar Path | Connoisseur's Vision → **Creative Transcendence** |
-| **A Cage that Sparkles** ⚠️ | Lunar Path | **Custodian's Repository** | Arcanum | Astralight Lumen → **an Astral Tear** |
+| **A Cage that Sparkles** | Lunar Path | **Custodian's Repository** | Arcanum | Astralight Lumen → **an Astral Tear** |
 
-*⚠️ The first two rows are sourced. The third is **inferred** — Custodian's Repository and the Astral Tear are the only informational room and mechanism left over, and the rotation pattern holds for the other two. I haven't read the Sparkles guide yet, so treat that row as a strong guess rather than a fact.*
+*All three rows are now sourced. The Sparkles row was an inference until 2026-11-09 and is confirmed: the rotation holds. **All three Rumors then finish at the Sage's Trove**, which is the hub rather than any wing — collecting the seal and breaking it are two different steps.*
 
 **What the seals are for:** the **Ancient Direnni Quasigriff** mount sits in the **Sage's Trove** behind three locks, and **breaking a Timeward Seal there removes one**. All three gone, and you interact with the mount to collect it. The Trove itself opens by completing Vault rooms to repair the **Nexus Orrery**, which also completes the *Invitation to Treasures* quest.
 
@@ -250,6 +250,35 @@ Note step 3 is the only **combat** step in the chain, and step 4 is the wing cro
 
 *Two more things the sources conflict or go quiet on: the **Physical Escape's** exact location (the Rumor guide says an adjacent room, the overview says the Prison room itself), and **which** of the Cursed Castle's three challenge rooms step 4 requires — the overview lists Gallery of Curios, Sinking Courtyard and Haunted Undercroft but doesn't say which the Rumor needs.*
 
+
+### A Cage that Sparkles — the Lunar Path chain
+
+**This is the stealth one, and the trappiest of the three.** Two things make it worth reading before you walk in.
+
+!!! danger "Three separate places you can lose it"
+    The other two chains had one room-vs-Rumor trap each. This one has three:
+
+    1. **Moonlit Isles** — reaching the final island **clears the room**, but the Rumor needs the **bridge switches and the shrine**. Clear it and leave and you've got nothing.
+    2. **Twilight Maze** — **order matters here, uniquely.** Find the puppy *before* you fight the cantors. The guide is explicit: *"ignore the cantors and search around for Little Soft Boots... Then focus on finding the cantors to clear the room."* Kill them first and you've done the room out of sequence.
+    3. **Eclipsed Hall** — *"do not leave yet"* again, same as Hunt of the Watchers. Clearing the lanterns isn't the Rumor.
+
+!!! success "Your thieving loadout is the right kit for this one"
+    Step 2 wants you to **move in stealth** to find the puppy. That's the only Rumor step in the Vault that rewards the [loadout at the top of this page](#the-loadout) for what it actually does — Night's Silence's full crouch speed and Out of Sight's reduced detection are doing real work rather than just being thematically appropriate. Wear the thieving set for Sparkles specifically.
+
+**The chain:**
+
+| # | Get | Where | What you do |
+|---|---|---|---|
+| 1 | **Resonating Core** | **Moonlit Isles** (Lunar Path) | Navigate the islands by activating bridges and jumping. On the **last island**, interact with the **three Bridge Switches** — **in the right order** — which activates three bridges on the island opposite. **Teleport back to the entrance**, cross to the newly connected island, and **break the Corrupted Shrine** |
+| 2 | **Cantor's Starsong** | **Twilight Maze** (Lunar Path) | **Move in stealth.** Find **Little Soft Boots**, a shadow puppy, and follow him to a secret area; **interact with the lion statue** there. *Then* reveal and defeat the three cantors to clear the room |
+| 3 | **Astralight Lumen** | **Eclipsed Hall** (Lunar Path) | **Protect the lanterns** — five have to pass through — defeating whatever blocks them. **Don't leave.** With the Starsong a **mallet appears near the exit**: take it, **ring the central bell again**, then **interact with all the blue bells** |
+| 4 | **Timeward Seal** | **Arcanum wing** → **Custodian's Repository** | Clear the wing's challenges to reach it. Entering activates the Lumen; interact with the **Astral Tear** |
+| 5 | **Break the seal** | **Sage's Trove** | Finishes the Rumor and pays **5 Wondrous Nowhere Keys** |
+
+**No named boss in this chain** — the only combat is the three cantors in the Twilight Maze and whatever blocks the lanterns in the Eclipsed Hall. So of the three Rumors this is the **lightest on fighting** and the heaviest on puzzles. Nothing in it is described as randomly placed.
+
+*Two notes. The guide suggests **Streak** for the Moonlit Isles jumping, as it does for the Fungal Chasm — **and you can't use it either way**, since it's a Sorcerer skill and you're pure class. Expect to do the island-hopping on foot. And the **bridge switch order** isn't given on any page I could reach; neither is what cue tells you the correct order, so expect some trial and error there.*
+
 ## Bounty and Heat — the two meters people confuse
 
 - **Heat** is short-term: it's why guards are currently interested in you. **Swiftly Forgotten** drops it by 64 every 3 seconds, and **Fade Away** wipes 25% of it when you escape a guard.
@@ -266,4 +295,4 @@ From the maintenance notes, unchanged: **HarvestMap + HarvestRoute** for routes 
 
 ---
 
-*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. The Sinking Courtyard detail — random totem placement, the crystals, the sand — is from the Nowhere Vault guide's room-by-room section. The *A Cage that Shines* chain is from [ArzyeL's guide to it](https://arzyelbuilds.com/eso-a-cage-that-shines-rumor/) plus that overview's Arcanum rooms (read 2026-11-07). Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
+*Sources: the Rumors system, the three Vault Rumors, the Timeward Seals and the Quasigriff from [ArzyeL's Rumors guide](https://arzyelbuilds.com/eso-rumors/) and [Nowhere Vault guide](https://arzyelbuilds.com/eso-nowhere-vault/) (read 2026-11-07); the Artist's Lens and the full *A Cage that Shimmers* chain from [ArzyeL's guide to that Rumor](https://arzyelbuilds.com/eso-a-cage-that-shimmers-rumor/) (read 2026-11-07), which is also what corrected the one-Rumor-per-wing claim. The Sinking Courtyard detail — random totem placement, the crystals, the sand — is from the Nowhere Vault guide's room-by-room section. The *A Cage that Shines* chain is from [ArzyeL's guide to it](https://arzyelbuilds.com/eso-a-cage-that-shines-rumor/) plus that overview's Arcanum rooms (read 2026-11-07), and *A Cage that Sparkles* from [its guide](https://arzyelbuilds.com/eso-a-cage-that-sparkles-rumor/) plus the overview's Lunar Path rooms (read 2026-11-09) — which also confirmed the seal rotation. Legerdemain and Thieves Guild passive text from [eso-skillbook.com](https://eso-skillbook.com/skillline/legerdemain) (read 2026-10-29). Green/Craft Champion Point stars and values datamined via UESP esolog and published by [ESO Decoded](https://esodecoded.com/champion-points/craft) (their data retrieved 2026-10-24). Set bonuses, slot restrictions and sources for [Night's Silence](https://esodecoded.com/sets/nights-silence) and [Night Mother's Embrace](https://esodecoded.com/sets/night-mothers-embrace) from the same datamined set pages (retrieved 2026-10-17). Prowler's Talisman, the Shadow Queen's Cowl comparison and the Nowhere Vault are covered in [Mythic Items](../shared/mythics.md). Live patch is **Update 51**; nothing on this page is affected by the U52 PTS notes. **In-game tooltips override everything here** — in particular, confirm the Prowler's Talisman slot and the exact Green CP stage values on your own character, since CP numbers move with balance patches. Written 2026-10-29; Rumors section added 2026-11-07; Artist's Lens and the cross-wing correction the same day.*
