@@ -6,7 +6,7 @@ The ranged setup for the Mag Sorc. It's only **−1.2%** behind the melee (dual-
 ## What changes vs the [Melee guide](magicka-sorcerer.md)
 
 1. **Front bar → Lightning Staff** (ranged) instead of dual daggers. Two small skill/mastery swaps come with it:
-   - **Traveling Knife → Wield Soul** (scribed grimoire, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) on the front bar.
+   - **Traveling Knife → Shocking Soul** (scribed — Wield Soul, *Soul Magic*; scripts: Shock / Lingering Torment / Resolve) on the front bar.
    - **Class Mastery: Conservation of Energy → Font of Power** (the staff variant's sustain pick).
    - **Food → Orzorga's Smoked Bear Haunch** (Font of Power wants the max-stat food).
 2. **Armor → lean more Light** (6 Light / 1 Medium instanced) for extra Concentration penetration, since a double-staff setup is already playing safe at range.

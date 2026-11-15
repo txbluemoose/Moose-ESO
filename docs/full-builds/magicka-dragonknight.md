@@ -32,7 +32,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) — **and your crit buff: Major Savagery while slotted on *either* bar** |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — **also interrupts, sets Off Balance and stuns for 2s**, then blasts for 2,760 Flame when it finishes | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
-| 5. Ulfsild's Contingency (scribed grimoire, *Mages Guild*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
+| 5. **Fiery Contingency** (scribed — Ulfsild's Contingency, *Mages Guild*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). **Inferno back bar** — changed from Ice on 2026-09-30; the reasoning is under the gear table. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
@@ -67,6 +67,32 @@ This is your bread and butter — the verified U50 solo MagDK.
     **The cost is real, though.** It's one script, unlocked by combining **50 Class Script Scraps**, and scraps drop from group content: Trials (1 normal / 2 vet), trial weekly coffers (up to 4), trial leaderboards (5), and **Arenas — 1 normal / 3 veteran, once per day per account.** As a mostly-solo player your realistic route is **veteran arena runs at 3 scraps a day**, so roughly a two-and-a-half week habit. You only ever grind it **once per account** — after that you buy it from **Chronicler Firandil** for every alt, which makes it good value across all seven of your characters.
 
     Until you have it, **Flame / Lingering Torment / Resolve** is the right default.
+
+!!! tip "Your bar will not say \"Ulfsild's Contingency\" — it says Fiery Contingency"
+    **A scribed ability is renamed after its focus script**, so the grimoire name only exists in the crafting window. You scribed Flame, so what sits in slot 5 is **Fiery Contingency** — confirmed by you in-game on 2026-11-15, which is why every guide here now leads with the scribed name and keeps the grimoire in brackets.
+
+    The full map, for the combinations this repo actually prescribes:
+
+    | Grimoire | Focus script | On your bar |
+    |---|---|---|
+    | **Ulfsild's Contingency** | Flame | **Fiery Contingency** ← yours |
+    | | Frost | **Chilling Contingency** — *not* "Frost Contingency" |
+    | | Shock | **Shocking Contingency** |
+    | | Magic / Knockback / Healing / Damage Shield | Magical / Repelling / Healing / **Warding Contingency** |
+    | **Wield Soul** | Flame | **Fiery Soul** |
+    | | Frost · Bleed · Shock | **Chilling** · **Bloody** · **Shocking Soul** |
+    | **Soul Burst** | Bleed · Pull · Immobilize | **Bloody** · **Leashing** · **Binding Burst** |
+    | **Traveling Knife** | Magic | **Magic Knife** — *not* "Magical Knife" |
+    | | Poison | **Venomous Knife** |
+    | **Shield Throw** | Taunt | **Goading Throw** |
+
+    **Signature and affix scripts don't change the name** — only the focus does. That's inferred from the examples rather than stated as a rule anywhere, but it holds across every combination checked.
+
+!!! warning "Two combinations in this repo may not be scribable as written"
+    Found while building the map above, 2026-11-15 — **flagged, not silently changed**, because a guide that's been right before gets the benefit of the doubt:
+
+    - **Ulfsild's Contingency with a *Bleed* focus**, which both Nightblade guides prescribe. ArzyeL's variant list for that grimoire has **no Bleed option** — it offers Flame, Frost, Shock, Magic, Knockback, Healing and Damage Shield. Either the list is incomplete or that combination can't be made. **Check the scribing table before you plan a Nightblade bar around it**; if Bleed isn't offered, Magic is the closest fit for a magicka Nightblade.
+    - **"Magical Banner"** — Alcast's U51 group Mag DK calls Banner Bearer's Magic-focus version that, but ArzyeL's Banner Bearer page names only Fiery, Shocking, Fortifying, Restorative and Shattering Banner. The Magic focus exists; the resulting name is unconfirmed.
 
 **Other grimoires worth knowing on this character:**
 

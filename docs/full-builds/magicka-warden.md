@@ -30,10 +30,10 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 
 | Front Bar (Dual Daggers*) | Back Bar (Ice Staff) |
 |---|---|
-| 1. Wield Soul (scribed grimoire, *Soul Magic*; scripts: Frost / **Druid's Resurgence** / Resolve) | 1. Blue Betty (morph of Betty Netch, *Animal Companions*) |
+| 1. **Chilling Soul** (scribed — Wield Soul, *Soul Magic*; scripts: Frost / **Druid's Resurgence** / Resolve) | 1. Blue Betty (morph of Betty Netch, *Animal Companions*) |
 | 2. Deep Fissure (morph of Scorch, *Animal Companions*) | 2. Winter's Revenge (morph of Impaling Shards, *Winter's Embrace*) |
 | 3. Fetcher Infection (morph of Swarm, *Animal Companions*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
-| 4. Traveling Knife (scribed grimoire, *Dual Wield*; scripts: Poison / Assassin's Misery / Force) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
+| 4. **Venomous Knife** (scribed — Traveling Knife, *Dual Wield*; scripts: Poison / Assassin's Misery / Force) | 4. Elemental Blockade (morph of Wall of Elements, *Destruction Staff*) |
 | 5. Polar Wind (morph of Arctic Wind, *Winter's Embrace*) | 5. Enchanted Growth (morph of Fungal Growth, *Green Balance*) |
 | **Ult:** Wild Guardian (morph of Feral Guardian, *Animal Companions*) — *slotted **only** for the Advanced Species crit-damage passive, which comes from **slotting** an Animal Companions ability, not from summoning. Don't summon it, don't spend Ultimate on it. ⚠️ Confirm Feral Guardian's Ultimate cost on the tooltip in-game* | **Ult:** Northern Storm (morph of Sleet Storm, *Winter's Embrace*) — AoE damage, **50 Weapon/Spell Damage per tick stacking to 450**, and **Major Protection (−10% damage taken)** |
 
@@ -54,7 +54,7 @@ Front bar is where you live (dual daggers, up close). Back bar is "cast the grou
 
 ### Situational swaps (with skill line sources)
 - **Screaming Cliff Racer** (morph of Dive, *Animal Companions*) — the **ranged** spammable, and the reason it isn't the default: it only sets an enemy Off Balance **beyond 7 metres**, and its 100 Weapon/Spell Damage buff **quadruples to 400 only after you damage an Off Balance enemy**. Standing in melee — your normal playstyle — forfeits *both*, leaving a plain spammable with no sustain return. Take it on the ranged staff variant, where it's excellent; on daggers, Wield Soul wins.
-- **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Frost / Lingering Torment / Resolve) — a delayed-detonation DoT; comes in for Enchanted Growth or Winter's Revenge when you want more damage than healing. **No scribing on a given character?** **Frozen Armor** (below) is the non-scribed answer, and **Screaming Cliff Racer** replaces Wield Soul as the spammable.
+- **Chilling Contingency** (scribed — Ulfsild's Contingency, *Mages Guild*; scripts: Frost / Lingering Torment / Resolve) — a delayed-detonation DoT; comes in for Enchanted Growth or Winter's Revenge when you want more damage than healing. **No scribing on a given character?** **Frozen Armor** (below) is the non-scribed answer, and **Screaming Cliff Racer** replaces Wield Soul as the spammable.
 - **Frozen Armor** (morph of Frost Cloak, *Winter's Embrace*) — Major Resolve (armor); the non-scribed answer and a flat survivability gain for hard fights
 - **Budding Seeds** (morph of Healing Seed, *Green Balance*) — a HoT field + burst bloom for sustained-pressure fights; replaces Enchanted Growth when you want more raw healing than recovery
 - **Arctic Blast** (other morph of Arctic Wind, *Winter's Embrace*) — trades Polar Wind's pure burst heal for a heal-**and**-stun AoE DoT; take it when you need to peel adds

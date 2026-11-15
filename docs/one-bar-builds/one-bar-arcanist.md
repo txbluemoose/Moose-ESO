@@ -11,7 +11,7 @@
 
 1. **Cephaliarch's Flail** (morph of Abyssal Impact, *Herald of the Tome*) — AoE spammable; generates Crux, **heals her on any hit**, +5% damage taken debuff
 2. **Pragmatic Fatecarver** (morph of Fatecarver, *Herald of the Tome*) — THE beam. Spends Crux, full damage in AoE at 22m range, **big damage shield while channeling**, dirt cheap
-3. **Wield Soul** (scribed grimoire, *Soul Magic* — no morphs; scripts: Flame / Lingering Torment / Breach) — DoT + Major Breach. *No scribing? Use Razor Caltrops (morph of Caltrops, Alliance War > Assault) instead*
+3. **Fiery Soul** (scribed — Wield Soul, *Soul Magic* — no morphs; scripts: Flame / Lingering Torment / Breach) — DoT + Major Breach. *No scribing? Use Razor Caltrops (morph of Caltrops, Alliance War > Assault) instead*
 4. **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — heavy damage + guarantees a Crux when the beam ends
 5. **Cruxweaver Armor** (morph of Fatewoven Armor, *Soldier of Apocrypha*) — Major Resolve + Minor Breach on attackers + Crux when hit
 - **Ult: The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — can be fired **while beaming** without interrupting the channel
