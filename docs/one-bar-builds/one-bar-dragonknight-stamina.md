@@ -25,7 +25,7 @@
 
 ### Class Mastery (pure class — pick 2)
 - **Wildfire Embers** — stacking bonus Flame Damage (up to 12×). Biggest damage pick, and her flame kit keeps it fed. Costs nothing defensive.
-- **Inexorable Descent** — buffs the Landslide passive: more damage, more healing, stronger shields. Cheap "everything's better, including survival" pick.
+- **Inexorable Descent** — buffs the Landslide passive: more damage, more healing, stronger shields. Cheap "everything's better, including survival" pick. **U51 buffed Landslide underneath it:** 12 stacks instead of 10, and stacks generate every **5s at mastery rank 1 / 4s at rank 2** instead of every 10s/5s. They last 6 seconds and decay one at a time. That's a straight buff to this pick — the ceiling is higher and it ramps roughly twice as fast.
 - *Subclassing would disable both of these — she stays pure class.*
 
 *Masteries verified vs U50 — confirm the numbers on her bar.*

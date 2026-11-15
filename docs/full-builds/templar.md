@@ -19,7 +19,7 @@ Two Class Mastery Points, not skill points. Subclassing disables this system ent
 | Solo PvE / Group | **Judgment's Brand** | **Bastion of Light** | Devout Guardian replaces Bastion of Light if you'd rather have a repeating damage shield than the flat heal |
 | PvP | **Judgment's Brand** | Steadfast Candescence or Devout Guardian | Steadfast Candescence if you brawl on block; Devout Guardian for the shield |
 
-- **Judgment's Brand** — when Burning Light procs (it procs off Jabs/Sweeps constantly), your Templar abilities gain a flat chunk of damage done for ~3s. This is *why* Jabs is the strongest solo spammable right now — it's a near-permanent damage buff on your whole kit.
+- **Judgment's Brand** — when Burning Light procs (it procs off Jabs/Sweeps constantly), your Templar abilities gain a flat chunk of damage done for ~3s — **1,600 since U51, up from 1,400**. This is *why* Jabs is the strongest solo spammable right now — it's a near-permanent damage buff on your whole kit.
 - **Bastion of Light** — your Sacred Ground now also counts while your Nova and Spear Shards are down and while Radial Sweep / Solar Barrage are active, and while Sacred Ground is up you heal ~1498 Health/sec; hit full health in combat and you also bank 2 Ultimate. This is the passive "heartbeat heal" that makes the build unkillable — you'll almost always have Ritual of Retribution on the ground under you.
 - *Swaps:* **Devout Guardian** (a repeating ~3.7k damage shield + recovery while on Sacred Ground) and **Steadfast Candescence** (Sacred Ground refreshes while you block, +20% block mitigation) are the block-tank flavors — good in a fight where you eat a big telegraphed hit on block.
 
@@ -61,7 +61,7 @@ This is your bread and butter — the verified U50 solo StamPlar. Melee, up clos
 - **Luminous Shards** — *Templar > Aedric Spear* (morph of Spear Shards) — **the sustain swap aimed straight at your stamina problem.** Same Sacred Ground contribution as Blazing Spear (more Bastion of Light uptime), but its synergy returns **3960 Stamina and Magicka** and, solo, you press it yourself. The live U50 solo build runs this morph; take it over Blazing Spear unless you're grouped and want the raw damage synergy
 - **Blazing Spear** — *Templar > Aedric Spear* (the other Spear Shards morph) — the damage-synergy version of the same tile; great on trash packs when sustain isn't the problem
 - **Puncturing Sweep** — *Templar > Aedric Spear* (the other Jabs morph) — trade Jabs' Major Brutality for a 25%-of-damage heal when a fight is trying to kill you (this is the Magicka alternative's spammable)
-- **Elemental Susceptibility** — *Destruction Staff* (morph of Weakness to Elements) — Minor Breach/Brittle for a tanky boss with no group to debuff it
+- **Elemental Susceptibility** — *Destruction Staff* (morph of Weakness to Elements) — **Major Breach** (−5,948 Armor, 30s) for a tanky boss with no group to debuff it, plus Burning/Chilled/Concussion every 7.5s. Two corrections here: it's **Major** Breach, not Minor, and it **costs 3,240 Magicka since U51** — which on a stamina Templar means one press per boss. It also needs a **destro staff on that bar**, so it's only a swap if you're carrying one
 - **Resolving Vigor** — *Alliance War > Assault* — a stamina-cost burst-heal-over-time for invulnerability phases where Pale Order can't heal you (earn AP in Battlegrounds/Cyrodiil)
 - **Precognition** ult — *Psijic Order guild line (Summerset)* — mandatory for a few solo-impossible stuns
 - **Remembrance** ult — *Templar > Restoring Light* (morph of Rite of Passage) — a channeled group heal + big personal mitigation; a panic ultimate for one-shot mechanics
@@ -103,7 +103,7 @@ The whole game is: keep the four DoTs/buffs (Ritual, Blockade, Vampire's Bane, B
 - Body: Order's Wrath → **you own it, it's the endgame body set here.** Cheaper crit alt: Mother's Sorrow (overland, dirt cheap on traders).
 - Weapons/jewelry: **Deadly Strike — you own it and it's the best-in-slot for a channel/DoT Templar.** Marginal trial upgrade later: Ansuul's Torment (Sanity's Edge) in interrupt-heavy fights, ~a few %.
 - Back staff: any inferno staff until you earn Crushing Wall; the Maelstrom staff only buffs Elemental Blockade, so it's a small gain.
-- **The live best-in-slot you're deliberately not chasing: Aetheric Lancer + Perfected Sul-Xan's Torment.** That's the pairing the current solo StamPlar build runs, and it's a few percent over Order's Wrath + Deadly Strike — but it costs an Infinite Archive grind plus a Sanity's Edge trial clear, and this repo's answer is to stay on gear you already own. Noted so you know what you're passing on, not as a shopping item. *(Confirm each set's source before farming.)*
+- **The live best-in-slot you're deliberately not chasing: Aetheric Lancer + Perfected Sul-Xan's Torment.** *(U51 changed how Aetheric Lancer places its area: **3.5m in front of you**, or directly under you if you're standing still, with a 4m radius — instead of landing somewhere random within 5m. That's a real usability buff for a melee Jabs build, if you ever do chase it.)* That's the pairing the current solo StamPlar build runs, and it's a few percent over Order's Wrath + Deadly Strike — but it costs an Infinite Archive grind plus a Sanity's Edge trial clear, and this repo's answer is to stay on gear you already own. Noted so you know what you're passing on, not as a shopping item. *(Confirm each set's source before farming.)*
 
 **Mundus:** The Thief default → The Lover if your penetration is short → The Lady for the nastiest content
 **Attributes:** 64 Stamina default → 32/32 Health/Stamina when struggling → 64 Health for one-shot fights (only ~−5% damage)
@@ -267,7 +267,10 @@ At CP 1200 you have ~400 points per color; at 1800, ~600. **Each table is in the
 
 Rule of thumb: **buy every passive in every line you have a skill slotted from.** Skill points are abundant. Priority order if you're short:
 
-- **Aedric Spear** (Biting Jabs, Everlasting Sweep) — all 4; **Piercing Spear** (crit damage) and **Spear Wall** (mitigation on Jabs) are the standouts — HIGH
+- **Aedric Spear** (Biting Jabs, Everlasting Sweep) — all 4, and two of them are bigger than this page said:
+    - **Spear Wall** grants **Minor Berserk *and* Minor Protection for 6 seconds** every time you activate an Aedric Spear ability. On a Jabs build that's **+5% damage done and −5% damage taken, permanently** — we had it down as mitigation only. It's also one of the few real Minor Berserk sources available to this household.
+    - **Balanced Warrior** was reworked in U51 and now pays twice: **Armor per Templar ability slotted**, *and* **Weapon and Spell Damage scaled off your total Armor plus a flat amount per Templar ability slotted** (0.2% of Armor + 37.5 per ability at rank 1, doubled at rank 2, **no cap**). The practical rule: **every extra Templar skill on your bars is now worth damage as well as armour**, which is an argument for keeping the bars class-heavy rather than filling them with guild skills.
+    - **Piercing Spear** is +12% Critical Damage while an Aedric Spear ability is slotted, plus +12% damage to blocking players — HIGH
 - **Dawn's Wrath** (Radiant Glory, Vampire's Bane) — all 4; **Illuminate** and **Enduring Rays** (longer DoTs) matter, and **Restoring Spirit** cuts ability costs (helps sustain) — HIGH
 - **Restoring Light** (Restoring Focus, Ritual of Retribution, Honor the Dead) — all 4; **Master Ritualist**, **Light Weaver**, and **Sacred Ground** feed your heal engine directly — HIGH
 - **Dual Wield** — the flat damage passives — HIGH

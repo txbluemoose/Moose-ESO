@@ -15,7 +15,7 @@
 2. **Pragmatic Fatecarver** (morph of Fatecarver, *Herald of the Tome*) — THE beam. Spends Crux, full damage in AoE out to 22m with no falloff, dirt cheap, and **wraps her in a big damage shield the whole channel**
 3. **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — grants **Major Brutality** (spell damage) while slotted — her damage buff, no potion needed — plus heavy damage and a guaranteed Crux when the beam ends
 4. **Cruxweaver Armor** (morph of Fatewoven Armor, *Soldier of Apocrypha*) — **Major Resolve** (her armor) + Minor Breach on attackers + a Crux whenever she's hit
-5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — free to cast; applies **Major Breach** (her solo penetration) + status effects. **No scribing needed** — she casts it straight off the staff
+5. **Elemental Susceptibility** (morph of Weakness to Elements, *Destruction Staff*) — applies **Major Breach** (her solo penetration) + status effects. **No scribing needed** — she casts it straight off the staff. **U51 gave it a 3,240 Magicka cost** (it used to be free); on a magicka build that's a rounding error, and the Breach lasts 30s
 - **Ult: The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — can be fired **while beaming** without interrupting the channel
 
 *Nothing on this bar is scribed — she doesn't need scribing for any of it.*

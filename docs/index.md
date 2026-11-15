@@ -46,9 +46,10 @@ Every class, both stat pools (her stamina bars are bow/ranged where the class al
 - [Gear Slot Math](shared/gear-math.md) — mythic vs 2-piece monster set, and why the helm is a stat pick
 - [Mythic Items](shared/mythics.md) — what each does, where the leads drop, and which are worth digging up
 - [Farming](notes/farming.md) — gathering, chests, troves, surveys
+- [Thieving & Heists](notes/thieving.md) — the dedicated stealth loadout: sets, Legerdemain and Thieves Guild passives, and the whole Green CP tree
 - [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands
 - [Glossary](glossary.md) — plain-language definitions for the jargon
 
 ---
 
-*In-game tooltips override every guide here. Skill names are current as of Update 50.*
+*In-game tooltips override every guide here. Skill names are current as of **Update 51** (live since 28 September 2026). Update 52 is on PTS — see [Patch Watch](notes/patch-watch.md).*

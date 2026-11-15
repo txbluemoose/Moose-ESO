@@ -11,7 +11,7 @@
 
 1. **Cephaliarch's Flail** (morph of Abyssal Impact, *Herald of the Tome*) — AoE spammable; generates Crux, **heals her on any hit**, +5% damage taken debuff
 2. **Pragmatic Fatecarver** (morph of Fatecarver, *Herald of the Tome*) — THE beam. Spends Crux, full damage in AoE at 22m range, **big damage shield while channeling**, dirt cheap
-3. **Wield Soul** (scribed grimoire, *Soul Magic* — no morphs; scripts: Flame / Lingering Torment / Breach) — DoT + Major Breach. *No scribing? Use Razor Caltrops (morph of Caltrops, Alliance War > Assault) instead*
+3. **Fiery Soul** (scribed — Wield Soul, *Soul Magic* — no morphs; scripts: Flame / Lingering Torment / Breach) — DoT + Major Breach. *No scribing? Use Razor Caltrops (morph of Caltrops, Alliance War > Assault) instead*
 4. **Inspired Scholarship** (morph of Tome-Bearer's Inspiration, *Herald of the Tome*) — heavy damage + guarantees a Crux when the beam ends
 5. **Cruxweaver Armor** (morph of Fatewoven Armor, *Soldier of Apocrypha*) — Major Resolve + Minor Breach on attackers + Crux when hit
 - **Ult: The Languid Eye** (morph of The Unblinking Eye, *Herald of the Tome*) — can be fired **while beaming** without interrupting the channel
@@ -58,7 +58,7 @@
 *Reinforced trait on the chest, Divines on the rest; jewelry runs Weapon Damage glyphs. In-game tooltips override — confirm on her bar.*
 
 ### Endgame version
-Ansuul's Torment (5 body, Sanity's Edge) + Deadly Strike (shoulders/jewelry/weapons — cheap on traders!) + Slimecraw head + **Ring of the Pale Order**. Bow works: same set, Sharpened (instanced) or Precise (overland), Absorb Stamina enchant.
+Ansuul's Torment (5 body, Sanity's Edge) + Deadly Strike (shoulders/jewelry/weapons — cheap on traders!) + Slimecraw head + **Ring of the Pale Order**. *(**U51:** Ansuul's now **requires combat to activate**, so you can't interrupt something on the way in and carry the +14% window into the pull — the interrupt has to happen in the fight. The base +7% against monsters is unaffected.)* Bow works: same set, Sharpened (instanced) or Precise (overland), Absorb Stamina enchant.
 
 **Mundus:** The Thief (The Lady for brutal content)
 **Attributes:** 64 Stamina; shift toward Health when struggling

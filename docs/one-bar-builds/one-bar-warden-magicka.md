@@ -72,7 +72,7 @@ Same bones as her other one-bars — **5 Order's Wrath + 5 Deadly Strike + Slime
 All **Order's Wrath** (7 pieces) with a crafted stat stick until Deadly Strike and Pale Order are farmed. Deadly Strike is cheap from guild traders (Cyrodiil set); Pale Order is from Antiquities.
 
 ### Endgame upgrade
-Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together (same runs that drop his Warden's Aerie's Cry).
+Swap Order's Wrath body → **Aerie's Cry** (Warden class set) once farmed — it drops in the **Infinite Archive**, which is two-player, so she and her husband can farm it together *(**U51:** its Eagle's Mark now procs off a **Light *or* Heavy** Attack, not light only — so it fires even when she weaves a heavy in for resources)* (same runs that drop his Warden's Aerie's Cry).
 
 **Mundus:** The Thief (crit) → The Lady for brutal content
 **Attributes:** 64 Magicka (shift toward Health if she's getting one-shot — Polar Wind heals harder for it)

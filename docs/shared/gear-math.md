@@ -102,10 +102,29 @@ Anything past 18,200 is wasted. Anything short of it is damage you're simply not
 
 ---
 
+## The Warrior is now an option on magicka builds (U51)
+
+Every guide in this repo defaults to **The Thief**, and that hasn't changed. But U51 is worth knowing about, because it removed the reason The Warrior was never on the table:
+
+| Stone | Gives | With 7 Divines |
+|---|---|---|
+| **The Thief** | 1,333 Critical Strike rating (~6% Critical Chance) | 2,167 (~10%) |
+| **The Warrior** | 238 Weapon **and Spell** Damage — *both*, since U51 | 389 |
+
+Before U51 The Warrior granted Weapon Damage only, which made it dead weight on a magicka build. It now grants both, so it's live for every character here for the first time.
+
+**Is it better? No — it's close enough not to matter, which is the useful answer.** Roughly: The Thief's ~10% extra crit chance is worth about 3–4% damage once you multiply it by the crit damage these builds run; The Warrior's 389 Weapon and Spell Damage is worth about the same. That lands inside the **2–5% band this repo calls noise**, so it is not a reason to go re-attune anything.
+
+**When The Warrior actually wins:** when your crit chance is already high — Order's Wrath, Slimecraw's 657, Major Savagery from a slotted skill, and Precision in Blue CP stack up fast, and crit chance has hard diminishing value as you approach the cap. Check your character sheet: if you're already over about 60–65% Critical Chance, The Warrior's flat damage is doing more for you than another 10% crit would.
+
+**When The Thief wins:** heavy crit-damage builds (Fighting Finesse slotted, Backstabber, a high Critical Damage number on the sheet) and anything that keys off crit — **Critical Surge** on the Sorcerers heals on crit, and the **Reaving Blows** CP star and Sap Essence-style heals all get more reliable with more crit. On a "kick ass and not die" build, crit that heals you is worth more than its damage number suggests.
+
+*⚠️ Flagged: the U51 patch note says The Warrior grants both Weapon and Spell Damage, but ESO-Hub's Mundus Stones page still reads "Weapon Damage" only — that's an aggregate page, exactly the kind this repo has been bitten by before. **Check the stone in-game before you commit.** Note also that U51 turned **The Apprentice** into an Experience/Inspiration stone; it's no longer a damage option (we never recommended it).*
+
 ## If you ever drop Pale Order
 
 Going to Layout B (no mythic) opens the 2-piece monster set, and *then* the proc sets become worth discussing — Valkyn Skoria on a damage-over-time build, Zaan for single-target burn, Slimecraw for the flat +5%. That's a **group** decision. For solo content in this household, the ring stays on.
 
 ---
 
-*Sources: [UESP — Ring of the Pale Order](https://en.uesp.net/wiki/Online:Ring_of_the_Pale_Order), [ESO-Hub — Ring of the Pale Order](https://eso-hub.com/en/sets/ring-of-the-pale-order), [UESP — Slimecraw](https://en.uesp.net/wiki/Online:Slimecraw_(set)), [ESO-Hub — Slimecraw](https://eso-hub.com/en/sets/slimecraw). In-game tooltips override every guide here, including this one. Revised 2026-08-16.*
+*Sources: [UESP — Ring of the Pale Order](https://en.uesp.net/wiki/Online:Ring_of_the_Pale_Order), [ESO-Hub — Ring of the Pale Order](https://eso-hub.com/en/sets/ring-of-the-pale-order), [UESP — Slimecraw](https://en.uesp.net/wiki/Online:Slimecraw_(set)), [ESO-Hub — Slimecraw](https://eso-hub.com/en/sets/slimecraw). Mundus values from [ESO-Hub — Mundus Stones](https://eso-hub.com/en/mundus-stones), read 2026-09-30; The Warrior's Spell Damage addition from the U51 patch notes. In-game tooltips override every guide here, including this one. Revised 2026-09-30.*
