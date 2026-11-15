@@ -85,6 +85,7 @@ This is your bread and butter — the verified U50 solo MagDK.
     | **Ulfsild's Contingency** | Flame | **Fiery Contingency** ← yours |
     | | Frost | **Chilling Contingency** — *not* "Frost Contingency" |
     | | Shock | **Shocking Contingency** |
+    | | Bleed | **Bloody Contingency** — what both Nightblade guides run |
     | | Magic / Knockback / Healing / Damage Shield | Magical / Repelling / Healing / **Warding Contingency** |
     | **Wield Soul** | Flame | **Fiery Soul** |
     | | Frost · Bleed · Shock | **Chilling** · **Bloody** · **Shocking Soul** |

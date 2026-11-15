@@ -38,7 +38,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 | 2. **Relentless Focus** (morph of Grim Focus, *Assassination*) | 2. **Barbed Trap** (morph of Trap Beast, *Fighters Guild*) |
 | 3. **Killer's Blade** (morph of Assassin's Blade, *Assassination*) | 3. **Refreshing Path** (morph of Path of Darkness, *Shadow*) |
 | 4. **Siphoning Attacks** (morph of Siphoning Strikes, *Siphoning*) | 4. **Dark Shade** (morph of Summon Shade, *Shadow*) |
-| 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. ⚠️ **Ulfsild's Contingency** (scribed grimoire, *Mages Guild*; scripts: Bleed / Lingering Torment / Resolve) |
+| 5. **Shadowy Disguise** (morph of Shadow Cloak, *Shadow*) | 5. **Bloody Contingency** (scribed — Ulfsild's Contingency, *Mages Guild*; scripts: Bleed / Lingering Torment / Resolve) |
 | **Ult:** Soul Harvest (morph of Death Stroke, *Assassination*) | **Ult:** Soul Tether (morph of Soul Shred, *Siphoning*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina is part of the answer to your documented stamina gap — see the sustain note below). The bow back bar exists only to lay Endless Hail + Barbed Trap + Refreshing Path; you swap back to daggers immediately. You spend the fight in melee.*
@@ -55,7 +55,7 @@ Delves, world bosses, vet dungeon soloing, arenas. This is your bread and butter
 **Morph / scribing notes:**
 - **Merciless Resolve** is the *magicka* morph of Grim Focus; **Relentless Focus** is the *stamina* morph (Disease damage bow, not Physical) — you want Relentless on a stamblade. Both grant Major Savagery while slotted on either bar (neither grants Minor Berserk). The morphs are **not** otherwise equivalent: Relentless fires at **4 stacks** and heals **33%** of the arrow's damage; Merciless needs **5** but hits harder (4,752 vs 4,183) and heals **50%**.
 - **Siphoning Attacks** vs **Leeching Strikes**: they are the two morphs of Siphoning Strikes, and only Siphoning Attacks returns resources (1250 Health + 200 Magicka + 200 Stamina per second while slotted). Leeching Strikes heals more — 1800 Health per second — but returns **no** Magicka or Stamina, so it does nothing for your sustain problem. Take Siphoning Attacks.
-- **Ulfsild's Contingency** needs Scribing (Gold Road), which you have. If you ever want that slot non-scribed, **Poison Injection** (morph of Poison Arrow, *Bow*) drops in cleanly — a ranged DoT that ramps hard as the target's health falls.
+- **Bloody Contingency** — *Ulfsild's Contingency with a Bleed focus* — needs Scribing (Gold Road), which you have. **The Bleed focus was flagged as possibly unscribable on 2026-11-15 and is confirmed valid on 2026-11-16**: ESO-Hub lists the combination. The flag came from ArzyeL's variant list for the grimoire, which simply doesn't include Bleed — it isn't exhaustive. If you ever want that slot non-scribed, **Poison Injection** (morph of Poison Arrow, *Bow*) drops in cleanly — a ranged DoT that ramps hard as the target's health falls.
 
 ### Situational swaps (with skill line sources)
 - **Leeching Strikes** — *Nightblade > Siphoning* (the other morph of Siphoning Strikes) — 1800 Health per second while slotted instead of 1250 + resources; take it only if sustain is genuinely solved and you want the bigger heal
