@@ -59,6 +59,13 @@ This is your bread and butter — the verified U50 solo MagDK.
 | **Flame / Gladiator's Tenacity / Resolve** | Trades the DoT for **damage mitigation** — hard boss fights |
 | **Flame / Class Flourish / Resolve** | **The melee pick, if you can get the script — see below** |
 
+!!! danger "Don't put a Brutality affix on it — Igneous Weapons already covers that"
+    Checked 2026-11-15 after he scribed a version with **+20% Weapon and Spell Damage for 10 seconds** in the affix slot. That buff is **Major Brutality**, and **Igneous Weapons on the back bar already grants it for 60 seconds.** Major buffs of the same name **do not stack**, so that affix does nothing — and it would be a 10-second window replacing a 60-second one even if it did. **It's a dead slot.** Put **Resolve** back.
+
+    *One check before you settle on Resolve, though:* its Minor Resolve is **+2,974 Armor**, which stacks with Shatterspike Mantle's **Major** Resolve (different tiers, so both apply). But the live build notes that a Nord in Medium armour running Ulfsild's **and armour potions is already at the armour cap** — and your potions *are* armour potions. **Look at your Armor on the character sheet with the buff up.** If you're at cap, Resolve is also doing little, and a debuff affix is the better use of the slot — **Vulnerability** is the one the source itself pairs with the Fiery variant.
+
+    **And a confirmation from his own crafting window:** **Gladiator's Tenacity combines with a Flame focus.** ArzyeL only lists it as the *Warding* (Damage Shield focus) signature, which would have cast doubt on the mitigation row above — his tooltip settles it, and in-game beats any guide. The 8%-for-6-seconds figure this repo has used for it is confirmed too.
+
 !!! tip "Class Flourish is the script worth chasing for how you play"
     **Class Flourish** (the U51 rename of the **Class Mastery** signature script) has a different effect per class. On a **Dragonknight** it reads: *for each enemy within 8 metres, up to 6, gain **50 Weapon and Spell Damage** and **reduce your damage taken by 2% plus 1% per enemy** for 5 seconds.*
 
