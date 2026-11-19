@@ -3,6 +3,8 @@
 
 **Verified against:** ArzyeL Best Companions Builds (June 22, 2026) + Companion Tier List (2026). Recruitment quests and locations verified 2026-08-21 against ZOS official support pages, UESP, ArzyeL and Alcast. Companion armour-line bonuses and the trait/weight split verified 2026-09-22 against ESO-Hub's companion skill pages and UESP.
 
+**Jump to a build:** [Isobel](#isobel-tank) · [Sharp-as-Night](#sharp-as-night-healer) · [Tanlorin](#tanlorin-stamina-dps) · [Zerith-var](#zerith-var-tank) · [Azandar](#azandar-al-cybiades-tank-support) · [Ember](#ember-magicka-dps) · [Mirri](#mirri-elendis-stamina-dps) · [Bastian](#bastian-hallix-tank-buffer)
+
 ---
 
 ## 0. THE ONE THING THAT MATTERS MOST
