@@ -63,6 +63,16 @@ Follow these when editing or adding guides.
     The rule that follows: **remaining passives outrank every "swap option" row**, because a passive is always on while a fifth slottable is inert, re-slotting is free out of combat, and a full respec is only 3,000 gold. Don't add swap-option rows above passives, and don't imply a table is exhaustive. Values verified 2026-09-26 vs esodecoded.com datamined star pages.
 9. **Adding a page = update the home page too.** Every new guide must be linked from `docs/index.md` (the landing page) *and* the `mkdocs.yml` nav. CI enforces the home-page link (`scripts/check_index_links.py`) — the build fails if any docs page isn't on the home page, so it can't silently go stale.
 
+## Publishing — push straight to main
+
+**He asked for this explicitly on 2026-11-19: "Always push to main."** Treat it as standing permission for this repo; don't open a pull request and don't leave work sitting on a branch waiting to be merged.
+
+The reason it matters: the site only rebuilds on a **push to `main`** (`.github/workflows/deploy-docs.yml`), so a commit on any other branch is **not live**, however finished it looks. PR #50 once sat unmerged for weeks while 21 commits of verified corrections stayed invisible — he found out by quoting a line from the published site that had been fixed in the repo and never deployed. Don't recreate that gap.
+
+Before every push, run the gate locally — `python scripts/check_index_links.py`, `python scripts/build_planner_data.py`, then `mkdocs build --strict`. There are **no PR checks** on this repo, so this is the only thing standing between a broken build and the live site. `mkdocs` may not be installed in a fresh container; `pip install mkdocs-material` matches CI.
+
+If a session's harness instructions name a feature branch to develop on, that's the default, not a veto — this line is the explicit permission those instructions ask for.
+
 ## Verification rules
 
 **Do not write skill names from memory.** The U49/U50 Dragonknight rework renamed and relocated a large number of abilities, and pre-rework names are still all over the web. Verify against a current source or have the player check in-game.
