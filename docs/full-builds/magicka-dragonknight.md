@@ -32,7 +32,7 @@ This is your bread and butter — the verified U50 solo MagDK.
 | 2. Searing Claw (morph of Searing Strike, *Ardent Flame*) | 2. Incinerate (morph of Inferno, *Ardent Flame*) — **and your crit buff: Major Savagery while slotted on *either* bar** |
 | 3. Disintegrating Dragonfire (morph of Dragonfire Breath, *Draconic Power*) | 3. Elemental Susceptibility (morph of Weakness to Elements, *Destruction Staff*) |
 | 4. Soul of Flame (morph of Core of Flame, *Ardent Flame*) — **also interrupts, sets Off Balance and stuns for 2s**, then blasts for 2,760 Flame when it finishes | 4. Elemental Blockade — **Blockade of Fire** (morph of Wall of Elements, *Destruction Staff*) |
-| 5. **Fiery Contingency** (scribed — Ulfsild's Contingency, *Mages Guild*; scripts: Flame / Lingering Torment / Resolve) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
+| 5. **Fiery Contingency** (scribed — Ulfsild's Contingency, *Mages Guild*; scripts: Flame / **Class Flourish** / **Breach**) | 5. Igneous Weapons (morph of Molten Weapons, *Earthen Heart*) |
 | **Ult:** Take Flight (morph of Dragon Leap, *Draconic Power*) | **Ult:** Standard of Might (morph of Dragonknight Standard, *Ardent Flame*) |
 
 *\*Dual daggers are the default — best damage and the up-close playstyle you run. Dagger enchants: main-hand **Poison**, off-hand **Absorb Stamina** (that off-hand Absorb Stamina directly helps your one known sustain gap). **Inferno back bar** — changed from Ice on 2026-09-30; the reasoning is under the gear table. Want to stay ranged instead? An Inferno-staff front bar is only ~2.3% behind — see [Magicka Dragonknight — Ranged](magicka-dragonknight-ranged.md).*
@@ -55,9 +55,9 @@ This is your bread and butter — the verified U50 solo MagDK.
 
 | Script combo | When |
 |---|---|
-| **Flame / Lingering Torment / Resolve** | **Default.** The DoT plus +2,974 Armor |
-| **Flame / Gladiator's Tenacity / Resolve** | Trades the DoT for **damage mitigation** — hard boss fights |
-| **Flame / Class Flourish / Resolve** | **The melee pick, if you can get the script — see below** |
+| **Flame / Class Flourish / Breach** | **Your default since 2026-11-20** — he has the script. Best in a pack; see the enemy-count caveat below |
+| **Flame / Lingering Torment / Breach** | **Single-target bosses.** Class Flourish is worth only +50 Weapon/Spell Damage against one enemy — the DoT beats it there |
+| **Flame / Gladiator's Tenacity / Breach** | Trades the DoT for **damage mitigation** — hard boss fights |
 
 !!! danger "Don't put a Brutality affix on it — Igneous Weapons already covers that"
     Checked 2026-11-15 after he scribed a version with **+20% Weapon and Spell Damage for 10 seconds** in the affix slot. That buff is **Major Brutality**, and **Igneous Weapons on the back bar already grants it for 60 seconds.** Major buffs of the same name **do not stack**, so that affix does nothing — and it would be a 10-second window replacing a 60-second one even if it did. **It's a dead slot.** Put **Resolve** back.
@@ -77,14 +77,26 @@ This is your bread and butter — the verified U50 solo MagDK.
 
     **And a confirmation from his own crafting window:** **Gladiator's Tenacity combines with a Flame focus.** ArzyeL only lists it as the *Warding* (Damage Shield focus) signature, which would have cast doubt on the mitigation row above — his tooltip settles it, and in-game beats any guide. The 8%-for-6-seconds figure this repo has used for it is confirmed too.
 
-!!! tip "Class Flourish is the script worth chasing for how you play"
+!!! success "Class Flourish — unlocked 2026-11-20, and it scales with how many things are hitting you"
     **Class Flourish** (the U51 rename of the **Class Mastery** signature script) has a different effect per class. On a **Dragonknight** it reads: *for each enemy within 8 metres, up to 6, gain **50 Weapon and Spell Damage** and **reduce your damage taken by 2% plus 1% per enemy** for 5 seconds.*
 
     In a pack of six that's **+300 Weapon and Spell Damage and −8% damage taken** — damage *and* mitigation, scaled to how many things are swinging at you. On a melee build that stands in the middle of the pack, that is close to a perfect fit for this repo's whole design constraint, and it's better for you than it would be for a ranged build.
 
     **The cost is real, though.** It's one script, unlocked by combining **50 Class Script Scraps**, and scraps drop from group content: Trials (1 normal / 2 vet), trial weekly coffers (up to 4), trial leaderboards (5), and **Arenas — 1 normal / 3 veteran, once per day per account.** As a mostly-solo player your realistic route is **veteran arena runs at 3 scraps a day**, so roughly a two-and-a-half week habit. You only ever grind it **once per account** — after that you buy it from **Chronicler Firandil** for every alt, which makes it good value across all seven of your characters.
 
-    Until you have it, **Flame / Lingering Torment / Resolve** is the right default.
+    **The caveat the headline number hides: it scales with enemy count, and a boss is one enemy.**
+
+    | Enemies within 8m | Weapon/Spell Damage | Damage taken |
+    |---|---|---|
+    | **1** (a solo boss) | **+50** | **−3%** |
+    | 3 | +150 | −5% |
+    | **6** (a trash pack) | **+300** | **−8%** |
+
+    So it's outstanding in overland, trash and Infinite Archive, and **weak on a single-target boss** — where **Lingering Torment's** full flame DoT is the better signature. *That arithmetic is mine, read off the tooltip's own formula rather than taken from a source.*
+
+    **What you give up either way:** Lingering Torment is the DoT, so without it **Fiery Contingency stops being an AoE spammable** and becomes a buff you refresh. The Flame focus still procs damage when you cast — the lingering tick is what goes.
+
+    **Worth testing:** whether a re-scribed variant can be saved per **Armory** loadout. If it can, run Class Flourish for clearing and Lingering Torment for bosses; if re-scribing costs mats each time, pick the one matching the content you do most — which for you is melee in packs.
 
 !!! tip "Your bar will not say \"Ulfsild's Contingency\" — it says Fiery Contingency"
     **A scribed ability is renamed after its focus script**, so the grimoire name only exists in the crafting window. You scribed Flame, so what sits in slot 5 is **Fiery Contingency** — confirmed by you in-game on 2026-11-15, which is why every guide here now leads with the scribed name and keeps the grimoire in brackets.

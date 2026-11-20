@@ -151,6 +151,11 @@ Both are on your character sheet, and each one can make its affix worthless:
 
 The effect is per class. On a **Dragonknight**: *for each enemy within 8 metres, up to 6, gain **50 Weapon and Spell Damage** and **reduce damage taken by 2% +1% per enemy** for 5 seconds.* In a six-pack that's **+300 Weapon and Spell Damage and −8% damage taken** — damage and mitigation both scaled to how many things are hitting you, which suits a melee build better than almost anything else in the slot.
 
+!!! warning "It scales with enemy count — and a boss is one enemy"
+    **+300 Weapon and Spell Damage is the six-enemy figure.** Against a single target it is **+50 and −3% damage taken**, which a damage-over-time signature beats comfortably. Class Flourish is a **trash, overland and Infinite Archive** script; for single-target boss fights, **Lingering Torment** is the stronger signature. *(Arithmetic from the tooltip formula, not from a source.)*
+
+**He unlocked it 2026-11-20**, so his Mag DK runs **Flame / Class Flourish / Breach** by default.
+
 **The cost:** 50 **Class Script Scraps**, from Trials (1 normal / 2 vet), trial weekly coffers (up to 4), leaderboards (5), and **Arenas at 1 normal / 3 veteran per day per account.** For a mostly-solo player that's veteran arenas at 3/day — roughly a two-and-a-half week habit. **Once per account**, then buyable from **Chronicler Firandil** for every alt.
 
 ---
@@ -159,7 +164,7 @@ The effect is per class. On a **Dragonknight**: *for each enemy within 8 metres,
 
 | Skill on the bar | Grimoire (line) | Scripts | Where |
 |---|---|---|---|
-| **Fiery Contingency** | Ulfsild's Contingency (*Mages Guild*) | Flame / Lingering Torment / Resolve | His Mag DK |
+| **Fiery Contingency** | Ulfsild's Contingency (*Mages Guild*) | Flame / **Class Flourish** / **Breach** | His Mag DK |
 | **Chilling Contingency** | Ulfsild's Contingency (*Mages Guild*) | Frost / Lingering Torment / Resolve | Sorc, Warden sheets |
 | **Bloody Contingency** | Ulfsild's Contingency (*Mages Guild*) | Bleed / Lingering Torment / Resolve | Both Nightblades |
 | **Shocking Contingency** | Ulfsild's Contingency (*Mages Guild*) | Shock / Lingering Torment / Resolve | Sorc |
