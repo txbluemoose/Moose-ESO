@@ -62,7 +62,18 @@ This is your bread and butter — the verified U50 solo MagDK.
 !!! danger "Don't put a Brutality affix on it — Igneous Weapons already covers that"
     Checked 2026-11-15 after he scribed a version with **+20% Weapon and Spell Damage for 10 seconds** in the affix slot. That buff is **Major Brutality**, and **Igneous Weapons on the back bar already grants it for 60 seconds.** Major buffs of the same name **do not stack**, so that affix does nothing — and it would be a 10-second window replacing a 60-second one even if it did. **It's a dead slot.** Put **Resolve** back.
 
-    *One check before you settle on Resolve, though:* its Minor Resolve is **+2,974 Armor**, which stacks with Shatterspike Mantle's **Major** Resolve (different tiers, so both apply). But the live build notes that a Nord in Medium armour running Ulfsild's **and armour potions is already at the armour cap** — and your potions *are* armour potions. **Look at your Armor on the character sheet with the buff up.** If you're at cap, Resolve is also doing little, and a debuff affix is the better use of the slot — **Vulnerability** is the one the source itself pairs with the Fiery variant.
+    *One check before you settle on Resolve, though:* its Minor Resolve is **+2,974 Armor**, which stacks with Shatterspike Mantle's **Major** Resolve (different tiers, so both apply). But the live build notes that a Nord in Medium armour running Ulfsild's **and armour potions is already at the armour cap** — and your potions *are* armour potions. **Look at your Armor on the character sheet with the buff up.** If you're at cap, Resolve is doing nothing, and a debuff affix is the better use of the slot.
+
+    **If you swap, swap to Breach — not Vulnerability.** *(Reversed 2026-11-20; this page used to name Vulnerability, which was the weaker of the two for your bar.)*
+
+    | Affix | What your bar already has | Verdict |
+    |---|---|---|
+    | **Breach** (Minor Breach, −2,974 enemy Resistance) | **Major** Breach twice — Disintegrating Dragonfire *and* Elemental Susceptibility — but **no Minor Breach at all** | **Take this.** Major and Minor are separate tiers and stack — ESO Decoded's penetration budget adds them (5,948 + 2,974 + 1,247 Crusher = 10,169). You're starting from zero on this one |
+    | **Vulnerability** (Minor Vulnerability, +5% damage taken) | **Already partly covered.** Elemental Susceptibility applies **Concussion every 7.5s**, and Concussion carries Minor Vulnerability for **4s** — so it's up ~53% of the time already | Half-wasted. It fills a gap rather than adding a debuff |
+
+    **And solo, you are nowhere near over-penetrating.** In a group the tank and healer strip 8,000–9,000 Resistance between them; solo you supply all of it yourself, so Major Breach's 5,948 plus Piercing is well short of the **≈18,200** a dungeon or trial boss carries. Another 2,974 is live damage, not overflow. **Check Offensive Penetration on the sheet anyway** — if you're somehow over the target, it's wasted too.
+
+    Full reasoning and the other two affix traps: **[Scribing](../shared/scribing.md)**.
 
     **And a confirmation from his own crafting window:** **Gladiator's Tenacity combines with a Flame focus.** ArzyeL only lists it as the *Warding* (Damage Shield focus) signature, which would have cast doubt on the mitigation row above — his tooltip settles it, and in-game beats any guide. The 8%-for-6-seconds figure this repo has used for it is confirmed too.
 

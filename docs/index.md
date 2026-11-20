@@ -45,6 +45,7 @@ Every class, both stat pools (her stamina bars are bow/ranged where the class al
 - [Race & Class Pairings](shared/races.md) — best race per class, and class per race (the smallest dial)
 - [Gear Slot Math](shared/gear-math.md) — mythic vs 2-piece monster set, and why the helm is a stat pick
 - [Mythic Items](shared/mythics.md) — what each does, where the leads drop, and which are worth digging up
+- [Scribing](shared/scribing.md) — grimoires, the focus-script naming rule, and how to pick an affix that isn't a dead slot
 - [Farming](notes/farming.md) — gathering, chests, troves, surveys
 - [Thieving & Heists](notes/thieving.md) — the dedicated stealth loadout: sets, Legerdemain and Thieves Guild passives, and the whole Green CP tree
 - [Patch Watch](notes/patch-watch.md) — what to re-verify when an update lands

@@ -24,7 +24,7 @@
 *Masteries verified vs ESO-Hub / Alcast Class Mastery lists (U50). In-game tooltips override — confirm the exact numbers on her bar.*
 
 ### Tanky swap (extremely hard fights)
-**Ulfsild's Contingency** (scribed: Bleed / Gladiator's Tenacity / Force) replaces Inspired Scholarship — 8% damage reduction + Minor Force. *No scribing? Revealing Flare (Alliance War > Support, rank 7).*
+**Bloody Contingency** (scribed — Ulfsild's Contingency, *Mages Guild*; scripts: Bleed / Gladiator's Tenacity / Force) replaces Inspired Scholarship — 8% damage reduction + Minor Force. *No scribing? Revealing Flare (Alliance War > Support, rank 7).*
 
 ### How to play it
 1. Cruxweaver Armor + Wield Soul up
